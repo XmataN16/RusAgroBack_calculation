@@ -133,8 +133,12 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="class_DB\data_class.h" />
+    <ClInclude Include="class_DB\initial_data_class.h" />
+    <ClInclude Include="general_functions\dates_func.h" />
+    <ClInclude Include="module_calc_actual_date_completion_entry_oper\functions.h" />
+    <ClInclude Include="module_calc_actual_execution_oper\functions.h" />
     <ClInclude Include="module_calc_minimal_planned_date\functions.h" />
-    <ClInclude Include="module_calc_minimal_planned_date\initial_data_class.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
