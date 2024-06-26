@@ -16,6 +16,7 @@ public:
     std::vector<std::optional<std::tm>> actual_input_data;
     std::vector<std::optional<std::tm>> actual_alternative_data;
     std::vector<std::optional<std::tm>> ten_percent;
+    std::vector<std::optional<std::tm>> minimal_date;
 
     unique_pairs(soci::rowset<soci::row> data)
     {
@@ -32,6 +33,7 @@ public:
             actual_input_data.push_back(std::nullopt);
             actual_alternative_data.push_back(std::nullopt);
             ten_percent.push_back(std::nullopt);
+            minimal_date.push_back(std::nullopt);
         }
         this->row_count = higher_tm.size();
     }
@@ -44,7 +46,7 @@ public:
     void print()
     {
         std::cout << higher_tm.size() << std::endl;
-        for (size_t i = 0; i < 30; i++)
+        for (size_t i = 30; i < 100; i++)
         {
             if (higher_tm[i].has_value())
                 std::cout << "higher_tm: " << higher_tm[i].value() << "\n";
@@ -124,6 +126,16 @@ public:
             }
             else
                 std::cout << "ten_percent: NULL\n";
+
+            if (minimal_date[i].has_value())
+            {
+                std::tm tm_date = minimal_date[i].value();
+                char buffer[80];
+                strftime(buffer, 80, "%Y-%m-%d", &tm_date);
+                std::cout << "minimal_date: " << buffer << "\n";
+            }
+            else
+                std::cout << "minimal_date: NULL\n";
 
             std::cout << "-----------------------------\n";
         }

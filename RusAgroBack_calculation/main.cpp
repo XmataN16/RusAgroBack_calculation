@@ -24,9 +24,9 @@ const std::string REGIONS[REGIONS_COUNT] = { "regionbels", "regionbelc", "region
 #include "general_functions/dates_func.h"
 
 //Модули
-#include "module_calc_minimal_planned_date/functions.h"
 #include "module_calc_actual_execution_oper/functions.h"
 #include "module_calc_actual_date_completion_entry_oper/functions.h"
+#include "module_calc_minimal_planned_date/functions.h"
 
 int main()
 {
@@ -50,11 +50,12 @@ int main()
 
         clock_t start = clock();
 
+        std::vector<std::optional<std::tm>> minimal_date[CULTURES_COUNT][REGIONS_COUNT];
+
+        unique_pairs uniq_pairs = summarize(sql, init_data, uniq_pairs, data_shbn);
         calc_minimal_planned_date(sql, init_data);
-        unique_pairs uniq_pairs = get_unique_higher_tm_material_order(sql, data_shbn);
-        uniq_pairs = calc_actual_input_date_completion_entry_oper(uniq_pairs, init_data);
-        uniq_pairs = calc_actual_alternative_date_completion_entry_oper(uniq_pairs, init_data);
-        uniq_pairs = calc_ten_percent(uniq_pairs, data_shbn);
+        calc_minimal_date(uniq_pairs, minimal_date, init_data);
+
 
         clock_t end = clock();
 

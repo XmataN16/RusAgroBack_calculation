@@ -17,6 +17,11 @@ public:
     std::vector<std::optional<int>> alternative_input;
     std::vector<std::optional<int>> alternative_complete;
 
+    std::vector<std::optional<std::tm>> planned_date[REGIONS_COUNT];
+    std::vector<std::optional<std::tm>> input_date[REGIONS_COUNT];
+    std::vector<std::optional<std::tm>> alternative_date[REGIONS_COUNT];
+    std::vector<std::optional<std::tm>> minimal_date[REGIONS_COUNT];
+
     initial_data(soci::rowset<soci::row> data)
     {
         for (auto it = data.begin(); it != data.end(); ++it)
@@ -42,6 +47,8 @@ public:
             regions[4].push_back(r.get_indicator(10) == soci::i_null ? std::optional<std::tm>{} : r.get<std::tm>(10));
             regions[5].push_back(r.get_indicator(11) == soci::i_null ? std::optional<std::tm>{} : r.get<std::tm>(11));
             regions[6].push_back(r.get_indicator(12) == soci::i_null ? std::optional<std::tm>{} : r.get<std::tm>(12));
+
+            
         }
         this->row_count = this->id.size();
     }

@@ -1,4 +1,5 @@
 #pragma once
+#include "cmath"
 //Функция создания объекта даты
 std::tm create_date(int year, int month, int day) 
 {
@@ -36,53 +37,221 @@ bool max_date_bool(const std::tm& date1, const std::tm& date2)
     return std::difftime(time1, time2) > 0;
 }
 
-// Функция для сравнения двух std::optional<std::tm>
-bool compare_optional_tm(const std::optional<std::tm>& opt_tm1, const std::optional<std::tm>& opt_tm2)
+// Оператор "больше" для двух std::optional<std::tm>
+bool operator > (const std::optional<std::tm>& tm1, const std::optional<std::tm>& tm2)
 {
-    if (!opt_tm1.has_value())
-    {
-        return false; // opt_tm2 больше, если opt_tm1 пуст
-    }
-    if (!opt_tm2.has_value())
-    {
-        return true; // opt_tm1 больше, если opt_tm2 пуст
-    }
-
-    std::tm tm1 = opt_tm1.value();
-    std::tm tm2 = opt_tm2.value();
+    std::tm tm1_value = tm1.value();
+    std::tm tm2_value = tm2.value();
 
     // Преобразуем std::tm в time_t для сравнения
-    std::time_t time1 = std::mktime(&tm1);
-    std::time_t time2 = std::mktime(&tm2);
+    std::time_t time1 = std::mktime(&tm1_value);
+    std::time_t time2 = std::mktime(&tm2_value);
 
-    return time1 < time2;
+    if (std::difftime(time1, time2) > 0)
+    {
+        return true;
+    }
+    else
+    {
+        return false;
+    }
 }
 
-// Функция для нахождения максимальной даты среди std::optional<std::tm>
+// Оператор "меньше" для двух std::optional<std::tm>
+bool operator < (const std::optional<std::tm>& tm1, const std::optional<std::tm>& tm2)
+{
+    std::tm tm1_value = tm1.value();
+    std::tm tm2_value = tm2.value();
+
+    // Преобразуем std::tm в time_t для сравнения
+    std::time_t time1 = std::mktime(&tm1_value);
+    std::time_t time2 = std::mktime(&tm2_value);
+
+    if (std::difftime(time1, time2) < 0)
+    {
+        return true;
+    }
+    else
+    {
+        return false;
+    }
+}
+
+// Оператор "равно" для двух std::optional<std::tm>
+bool operator == (const std::optional<std::tm>& tm1, const std::optional<std::tm>& tm2)
+{
+    std::tm tm1_value = tm1.value();
+    std::tm tm2_value = tm2.value();
+
+    // Преобразуем std::tm в time_t для сравнения
+    std::time_t time1 = std::mktime(&tm1_value);
+    std::time_t time2 = std::mktime(&tm2_value);
+
+    if (std::difftime(time1, time2) == 0)
+    {
+        return true;
+    }
+    else
+    {
+        return false;
+    }
+}
+
+// Функция для нахождения максимальной даты среди трёх дат с учетом значения nullopt
 std::optional<std::tm> custom_max(const std::vector<std::optional<std::tm>>& dates)
 {
-    auto max_it = std::max_element(dates.begin(), dates.end(), compare_optional_tm);
-    if (max_it != dates.end())
+    if (!dates[0].has_value() and !dates[1].has_value() and !dates[2].has_value())
     {
-        return *max_it;
+        return std::nullopt;
     }
-    else
+    else if (dates[0].has_value() and dates[1].has_value() and dates[2].has_value())
     {
-        return std::nullopt; // Если все элементы вектора пусты
+        if (dates[0] > dates[1])
+        {
+            if (dates[0] > dates[2])
+            {
+                return dates[0];
+            }
+            else
+            {
+                return dates[2];
+            }
+        }
+        else
+        {
+            if (dates[1] > dates[2])
+            {
+                return dates[1];
+            }
+            else
+            {
+                return dates[2];
+            }
+        }
+    }
+    else if (dates[0].has_value() and dates[1].has_value() and !dates[2].has_value())
+    {
+        if (dates[0] > dates[1])
+        {
+            return dates[0];
+        }
+        else
+        {
+            return dates[1];
+        }
+    }
+    else if (dates[0].has_value() and !dates[1].has_value() and dates[2].has_value())
+    {
+        if (dates[0] > dates[2])
+        {
+            return dates[0];
+        }
+        else
+        {
+            return dates[2];
+        }
+    }
+    else if (!dates[0].has_value() and dates[1].has_value() and dates[2].has_value())
+    {
+        if (dates[1] > dates[2])
+        {
+            return dates[1];
+        }
+        else
+        {
+            return dates[2];
+        }
+    }
+    else if (!dates[0].has_value() and !dates[1].has_value() and dates[2].has_value())
+    {
+        return dates[2];
+    }
+    else if (!dates[0].has_value() and dates[1].has_value() and !dates[2].has_value())
+    {
+        return dates[1];
+    }
+    else if (dates[0].has_value() and !dates[1].has_value() and !dates[2].has_value())
+    {
+        return dates[0];
     }
 }
 
-// Функция для нахождения минимальной даты среди std::optional<std::tm>
+// Функция для нахождения минимальной даты среди трёх дат с учетом значения nullopt
 std::optional<std::tm> custom_min(const std::vector<std::optional<std::tm>>& dates)
 {
-    auto min_it = std::min_element(dates.begin(), dates.end(), compare_optional_tm);
-    if (min_it != dates.end())
+    if (!dates[0].has_value() and !dates[1].has_value() and !dates[2].has_value())
     {
-        return *min_it;
+        return std::nullopt;
     }
-    else
+    else if (dates[0].has_value() and dates[1].has_value() and dates[2].has_value())
     {
-        return std::nullopt; // Если все элементы вектора пусты
+        if (dates[0] < dates[1])
+        {
+            if (dates[0] < dates[2])
+            {
+                return dates[0];
+            }
+            else
+            {
+                return dates[2];
+            }
+        }
+        else
+        {
+            if (dates[1] < dates[2])
+            {
+                return dates[1];
+            }
+            else
+            {
+                return dates[2];
+            }
+        }
+    }
+    else if (dates[0].has_value() and dates[1].has_value() and !dates[2].has_value())
+    {
+        if (dates[0] < dates[1])
+        {
+            return dates[0];
+        }
+        else
+        {
+            return dates[1];
+        }
+    }
+    else if (dates[0].has_value() and !dates[1].has_value() and dates[2].has_value())
+    {
+        if (dates[0] < dates[2])
+        {
+            return dates[0];
+        }
+        else
+        {
+            return dates[2];
+        }
+    }
+    else if (!dates[0].has_value() and dates[1].has_value() and dates[2].has_value())
+    {
+        if (dates[1] < dates[2])
+        {
+            return dates[1];
+        }
+        else
+        {
+            return dates[2];
+        }
+    }
+    else if (!dates[0].has_value() and !dates[1].has_value() and dates[2].has_value())
+    {
+        return dates[2];
+    }
+    else if (!dates[0].has_value() and dates[1].has_value() and !dates[2].has_value())
+    {
+        return dates[1];
+    }
+    else if (dates[0].has_value() and !dates[1].has_value() and !dates[2].has_value())
+    {
+        return dates[0];
     }
 }
 
