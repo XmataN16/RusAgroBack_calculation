@@ -94,54 +94,74 @@ void calc_alternative_date(initial_data init_data[], int culture, int region, in
     }
 }
 
-void calc_minimal_date(unique_pairs uniq_pairs, std::vector<std::optional<std::tm>> minimal_date[CULTURES_COUNT][REGIONS_COUNT], initial_data init_data[])
+//Рассчет с учетом уже конкретного региона
+void calc_minimal_date_on_region(unique_pairs& uniq_pairs, initial_data init_data[], int culture, int region, int i)
 {
-    std::cout << uniq_pairs.row_count << std::endl;
+    for (int j = 0; j < init_data[culture].row_count; j++)
+    {
+        if (uniq_pairs.material_order[i].value() == init_data[culture].operation[j].value() and uniq_pairs.nzp_zp[i].value() == init_data[culture].season[j].value())
+        {
+            uniq_pairs.minimal_planned_date[i] = init_data[culture].minimal_date[region][j];
+            if ((!init_data[culture].input_operation[j].has_value()) and (!init_data[culture].alternative_input[j].has_value()))
+            {
+                uniq_pairs.minimal_date[i] = init_data[culture].minimal_date[region][j];
+            }
+            else if (!init_data[culture].alternative_input[j].has_value())
+            {
+                if (!uniq_pairs.actual_input_data[i].has_value())
+                {
+                    uniq_pairs.minimal_date[i] = init_data[culture].minimal_date[region][j];
+                }
+                else
+                {
+                    uniq_pairs.minimal_date[i] = min_date(uniq_pairs.actual_input_data[i], init_data[culture].minimal_date[region][j]);
+                }
+            }
+            else
+            {
+                std::vector<std::optional<std::tm>> dates = { uniq_pairs.actual_input_data[i], uniq_pairs.actual_alternative_data[i], init_data[culture].minimal_date[region][j] };
+                uniq_pairs.minimal_date[i] = custom_max(dates);
+            }
+        }
+    }
+}
+
+void calc_minimal_date(unique_pairs& uniq_pairs, initial_data init_data[])
+{
     for (int culture = 0; culture < CULTURES_COUNT; culture++)
     {
         for (int region = 0; region < REGIONS_COUNT; region++)
         {
             for (int i = 0; i < uniq_pairs.row_count; i++)
             {
-                for (int j = 0; j < init_data[culture].row_count; j++)
+                if (region == 0 and uniq_pairs.business_dir[i].value() == u8"Белгород Юг")
                 {
-                    if (uniq_pairs.material_order[i].value() == init_data[culture].operation[j].value() and uniq_pairs.nzp_zp[i].value() == init_data[culture].season[j].value())
-                    {
-                        if ((!uniq_pairs.actual_input_data[i].has_value()) and (!uniq_pairs.actual_alternative_data[i].has_value()))
-                        {
-                            
-                        }
-
-                    }
+                    calc_minimal_date_on_region(uniq_pairs, init_data, culture, region, i);
                 }
-                /*
-                if ((!uniq_pairs.actual_input_data[i].has_value()))
+                else if (region == 1 and uniq_pairs.business_dir[i].value() == u8"Белгород Центр")
                 {
-                    for (int j = 0; j < init_data[culture].row_count; j++)
-                    {
-                        if (!init_data[culture].noinput_deadline[j].has_value())
-                        {
-                            std::cout << init_data[culture].operation[j].value() << " " << CULTURES[culture] << std::endl;
-                        }
-                        if (uniq_pairs.material_order[i].value() == init_data[culture].operation[j].value() and uniq_pairs.nzp_zp[i].value() == init_data[culture].season[j].value())
-                        {
-                            std::optional<std::tm> date = init_data[culture].regions[region][j].value();
-                            int days = init_data[culture].noinput_deadline[j].value();
-                            uniq_pairs.minimal_date[i] = add_days(date, days);
-                        }
-                    }
+                    calc_minimal_date_on_region(uniq_pairs, init_data, culture, region, i);
                 }
-                else if (uniq_pairs.actual_alternative_data[i].has_value())
+                else if (region == 2 and uniq_pairs.business_dir[i].value() == u8"Белгород-Курск")
                 {
-                    std::vector<std::optional<std::tm>> dates = { uniq_pairs.actual_data[i], uniq_pairs.actual_input_data[i], uniq_pairs.actual_alternative_data[i] };
-                    uniq_pairs.minimal_date[i] = custom_max(dates);
+                    calc_minimal_date_on_region(uniq_pairs, init_data, culture, region, i);
                 }
-                else if (uniq_pairs.actual_input_data[i].has_value())
+                else if (region == 3 and uniq_pairs.business_dir[i].value() == u8"Тамбов-Юг")
                 {
-                    std::vector<std::optional<std::tm>> dates = { uniq_pairs.actual_data[i], uniq_pairs.actual_input_data[i], uniq_pairs.actual_alternative_data[i] };
-                    uniq_pairs.minimal_date[i] = custom_min(dates);
+                    calc_minimal_date_on_region(uniq_pairs, init_data, culture, region, i);
                 }
-                */
+                else if (region == 4 and uniq_pairs.business_dir[i].value() == u8"Тамбов-Север")
+                {
+                    calc_minimal_date_on_region(uniq_pairs, init_data, culture, region, i);
+                }
+                else if (region == 5 and uniq_pairs.business_dir[i].value() == u8"Орел")
+                {
+                    calc_minimal_date_on_region(uniq_pairs, init_data, culture, region, i);
+                }
+                else if (region == 6 and uniq_pairs.business_dir[i].value() == u8"Приморье")
+                {
+                    calc_minimal_date_on_region(uniq_pairs, init_data, culture, region, i);
+                }
             }
         }
     }
@@ -160,7 +180,7 @@ void print_date(initial_data init_data[])
             {
                 if (init_data[culture].minimal_date[region][row].has_value())
                 {
-                    std::cout << tm_to_str(init_data[culture].minimal_date[region][row].value()).value() << "\n";
+                    std::cout << tm_to_str(init_data[culture].minimal_date[region][row].value()).value() << " " << init_data[culture].operation[row].value() << "\n";
                 }
                 else
                 {
@@ -174,8 +194,10 @@ void print_date(initial_data init_data[])
 //Вычисление кратчайших плановых дат
 void calc_minimal_planned_date(soci::session& sql, initial_data init_data[])
 {
+    #pragma omp parallel for
     for (int culture = 0; culture < CULTURES_COUNT; culture++)
     {
+        #pragma omp parallel for
         for (int region = 0; region < REGIONS_COUNT; region++)
         {
             for (int row = 0; row < init_data[culture].row_count; row++)
@@ -197,7 +219,7 @@ void calc_minimal_planned_date(soci::session& sql, initial_data init_data[])
             }
         }
     }
-    print_date(init_data);
+    //print_date(init_data);
 }
 
 

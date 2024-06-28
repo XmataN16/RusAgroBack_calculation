@@ -50,11 +50,9 @@ int main()
 
         clock_t start = clock();
 
-        std::vector<std::optional<std::tm>> minimal_date[CULTURES_COUNT][REGIONS_COUNT];
-
         unique_pairs uniq_pairs = summarize(sql, init_data, uniq_pairs, data_shbn);
         calc_minimal_planned_date(sql, init_data);
-        calc_minimal_date(uniq_pairs, minimal_date, init_data);
+        calc_minimal_date(uniq_pairs, init_data);
 
 
         clock_t end = clock();

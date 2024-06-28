@@ -29,6 +29,36 @@ std::optional<std::tm> max_date(const std::tm& date1, const std::tm& date2)
     }
 }
 
+//Функция сравнения двух дат
+std::optional<std::tm> min_date(const std::optional<std::tm>& date1, const std::optional<std::tm>& date2)
+{
+    if (!date1.has_value() and !date2.has_value())
+    {
+        return std::nullopt;
+    }
+    else if (date1.has_value() and !date2.has_value())
+    {
+        return date1;
+    }
+    else if (!date1.has_value() and date2.has_value())
+    {
+        return date2;
+    }
+    else
+    {
+        std::time_t time1 = mktime(const_cast<std::tm*>(&date1.value()));
+        std::time_t time2 = mktime(const_cast<std::tm*>(&date2.value()));
+        if (difftime(time1, time2) > 0)
+        {
+            return date2;
+        }
+        else
+        {
+            return date1;
+        }
+    }
+}
+
 bool max_date_bool(const std::tm& date1, const std::tm& date2)
 {
     std::time_t time1 = std::mktime(const_cast<std::tm*>(&date1));

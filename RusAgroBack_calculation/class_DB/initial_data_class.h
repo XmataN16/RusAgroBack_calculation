@@ -17,6 +17,7 @@ public:
     std::vector<std::optional<int>> alternative_input;
     std::vector<std::optional<int>> alternative_complete;
 
+    // Поля для кратчайших дат
     std::vector<std::optional<std::tm>> planned_date[REGIONS_COUNT];
     std::vector<std::optional<std::tm>> input_date[REGIONS_COUNT];
     std::vector<std::optional<std::tm>> alternative_date[REGIONS_COUNT];

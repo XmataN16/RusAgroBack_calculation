@@ -12,6 +12,7 @@ public:
     std::vector<std::optional<std::string>> business_dir;
     std::vector<std::optional<std::string>> nzp_zp;
     std::vector<std::optional<bool>> is_completed;
+    std::vector<std::optional<std::tm>> minimal_planned_date;
     std::vector<std::optional<std::tm>> actual_data;
     std::vector<std::optional<std::tm>> actual_input_data;
     std::vector<std::optional<std::tm>> actual_alternative_data;
@@ -30,6 +31,7 @@ public:
             nzp_zp.push_back(r.get_indicator(4) == soci::i_null ? std::optional<std::string>{} : r.get<std::string>(4));
             is_completed.push_back(std::nullopt);
             actual_data.push_back(std::nullopt);
+            minimal_planned_date.push_back(std::nullopt);
             actual_input_data.push_back(std::nullopt);
             actual_alternative_data.push_back(std::nullopt);
             ten_percent.push_back(std::nullopt);
@@ -46,99 +48,109 @@ public:
     void print()
     {
         std::cout << higher_tm.size() << std::endl;
-        for (size_t i = 30; i < 100; i++)
+        for (size_t i = 0; i < this->row_count; i++)
         {
-            if (higher_tm[i].has_value())
-                std::cout << "higher_tm: " << higher_tm[i].value() << "\n";
-            else
-                std::cout << "higher_tm: NULL\n";
+                if (higher_tm[i].has_value())
+                    std::cout << "higher_tm: " << higher_tm[i].value() << "\n";
+                else
+                    std::cout << "higher_tm: NULL\n";
 
-            if (material_order[i].has_value())
-                std::cout << "material_order: " << material_order[i].value() << "\n";
-            else
-                std::cout << "material_order: NULL\n";
+                if (material_order[i].has_value())
+                    std::cout << "material_order: " << material_order[i].value() << "\n";
+                else
+                    std::cout << "material_order: NULL\n";
 
-            if (culture[i].has_value())
-                std::cout << "culture: " << culture[i].value() << "\n";
-            else
-                std::cout << "culture: NULL\n";
+                if (culture[i].has_value())
+                    std::cout << "culture: " << culture[i].value() << "\n";
+                else
+                    std::cout << "culture: NULL\n";
 
-            if (business_dir[i].has_value())
-                std::cout << "business_dir: " << business_dir[i].value() << "\n";
-            else
-                std::cout << "business_dir: NULL\n";
+                if (business_dir[i].has_value())
+                    std::cout << "business_dir: " << business_dir[i].value() << "\n";
+                else
+                    std::cout << "business_dir: NULL\n";
 
-            if (nzp_zp[i].has_value())
-                std::cout << "nzp_zp: " << nzp_zp[i].value() << "\n";
-            else
-                std::cout << "nzp_zp: NULL\n";
+                if (nzp_zp[i].has_value())
+                    std::cout << "nzp_zp: " << nzp_zp[i].value() << "\n";
+                else
+                    std::cout << "nzp_zp: NULL\n";
 
-            if (is_completed[i].has_value())
-            {
-                if (is_completed[i].value())
+                if (is_completed[i].has_value())
                 {
-                    std::cout << "is_completed: true\n";
+                    if (is_completed[i].value())
+                    {
+                        std::cout << "is_completed: true\n";
+                    }
+                    else
+                    {
+                        std::cout << "is_completed: false\n";
+                    }
                 }
                 else
+                    std::cout << "is_completed: NULL\n";
+
+                if (actual_data[i].has_value())
                 {
-                    std::cout << "is_completed: false\n";
+                    std::tm tm_date = actual_data[i].value();
+                    char buffer[80];
+                    strftime(buffer, 80, "%Y-%m-%d", &tm_date);
+                    std::cout << "actual_data: " << buffer << "\n";
                 }
-            }
-            else
-                std::cout << "is_completed: NULL\n";
+                else
+                    std::cout << "actual_data: NULL\n";
 
-            if (actual_data[i].has_value())
-            {
-                std::tm tm_date = actual_data[i].value();
-                char buffer[80];
-                strftime(buffer, 80, "%Y-%m-%d", &tm_date);
-                std::cout << "actual_data: " << buffer << "\n";
-            }
-            else
-                std::cout << "actual_data: NULL\n";
+                if (minimal_planned_date[i].has_value())
+                {
+                    std::tm tm_date = minimal_planned_date[i].value();
+                    char buffer[80];
+                    strftime(buffer, 80, "%Y-%m-%d", &tm_date);
+                    std::cout << "minimal_planned_date: " << buffer << "\n";
+                }
+                else
+                    std::cout << "minimal_planned_date: NULL\n";
 
-            if (actual_input_data[i].has_value())
-            {
-                std::tm tm_date = actual_input_data[i].value();
-                char buffer[80];
-                strftime(buffer, 80, "%Y-%m-%d", &tm_date);
-                std::cout << "actual_input_data: " << buffer << "\n";
-            }
-            else
-                std::cout << "actual_input_data: NULL\n";
+                if (actual_input_data[i].has_value())
+                {
+                    std::tm tm_date = actual_input_data[i].value();
+                    char buffer[80];
+                    strftime(buffer, 80, "%Y-%m-%d", &tm_date);
+                    std::cout << "actual_input_data: " << buffer << "\n";
+                }
+                else
+                    std::cout << "actual_input_data: NULL\n";
 
-            if (actual_alternative_data[i].has_value())
-            {
-                std::tm tm_date = actual_alternative_data[i].value();
-                char buffer[80];
-                strftime(buffer, 80, "%Y-%m-%d", &tm_date);
-                std::cout << "actual_alternative_data: " << buffer << "\n";
-            }
-            else
-                std::cout << "actual_alternative_data: NULL\n";
+                if (actual_alternative_data[i].has_value())
+                {
+                    std::tm tm_date = actual_alternative_data[i].value();
+                    char buffer[80];
+                    strftime(buffer, 80, "%Y-%m-%d", &tm_date);
+                    std::cout << "actual_alternative_data: " << buffer << "\n";
+                }
+                else
+                    std::cout << "actual_alternative_data: NULL\n";
 
-            if (ten_percent[i].has_value())
-            {
-                std::tm tm_date = ten_percent[i].value();
-                char buffer[80];
-                strftime(buffer, 80, "%Y-%m-%d", &tm_date);
-                std::cout << "ten_percent: " << buffer << "\n";
-            }
-            else
-                std::cout << "ten_percent: NULL\n";
+                if (ten_percent[i].has_value())
+                {
+                    std::tm tm_date = ten_percent[i].value();
+                    char buffer[80];
+                    strftime(buffer, 80, "%Y-%m-%d", &tm_date);
+                    std::cout << "ten_percent: " << buffer << "\n";
+                }
+                else
+                    std::cout << "ten_percent: NULL\n";
 
-            if (minimal_date[i].has_value())
-            {
-                std::tm tm_date = minimal_date[i].value();
-                char buffer[80];
-                strftime(buffer, 80, "%Y-%m-%d", &tm_date);
-                std::cout << "minimal_date: " << buffer << "\n";
-            }
-            else
-                std::cout << "minimal_date: NULL\n";
+                if (minimal_date[i].has_value())
+                {
+                    std::tm tm_date = minimal_date[i].value();
+                    char buffer[80];
+                    strftime(buffer, 80, "%Y-%m-%d", &tm_date);
+                    std::cout << "minimal_date: " << buffer << "\n";
+                }
+                else
+                    std::cout << "minimal_date: NULL\n";
 
-            std::cout << "-----------------------------\n";
-        }
+                std::cout << "-----------------------------\n";
+            }
     }
 };
 
