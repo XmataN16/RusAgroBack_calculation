@@ -101,25 +101,26 @@ void calc_minimal_date_on_region(unique_pairs& uniq_pairs, initial_data init_dat
     {
         if (uniq_pairs.material_order[i].value() == init_data[culture].operation[j].value() and uniq_pairs.nzp_zp[i].value() == init_data[culture].season[j].value())
         {
+            std::optional<std::tm> min_plan_date = init_data[culture].input_operation[j].has_value() ? init_data[culture].minimal_date[region][j] : add_days(uniq_pairs.ten_percent[i], init_data[culture].noinput_deadline[j].value());
             uniq_pairs.minimal_planned_date[i] = init_data[culture].minimal_date[region][j];
             if ((!init_data[culture].input_operation[j].has_value()) and (!init_data[culture].alternative_input[j].has_value()))
             {
-                uniq_pairs.minimal_date[i] = init_data[culture].minimal_date[region][j];
+                uniq_pairs.minimal_date[i] = min_plan_date;
             }
             else if (!init_data[culture].alternative_input[j].has_value())
             {
                 if (!uniq_pairs.actual_input_data[i].has_value())
                 {
-                    uniq_pairs.minimal_date[i] = init_data[culture].minimal_date[region][j];
+                    uniq_pairs.minimal_date[i] = min_plan_date;
                 }
                 else
                 {
-                    uniq_pairs.minimal_date[i] = min_date(uniq_pairs.actual_input_data[i], init_data[culture].minimal_date[region][j]);
+                    uniq_pairs.minimal_date[i] = min_date(uniq_pairs.actual_input_data[i], min_plan_date);
                 }
             }
             else
             {
-                std::vector<std::optional<std::tm>> dates = { uniq_pairs.actual_input_data[i], uniq_pairs.actual_alternative_data[i], init_data[culture].minimal_date[region][j] };
+                std::vector<std::optional<std::tm>> dates = { uniq_pairs.actual_input_data[i], uniq_pairs.actual_alternative_data[i], min_plan_date };
                 uniq_pairs.minimal_date[i] = custom_max(dates);
             }
         }
