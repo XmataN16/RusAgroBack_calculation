@@ -1,0 +1,65 @@
+{
+    "data": [
+        {
+            "actual_alternative_data": null,
+            "actual_data": "2024-05-08",
+            "actual_input_data": null,
+            "business_dir": "Белгород Центр",
+            "culture": "Овес",
+            "higher_tm": "BL-07-02-31-0014",
+            "is_actual": "Статус отсутствует",
+            "material_order": "Внесение СЗР 1-я гербицидная обр. (ГА)",
+            "minimal_date": null,
+            "minimal_planned_date": null,
+            "nzp_zp": "ZP",
+            "status": "Операция не отслеживается",
+            "ten_percent": "2024-05-08"
+        },
+        {
+            "actual_alternative_data": null,
+            "actual_data": "2024-04-08",
+            "actual_input_data": null,
+            "business_dir": "Белгород Центр",
+            "culture": "Овес",
+            "higher_tm": "BL-07-02-31-0014",
+            "is_actual": "Актуально",
+            "material_order": "Лущение стерни (ГА)",
+            "minimal_date": "2024-04-18",
+            "minimal_planned_date": "2024-04-13",
+            "nzp_zp": "ZP",
+            "status": "Выполнено в срок",
+            "ten_percent": "2024-04-08"
+        },
+        {
+            "actual_alternative_data": null,
+            "actual_data": "2024-04-10",
+            "actual_input_data": null,
+            "business_dir": "Белгород Центр",
+            "culture": "Овес",
+            "higher_tm": "BL-07-02-31-0014",
+            "is_actual": "Актуально",
+            "material_order": "Посев с внесением удобрений (ГА)",
+            "minimal_date": "2024-04-13",
+            "minimal_planned_date": "2024-04-13",
+            "nzp_zp": "ZP",
+            "status": "Выполнено в срок",
+            "ten_percent": "2024-04-10"
+        },
+        {
+            "actual_alternative_data": null,
+            "actual_data": "2024-07-24",
+            "actual_input_data": null,
+            "business_dir": "Белгород Центр",
+            "culture": "Овес",
+            "higher_tm": "BL-07-02-31-0014",
+            "is_actual": "Статус отсутствует",
+            "material_order": "Прямое комбайн. с изм. соломы (ГА)",
+            "minimal_date": null,
+            "minimal_planned_date": "2024-08-04",
+            "nzp_zp": "ZP",
+            "status": "Операция не отслеживается",
+            "ten_percent": null
+        }
+    ],
+    "row_count": 4
+}

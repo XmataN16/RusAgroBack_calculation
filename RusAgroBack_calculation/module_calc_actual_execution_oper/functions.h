@@ -18,6 +18,8 @@ public:
     std::vector<std::optional<std::tm>> actual_alternative_data;
     std::vector<std::optional<std::tm>> ten_percent;
     std::vector<std::optional<std::tm>> minimal_date;
+    std::vector<std::optional<std::string>> status;
+    std::vector<std::optional<std::string>> is_actual;
 
     unique_pairs(soci::rowset<soci::row> data)
     {
@@ -36,6 +38,8 @@ public:
             actual_alternative_data.push_back(std::nullopt);
             ten_percent.push_back(std::nullopt);
             minimal_date.push_back(std::nullopt);
+            status.push_back(std::nullopt);
+            is_actual.push_back(std::nullopt);
         }
         this->row_count = higher_tm.size();
     }
@@ -149,47 +153,175 @@ public:
                 else
                     std::cout << "minimal_date: NULL\n";
 
+                if (status[i].has_value())
+                    std::cout << "status: " << status[i].value() << "\n";
+                else
+                    std::cout << "status: NULL\n";
+
+                if (is_actual[i].has_value())
+                    std::cout << "is_actual: " << is_actual[i].value() << "\n";
+                else
+                    std::cout << "is_actual: NULL\n";
+
                 std::cout << "-----------------------------\n";
             }
     }
-};
 
-// Функция составления уникальной выборки из талбицы DATA в PostgreSQL
-unique_pairs get_unique_higher_tm_material_order(soci::session& sql, data data_shbn)
-{
-    soci::rowset<soci::row> rs = (sql.prepare << "SELECT DISTINCT higher_tm, material_order, culture, business_dir, nzp_zp FROM platform_shbn_data");
-    unique_pairs uniq_pairs(rs);
-
-    std::vector<std::optional<bool>> temp_is_completed(uniq_pairs.row_count);
-    std::vector<std::optional<std::tm>> temp_actual_data(uniq_pairs.row_count);
-
-    #pragma omp parallel for
-    for (int pair = 0; pair < uniq_pairs.row_count; pair++)
+    nlohmann::json to_json() const 
     {
-        float sum_planned_volume = 0;
-        float sum_actual_volume = 0;
-        std::tm max_date = create_date(1999, 1, 1);
+        nlohmann::json j;
+        j["row_count"] = row_count;
 
-        for (int item = 0; item < data_shbn.row_count; item++)
+        for (int i = 0; i < row_count; ++i) 
         {
-            if (data_shbn.higher_tm[item] == uniq_pairs.higher_tm[pair] &&
-                data_shbn.material_order[item] == uniq_pairs.material_order[pair] &&
-                data_shbn.culture[item] == uniq_pairs.culture[pair])
+            nlohmann::json row;
+
+            row["higher_tm"] = higher_tm[i] ? *higher_tm[i] : nullptr;
+            row["material_order"] = material_order[i] ? *material_order[i] : nullptr;
+            row["culture"] = culture[i] ? *culture[i] : nullptr;
+            row["business_dir"] = business_dir[i] ? *business_dir[i] : nullptr;
+            row["nzp_zp"] = nzp_zp[i] ? *nzp_zp[i] : nullptr;
+            //row["is_completed"] = is_completed[i].has_value() ? is_completed[i].value() : nullptr;
+            if (tm_to_str(minimal_planned_date[i]).has_value())
             {
-                sum_planned_volume += data_shbn.planned_volume[item].value();
-                sum_actual_volume += data_shbn.actual_volume[item].value();
-                if (max_date_bool(data_shbn.calendar_day[item].value(), max_date))
-                {
-                    max_date = data_shbn.calendar_day[item].value();
-                }
+                row["minimal_planned_date"] = tm_to_str(minimal_planned_date[i]).value();
             }
+            else
+            {
+                row["minimal_planned_date"] = nullptr;
+            }
+            if (tm_to_str(actual_data[i]).has_value())
+            {
+                row["actual_data"] = tm_to_str(actual_data[i]).value();
+            }
+            else
+            {
+                row["actual_data"] = nullptr;
+            }
+            if (tm_to_str(actual_input_data[i]).has_value())
+            {
+                row["actual_input_data"] = tm_to_str(actual_input_data[i]).value();
+            }
+            else
+            {
+                row["actual_input_data"] = nullptr;
+            }
+            if (tm_to_str(actual_alternative_data[i]).has_value())
+            {
+                row["actual_alternative_data"] = tm_to_str(actual_alternative_data[i]).value();
+            }
+            else
+            {
+                row["actual_alternative_data"] = nullptr;
+            }
+            if (tm_to_str(ten_percent[i]).has_value())
+            {
+                row["ten_percent"] = tm_to_str(ten_percent[i]).value();
+            }
+            else
+            {
+                row["ten_percent"] = nullptr;
+            }
+            if (tm_to_str(minimal_date[i]).has_value())
+            {
+                row["minimal_date"] = tm_to_str(minimal_date[i]).value();
+            }
+            else
+            {
+                row["minimal_date"] = nullptr;
+            }
+            if (status[i].has_value())
+            {
+                row["status"] = status[i].value();
+            }
+            else
+            {
+                row["status"] = nullptr;
+            }
+            if (is_actual[i].has_value())
+            {
+                row["is_actual"] = is_actual[i].value();
+            }
+            else
+            {
+                row["is_actual"] = nullptr;
+            }
+
+            j["data"].push_back(row);
         }
-        temp_is_completed[pair] = (sum_planned_volume == sum_actual_volume && sum_actual_volume != 0);
-        temp_actual_data[pair] = max_date;
+
+        return j;
     }
 
-    uniq_pairs.is_completed = std::move(temp_is_completed);
-    uniq_pairs.actual_data = std::move(temp_actual_data);
+    void to_json_file(const std::string& filename) const
+    {
+        nlohmann::json j = this->to_json();
+        std::ofstream file(filename);
+        file << j.dump(4);  // 4 is the indentation level
+    }
+};
 
-    return uniq_pairs;
+void save_jsons_uniq_pairs(unique_pairs uniq_pairs[CULTURES_COUNT][REGIONS_COUNT])
+{
+    for (int culture = 0; culture < CULTURES_COUNT; culture++)
+    {
+        for (int region = 0; region < REGIONS_COUNT; region++)
+        {
+            uniq_pairs[culture][region].to_json_file("json/" + CULTURES[culture] + "_" + REGIONS[region] + ".json");
+        }
+    }
+}
+
+// Cчитывание таблицы уникальных пар по каждой культуре в массив в PostgreSQL
+void read_table_unique_pairs(soci::session& sql, unique_pairs uniq_pairs[][REGIONS_COUNT])
+{
+    for (int culture = 0; culture < CULTURES_COUNT; culture++)
+    {
+        for (int region = 0; region < REGIONS_COUNT; region++)
+        {
+            soci::rowset<soci::row> rs = (sql.prepare << "SELECT DISTINCT higher_tm, material_order, culture, business_dir, nzp_zp FROM platform_shbn_data WHERE culture = '" << CULTURES_RUS[culture] << "' and business_dir = '" << REGIONS_RUS[region] << "'");
+            uniq_pairs[culture][region] = unique_pairs(rs);
+        }
+    }
+}
+
+// Функция составления уникальной выборки из талбицы DATA в PostgreSQL
+void get_unique_higher_tm_material_order(soci::session& sql, data data_shbn[CULTURES_COUNT][REGIONS_COUNT], unique_pairs uniq_pairs[CULTURES_COUNT][REGIONS_COUNT])
+{
+    for (int culture = 0; culture < CULTURES_COUNT; culture++)
+    {
+        for (int region = 0; region < REGIONS_COUNT; region++)
+        {
+            std::vector<std::optional<bool>> temp_is_completed(uniq_pairs[culture][region].row_count);
+            std::vector<std::optional<std::tm>> temp_actual_data(uniq_pairs[culture][region].row_count);
+
+            //#pragma omp parallel for
+            for (int pair = 0; pair < uniq_pairs[culture][region].row_count; pair++)
+            {
+                float sum_planned_volume = 0;
+                float sum_actual_volume = 0;
+                std::tm max_date = create_date(1999, 1, 1);
+
+                for (int item = 0; item < data_shbn[culture][region].row_count; item++)
+                {
+                    if (data_shbn[culture][region].higher_tm[item] == uniq_pairs[culture][region].higher_tm[pair] &&
+                        data_shbn[culture][region].material_order[item] == uniq_pairs[culture][region].material_order[pair] &&
+                        data_shbn[culture][region].culture[item] == uniq_pairs[culture][region].culture[pair])
+                    {
+                        sum_planned_volume += data_shbn[culture][region].planned_volume[item].value();
+                        sum_actual_volume += data_shbn[culture][region].actual_volume[item].value();
+                        if (max_date_bool(data_shbn[culture][region].calendar_day[item].value(), max_date))
+                        {
+                            max_date = data_shbn[culture][region].calendar_day[item].value();
+                        }
+                    }
+                }
+                temp_is_completed[pair] = ((sum_planned_volume * 0.75f) == sum_actual_volume && sum_actual_volume != 0);
+                temp_actual_data[pair] = max_date;
+            }
+
+            uniq_pairs[culture][region].is_completed = std::move(temp_is_completed);
+            uniq_pairs[culture][region].actual_data = std::move(temp_actual_data);
+        }
+    }
 }

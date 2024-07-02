@@ -107,6 +107,46 @@ bool operator < (const std::optional<std::tm>& tm1, const std::optional<std::tm>
     }
 }
 
+// Оператор "меньше или равно" для двух std::optional<std::tm>
+bool operator <= (const std::optional<std::tm>& tm1, const std::optional<std::tm>& tm2)
+{
+    std::tm tm1_value = tm1.value();
+    std::tm tm2_value = tm2.value();
+
+    // Преобразуем std::tm в time_t для сравнения
+    std::time_t time1 = std::mktime(&tm1_value);
+    std::time_t time2 = std::mktime(&tm2_value);
+
+    if (std::difftime(time1, time2) <= 0)
+    {
+        return true;
+    }
+    else
+    {
+        return false;
+    }
+}
+
+// Оператор "больше или равно" для двух std::optional<std::tm>
+bool operator >= (const std::optional<std::tm>& tm1, const std::optional<std::tm>& tm2)
+{
+    std::tm tm1_value = tm1.value();
+    std::tm tm2_value = tm2.value();
+
+    // Преобразуем std::tm в time_t для сравнения
+    std::time_t time1 = std::mktime(&tm1_value);
+    std::time_t time2 = std::mktime(&tm2_value);
+
+    if (std::difftime(time1, time2) >= 0)
+    {
+        return true;
+    }
+    else
+    {
+        return false;
+    }
+}
+
 // Оператор "равно" для двух std::optional<std::tm>
 bool operator == (const std::optional<std::tm>& tm1, const std::optional<std::tm>& tm2)
 {

@@ -94,3 +94,16 @@ public:
         }
     }
 };
+
+// Cчитывание таблицы по каждой культуре в массив в PostgreSQL
+void read_table_data(soci::session& sql, data data_shbn[][REGIONS_COUNT])
+{
+    for (int i = 0; i < CULTURES_COUNT; i++)
+    {
+        for (int j = 0; j < REGIONS_COUNT; j++)
+        {
+            soci::rowset<soci::row> rs = (sql.prepare << "SELECT * FROM platform_shbn_data WHERE culture = '" << CULTURES_RUS[i] << "' and business_dir = '" << REGIONS_RUS[j] << "'");
+            data_shbn[i][j] = data(rs);
+        }
+    }
+}
