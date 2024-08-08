@@ -1,65 +1,46 @@
-{
-    "data": [
-        {
-            "actual_alternative_data": null,
-            "actual_data": "2024-04-20",
-            "actual_input_data": null,
-            "business_dir": "Белгород Центр",
-            "culture": "Тритикале озимая",
-            "higher_tm": "BL-08-06-25-0202",
-            "is_actual": "Актуально",
-            "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-            "minimal_date": "2024-04-30",
-            "minimal_planned_date": "2024-05-01",
-            "nzp_zp": "ZP",
-            "status": "Выполнено в срок",
-            "ten_percent": "2024-04-20"
-        },
-        {
-            "actual_alternative_data": null,
-            "actual_data": "2024-05-06",
-            "actual_input_data": null,
-            "business_dir": "Белгород Центр",
-            "culture": "Тритикале озимая",
-            "higher_tm": "BL-08-06-25-0202",
-            "is_actual": "Статус отсутствует",
-            "material_order": "Внесение СЗР Противозлаковая обр. (ГА)",
-            "minimal_date": null,
-            "minimal_planned_date": null,
-            "nzp_zp": "ZP",
-            "status": "Операция не отслеживается",
-            "ten_percent": "2024-05-06"
-        },
-        {
-            "actual_alternative_data": null,
-            "actual_data": "2024-03-13",
-            "actual_input_data": null,
-            "business_dir": "Белгород Центр",
-            "culture": "Тритикале озимая",
-            "higher_tm": "BL-08-06-25-0202",
-            "is_actual": "Актуально",
-            "material_order": "Подкормка азотная 1-я (ГА)",
-            "minimal_date": "2024-03-25",
-            "minimal_planned_date": "2024-03-25",
-            "nzp_zp": "ZP",
-            "status": "Выполнено в срок",
-            "ten_percent": "2024-03-13"
-        },
-        {
-            "actual_alternative_data": null,
-            "actual_data": "2024-04-23",
-            "actual_input_data": null,
-            "business_dir": "Белгород Центр",
-            "culture": "Тритикале озимая",
-            "higher_tm": "BL-08-06-25-0202",
-            "is_actual": "Статус отсутствует",
-            "material_order": "Подкормка азотная 2-я КАС (ГА)",
-            "minimal_date": null,
-            "minimal_planned_date": null,
-            "nzp_zp": "ZP",
-            "status": "Операция не отслеживается",
-            "ten_percent": "2024-04-23"
-        }
-    ],
-    "row_count": 4
-}
+[
+    {
+        "actual_data": "2024-04-20",
+        "business_dir": "Белгород Центр",
+        "culture": "Тритикале озимая",
+        "higher_tm": "BL-08-06-25-0202",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
+        "minimal_date": "2024-04-30",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-05-06",
+        "business_dir": "Белгород Центр",
+        "culture": "Тритикале озимая",
+        "higher_tm": "BL-08-06-25-0202",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Внесение СЗР Противозлаковая обр. (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-03-13",
+        "business_dir": "Белгород Центр",
+        "culture": "Тритикале озимая",
+        "higher_tm": "BL-08-06-25-0202",
+        "is_actual": "Актуально",
+        "material_order": "Подкормка азотная 1-я (ГА)",
+        "minimal_date": "2024-03-25",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-04-23",
+        "business_dir": "Белгород Центр",
+        "culture": "Тритикале озимая",
+        "higher_tm": "BL-08-06-25-0202",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я КАС (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    }
+]

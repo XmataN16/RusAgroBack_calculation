@@ -170,7 +170,7 @@ public:
     nlohmann::json to_json() const 
     {
         nlohmann::json j;
-        j["row_count"] = row_count;
+        //j["row_count"] = row_count;
 
         for (int i = 0; i < row_count; ++i) 
         {
@@ -182,6 +182,7 @@ public:
             row["business_dir"] = business_dir[i] ? *business_dir[i] : nullptr;
             row["nzp_zp"] = nzp_zp[i] ? *nzp_zp[i] : nullptr;
             //row["is_completed"] = is_completed[i].has_value() ? is_completed[i].value() : nullptr;
+            /*
             if (tm_to_str(minimal_planned_date[i]).has_value())
             {
                 row["minimal_planned_date"] = tm_to_str(minimal_planned_date[i]).value();
@@ -190,6 +191,7 @@ public:
             {
                 row["minimal_planned_date"] = nullptr;
             }
+            */
             if (tm_to_str(actual_data[i]).has_value())
             {
                 row["actual_data"] = tm_to_str(actual_data[i]).value();
@@ -198,6 +200,7 @@ public:
             {
                 row["actual_data"] = nullptr;
             }
+            /*
             if (tm_to_str(actual_input_data[i]).has_value())
             {
                 row["actual_input_data"] = tm_to_str(actual_input_data[i]).value();
@@ -222,6 +225,7 @@ public:
             {
                 row["ten_percent"] = nullptr;
             }
+            */
             if (tm_to_str(minimal_date[i]).has_value())
             {
                 row["minimal_date"] = tm_to_str(minimal_date[i]).value();
@@ -247,7 +251,7 @@ public:
                 row["is_actual"] = nullptr;
             }
 
-            j["data"].push_back(row);
+            j.push_back(row);
         }
 
         return j;
@@ -260,6 +264,71 @@ public:
         file << j.dump(4);  // 4 is the indentation level
     }
 };
+
+nlohmann::json to_json_all(unique_pairs uniq_pairs[CULTURES_COUNT][REGIONS_COUNT])
+{
+    nlohmann::json j;
+    //j["row_count"] = row_count;
+
+    for (int culture = 0; culture < CULTURES_COUNT; culture++)
+    {
+        for (int region = 0; region < REGIONS_COUNT; region++)
+        {
+            for (int i = 0; i < uniq_pairs[culture][region].row_count; ++i)
+            {
+                nlohmann::json row;
+
+                row["higher_tm"] = uniq_pairs[culture][region].higher_tm[i] ? *uniq_pairs[culture][region].higher_tm[i] : nullptr;
+                row["material_order"] = uniq_pairs[culture][region].material_order[i] ? *uniq_pairs[culture][region].material_order[i] : nullptr;
+                row["culture"] = uniq_pairs[culture][region].culture[i] ? *uniq_pairs[culture][region].culture[i] : nullptr;
+                row["business_dir"] = uniq_pairs[culture][region].business_dir[i] ? *uniq_pairs[culture][region].business_dir[i] : nullptr;
+                row["nzp_zp"] = uniq_pairs[culture][region].nzp_zp[i] ? *uniq_pairs[culture][region].nzp_zp[i] : nullptr;
+                if (tm_to_str(uniq_pairs[culture][region].actual_data[i]).has_value())
+                {
+                    row["actual_data"] = tm_to_str(uniq_pairs[culture][region].actual_data[i]).value();
+                }
+                else
+                {
+                    row["actual_data"] = nullptr;
+                }
+                if (tm_to_str(uniq_pairs[culture][region].minimal_date[i]).has_value())
+                {
+                    row["minimal_date"] = tm_to_str(uniq_pairs[culture][region].minimal_date[i]).value();
+                }
+                else
+                {
+                    row["minimal_date"] = nullptr;
+                }
+                if (uniq_pairs[culture][region].status[i].has_value())
+                {
+                    row["status"] = uniq_pairs[culture][region].status[i].value();
+                }
+                else
+                {
+                    row["status"] = nullptr;
+                }
+                if (uniq_pairs[culture][region].is_actual[i].has_value())
+                {
+                    row["is_actual"] = uniq_pairs[culture][region].is_actual[i].value();
+                }
+                else
+                {
+                    row["is_actual"] = nullptr;
+                }
+
+                j.push_back(row);
+            }
+        }
+    }
+    return j;
+}
+
+void to_json_all_file(unique_pairs uniq_pairs[CULTURES_COUNT][REGIONS_COUNT], const std::string& filename)
+{
+    nlohmann::json j = to_json_all(uniq_pairs);
+    std::ofstream file(filename);
+    file << j.dump(4);  // 4 is the indentation level
+}
 
 void save_jsons_uniq_pairs(unique_pairs uniq_pairs[CULTURES_COUNT][REGIONS_COUNT])
 {
@@ -325,3 +394,4 @@ void get_unique_higher_tm_material_order(soci::session& sql, data data_shbn[CULT
         }
     }
 }
+

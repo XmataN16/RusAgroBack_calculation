@@ -1,6 +1,7 @@
 #include <soci/soci.h>
 #include <soci/postgresql/soci-postgresql.h>
 #include <vector>
+#include <map>
 #include <string>
 #include <optional>
 #include <iomanip>
@@ -12,7 +13,6 @@
 #include <time.h>
 #include <fstream>
 #include <nlohmann/json.hpp>
-
 
 //Культуры и регионы
 const int CULTURES_COUNT = 16;
@@ -55,7 +55,7 @@ int main()
         //считывание data
         data data_shbn[CULTURES_COUNT][REGIONS_COUNT];
         read_table_data(sql, data_shbn);
-
+        
         //считывания данных для формирования уникальных пар
         unique_pairs uniq_pairs[CULTURES_COUNT][REGIONS_COUNT];
         read_table_unique_pairs(sql, uniq_pairs);
@@ -73,6 +73,7 @@ int main()
         //uniq_pairs.to_json_file("data.json");
         double seconds = (double)(end - start) / CLOCKS_PER_SEC;
         save_jsons_uniq_pairs(uniq_pairs);
+        to_json_all_file(uniq_pairs, "json/all.json");
         printf("The time: %f seconds\n", seconds);
     }
     catch (const soci::soci_error& e)
