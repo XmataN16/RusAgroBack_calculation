@@ -121,15 +121,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-07-16",
         "business_dir": "Тамбов-Юг",
         "culture": "Ячмень",
         "higher_tm": "TM-01-13-11-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-26",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-15",
@@ -187,15 +187,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-07-14",
         "business_dir": "Тамбов-Юг",
         "culture": "Ячмень",
         "higher_tm": "TM-01-13-11-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-24",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-18",
@@ -220,7 +220,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-05-12",
+        "actual_data": "2024-05-01",
         "business_dir": "Тамбов-Юг",
         "culture": "Ячмень",
         "higher_tm": "TM-01-32-01-0003",
@@ -228,7 +228,7 @@
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-09",
@@ -242,7 +242,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-09",
+        "actual_data": "2024-04-01",
         "business_dir": "Тамбов-Юг",
         "culture": "Ячмень",
         "higher_tm": "TM-01-32-01-0003",
@@ -253,18 +253,18 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-07-16",
         "business_dir": "Тамбов-Юг",
         "culture": "Ячмень",
         "higher_tm": "TM-01-32-01-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-26",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-19",
+        "actual_data": "2024-05-10",
         "business_dir": "Тамбов-Юг",
         "culture": "Ячмень",
         "higher_tm": "TM-01-32-05-0001",
@@ -297,7 +297,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-04-18",
+        "actual_data": "2024-04-17",
         "business_dir": "Тамбов-Юг",
         "culture": "Ячмень",
         "higher_tm": "TM-01-32-05-0001",
@@ -319,15 +319,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-07-14",
         "business_dir": "Тамбов-Юг",
         "culture": "Ячмень",
         "higher_tm": "TM-01-32-05-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-24",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-18",
@@ -363,7 +363,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-04-18",
+        "actual_data": "2024-04-17",
         "business_dir": "Тамбов-Юг",
         "culture": "Ячмень",
         "higher_tm": "TM-01-32-05-0002",
@@ -385,15 +385,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-07-16",
         "business_dir": "Тамбов-Юг",
         "culture": "Ячмень",
         "higher_tm": "TM-01-32-05-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-26",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-20",
@@ -451,15 +451,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-07-17",
         "business_dir": "Тамбов-Юг",
         "culture": "Ячмень",
         "higher_tm": "TM-01-32-06-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-27",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-19",
@@ -484,7 +484,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-05-13",
+        "actual_data": "2024-05-01",
         "business_dir": "Тамбов-Юг",
         "culture": "Ячмень",
         "higher_tm": "TM-01-32-08-0003",
@@ -492,7 +492,7 @@
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-09",
@@ -517,15 +517,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-07-13",
         "business_dir": "Тамбов-Юг",
         "culture": "Ячмень",
         "higher_tm": "TM-01-32-08-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-24",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-07",
@@ -616,15 +616,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-07-21",
         "business_dir": "Тамбов-Юг",
         "culture": "Ячмень",
         "higher_tm": "TM-06-21-05-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-31",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-18",
@@ -682,15 +682,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-07-21",
         "business_dir": "Тамбов-Юг",
         "culture": "Ячмень",
         "higher_tm": "TM-06-21-05-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-31",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-18",
@@ -748,15 +748,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-07-21",
         "business_dir": "Тамбов-Юг",
         "culture": "Ячмень",
         "higher_tm": "TM-06-21-05-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-31",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-18",
@@ -814,14 +814,14 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-07-18",
         "business_dir": "Тамбов-Юг",
         "culture": "Ячмень",
         "higher_tm": "TM-06-21-05-0008",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-28",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     }
 ]

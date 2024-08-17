@@ -22,7 +22,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-10",
+        "actual_data": "2024-04-09",
         "business_dir": "Белгород Центр",
         "culture": "Овес",
         "higher_tm": "BL-07-02-31-0014",
@@ -33,14 +33,25 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-08-03",
         "business_dir": "Белгород Центр",
         "culture": "Овес",
         "higher_tm": "BL-07-02-31-0014",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-13",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-08-13",
+        "business_dir": "Белгород Центр",
+        "culture": "Овес",
+        "higher_tm": "BL-07-02-31-0042",
+        "is_actual": "Актуально",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": "2024-08-05",
+        "nzp_zp": "NZP",
+        "status": "Выполнено не в срок"
     }
 ]

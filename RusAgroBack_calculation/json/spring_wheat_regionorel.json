@@ -11,7 +11,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-07-16",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-01-02-0003",
@@ -55,6 +55,28 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-01",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-01-02-0003",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-15",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-01-02-0003",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 3-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-05-04",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
@@ -77,7 +99,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-07-17",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-01-02-0003",
@@ -99,7 +121,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-07-16",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-01-07-0002",
@@ -138,6 +160,28 @@
         "higher_tm": "OR-01-01-07-0002",
         "is_actual": "Статус отсутствует",
         "material_order": "Подкормка азотная 1-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-01",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-01-07-0002",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-15",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-01-07-0002",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 3-я (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -154,18 +198,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-10",
-        "business_dir": "Орел",
-        "culture": "Пшеница яровая",
-        "higher_tm": "OR-01-01-07-0002",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-07-17",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-01-07-0002",
@@ -176,7 +209,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-05-04",
+        "actual_data": "2024-06-01",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-01-16-0004",
@@ -209,7 +242,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-07-18",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-01-16-0004",
@@ -242,6 +275,28 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-01",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-01-16-0004",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-15",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-01-16-0004",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 3-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-05-04",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
@@ -253,26 +308,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-09",
+        "actual_data": "2024-08-13",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-01-16-0004",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-08-01",
-        "business_dir": "Орел",
-        "culture": "Пшеница яровая",
-        "higher_tm": "OR-01-01-16-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-25",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-03",
@@ -308,7 +352,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-07-18",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-01-22-0004",
@@ -347,6 +391,28 @@
         "higher_tm": "OR-01-01-22-0004",
         "is_actual": "Статус отсутствует",
         "material_order": "Подкормка азотная 1-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-01",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-01-22-0004",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-15",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-01-22-0004",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 3-я (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -374,15 +440,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-12",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-01-22-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-24",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-29",
@@ -396,7 +462,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-07-17",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-01-23-0003",
@@ -440,6 +506,28 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-01",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-01-23-0003",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-15",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-01-23-0003",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 3-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-05-02",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
@@ -451,29 +539,18 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-09",
+        "actual_data": "2024-08-12",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-01-23-0003",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-08-01",
-        "business_dir": "Орел",
-        "culture": "Пшеница яровая",
-        "higher_tm": "OR-01-01-23-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-24",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-02",
+        "actual_data": "2024-06-01",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-01-24-0002",
@@ -506,7 +583,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-07-18",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-01-24-0002",
@@ -550,6 +627,28 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-01",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-01-24-0002",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-15",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-01-24-0002",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 3-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-05-02",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
@@ -583,18 +682,18 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-12",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-01-24-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-24",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-02",
+        "actual_data": "2024-06-01",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-01-26-0004",
@@ -627,7 +726,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-07-16",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-01-26-0004",
@@ -671,6 +770,28 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-01",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-01-26-0004",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-15",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-01-26-0004",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 3-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-05-02",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
@@ -682,7 +803,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-29",
+        "actual_data": "2024-04-28",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-01-26-0004",
@@ -693,15 +814,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-11",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-01-26-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-23",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-27",
@@ -715,7 +836,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-07-17",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-01-28-0007",
@@ -743,6 +864,28 @@
         "higher_tm": "OR-01-01-28-0007",
         "is_actual": "Статус отсутствует",
         "material_order": "Подкормка азотная 1-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-01",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-01-28-0007",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-15",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-01-28-0007",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 3-я (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -770,18 +913,18 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-10",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-01-28-0007",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-22",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-04",
+        "actual_data": "2024-06-01",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-01-36-0002",
@@ -814,7 +957,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-07-16",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-01-36-0002",
@@ -858,6 +1001,28 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-01",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-01-36-0002",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-15",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-01-36-0002",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 3-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-05-04",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
@@ -869,18 +1034,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-09",
-        "business_dir": "Орел",
-        "culture": "Пшеница яровая",
-        "higher_tm": "OR-01-01-36-0002",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-07-17",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-01-36-0002",
@@ -891,7 +1045,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-05-04",
+        "actual_data": "2024-06-01",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-01-43-0005",
@@ -924,7 +1078,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-07-16",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-01-43-0005",
@@ -968,6 +1122,28 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-01",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-01-43-0005",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-15",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-01-43-0005",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 3-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-05-04",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
@@ -979,7 +1155,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-05-03",
+        "actual_data": "2024-06-01",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-01-43-0005",
@@ -990,7 +1166,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-07-17",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-01-43-0005",
@@ -1001,7 +1177,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-05-04",
+        "actual_data": "2024-06-01",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-01-43-0008",
@@ -1034,7 +1210,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-07-16",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-01-43-0008",
@@ -1078,6 +1254,28 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-01",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-01-43-0008",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-15",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-01-43-0008",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 3-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-05-04",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
@@ -1089,7 +1287,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-05-03",
+        "actual_data": "2024-06-01",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-01-43-0008",
@@ -1100,7 +1298,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-07-17",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-01-43-0008",
@@ -1166,6 +1364,28 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-01",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-01-44-0002",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-15",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-01-44-0002",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 3-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-05-03",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
@@ -1177,18 +1397,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-09",
-        "business_dir": "Орел",
-        "culture": "Пшеница яровая",
-        "higher_tm": "OR-01-01-44-0002",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-07-17",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-01-44-0002",
@@ -1199,7 +1408,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-05-04",
+        "actual_data": "2024-06-01",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-01-46-0005",
@@ -1232,7 +1441,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-07-16",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-01-46-0005",
@@ -1276,6 +1485,28 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-01",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-01-46-0005",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-15",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-01-46-0005",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 3-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-05-04",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
@@ -1287,7 +1518,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-05-03",
+        "actual_data": "2024-06-01",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-01-46-0005",
@@ -1298,7 +1529,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-07-17",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-01-46-0005",
@@ -1320,7 +1551,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-07-12",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-01-55-0001",
@@ -1364,6 +1595,28 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-05",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-01-55-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-19",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-01-55-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 3-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-05-03",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
@@ -1386,7 +1639,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-07-17",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-01-55-0001",
@@ -1408,7 +1661,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-07-12",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-01-57-0003",
@@ -1447,6 +1700,28 @@
         "higher_tm": "OR-01-01-57-0003",
         "is_actual": "Статус отсутствует",
         "material_order": "Подкормка азотная 1-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-04",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-01-57-0003",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-19",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-01-57-0003",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 3-я (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -1474,7 +1749,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-07-17",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-01-57-0003",
@@ -1496,7 +1771,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-07-12",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-01-57-0004",
@@ -1540,6 +1815,28 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-03",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-01-57-0004",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-18",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-01-57-0004",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 3-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-05-03",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
@@ -1562,7 +1859,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-07-17",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-01-57-0004",
@@ -1584,7 +1881,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-07-12",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-01-58-0001",
@@ -1628,7 +1925,29 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-05-03",
+        "actual_data": "2024-07-03",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-01-58-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-19",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-01-58-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 3-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-05-02",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-01-58-0001",
@@ -1650,7 +1969,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-07-17",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-01-58-0001",
@@ -1716,6 +2035,28 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-01",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-02-06-0002",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-15",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-02-06-0002",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 3-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-05-04",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
@@ -1727,18 +2068,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-09",
-        "business_dir": "Орел",
-        "culture": "Пшеница яровая",
-        "higher_tm": "OR-01-02-06-0002",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-07-17",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-02-06-0002",
@@ -1755,6 +2085,17 @@
         "higher_tm": "OR-01-02-12-0002",
         "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-18",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-02-12-0002",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -1782,6 +2123,28 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-01",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-02-12-0002",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-15",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-02-12-0002",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 3-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-04-24",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
@@ -1793,26 +2156,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-09",
+        "actual_data": "2024-08-12",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-02-12-0002",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-08-01",
-        "business_dir": "Орел",
-        "culture": "Пшеница яровая",
-        "higher_tm": "OR-01-02-12-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-24",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-29",
@@ -1826,7 +2178,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-07-19",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-02-15-0001",
@@ -1870,6 +2222,28 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-01",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-02-15-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-15",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-02-15-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 3-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-04-25",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
@@ -1881,26 +2255,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-09",
+        "actual_data": "2024-08-12",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-02-15-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-08-01",
-        "business_dir": "Орел",
-        "culture": "Пшеница яровая",
-        "higher_tm": "OR-01-02-15-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-24",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-30",
@@ -1914,7 +2277,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-07-18",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-02-16-0003",
@@ -1947,6 +2310,28 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-01",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-02-16-0003",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-15",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-02-16-0003",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 3-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-04-26",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
@@ -1958,26 +2343,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-09",
+        "actual_data": "2024-08-12",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-02-16-0003",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-08-01",
-        "business_dir": "Орел",
-        "culture": "Пшеница яровая",
-        "higher_tm": "OR-01-02-16-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-24",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-29",
@@ -1991,7 +2365,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-07-18",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-02-23-0001",
@@ -2013,7 +2387,18 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-21",
+        "actual_data": "2024-07-20",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-02-23-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-20",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-02-23-0001",
@@ -2030,6 +2415,28 @@
         "higher_tm": "OR-01-02-23-0001",
         "is_actual": "Статус отсутствует",
         "material_order": "Подкормка азотная 1-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-01",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-02-23-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-15",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-02-23-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 3-я (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -2046,26 +2453,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-09",
+        "actual_data": "2024-08-12",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-02-23-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-08-01",
-        "business_dir": "Орел",
-        "culture": "Пшеница яровая",
-        "higher_tm": "OR-01-02-23-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-24",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-29",
@@ -2079,7 +2475,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-07-18",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-02-29-0005",
@@ -2108,6 +2504,17 @@
         "is_actual": "Статус отсутствует",
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-20",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-02-29-0005",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
     },
@@ -2118,6 +2525,28 @@
         "higher_tm": "OR-01-02-29-0005",
         "is_actual": "Статус отсутствует",
         "material_order": "Подкормка азотная 1-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-01",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-02-29-0005",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-15",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-02-29-0005",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 3-я (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -2134,25 +2563,36 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-09",
+        "actual_data": "2024-08-13",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-02-29-0005",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "is_actual": "Актуально",
+        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
+        "minimal_date": "2024-08-25",
         "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-07-20",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-02-29-0008",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-07-20",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
-        "higher_tm": "OR-01-02-29-0005",
+        "higher_tm": "OR-01-02-29-0009",
         "is_actual": "Статус отсутствует",
-        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
+        "material_order": "Лущение стерни (ГА)",
         "minimal_date": null,
-        "nzp_zp": "ZP",
+        "nzp_zp": "NZP",
         "status": "Операция не отслеживается"
     },
     {
@@ -2167,7 +2607,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-07-18",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-02-30-0001",
@@ -2211,6 +2651,28 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-01",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-02-30-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-15",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-02-30-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 3-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-05-03",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
@@ -2222,18 +2684,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-09",
-        "business_dir": "Орел",
-        "culture": "Пшеница яровая",
-        "higher_tm": "OR-01-02-30-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-07-17",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-02-30-0001",
@@ -2277,7 +2728,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-07-18",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-02-36-0005",
@@ -2310,6 +2761,28 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-06-29",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-02-36-0005",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-15",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-02-36-0005",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 3-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-05-03",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
@@ -2332,7 +2805,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-07-17",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-02-36-0005",
@@ -2409,6 +2882,28 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-19",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-02-45-0002",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-15",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-02-45-0002",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 3-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-05-23",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
@@ -2431,7 +2926,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-07-17",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-02-45-0002",
@@ -2508,6 +3003,28 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-19",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-02-47-0004",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-15",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-02-47-0004",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 3-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-05-23",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
@@ -2530,7 +3047,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-07-17",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-02-47-0004",
@@ -2563,7 +3080,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-07-22",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-03-23-0001",
@@ -2596,12 +3113,34 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-06-14",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-03-23-0001",
         "is_actual": "Статус отсутствует",
         "material_order": "Подкормка азотная 1-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-17",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-03-23-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-15",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-03-23-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 3-я (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -2618,7 +3157,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-05-02",
+        "actual_data": "2024-06-01",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-03-23-0001",
@@ -2629,15 +3168,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-07",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-03-23-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-19",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-07",
@@ -2651,7 +3190,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-07-21",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-03-30-0002",
@@ -2690,6 +3229,28 @@
         "higher_tm": "OR-01-03-30-0002",
         "is_actual": "Статус отсутствует",
         "material_order": "Подкормка азотная 1-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-17",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-03-30-0002",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-15",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-03-30-0002",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 3-я (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -2717,15 +3278,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-06",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-03-30-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-18",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-01",
@@ -2789,6 +3350,28 @@
         "higher_tm": "OR-01-03-34-0001",
         "is_actual": "Статус отсутствует",
         "material_order": "Подкормка азотная 1-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-17",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-03-34-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-15",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-03-34-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 3-я (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -2816,15 +3399,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-06",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-03-34-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-18",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-01",
@@ -2849,7 +3432,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-07-21",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-03-35-0001",
@@ -2893,6 +3476,28 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-19",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-03-35-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-15",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-03-35-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 3-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-05-06",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
@@ -2915,15 +3520,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-06",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-03-35-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-18",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-01",
@@ -2948,7 +3553,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-07-20",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-03-36-0001",
@@ -2992,6 +3597,28 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-18",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-03-36-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-15",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-03-36-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 3-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-05-06",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
@@ -3014,15 +3641,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-06",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-03-36-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-18",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-04",
@@ -3080,6 +3707,28 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-01",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-03-53-0002",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-15",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-03-53-0002",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 3-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-04-25",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
@@ -3091,26 +3740,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-09",
+        "actual_data": "2024-08-09",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-03-53-0002",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-08-01",
-        "business_dir": "Орел",
-        "culture": "Пшеница яровая",
-        "higher_tm": "OR-01-03-53-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-21",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-03",
@@ -3168,6 +3806,28 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-16",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-03-70-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-15",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-03-70-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 3-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-04-25",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
@@ -3179,26 +3839,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-09",
+        "actual_data": "2024-08-13",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-03-70-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-08-01",
-        "business_dir": "Орел",
-        "culture": "Пшеница яровая",
-        "higher_tm": "OR-01-03-70-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-25",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-03",
@@ -3234,12 +3883,34 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-03",
+        "actual_data": "2024-06-07",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-03-70-0002",
         "is_actual": "Статус отсутствует",
         "material_order": "Подкормка азотная 1-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-14",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-03-70-0002",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-15",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-03-70-0002",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 3-я (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -3267,15 +3938,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-13",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-03-70-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-25",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-02",
@@ -3333,6 +4004,28 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-13",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-03-70-0003",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-15",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-01-03-70-0003",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 3-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-04-25",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
@@ -3355,7 +4048,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-07-17",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-01-03-70-0003",
@@ -3377,7 +4070,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-07-13",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-02-04-11-0003",
@@ -3421,6 +4114,28 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-01",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-02-04-11-0003",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-15",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-02-04-11-0003",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 3-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-05-04",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
@@ -3443,7 +4158,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-07-17",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-02-04-11-0003",
@@ -3465,7 +4180,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-07-11",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-02-04-84-0001",
@@ -3509,6 +4224,28 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-01",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-02-04-84-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-20",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-02-04-84-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 3-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-04-29",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
@@ -3520,7 +4257,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-28",
+        "actual_data": "2024-06-01",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-02-04-84-0001",
@@ -3531,7 +4268,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-07-17",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-02-04-84-0001",
@@ -3553,7 +4290,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-07-13",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-02-04-85-0001",
@@ -3597,6 +4334,28 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-01",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-02-04-85-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-20",
+        "business_dir": "Орел",
+        "culture": "Пшеница яровая",
+        "higher_tm": "OR-02-04-85-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 3-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-05-01",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
@@ -3608,7 +4367,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-30",
+        "actual_data": "2024-06-01",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-02-04-85-0001",
@@ -3619,7 +4378,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-07-17",
         "business_dir": "Орел",
         "culture": "Пшеница яровая",
         "higher_tm": "OR-02-04-85-0001",

@@ -1,5 +1,16 @@
 [
     {
+        "actual_data": "2024-08-09",
+        "business_dir": "Белгород Центр",
+        "culture": "Тритикале",
+        "higher_tm": "BL-07-02-33-0008",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-03-27",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
@@ -88,15 +99,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-21",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-03-22-0009",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-02",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-03-29",
@@ -187,15 +198,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-22",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-03-22-0011",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-03",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-03-31",
@@ -286,15 +297,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-22",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-03-33-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-03",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-03-30",
@@ -396,15 +407,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-22",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-03-34-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-03",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-03-31",
@@ -495,15 +506,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-21",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-03-38-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-02",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-03-31",
@@ -594,15 +605,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-21",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-03-38-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-02",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-03-29",
@@ -693,15 +704,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-21",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-06-32-0007",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-02",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-03-29",
@@ -792,15 +803,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-21",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-06-32-0009",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-02",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-30",
@@ -858,6 +869,17 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-25",
+        "business_dir": "Белгород Центр",
+        "culture": "Тритикале",
+        "higher_tm": "BL-08-08-60-0005",
+        "is_actual": "Актуально",
+        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
+        "minimal_date": "2024-08-06",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
         "actual_data": "2024-04-30",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
@@ -913,6 +935,17 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-26",
+        "business_dir": "Белгород Центр",
+        "culture": "Тритикале",
+        "higher_tm": "BL-08-08-60-0009",
+        "is_actual": "Актуально",
+        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
+        "minimal_date": "2024-08-07",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
         "actual_data": "2024-05-02",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
@@ -957,6 +990,17 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-01",
+        "business_dir": "Белгород Центр",
+        "culture": "Тритикале",
+        "higher_tm": "BL-08-08-61-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Внесение СЗР 3-я фунгицидная обр. (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-05-16",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
@@ -988,6 +1032,17 @@
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-28",
+        "business_dir": "Белгород Центр",
+        "culture": "Тритикале",
+        "higher_tm": "BL-08-08-61-0001",
+        "is_actual": "Актуально",
+        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
+        "minimal_date": "2024-08-09",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-02",
@@ -1045,6 +1100,17 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-23",
+        "business_dir": "Белгород Центр",
+        "culture": "Тритикале",
+        "higher_tm": "BL-08-08-61-0013",
+        "is_actual": "Актуально",
+        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
+        "minimal_date": "2024-08-04",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
         "actual_data": "2024-05-02",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
@@ -1100,6 +1166,17 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-22",
+        "business_dir": "Белгород Центр",
+        "culture": "Тритикале",
+        "higher_tm": "BL-08-08-62-0004",
+        "is_actual": "Актуально",
+        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
+        "minimal_date": "2024-08-03",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
         "actual_data": "2024-05-02",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
@@ -1153,6 +1230,17 @@
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-22",
+        "business_dir": "Белгород Центр",
+        "culture": "Тритикале",
+        "higher_tm": "BL-08-08-62-0005",
+        "is_actual": "Актуально",
+        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
+        "minimal_date": "2024-08-03",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-02",
@@ -1210,6 +1298,17 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-20",
+        "business_dir": "Белгород Центр",
+        "culture": "Тритикале",
+        "higher_tm": "BL-08-08-62-0006",
+        "is_actual": "Актуально",
+        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
+        "minimal_date": "2024-08-01",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
         "actual_data": "2024-05-02",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
@@ -1238,6 +1337,17 @@
         "higher_tm": "BL-08-08-62-0007",
         "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР 2-я фунгицидная обр. (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-06-30",
+        "business_dir": "Белгород Центр",
+        "culture": "Тритикале",
+        "higher_tm": "BL-08-08-62-0007",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Внесение СЗР 3-я фунгицидная обр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -1276,6 +1386,17 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-21",
+        "business_dir": "Белгород Центр",
+        "culture": "Тритикале",
+        "higher_tm": "BL-08-08-62-0007",
+        "is_actual": "Актуально",
+        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
+        "minimal_date": "2024-08-02",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
         "actual_data": "2024-05-02",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
@@ -1331,6 +1452,17 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-22",
+        "business_dir": "Белгород Центр",
+        "culture": "Тритикале",
+        "higher_tm": "BL-08-08-62-0010",
+        "is_actual": "Актуально",
+        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
+        "minimal_date": "2024-08-03",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
         "actual_data": "2024-05-02",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
@@ -1384,6 +1516,17 @@
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-24",
+        "business_dir": "Белгород Центр",
+        "culture": "Тритикале",
+        "higher_tm": "BL-08-08-62-0011",
+        "is_actual": "Актуально",
+        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
+        "minimal_date": "2024-08-05",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-01",
@@ -1441,15 +1584,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-26",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-01-18-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-07",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-01",
@@ -1507,15 +1650,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-26",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-01-18-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-07",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-17",
@@ -1540,7 +1683,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-05-22",
+        "actual_data": "2024-05-10",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-16-0001",
@@ -1573,15 +1716,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-25",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-16-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-06",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-16",
@@ -1606,7 +1749,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-05-22",
+        "actual_data": "2024-05-10",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-16-0003",
@@ -1639,15 +1782,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-26",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-16-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-07",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-09",
@@ -1716,15 +1859,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-27",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-18-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-08",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-08",
@@ -1782,15 +1925,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-27",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-18-0010",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-08",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-08",
@@ -1848,15 +1991,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-27",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-19-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-08",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-08",
@@ -1914,15 +2057,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-27",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-19-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-08",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-07",
@@ -1980,15 +2123,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-28",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-20-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-16",
@@ -2046,15 +2189,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-28",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-20-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-16",
@@ -2112,15 +2255,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-28",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-20-0006",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-15",
@@ -2178,6 +2321,17 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-30",
+        "business_dir": "Белгород Центр",
+        "culture": "Тритикале",
+        "higher_tm": "BL-10-02-38-0001",
+        "is_actual": "Актуально",
+        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
+        "minimal_date": "2024-08-11",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
         "actual_data": "2024-05-15",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
@@ -2231,6 +2385,17 @@
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-30",
+        "business_dir": "Белгород Центр",
+        "culture": "Тритикале",
+        "higher_tm": "BL-10-02-38-0002",
+        "is_actual": "Актуально",
+        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
+        "minimal_date": "2024-08-11",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-12",
@@ -2288,15 +2453,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-27",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-03-32-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-08",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-05",
@@ -2354,15 +2519,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-27",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-03-35-0012",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-08",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-12",
@@ -2420,15 +2585,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-29",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-04-10-0003",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "is_actual": "Актуально",
+        "material_order": "Прямое комбайн. без перегруз. (ГА)",
+        "minimal_date": "2024-08-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-12",
@@ -2486,15 +2651,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-29",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-04-10-0004",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "is_actual": "Актуально",
+        "material_order": "Прямое комбайн. без перегруз. (ГА)",
+        "minimal_date": "2024-08-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-12",
@@ -2552,15 +2717,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-29",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-04-13-0002",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "is_actual": "Актуально",
+        "material_order": "Прямое комбайн. без перегруз. (ГА)",
+        "minimal_date": "2024-08-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-12",
@@ -2596,7 +2761,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-06",
+        "actual_data": "2024-04-05",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-04-14-0001",
@@ -2622,11 +2787,11 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-04-14-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "is_actual": "Актуально",
+        "material_order": "Прямое комбайн. без перегруз. (ГА)",
+        "minimal_date": "2024-08-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-12",
@@ -2684,15 +2849,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-30",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-04-25-0005",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "is_actual": "Актуально",
+        "material_order": "Прямое комбайн. без перегруз. (ГА)",
+        "minimal_date": "2024-08-11",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-13",
@@ -2750,15 +2915,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-29",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-04-28-0007",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "is_actual": "Актуально",
+        "material_order": "Прямое комбайн. без перегруз. (ГА)",
+        "minimal_date": "2024-08-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-13",
@@ -2816,15 +2981,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-30",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-04-29-0002",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "is_actual": "Актуально",
+        "material_order": "Прямое комбайн. без перегруз. (ГА)",
+        "minimal_date": "2024-08-11",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-01",
@@ -2882,15 +3047,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-26",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-06-0014",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-07",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-01",
@@ -2948,15 +3113,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-26",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-06-0024",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-07",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-30",
@@ -3012,6 +3177,17 @@
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-25",
+        "business_dir": "Белгород Центр",
+        "culture": "Тритикале",
+        "higher_tm": "BL-10-05-08-0005",
+        "is_actual": "Актуально",
+        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
+        "minimal_date": "2024-08-06",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-29",
@@ -3080,15 +3256,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-27",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-21-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-08",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-29",
@@ -3146,15 +3322,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-27",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-21-0010",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-08",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-30",
@@ -3201,15 +3377,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-27",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-38-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-08",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-30",
@@ -3267,15 +3443,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-28",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-38-0007",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-30",
@@ -3322,15 +3498,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-27",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-38-0008",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-08",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-01",
@@ -3388,15 +3564,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-28",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-40-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-01",
@@ -3454,15 +3630,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-28",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-40-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-01",
@@ -3520,15 +3696,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-28",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-42-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-01",
@@ -3586,15 +3762,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-28",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-42-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-30",
@@ -3652,15 +3828,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-27",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-42-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-08",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-05",

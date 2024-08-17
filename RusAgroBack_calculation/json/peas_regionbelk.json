@@ -44,7 +44,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-23",
+        "actual_data": "2024-07-08",
         "business_dir": "Белгород-Курск",
         "culture": "Горох",
         "higher_tm": "BL-01-01-02-0036",
@@ -77,15 +77,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-16",
         "business_dir": "Белгород-Курск",
         "culture": "Горох",
         "higher_tm": "BL-01-01-02-0036",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-28",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-03-30",
@@ -462,14 +462,135 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-14",
+        "actual_data": "2024-07-03",
         "business_dir": "Белгород-Курск",
         "culture": "Горох",
-        "higher_tm": "BL-01-05-02-0050",
+        "higher_tm": "BL-01-02-04-0003",
         "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
+        "material_order": "Лущение стерни (ГА)",
         "minimal_date": null,
-        "nzp_zp": "ZP",
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-03",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-02-04-0012",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-03",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-02-04-0025",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-03",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-02-04-0126",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-03",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-02-08-0006",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-03",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-02-08-0011",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-03",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-02-09-0011",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-03",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-02-09-0012",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-20",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-02-09-0013",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-03",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-03-02-0019",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-03",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-03-03-0120",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-03",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-03-03-0121",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
         "status": "Операция не отслеживается"
     },
     {
@@ -506,7 +627,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-23",
+        "actual_data": "2024-07-09",
         "business_dir": "Белгород-Курск",
         "culture": "Горох",
         "higher_tm": "BL-01-05-02-0050",
@@ -550,15 +671,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-19",
         "business_dir": "Белгород-Курск",
         "culture": "Горох",
         "higher_tm": "BL-01-05-02-0050",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-31",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-05",
@@ -605,17 +726,6 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-14",
-        "business_dir": "Белгород-Курск",
-        "culture": "Горох",
-        "higher_tm": "BL-01-05-03-0009",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
         "actual_data": "2024-05-16",
         "business_dir": "Белгород-Курск",
         "culture": "Горох",
@@ -649,7 +759,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-23",
+        "actual_data": "2024-07-08",
         "business_dir": "Белгород-Курск",
         "culture": "Горох",
         "higher_tm": "BL-01-05-03-0009",
@@ -693,26 +803,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-18",
         "business_dir": "Белгород-Курск",
         "culture": "Горох",
         "higher_tm": "BL-01-05-03-0009",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-30",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-14",
-        "business_dir": "Белгород-Курск",
-        "culture": "Горох",
-        "higher_tm": "BL-01-05-03-0011",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-17",
@@ -748,7 +847,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-23",
+        "actual_data": "2024-07-08",
         "business_dir": "Белгород-Курск",
         "culture": "Горох",
         "higher_tm": "BL-01-05-03-0011",
@@ -792,26 +891,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-18",
         "business_dir": "Белгород-Курск",
         "culture": "Горох",
         "higher_tm": "BL-01-05-03-0011",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-30",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-14",
-        "business_dir": "Белгород-Курск",
-        "culture": "Горох",
-        "higher_tm": "BL-01-05-03-0025",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-16",
@@ -847,7 +935,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-23",
+        "actual_data": "2024-07-09",
         "business_dir": "Белгород-Курск",
         "culture": "Горох",
         "higher_tm": "BL-01-05-03-0025",
@@ -891,26 +979,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-17",
         "business_dir": "Белгород-Курск",
         "culture": "Горох",
         "higher_tm": "BL-01-05-03-0025",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-29",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-14",
-        "business_dir": "Белгород-Курск",
-        "culture": "Горох",
-        "higher_tm": "BL-01-05-03-0027",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-15",
@@ -946,7 +1023,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-23",
+        "actual_data": "2024-07-10",
         "business_dir": "Белгород-Курск",
         "culture": "Горох",
         "higher_tm": "BL-01-05-03-0027",
@@ -990,15 +1067,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-16",
         "business_dir": "Белгород-Курск",
         "culture": "Горох",
         "higher_tm": "BL-01-05-03-0027",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-28",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-05",
@@ -1007,17 +1084,6 @@
         "higher_tm": "BL-01-05-03-0029",
         "is_actual": "Статус отсутствует",
         "material_order": "Боронование (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-14",
-        "business_dir": "Белгород-Курск",
-        "culture": "Горох",
-        "higher_tm": "BL-01-05-03-0029",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -1056,7 +1122,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-23",
+        "actual_data": "2024-07-09",
         "business_dir": "Белгород-Курск",
         "culture": "Горох",
         "higher_tm": "BL-01-05-03-0029",
@@ -1100,15 +1166,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-19",
         "business_dir": "Белгород-Курск",
         "culture": "Горох",
         "higher_tm": "BL-01-05-03-0029",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-31",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-06",
@@ -1117,17 +1183,6 @@
         "higher_tm": "BL-01-05-03-0031",
         "is_actual": "Статус отсутствует",
         "material_order": "Боронование (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-14",
-        "business_dir": "Белгород-Курск",
-        "culture": "Горох",
-        "higher_tm": "BL-01-05-03-0031",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -1166,7 +1221,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-23",
+        "actual_data": "2024-07-10",
         "business_dir": "Белгород-Курск",
         "culture": "Горох",
         "higher_tm": "BL-01-05-03-0031",
@@ -1210,15 +1265,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-19",
         "business_dir": "Белгород-Курск",
         "culture": "Горох",
         "higher_tm": "BL-01-05-03-0031",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-31",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-06",
@@ -1227,17 +1282,6 @@
         "higher_tm": "BL-01-05-03-0034",
         "is_actual": "Статус отсутствует",
         "material_order": "Боронование (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-14",
-        "business_dir": "Белгород-Курск",
-        "culture": "Горох",
-        "higher_tm": "BL-01-05-03-0034",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -1276,7 +1320,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-23",
+        "actual_data": "2024-07-10",
         "business_dir": "Белгород-Курск",
         "culture": "Горох",
         "higher_tm": "BL-01-05-03-0034",
@@ -1320,15 +1364,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-18",
         "business_dir": "Белгород-Курск",
         "culture": "Горох",
         "higher_tm": "BL-01-05-03-0034",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-30",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-05",
@@ -1337,17 +1381,6 @@
         "higher_tm": "BL-01-05-03-0036",
         "is_actual": "Статус отсутствует",
         "material_order": "Боронование (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-14",
-        "business_dir": "Белгород-Курск",
-        "culture": "Горох",
-        "higher_tm": "BL-01-05-03-0036",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -1386,7 +1419,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-23",
+        "actual_data": "2024-07-11",
         "business_dir": "Белгород-Курск",
         "culture": "Горох",
         "higher_tm": "BL-01-05-03-0036",
@@ -1419,15 +1452,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-19",
         "business_dir": "Белгород-Курск",
         "culture": "Горох",
         "higher_tm": "BL-01-05-03-0036",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-31",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-04",
@@ -1436,17 +1469,6 @@
         "higher_tm": "BL-01-05-07-0009",
         "is_actual": "Статус отсутствует",
         "material_order": "Боронование (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-14",
-        "business_dir": "Белгород-Курск",
-        "culture": "Горох",
-        "higher_tm": "BL-01-05-07-0009",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -1485,7 +1507,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-23",
+        "actual_data": "2024-07-10",
         "business_dir": "Белгород-Курск",
         "culture": "Горох",
         "higher_tm": "BL-01-05-07-0009",
@@ -1518,15 +1540,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-19",
         "business_dir": "Белгород-Курск",
         "culture": "Горох",
         "higher_tm": "BL-01-05-07-0009",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-31",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-06",
@@ -1535,17 +1557,6 @@
         "higher_tm": "BL-01-05-09-0001",
         "is_actual": "Статус отсутствует",
         "material_order": "Боронование (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-14",
-        "business_dir": "Белгород-Курск",
-        "culture": "Горох",
-        "higher_tm": "BL-01-05-09-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -1584,7 +1595,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-23",
+        "actual_data": "2024-07-01",
         "business_dir": "Белгород-Курск",
         "culture": "Горох",
         "higher_tm": "BL-01-05-09-0001",
@@ -1628,15 +1639,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-18",
         "business_dir": "Белгород-Курск",
         "culture": "Горох",
         "higher_tm": "BL-01-05-09-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-30",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-03-29",
@@ -1702,6 +1713,611 @@
         "material_order": "Посев с внесением удобрений (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-20",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-07-10-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-20",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-07-10-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-20",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-07-10-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Посев пожнивной (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-08-13",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-07-10-0003",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-20",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-07-10-0003",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-20",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-07-10-0003",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Посев пожнивной (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-08-09",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-07-10-0004",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-20",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-07-10-0004",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-20",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-07-10-0004",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Посев пожнивной (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-08-06",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-07-11-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-28",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-07-11-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-08-12",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-07-11-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Посев пожнивной (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-08-07",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-07-11-0002",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-20",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-07-11-0002",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-08-13",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-07-11-0002",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Посев пожнивной (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-08-07",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-07-11-0004",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-20",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-07-11-0004",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-20",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-07-11-0004",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Посев пожнивной (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-08-09",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-07-11-0005",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-20",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-07-11-0005",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-20",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-07-11-0005",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Посев пожнивной (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-08-12",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-07-11-0006",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-20",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-07-11-0006",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-20",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-07-11-0006",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Посев пожнивной (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-29",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-07-12-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-08-13",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-07-12-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Посев пожнивной (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-26",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-07-12-0004",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-08-13",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-07-12-0004",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Посев пожнивной (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-23",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-07-12-0005",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-20",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-07-12-0006",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-22",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-07-12-0007",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-03",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-07-12-0008",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-20",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-07-13-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-28",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-07-13-0003",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-27",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-07-13-0004",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-24",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-07-13-0009",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-08-07",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-07-15-0002",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-20",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-07-15-0002",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-20",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-07-15-0002",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Посев пожнивной (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-22",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-07-15-0011",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-21",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-07-16-0007",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-27",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-07-17-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-26",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-07-17-0002",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-25",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-07-17-0003",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-26",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-07-17-0010",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-22",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-07-18-0003",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-23",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-07-18-0004",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-23",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-01-07-18-0008",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-30",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-02-02-04-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-20",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-02-02-04-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-08-01",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-02-02-04-0005",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-08-02",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-02-02-04-0008",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-08-03",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-02-02-04-0014",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-19",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-02-02-04-0016",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-08-03",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "BL-02-02-09-0003",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
         "status": "Операция не отслеживается"
     },
     {
@@ -1749,17 +2365,6 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-25",
-        "business_dir": "Белгород-Курск",
-        "culture": "Горох",
-        "higher_tm": "BL-02-05-02-0016",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
         "actual_data": "2024-06-14",
         "business_dir": "Белгород-Курск",
         "culture": "Горох",
@@ -1771,7 +2376,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-23",
+        "actual_data": "2024-07-07",
         "business_dir": "Белгород-Курск",
         "culture": "Горох",
         "higher_tm": "BL-02-05-02-0016",
@@ -1815,15 +2420,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-11",
         "business_dir": "Белгород-Курск",
         "culture": "Горох",
         "higher_tm": "BL-02-05-02-0016",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-23",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-03-31",
@@ -1958,17 +2563,6 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-25",
-        "business_dir": "Белгород-Курск",
-        "culture": "Горох",
-        "higher_tm": "BL-02-05-02-0027",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
         "actual_data": "2024-06-14",
         "business_dir": "Белгород-Курск",
         "culture": "Горох",
@@ -1991,7 +2585,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-23",
+        "actual_data": "2024-07-07",
         "business_dir": "Белгород-Курск",
         "culture": "Горох",
         "higher_tm": "BL-02-05-02-0027",
@@ -2035,15 +2629,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-12",
         "business_dir": "Белгород-Курск",
         "culture": "Горох",
         "higher_tm": "BL-02-05-02-0027",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-24",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-20",
@@ -2079,7 +2673,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-23",
+        "actual_data": "2024-07-13",
         "business_dir": "Белгород-Курск",
         "culture": "Горох",
         "higher_tm": "KS-01-01-01-0001",
@@ -2123,15 +2717,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-22",
         "business_dir": "Белгород-Курск",
         "culture": "Горох",
         "higher_tm": "KS-01-01-01-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-03",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-29",
@@ -2222,7 +2816,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-23",
+        "actual_data": "2024-07-16",
         "business_dir": "Белгород-Курск",
         "culture": "Горох",
         "higher_tm": "KS-01-01-04-0001",
@@ -2266,15 +2860,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-26",
         "business_dir": "Белгород-Курск",
         "culture": "Горох",
         "higher_tm": "KS-01-01-04-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-07",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-20",
@@ -2283,6 +2877,17 @@
         "higher_tm": "KS-01-01-05-0001",
         "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР 1-я гербицидная обр. (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-01",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "KS-01-01-05-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -2299,7 +2904,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-23",
+        "actual_data": "2024-07-13",
         "business_dir": "Белгород-Курск",
         "culture": "Горох",
         "higher_tm": "KS-01-01-05-0001",
@@ -2343,15 +2948,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-20",
         "business_dir": "Белгород-Курск",
         "culture": "Горох",
         "higher_tm": "KS-01-01-05-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-01",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-08",
@@ -2376,6 +2981,17 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-01",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "KS-01-01-07-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-06-17",
         "business_dir": "Белгород-Курск",
         "culture": "Горох",
@@ -2387,7 +3003,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-23",
+        "actual_data": "2024-07-14",
         "business_dir": "Белгород-Курск",
         "culture": "Горох",
         "higher_tm": "KS-01-01-07-0001",
@@ -2431,15 +3047,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-22",
         "business_dir": "Белгород-Курск",
         "culture": "Горох",
         "higher_tm": "KS-01-01-07-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-03",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-19",
@@ -2448,6 +3064,17 @@
         "higher_tm": "KS-01-01-08-0001",
         "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР 1-я гербицидная обр. (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-01",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "KS-01-01-08-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -2464,7 +3091,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-23",
+        "actual_data": "2024-07-16",
         "business_dir": "Белгород-Курск",
         "culture": "Горох",
         "higher_tm": "KS-01-01-08-0001",
@@ -2508,15 +3135,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-23",
         "business_dir": "Белгород-Курск",
         "culture": "Горох",
         "higher_tm": "KS-01-01-08-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-04",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-01",
@@ -2541,6 +3168,17 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-01",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "KS-01-01-09-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-06-16",
         "business_dir": "Белгород-Курск",
         "culture": "Горох",
@@ -2552,7 +3190,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-23",
+        "actual_data": "2024-07-15",
         "business_dir": "Белгород-Курск",
         "culture": "Горох",
         "higher_tm": "KS-01-01-09-0001",
@@ -2596,15 +3234,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-21",
         "business_dir": "Белгород-Курск",
         "culture": "Горох",
         "higher_tm": "KS-01-01-09-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-02",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-15",
@@ -2626,6 +3264,50 @@
         "material_order": "Посев с внесением удобрений (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-13",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "KS-01-01-45-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-08-12",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "KS-01-01-47-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-08-13",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "KS-01-01-48-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-08-13",
+        "business_dir": "Белгород-Курск",
+        "culture": "Горох",
+        "higher_tm": "KS-01-01-49-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
         "status": "Операция не отслеживается"
     }
 ]

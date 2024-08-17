@@ -332,6 +332,7 @@ void to_json_all_file(unique_pairs uniq_pairs[CULTURES_COUNT][REGIONS_COUNT], co
 
 void save_jsons_uniq_pairs(unique_pairs uniq_pairs[CULTURES_COUNT][REGIONS_COUNT])
 {
+    #pragma omp parallel for collapse(2)
     for (int culture = 0; culture < CULTURES_COUNT; culture++)
     {
         for (int region = 0; region < REGIONS_COUNT; region++)
@@ -371,6 +372,8 @@ void get_unique_higher_tm_material_order(soci::session& sql, data data_shbn[CULT
                 float sum_actual_volume = 0;
                 std::tm max_date = create_date(1999, 1, 1);
 
+                // Параллелизация внешнего цикла по парам
+                #pragma omp parallel for
                 for (int item = 0; item < data_shbn[culture][region].row_count; item++)
                 {
                     if (data_shbn[culture][region].higher_tm[item] == uniq_pairs[culture][region].higher_tm[pair] &&

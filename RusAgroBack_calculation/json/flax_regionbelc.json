@@ -44,15 +44,15 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-28",
+        "actual_data": "2024-07-22",
         "business_dir": "Белгород Центр",
         "culture": "Лен",
         "higher_tm": "BL-08-03-34-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Десикация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-25",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-08",
@@ -77,15 +77,15 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-08-01",
         "business_dir": "Белгород Центр",
         "culture": "Лен",
         "higher_tm": "BL-08-03-34-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-13",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-02",
@@ -132,15 +132,15 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-28",
+        "actual_data": "2024-07-22",
         "business_dir": "Белгород Центр",
         "culture": "Лен",
         "higher_tm": "BL-08-03-34-0011",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Десикация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-25",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-06",
@@ -149,12 +149,12 @@
         "higher_tm": "BL-08-03-34-0011",
         "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": "2024-04-05",
+        "minimal_date": "2024-04-04",
         "nzp_zp": "ZP",
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-04-04",
+        "actual_data": "2024-04-03",
         "business_dir": "Белгород Центр",
         "culture": "Лен",
         "higher_tm": "BL-08-03-34-0011",
@@ -169,10 +169,43 @@
         "business_dir": "Белгород Центр",
         "culture": "Лен",
         "higher_tm": "BL-08-03-34-0011",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-12",
         "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-08-12",
+        "business_dir": "Белгород Центр",
+        "culture": "Лен",
+        "higher_tm": "BL-08-03-37-0003",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
         "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-17",
+        "business_dir": "Белгород Центр",
+        "culture": "Лен",
+        "higher_tm": "BL-08-03-37-0003",
+        "is_actual": "Актуально",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": "2024-08-02",
+        "nzp_zp": "NZP",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-08-13",
+        "business_dir": "Белгород Центр",
+        "culture": "Лен",
+        "higher_tm": "BL-08-03-37-0003",
+        "is_actual": "Актуально",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": "2024-08-01",
+        "nzp_zp": "NZP",
+        "status": "Выполнено не в срок"
     }
 ]

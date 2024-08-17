@@ -33,17 +33,6 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-12",
-        "business_dir": "Тамбов-Юг",
-        "culture": "Подсолнечник",
-        "higher_tm": "TM-01-31-22-0003",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
         "actual_data": "2024-05-27",
         "business_dir": "Тамбов-Юг",
         "culture": "Подсолнечник",
@@ -55,12 +44,12 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-08-25",
+        "actual_data": "2024-07-10",
         "business_dir": "Тамбов-Юг",
         "culture": "Подсолнечник",
         "higher_tm": "TM-01-31-22-0003",
         "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР Десикация (ГА)",
+        "material_order": "Междурядная обработка первая (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -154,17 +143,6 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-12",
-        "business_dir": "Тамбов-Юг",
-        "culture": "Подсолнечник",
-        "higher_tm": "TM-01-31-22-0004",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
         "actual_data": "2024-05-27",
         "business_dir": "Тамбов-Юг",
         "culture": "Подсолнечник",
@@ -176,12 +154,12 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-08-25",
+        "actual_data": "2024-07-09",
         "business_dir": "Тамбов-Юг",
         "culture": "Подсолнечник",
         "higher_tm": "TM-01-31-22-0004",
         "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР Десикация (ГА)",
+        "material_order": "Междурядная обработка первая (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -242,7 +220,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-25",
+        "actual_data": "2024-06-20",
         "business_dir": "Тамбов-Юг",
         "culture": "Подсолнечник",
         "higher_tm": "TM-01-31-22-0005",
@@ -264,17 +242,6 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-12",
-        "business_dir": "Тамбов-Юг",
-        "culture": "Подсолнечник",
-        "higher_tm": "TM-01-31-22-0005",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
         "actual_data": "2024-05-27",
         "business_dir": "Тамбов-Юг",
         "culture": "Подсолнечник",
@@ -286,12 +253,12 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-08-25",
+        "actual_data": "2024-07-10",
         "business_dir": "Тамбов-Юг",
         "culture": "Подсолнечник",
         "higher_tm": "TM-01-31-22-0005",
         "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР Десикация (ГА)",
+        "material_order": "Междурядная обработка первая (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -385,23 +352,12 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-12",
+        "actual_data": "2024-06-30",
         "business_dir": "Тамбов-Юг",
         "culture": "Подсолнечник",
         "higher_tm": "TM-01-32-09-0004",
         "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-08-25",
-        "business_dir": "Тамбов-Юг",
-        "culture": "Подсолнечник",
-        "higher_tm": "TM-01-32-09-0004",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -484,17 +440,6 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-25",
-        "business_dir": "Тамбов-Юг",
-        "culture": "Подсолнечник",
-        "higher_tm": "TM-01-32-09-0005",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР Десикация (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
         "actual_data": "2024-06-24",
         "business_dir": "Тамбов-Юг",
         "culture": "Подсолнечник",
@@ -561,23 +506,12 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-12",
+        "actual_data": "2024-06-30",
         "business_dir": "Тамбов-Юг",
         "culture": "Подсолнечник",
         "higher_tm": "TM-01-32-09-0009",
         "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-08-25",
-        "business_dir": "Тамбов-Юг",
-        "culture": "Подсолнечник",
-        "higher_tm": "TM-01-32-09-0009",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -649,7 +583,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-03-06",
+        "actual_data": "2024-03-05",
         "business_dir": "Тамбов-Юг",
         "culture": "Подсолнечник",
         "higher_tm": "TM-01-41-07-0001",
@@ -715,6 +649,17 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-06-30",
+        "business_dir": "Тамбов-Юг",
+        "culture": "Подсолнечник",
+        "higher_tm": "TM-01-51-13-0001",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 1-я инсектицидная обр. (ГА)",
+        "minimal_date": "2024-07-10",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
         "actual_data": "2024-05-09",
         "business_dir": "Тамбов-Юг",
         "culture": "Подсолнечник",
@@ -726,18 +671,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-12",
-        "business_dir": "Тамбов-Юг",
-        "culture": "Подсолнечник",
-        "higher_tm": "TM-01-51-13-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-05-27",
+        "actual_data": "2024-07-30",
         "business_dir": "Тамбов-Юг",
         "culture": "Подсолнечник",
         "higher_tm": "TM-01-51-13-0001",
@@ -748,12 +682,12 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-08-25",
+        "actual_data": "2024-07-03",
         "business_dir": "Тамбов-Юг",
         "culture": "Подсолнечник",
         "higher_tm": "TM-01-51-13-0001",
         "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР Десикация (ГА)",
+        "material_order": "Междурядная обработка первая (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -800,6 +734,50 @@
         "material_order": "Прямое комбайн. с изм. корзинок (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-25",
+        "business_dir": "Тамбов-Юг",
+        "culture": "Подсолнечник",
+        "higher_tm": "TM-01-51-23-0008",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-26",
+        "business_dir": "Тамбов-Юг",
+        "culture": "Подсолнечник",
+        "higher_tm": "TM-01-51-23-0008",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-20",
+        "business_dir": "Тамбов-Юг",
+        "culture": "Подсолнечник",
+        "higher_tm": "TM-01-51-24-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-17",
+        "business_dir": "Тамбов-Юг",
+        "culture": "Подсолнечник",
+        "higher_tm": "TM-01-51-24-0004",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
         "status": "Операция не отслеживается"
     },
     {

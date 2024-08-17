@@ -22,23 +22,23 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-15",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-03-12-01-0004",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
         "actual_data": "2024-04-13",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-12-01-0004",
         "is_actual": "Статус отсутствует",
         "material_order": "Лущение стерни (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-03",
+        "business_dir": "Тамбов-Север",
+        "culture": "Пшеница яровая",
+        "higher_tm": "TM-03-12-01-0004",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -55,15 +55,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-12",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-12-01-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-24",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-16",
@@ -88,12 +88,12 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-08-13",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-12-01-0005",
         "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
+        "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -110,6 +110,17 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-04",
+        "business_dir": "Тамбов-Север",
+        "culture": "Пшеница яровая",
+        "higher_tm": "TM-03-12-01-0005",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-04-16",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
@@ -121,15 +132,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-12",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-12-01-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-24",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-16",
@@ -154,23 +165,23 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-15",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-03-12-01-0006",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
         "actual_data": "2024-04-13",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-12-01-0006",
         "is_actual": "Статус отсутствует",
         "material_order": "Лущение стерни (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-04",
+        "business_dir": "Тамбов-Север",
+        "culture": "Пшеница яровая",
+        "higher_tm": "TM-03-12-01-0006",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -187,15 +198,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-12",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-12-01-0006",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-24",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-16",
@@ -231,6 +242,17 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-04",
+        "business_dir": "Тамбов-Север",
+        "culture": "Пшеница яровая",
+        "higher_tm": "TM-03-12-01-0007",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-04-15",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
@@ -242,15 +264,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-12",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-12-01-0007",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-24",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-01",
@@ -259,28 +281,6 @@
         "higher_tm": "TM-03-13-57-0002",
         "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-07-12",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-03-13-57-0002",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-15",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-03-13-57-0002",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -292,6 +292,17 @@
         "higher_tm": "TM-03-13-57-0002",
         "is_actual": "Статус отсутствует",
         "material_order": "Лущение стерни (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-09",
+        "business_dir": "Тамбов-Север",
+        "culture": "Пшеница яровая",
+        "higher_tm": "TM-03-13-57-0002",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -308,15 +319,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-07-30",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-13-57-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-11",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-01",
@@ -325,28 +336,6 @@
         "higher_tm": "TM-03-13-58-0002",
         "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-07-12",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-03-13-58-0002",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-15",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-03-13-58-0002",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -363,6 +352,17 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-09",
+        "business_dir": "Тамбов-Север",
+        "culture": "Пшеница яровая",
+        "higher_tm": "TM-03-13-58-0002",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-04-22",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
@@ -374,15 +374,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-07-30",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-13-58-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-11",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-20",
@@ -391,28 +391,6 @@
         "higher_tm": "TM-03-14-20-0001",
         "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-07-12",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-03-14-20-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-15",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-03-14-20-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -435,6 +413,17 @@
         "higher_tm": "TM-03-14-20-0001",
         "is_actual": "Статус отсутствует",
         "material_order": "Лущение стерни (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-06",
+        "business_dir": "Тамбов-Север",
+        "culture": "Пшеница яровая",
+        "higher_tm": "TM-03-14-20-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -451,15 +440,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-07",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-14-20-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-19",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-20",
@@ -468,28 +457,6 @@
         "higher_tm": "TM-03-14-21-0001",
         "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-07-12",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-03-14-21-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-15",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-03-14-21-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -512,6 +479,17 @@
         "higher_tm": "TM-03-14-21-0001",
         "is_actual": "Статус отсутствует",
         "material_order": "Лущение стерни (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-06",
+        "business_dir": "Тамбов-Север",
+        "culture": "Пшеница яровая",
+        "higher_tm": "TM-03-14-21-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -528,15 +506,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-10",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-14-21-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-22",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-02",
@@ -545,28 +523,6 @@
         "higher_tm": "TM-03-14-25-0001",
         "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-07-12",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-03-14-25-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-15",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-03-14-25-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -594,6 +550,17 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-13",
+        "business_dir": "Тамбов-Север",
+        "culture": "Пшеница яровая",
+        "higher_tm": "TM-03-14-25-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-04-16",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
@@ -605,14 +572,25 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-12",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-14-25-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-24",
         "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-07-25",
+        "business_dir": "Тамбов-Север",
+        "culture": "Пшеница яровая",
+        "higher_tm": "TM-03-14-32-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
         "status": "Операция не отслеживается"
     },
     {
@@ -627,28 +605,6 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-12",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-03-14-35-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-15",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-03-14-35-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
         "actual_data": "2024-06-21",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
@@ -666,6 +622,17 @@
         "higher_tm": "TM-03-14-35-0001",
         "is_actual": "Статус отсутствует",
         "material_order": "Лущение стерни (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-05",
+        "business_dir": "Тамбов-Север",
+        "culture": "Пшеница яровая",
+        "higher_tm": "TM-03-14-35-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -682,14 +649,36 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-13",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-14-35-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-25",
         "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-07-24",
+        "business_dir": "Тамбов-Север",
+        "culture": "Пшеница яровая",
+        "higher_tm": "TM-03-14-36-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-23",
+        "business_dir": "Тамбов-Север",
+        "culture": "Пшеница яровая",
+        "higher_tm": "TM-03-14-39-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
         "status": "Операция не отслеживается"
     },
     {
@@ -704,23 +693,12 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-12",
+        "actual_data": "2024-07-14",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-21-01-0002",
         "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-15",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-03-21-01-0002",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -770,15 +748,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-13",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-21-01-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-25",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-11",
@@ -803,28 +781,6 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-12",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-03-31-06-0004",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-15",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-03-31-06-0004",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
         "actual_data": "2024-04-15",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
@@ -836,15 +792,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-10",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-31-06-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-22",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-15",
@@ -853,28 +809,6 @@
         "higher_tm": "TM-03-31-07-0001",
         "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-07-12",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-03-31-07-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-15",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-03-31-07-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -902,15 +836,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-06",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-31-07-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-18",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-14",
@@ -919,28 +853,6 @@
         "higher_tm": "TM-03-31-10-0001",
         "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-07-12",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-03-31-10-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-15",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-03-31-10-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -968,15 +880,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-13",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-31-10-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-25",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-14",
@@ -985,28 +897,6 @@
         "higher_tm": "TM-03-31-10-0002",
         "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-07-12",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-03-31-10-0002",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-15",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-03-31-10-0002",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -1023,15 +913,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-13",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-31-10-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-25",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-14",
@@ -1040,28 +930,6 @@
         "higher_tm": "TM-03-31-10-0003",
         "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-07-12",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-03-31-10-0003",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-15",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-03-31-10-0003",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -1078,15 +946,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-13",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-31-10-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-25",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-14",
@@ -1095,28 +963,6 @@
         "higher_tm": "TM-03-31-10-0004",
         "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-07-12",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-03-31-10-0004",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-15",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-03-31-10-0004",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -1144,15 +990,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-13",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-31-10-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-25",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-24",
@@ -1172,28 +1018,6 @@
         "higher_tm": "TM-03-32-01-0005",
         "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-07-12",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-03-32-01-0005",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-15",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-03-32-01-0005",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -1232,15 +1056,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-13",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-32-01-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-25",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-24",
@@ -1260,28 +1084,6 @@
         "higher_tm": "TM-03-32-01-0006",
         "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-07-12",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-03-32-01-0006",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-15",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-03-32-01-0006",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -1320,15 +1122,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-13",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-32-01-0006",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-25",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-23",
@@ -1348,28 +1150,6 @@
         "higher_tm": "TM-03-32-01-0007",
         "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-07-12",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-03-32-01-0007",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-15",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-03-32-01-0007",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -1408,15 +1188,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-13",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-32-01-0007",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-25",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-16",
@@ -1430,23 +1210,12 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-12",
+        "actual_data": "2024-07-13",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-32-11-0001",
         "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-15",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-03-32-11-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -1485,7 +1254,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-05-13",
+        "actual_data": "2024-07-12",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-32-11-0001",
@@ -1518,7 +1287,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-12",
+        "actual_data": "2024-07-15",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-42-03-0001",
@@ -1529,7 +1298,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-07-04",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-42-03-0001",
@@ -1584,15 +1353,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-13",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-42-03-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-25",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-25",
@@ -1617,7 +1386,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-12",
+        "actual_data": "2024-07-15",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-42-03-0003",
@@ -1628,12 +1397,23 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-07-04",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-42-03-0003",
         "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-08-05",
+        "business_dir": "Тамбов-Север",
+        "culture": "Пшеница яровая",
+        "higher_tm": "TM-03-42-03-0003",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -1683,15 +1463,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-10",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-42-03-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-22",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-17",
@@ -1705,7 +1485,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-12",
+        "actual_data": "2024-07-13",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-42-04-0001",
@@ -1716,7 +1496,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-07-03",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-42-04-0001",
@@ -1749,7 +1529,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-17",
+        "actual_data": "2024-04-16",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-42-04-0001",
@@ -1771,15 +1551,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-13",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-42-04-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-25",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-17",
@@ -1793,7 +1573,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-12",
+        "actual_data": "2024-07-13",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-42-04-0002",
@@ -1804,7 +1584,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-07-03",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-42-04-0002",
@@ -1859,15 +1639,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-10",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-42-04-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-22",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-27",
@@ -1893,17 +1673,6 @@
     },
     {
         "actual_data": "2024-07-12",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-03-42-09-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-15",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-42-09-0001",
@@ -1981,17 +1750,6 @@
     },
     {
         "actual_data": "2024-07-12",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-03-42-09-0002",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-15",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-42-09-0002",
@@ -2079,18 +1837,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-12",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-03-42-12-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-07-11",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-42-12-0001",
@@ -2145,15 +1892,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-13",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-42-12-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-25",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-16",
@@ -2167,23 +1914,12 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-12",
+        "actual_data": "2024-07-14",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-52-10-0001",
         "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-15",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-03-52-10-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -2255,23 +1991,12 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-12",
+        "actual_data": "2024-07-14",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-52-11-0001",
         "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-15",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-03-52-11-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -2321,15 +2046,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-10",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-52-11-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-22",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-17",
@@ -2343,23 +2068,12 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-12",
+        "actual_data": "2024-07-13",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-52-12-0001",
         "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-15",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-03-52-12-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -2398,6 +2112,17 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-13",
+        "business_dir": "Тамбов-Север",
+        "culture": "Пшеница яровая",
+        "higher_tm": "TM-03-52-12-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-04-20",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
@@ -2409,15 +2134,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-10",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-52-12-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-22",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-17",
@@ -2431,23 +2156,12 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-12",
+        "actual_data": "2024-07-13",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-52-14-0001",
         "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-15",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-03-52-14-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -2486,6 +2200,17 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-11",
+        "business_dir": "Тамбов-Север",
+        "culture": "Пшеница яровая",
+        "higher_tm": "TM-03-52-14-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-04-20",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
@@ -2497,15 +2222,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-10",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-52-14-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-22",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-15",
@@ -2519,23 +2244,12 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-12",
+        "actual_data": "2024-07-13",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-52-15-0001",
         "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-15",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-03-52-15-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -2574,6 +2288,17 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-10",
+        "business_dir": "Тамбов-Север",
+        "culture": "Пшеница яровая",
+        "higher_tm": "TM-03-52-15-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-04-19",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
@@ -2585,15 +2310,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-10",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-52-15-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-22",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-15",
@@ -2613,17 +2338,6 @@
         "higher_tm": "TM-03-52-16-0001",
         "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-15",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-03-52-16-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -2662,7 +2376,18 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-19",
+        "actual_data": "2024-07-09",
+        "business_dir": "Тамбов-Север",
+        "culture": "Пшеница яровая",
+        "higher_tm": "TM-03-52-16-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-04-18",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-52-16-0001",
@@ -2673,15 +2398,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-06",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-52-16-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-18",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-15",
@@ -2701,17 +2426,6 @@
         "higher_tm": "TM-03-52-17-0001",
         "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-15",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-03-52-17-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -2750,6 +2464,17 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-10",
+        "business_dir": "Тамбов-Север",
+        "culture": "Пшеница яровая",
+        "higher_tm": "TM-03-52-17-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-04-20",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
@@ -2761,15 +2486,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-06",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-03-52-17-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-18",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-13",
@@ -2794,7 +2519,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-06-30",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-04-11-03-0001",
@@ -2827,6 +2552,17 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-03",
+        "business_dir": "Тамбов-Север",
+        "culture": "Пшеница яровая",
+        "higher_tm": "TM-04-11-03-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-04-26",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
@@ -2838,15 +2574,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-06",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-04-11-03-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-18",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-13",
@@ -2871,7 +2607,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-06-29",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-04-11-03-0002",
@@ -2904,6 +2640,17 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-02",
+        "business_dir": "Тамбов-Север",
+        "culture": "Пшеница яровая",
+        "higher_tm": "TM-04-11-03-0002",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-04-25",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
@@ -2926,15 +2673,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-05",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-04-11-03-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-17",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-14",
@@ -2948,18 +2695,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-12",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-04-11-03-0003",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-07-01",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-04-11-03-0003",
@@ -3003,6 +2739,17 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-03",
+        "business_dir": "Тамбов-Север",
+        "culture": "Пшеница яровая",
+        "higher_tm": "TM-04-11-03-0003",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-04-26",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
@@ -3014,15 +2761,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-07",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-04-11-03-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-19",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-26",
@@ -3036,7 +2783,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-12",
+        "actual_data": "2024-07-21",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-04-11-04-0002",
@@ -3047,7 +2794,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-07-19",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-04-11-04-0002",
@@ -3091,6 +2838,17 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-06",
+        "business_dir": "Тамбов-Север",
+        "culture": "Пшеница яровая",
+        "higher_tm": "TM-04-11-04-0002",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-04-30",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
@@ -3102,15 +2860,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-10",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-04-11-04-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-22",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-19",
@@ -3124,23 +2882,23 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-12",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-04-11-05-0003",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-07-02",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-04-11-05-0003",
         "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-08-03",
+        "business_dir": "Тамбов-Север",
+        "culture": "Пшеница яровая",
+        "higher_tm": "TM-04-11-05-0003",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -3179,6 +2937,17 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-06",
+        "business_dir": "Тамбов-Север",
+        "culture": "Пшеница яровая",
+        "higher_tm": "TM-04-11-05-0003",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-04-29",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
@@ -3190,15 +2959,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-13",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-04-11-05-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-25",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-14",
@@ -3212,23 +2981,23 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-12",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-04-11-06-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-07-01",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-04-11-06-0001",
         "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-08-03",
+        "business_dir": "Тамбов-Север",
+        "culture": "Пшеница яровая",
+        "higher_tm": "TM-04-11-06-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -3267,6 +3036,17 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-03",
+        "business_dir": "Тамбов-Север",
+        "culture": "Пшеница яровая",
+        "higher_tm": "TM-04-11-06-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-04-30",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
@@ -3278,15 +3058,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-13",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-04-11-06-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-25",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-26",
@@ -3300,23 +3080,23 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-12",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-04-11-06-0002",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-07-01",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-04-11-06-0002",
         "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-08-05",
+        "business_dir": "Тамбов-Север",
+        "culture": "Пшеница яровая",
+        "higher_tm": "TM-04-11-06-0002",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -3355,6 +3135,17 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-04",
+        "business_dir": "Тамбов-Север",
+        "culture": "Пшеница яровая",
+        "higher_tm": "TM-04-11-06-0002",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-04-28",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
@@ -3388,23 +3179,23 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-12",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-04-11-06-0003",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-07-01",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-04-11-06-0003",
         "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-08-05",
+        "business_dir": "Тамбов-Север",
+        "culture": "Пшеница яровая",
+        "higher_tm": "TM-04-11-06-0003",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -3443,6 +3234,17 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-05",
+        "business_dir": "Тамбов-Север",
+        "culture": "Пшеница яровая",
+        "higher_tm": "TM-04-11-06-0003",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-05-01",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
@@ -3454,15 +3256,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-13",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-04-11-06-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-25",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-26",
@@ -3476,7 +3278,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-12",
+        "actual_data": "2024-07-21",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-04-11-07-0002",
@@ -3487,12 +3289,23 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-07-19",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-04-11-07-0002",
         "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-08-05",
+        "business_dir": "Тамбов-Север",
+        "culture": "Пшеница яровая",
+        "higher_tm": "TM-04-11-07-0002",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -3531,6 +3344,17 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-06",
+        "business_dir": "Тамбов-Север",
+        "culture": "Пшеница яровая",
+        "higher_tm": "TM-04-11-07-0002",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-05-01",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
@@ -3564,7 +3388,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-12",
+        "actual_data": "2024-07-21",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-04-11-07-0005",
@@ -3575,12 +3399,23 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-07-19",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-04-11-07-0005",
         "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-08-05",
+        "business_dir": "Тамбов-Север",
+        "culture": "Пшеница яровая",
+        "higher_tm": "TM-04-11-07-0005",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -3614,6 +3449,17 @@
         "higher_tm": "TM-04-11-07-0005",
         "is_actual": "Статус отсутствует",
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-05",
+        "business_dir": "Тамбов-Север",
+        "culture": "Пшеница яровая",
+        "higher_tm": "TM-04-11-07-0005",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -3652,18 +3498,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-12",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-04-13-63-0002",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-07-01",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-04-13-63-0002",
@@ -3691,6 +3526,17 @@
         "higher_tm": "TM-04-13-63-0002",
         "is_actual": "Статус отсутствует",
         "material_order": "Лущение стерни (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-08",
+        "business_dir": "Тамбов-Север",
+        "culture": "Пшеница яровая",
+        "higher_tm": "TM-04-13-63-0002",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -3707,15 +3553,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-03",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-04-13-63-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-15",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-20",
@@ -3729,18 +3575,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-12",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-04-13-64-0002",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-07-02",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-04-13-64-0002",
@@ -3773,6 +3608,17 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-08",
+        "business_dir": "Тамбов-Север",
+        "culture": "Пшеница яровая",
+        "higher_tm": "TM-04-13-64-0002",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-04-23",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
@@ -3784,15 +3630,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-05",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-04-13-64-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-17",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-20",
@@ -3806,18 +3652,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-12",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-04-13-65-0004",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-07-02",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-04-13-65-0004",
@@ -3850,6 +3685,17 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-08",
+        "business_dir": "Тамбов-Север",
+        "culture": "Пшеница яровая",
+        "higher_tm": "TM-04-13-65-0004",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-04-24",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
@@ -3861,14 +3707,25 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-05",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-04-13-65-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-17",
         "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-08-07",
+        "business_dir": "Тамбов-Север",
+        "culture": "Пшеница яровая",
+        "higher_tm": "TM-04-41-08-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
         "status": "Операция не отслеживается"
     },
     {
@@ -3883,34 +3740,23 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-12",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-04-61-09-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-15",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-04-61-09-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
         "actual_data": "2024-05-23",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-04-61-09-0001",
         "is_actual": "Статус отсутствует",
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-02",
+        "business_dir": "Тамбов-Север",
+        "culture": "Пшеница яровая",
+        "higher_tm": "TM-04-61-09-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -3938,15 +3784,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-02",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-04-61-09-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-10",
@@ -3971,7 +3817,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-07-08",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-04-61-10-0001",
@@ -3988,6 +3834,17 @@
         "higher_tm": "TM-04-61-10-0001",
         "is_actual": "Статус отсутствует",
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-04",
+        "business_dir": "Тамбов-Север",
+        "culture": "Пшеница яровая",
+        "higher_tm": "TM-04-61-10-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -4019,11 +3876,11 @@
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-04-61-10-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-13",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-13",
@@ -4037,34 +3894,23 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-12",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-04-61-11-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-15",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-04-61-11-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
         "actual_data": "2024-05-23",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-04-61-11-0001",
         "is_actual": "Статус отсутствует",
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-03",
+        "business_dir": "Тамбов-Север",
+        "culture": "Пшеница яровая",
+        "higher_tm": "TM-04-61-11-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -4085,11 +3931,11 @@
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-04-61-11-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-13",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-15",
@@ -4103,18 +3949,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-12",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-04-61-13-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-07-08",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-04-61-13-0001",
@@ -4131,6 +3966,17 @@
         "higher_tm": "TM-04-61-13-0001",
         "is_actual": "Статус отсутствует",
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-05",
+        "business_dir": "Тамбов-Север",
+        "culture": "Пшеница яровая",
+        "higher_tm": "TM-04-61-13-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -4158,15 +4004,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-07-29",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-04-61-13-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-13",
@@ -4175,28 +4021,6 @@
         "higher_tm": "TM-04-61-18-0001",
         "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-07-12",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-04-61-18-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-15",
-        "business_dir": "Тамбов-Север",
-        "culture": "Пшеница яровая",
-        "higher_tm": "TM-04-61-18-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -4213,6 +4037,17 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-05",
+        "business_dir": "Тамбов-Север",
+        "culture": "Пшеница яровая",
+        "higher_tm": "TM-04-61-18-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-04-11",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
@@ -4224,14 +4059,14 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-07-30",
         "business_dir": "Тамбов-Север",
         "culture": "Пшеница яровая",
         "higher_tm": "TM-04-61-18-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-11",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     }
 ]

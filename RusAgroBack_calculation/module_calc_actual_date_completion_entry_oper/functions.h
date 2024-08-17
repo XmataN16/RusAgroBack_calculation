@@ -10,7 +10,7 @@ void calc_actual_input_date_completion_entry_oper(initial_data init_data[], uniq
     int days;
     std::string current_operation;
 
-    //#pragma omp parallel for private(field, input_number, days, current_operation) shared(uniq_pairs, init_data)
+    #pragma omp parallel for private(field, input_number, days, current_operation) shared(uniq_pairs, init_data)
     for (int culture = 0; culture < CULTURES_COUNT; culture++)
     {
         for (int region = 0; region < REGIONS_COUNT; region++)
@@ -65,7 +65,7 @@ void calc_actual_alternative_date_completion_entry_oper(initial_data init_data[]
     int days;
     std::string current_operation;
 
-    //#pragma omp parallel for private(field, alternative_number, days, current_operation) shared(uniq_pairs, init_data)
+    #pragma omp parallel for private(field, alternative_number, days, current_operation) shared(uniq_pairs, init_data)
     for (int culture = 0; culture < CULTURES_COUNT; culture++)
     {
         for (int region = 0; region < REGIONS_COUNT; region++)
@@ -115,7 +115,7 @@ void calc_ten_percent(data data_shbn[CULTURES_COUNT][REGIONS_COUNT], unique_pair
     double planned_item_value;
     double count = 0;
 
-    //#pragma omp parallel for private(count, planned_item_value)
+    #pragma omp parallel for private(count, planned_item_value)
     for (int culture = 0; culture < CULTURES_COUNT; culture++)
     {
         for (int region = 0; region < REGIONS_COUNT; region++)

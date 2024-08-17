@@ -11,17 +11,6 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-15",
-        "business_dir": "Тамбов-Север",
-        "culture": "Тритикале",
-        "higher_tm": "TM-04-61-05-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
         "actual_data": "2024-06-02",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
@@ -33,7 +22,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-20",
+        "actual_data": "2024-07-01",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-05-0001",
@@ -55,34 +44,23 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-13",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-05-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-25",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-18",
+        "actual_data": "2024-05-10",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-08-0001",
         "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-15",
-        "business_dir": "Тамбов-Север",
-        "culture": "Тритикале",
-        "higher_tm": "TM-04-61-08-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -99,7 +77,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-16",
+        "actual_data": "2024-07-01",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-08-0001",
@@ -121,15 +99,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-07",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-08-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-19",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-19",
@@ -143,17 +121,6 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-15",
-        "business_dir": "Тамбов-Север",
-        "culture": "Тритикале",
-        "higher_tm": "TM-04-61-12-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
         "actual_data": "2024-05-30",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
@@ -165,7 +132,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-16",
+        "actual_data": "2024-07-01",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-12-0001",
@@ -187,15 +154,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-09",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-12-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-21",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-19",
@@ -209,17 +176,6 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-15",
-        "business_dir": "Тамбов-Север",
-        "culture": "Тритикале",
-        "higher_tm": "TM-04-61-14-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
         "actual_data": "2024-05-30",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
@@ -231,7 +187,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-16",
+        "actual_data": "2024-07-01",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-14-0001",
@@ -253,15 +209,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-09",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-14-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-21",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-01",
@@ -270,17 +226,6 @@
         "higher_tm": "TM-04-61-15-0001",
         "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-15",
-        "business_dir": "Тамбов-Север",
-        "culture": "Тритикале",
-        "higher_tm": "TM-04-61-15-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -319,15 +264,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-13",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-15-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-25",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-17",
@@ -336,17 +281,6 @@
         "higher_tm": "TM-04-61-16-0001",
         "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-15",
-        "business_dir": "Тамбов-Север",
-        "culture": "Тритикале",
-        "higher_tm": "TM-04-61-16-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -363,7 +297,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-05-01",
+        "actual_data": "2024-07-01",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-16-0001",
@@ -385,15 +319,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-13",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-16-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-25",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-26",
@@ -402,17 +336,6 @@
         "higher_tm": "TM-04-61-19-0001",
         "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-15",
-        "business_dir": "Тамбов-Север",
-        "culture": "Тритикале",
-        "higher_tm": "TM-04-61-19-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -429,7 +352,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-25",
+        "actual_data": "2024-07-01",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-19-0001",
@@ -451,34 +374,23 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-06",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-19-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-18",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-23",
+        "actual_data": "2024-05-10",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-20-0001",
         "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-15",
-        "business_dir": "Тамбов-Север",
-        "culture": "Тритикале",
-        "higher_tm": "TM-04-61-20-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -517,15 +429,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-03",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-20-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-15",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-23",
@@ -534,17 +446,6 @@
         "higher_tm": "TM-04-61-21-0001",
         "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-15",
-        "business_dir": "Тамбов-Север",
-        "culture": "Тритикале",
-        "higher_tm": "TM-04-61-21-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -561,7 +462,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-17",
+        "actual_data": "2024-07-01",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-21-0001",
@@ -572,7 +473,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-17",
+        "actual_data": "2024-04-10",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-21-0001",
@@ -583,15 +484,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-07",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-21-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-19",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-28",
@@ -600,17 +501,6 @@
         "higher_tm": "TM-04-61-31-0001",
         "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-15",
-        "business_dir": "Тамбов-Север",
-        "culture": "Тритикале",
-        "higher_tm": "TM-04-61-31-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -627,7 +517,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-20",
+        "actual_data": "2024-07-01",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-31-0001",
@@ -649,34 +539,23 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-10",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-31-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-22",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-27",
+        "actual_data": "2024-05-20",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-31-0002",
         "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-15",
-        "business_dir": "Тамбов-Север",
-        "culture": "Тритикале",
-        "higher_tm": "TM-04-61-31-0002",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -693,7 +572,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-18",
+        "actual_data": "2024-07-01",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-31-0002",
@@ -704,7 +583,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-18",
+        "actual_data": "2024-04-10",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-31-0002",
@@ -715,15 +594,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-10",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-31-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-22",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-28",
@@ -737,17 +616,6 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-15",
-        "business_dir": "Тамбов-Север",
-        "culture": "Тритикале",
-        "higher_tm": "TM-04-61-32-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
         "actual_data": "2024-06-02",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
@@ -759,7 +627,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-19",
+        "actual_data": "2024-07-01",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-32-0001",
@@ -770,7 +638,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-18",
+        "actual_data": "2024-04-10",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-32-0001",
@@ -781,15 +649,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-13",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-32-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-25",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-17",
@@ -798,17 +666,6 @@
         "higher_tm": "TM-04-61-49-0001",
         "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-15",
-        "business_dir": "Тамбов-Север",
-        "culture": "Тритикале",
-        "higher_tm": "TM-04-61-49-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -825,7 +682,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-16",
+        "actual_data": "2024-07-01",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-49-0001",
@@ -847,34 +704,23 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-03",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-49-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-15",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-24",
+        "actual_data": "2024-05-10",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-51-0001",
         "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-15",
-        "business_dir": "Тамбов-Север",
-        "culture": "Тритикале",
-        "higher_tm": "TM-04-61-51-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -891,7 +737,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-18",
+        "actual_data": "2024-07-01",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-51-0001",
@@ -913,15 +759,15 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-10",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-51-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-22",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-23",
@@ -930,17 +776,6 @@
         "higher_tm": "TM-04-61-62-0001",
         "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-15",
-        "business_dir": "Тамбов-Север",
-        "culture": "Тритикале",
-        "higher_tm": "TM-04-61-62-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -979,14 +814,14 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-13",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-62-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-25",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     }
 ]

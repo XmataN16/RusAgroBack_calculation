@@ -141,10 +141,14 @@ std::string set_is_actual(std::optional<std::string> status, std::optional<std::
 
 void calc_minimal_date(initial_data init_data[], unique_pairs uniq_pairs[CULTURES_COUNT][REGIONS_COUNT])
 {
+    // Параллелизация внешнего цикла по культурам и регионам
+    #pragma omp parallel for collapse(2) 
     for (int culture = 0; culture < CULTURES_COUNT; culture++)
     {
         for (int region = 0; region < REGIONS_COUNT; region++)
         {
+            // Параллелизация внутренних циклов по i и j
+            //#pragma omp parallel for collapse(2)
             for (int i = 0; i < uniq_pairs[culture][region].row_count; i++)
             {
                 for (int j = 0; j < init_data[culture].row_count; j++)
