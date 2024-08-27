@@ -39,6 +39,7 @@ const std::string REGIONS_RUS[REGIONS_COUNT] = { u8"Белгород Юг",  u8"Белгород Ц
 int main()
 {
     SetConsoleOutputCP(65001);
+    
     try 
     {
         int num_threads = omp_get_max_threads(); // Узнаем максимальное число потоков
@@ -79,6 +80,7 @@ int main()
     catch (const soci::soci_error& e)
     {
         std::cerr << "Error: " << e.what() << std::endl;
+        return 1;
     }
     return 0;
 }

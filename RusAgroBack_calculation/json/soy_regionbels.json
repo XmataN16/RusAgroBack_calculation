@@ -15857,9 +15857,9 @@
         "higher_tm": "BL-06-01-71-0007",
         "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": "2024-05-25",
+        "minimal_date": "2024-05-09",
         "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-06",
@@ -24415,7 +24415,7 @@
         "higher_tm": "BL-06-01-11-3023",
         "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": "2024-05-14",
+        "minimal_date": "2024-05-13",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -37664,7 +37664,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-01",
+        "actual_data": "2024-07-30",
         "business_dir": "Белгород Юг",
         "culture": "Соя",
         "higher_tm": "BL-04-01-24-0001",
@@ -42422,7 +42422,7 @@
         "higher_tm": "BL-06-01-23-0004",
         "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": "2024-05-14",
+        "minimal_date": "2024-05-13",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },

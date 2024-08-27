@@ -121,7 +121,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-01",
+        "actual_data": "2024-05-20",
         "business_dir": "Белгород Центр",
         "culture": "Лен",
         "higher_tm": "BL-08-03-34-0011",
@@ -149,12 +149,12 @@
         "higher_tm": "BL-08-03-34-0011",
         "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": "2024-04-04",
+        "minimal_date": "2024-04-05",
         "nzp_zp": "ZP",
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-04-03",
+        "actual_data": "2024-04-04",
         "business_dir": "Белгород Центр",
         "culture": "Лен",
         "higher_tm": "BL-08-03-34-0011",
@@ -165,7 +165,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-31",
         "business_dir": "Белгород Центр",
         "culture": "Лен",
         "higher_tm": "BL-08-03-34-0011",

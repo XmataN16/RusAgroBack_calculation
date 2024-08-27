@@ -737,7 +737,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-08-10",
+        "actual_data": "2024-06-30",
         "business_dir": "Тамбов-Север",
         "culture": "Соя",
         "higher_tm": "TM-04-21-01-0002",
@@ -745,7 +745,7 @@
         "material_order": "Внесение СЗР 2-я инсектицидная обр. (ГА)",
         "minimal_date": "2024-06-30",
         "nzp_zp": "ZP",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-13",
@@ -1469,7 +1469,7 @@
         "higher_tm": "TM-03-61-16-0001",
         "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": "2024-06-04",
+        "minimal_date": "2024-06-01",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -2541,7 +2541,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-05-05",
+        "actual_data": "2024-05-28",
         "business_dir": "Тамбов-Север",
         "culture": "Соя",
         "higher_tm": "TM-03-61-16-0001",
@@ -3410,6 +3410,17 @@
         "status": "Выполнено не в срок"
     },
     {
+        "actual_data": "2024-04-15",
+        "business_dir": "Тамбов-Север",
+        "culture": "Соя",
+        "higher_tm": "TM-03-31-06-0002",
+        "is_actual": "Актуально",
+        "material_order": "Боронование (ГА)",
+        "minimal_date": "2024-04-25",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
         "actual_data": "2024-07-22",
         "business_dir": "Тамбов-Север",
         "culture": "Соя",
@@ -3419,17 +3430,6 @@
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-04-15",
-        "business_dir": "Тамбов-Север",
-        "culture": "Соя",
-        "higher_tm": "TM-03-31-06-0002",
-        "is_actual": "Актуально",
-        "material_order": "Боронование (ГА)",
-        "minimal_date": "2024-04-14",
-        "nzp_zp": "ZP",
-        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-05-13",
@@ -8052,7 +8052,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-19",
+        "actual_data": "2024-05-18",
         "business_dir": "Тамбов-Север",
         "culture": "Соя",
         "higher_tm": "TM-04-13-58-0001",
@@ -9845,7 +9845,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-23",
+        "actual_data": "2024-05-23",
         "business_dir": "Тамбов-Север",
         "culture": "Соя",
         "higher_tm": "TM-03-12-25-0002",
@@ -10142,7 +10142,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-25",
+        "actual_data": "2024-05-23",
         "business_dir": "Тамбов-Север",
         "culture": "Соя",
         "higher_tm": "TM-04-13-14-0001",
@@ -12678,9 +12678,9 @@
         "higher_tm": "TM-04-13-58-0001",
         "is_actual": "Актуально",
         "material_order": "Посев без внесения удобрений (ГА)",
-        "minimal_date": "2024-05-20",
+        "minimal_date": "2024-05-19",
         "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-16",
@@ -12755,7 +12755,7 @@
         "higher_tm": "TM-03-14-03-0001",
         "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": "2024-06-07",
+        "minimal_date": "2024-06-04",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -13475,17 +13475,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-11",
-        "business_dir": "Тамбов-Север",
-        "culture": "Соя",
-        "higher_tm": "TM-03-11-09-0015",
-        "is_actual": "Актуально",
-        "material_order": "Боронование (ГА)",
-        "minimal_date": "2024-04-21",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-07-25",
         "business_dir": "Тамбов-Север",
         "culture": "Соя",
@@ -13495,6 +13484,17 @@
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-04-11",
+        "business_dir": "Тамбов-Север",
+        "culture": "Соя",
+        "higher_tm": "TM-03-11-09-0015",
+        "is_actual": "Актуально",
+        "material_order": "Боронование (ГА)",
+        "minimal_date": "2024-04-21",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-12",
@@ -15384,7 +15384,7 @@
         "higher_tm": "TM-03-52-03-0002",
         "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": "2024-06-08",
+        "minimal_date": "2024-06-07",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -17122,7 +17122,7 @@
         "higher_tm": "TM-03-12-24-0002",
         "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": "2024-06-05",
+        "minimal_date": "2024-06-04",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -22594,6 +22594,17 @@
         "status": "Выполнено не в срок"
     },
     {
+        "actual_data": "2024-04-25",
+        "business_dir": "Тамбов-Север",
+        "culture": "Соя",
+        "higher_tm": "TM-03-12-08-0001",
+        "is_actual": "Актуально",
+        "material_order": "Боронование (ГА)",
+        "minimal_date": "2024-05-05",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
         "actual_data": "2024-07-15",
         "business_dir": "Тамбов-Север",
         "culture": "Соя",
@@ -22603,17 +22614,6 @@
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-04-25",
-        "business_dir": "Тамбов-Север",
-        "culture": "Соя",
-        "higher_tm": "TM-03-12-08-0001",
-        "is_actual": "Актуально",
-        "material_order": "Боронование (ГА)",
-        "minimal_date": "2024-05-04",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-25",
@@ -22677,7 +22677,7 @@
         "higher_tm": "TM-03-42-06-0002",
         "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": "2024-05-30",
+        "minimal_date": "2024-05-28",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -26587,7 +26587,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-05-29",
+        "actual_data": "2024-05-05",
         "business_dir": "Тамбов-Север",
         "culture": "Соя",
         "higher_tm": "TM-03-61-26-0001",

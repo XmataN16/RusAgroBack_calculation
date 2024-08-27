@@ -22,6 +22,17 @@
         "status": "Выполнено в срок"
     },
     {
+        "actual_data": "2024-06-10",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-02-06-0007",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
+        "minimal_date": "2024-06-22",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
         "actual_data": "2024-06-06",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -42,17 +53,6 @@
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-10",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-02-06-0007",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-22",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-25",
@@ -330,6 +330,17 @@
         "status": "Выполнено в срок"
     },
     {
+        "actual_data": "2024-06-09",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-03-03-0010",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
+        "minimal_date": "2024-06-04",
+        "nzp_zp": "ZP",
+        "status": "Выполнено не в срок"
+    },
+    {
         "actual_data": "2024-05-28",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -350,17 +361,6 @@
         "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
-    },
-    {
-        "actual_data": "2024-06-09",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-03-03-0010",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-04",
-        "nzp_zp": "ZP",
-        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-03",
@@ -935,17 +935,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-29",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-01-01-0010",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-22",
-        "nzp_zp": "ZP",
-        "status": "Выполнено не в срок"
-    },
-    {
         "actual_data": "2024-06-05",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -955,6 +944,17 @@
         "minimal_date": "2024-06-22",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-06-29",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-01-01-0010",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
+        "minimal_date": "2024-06-22",
+        "nzp_zp": "ZP",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-06",
@@ -1056,17 +1056,6 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-06",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-02-01-0103",
-        "is_actual": "Актуально",
-        "material_order": "Лущение стерни (ГА)",
-        "minimal_date": "2024-09-21",
-        "nzp_zp": "NZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-06-26",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -1076,6 +1065,17 @@
         "minimal_date": "2024-06-19",
         "nzp_zp": "ZP",
         "status": "Выполнено не в срок"
+    },
+    {
+        "actual_data": "2024-08-06",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-02-01-0103",
+        "is_actual": "Актуально",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": "2024-09-21",
+        "nzp_zp": "NZP",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-08-12",
@@ -1243,17 +1243,6 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-05-25",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-01-06-0001",
-        "is_actual": "Актуально",
-        "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": "2024-05-24",
-        "nzp_zp": "ZP",
-        "status": "Выполнено не в срок"
-    },
-    {
         "actual_data": "2024-04-06",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -1263,6 +1252,17 @@
         "minimal_date": "2024-04-16",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-05-25",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-01-06-0001",
+        "is_actual": "Актуально",
+        "material_order": "Посев с внесением удобрений (ГА)",
+        "minimal_date": "2024-05-24",
+        "nzp_zp": "ZP",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-21",
@@ -1606,17 +1606,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-08-02",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-02-29-0003",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 3-я инсектицидная обр. (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
         "actual_data": "2024-05-14",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -1626,6 +1615,17 @@
         "minimal_date": "2024-05-30",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-08-02",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-02-29-0003",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Внесение СЗР 3-я инсектицидная обр. (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
     },
     {
         "actual_data": "2024-07-09",
@@ -1991,6 +1991,17 @@
         "status": "Выполнено не в срок"
     },
     {
+        "actual_data": "2024-04-04",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-02-07-0021",
+        "is_actual": "Актуально",
+        "material_order": "Боронование (ГА)",
+        "minimal_date": "2024-04-14",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
         "actual_data": "2024-05-12",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -2020,17 +2031,6 @@
         "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
         "minimal_date": "2024-05-26",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
-        "actual_data": "2024-04-04",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-02-07-0021",
-        "is_actual": "Актуально",
-        "material_order": "Боронование (ГА)",
-        "minimal_date": "2024-04-14",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -2211,17 +2211,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-03",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-07-05-0015",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР 1-я противозлак. обр. (ГА)",
-        "minimal_date": "2024-05-28",
-        "nzp_zp": "ZP",
-        "status": "Выполнено не в срок"
-    },
-    {
         "actual_data": "2024-05-31",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -2231,6 +2220,17 @@
         "minimal_date": "2024-06-22",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-06-03",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-07-05-0015",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 1-я противозлак. обр. (ГА)",
+        "minimal_date": "2024-05-28",
+        "nzp_zp": "ZP",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-08-10",
@@ -2343,17 +2343,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-04",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-07-01-0005",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-22",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-05-02",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -2363,6 +2352,17 @@
         "minimal_date": "2024-04-29",
         "nzp_zp": "ZP",
         "status": "Выполнено не в срок"
+    },
+    {
+        "actual_data": "2024-06-04",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-07-01-0005",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
+        "minimal_date": "2024-06-22",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-11",
@@ -2376,17 +2376,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-13",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-03-70-0001",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
-        "minimal_date": "2024-07-20",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-06-12",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -2394,6 +2383,17 @@
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я инсектицидная обр. (ГА)",
         "minimal_date": "2024-06-27",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-07-13",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-03-70-0001",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
+        "minimal_date": "2024-07-20",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -2442,7 +2442,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-07-29",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
         "higher_tm": "BL-02-07-03-0015",
@@ -2640,17 +2640,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-19",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-05-02-0019",
-        "is_actual": "Актуально",
-        "material_order": "Посев без внесения удобрений (ГА)",
-        "minimal_date": "2024-05-19",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-06-09",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -2660,6 +2649,17 @@
         "minimal_date": "2024-06-04",
         "nzp_zp": "ZP",
         "status": "Выполнено не в срок"
+    },
+    {
+        "actual_data": "2024-05-19",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-05-02-0019",
+        "is_actual": "Актуально",
+        "material_order": "Посев без внесения удобрений (ГА)",
+        "minimal_date": "2024-05-19",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-26",
@@ -2717,17 +2717,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-26",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-07-05-0005",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
-        "minimal_date": "2024-05-30",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-05-05",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -2735,6 +2724,17 @@
         "is_actual": "Актуально",
         "material_order": "Внесение основных ж/аммиачных удоб. (ГА)",
         "minimal_date": "2024-05-15",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-04-26",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-07-05-0005",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
+        "minimal_date": "2024-05-30",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -2783,17 +2783,6 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-25",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-01-04-0013",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
         "actual_data": "2024-06-27",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -2803,6 +2792,17 @@
         "minimal_date": "2024-06-08",
         "nzp_zp": "ZP",
         "status": "Выполнено не в срок"
+    },
+    {
+        "actual_data": "2024-08-25",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-01-04-0013",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
     },
     {
         "actual_data": "2024-06-05",
@@ -3179,17 +3179,6 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-14",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-01-02-0029",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-13",
-        "nzp_zp": "ZP",
-        "status": "Выполнено не в срок"
-    },
-    {
         "actual_data": "2024-04-09",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -3199,6 +3188,17 @@
         "minimal_date": "2024-04-19",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-06-14",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-01-02-0029",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
+        "minimal_date": "2024-06-13",
+        "nzp_zp": "ZP",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-28",
@@ -3322,17 +3322,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-06",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-02-05-0014",
-        "is_actual": "Актуально",
-        "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
-        "minimal_date": "2024-07-21",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-04-15",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -3340,6 +3329,17 @@
         "is_actual": "Актуально",
         "material_order": "Внесение основных ж/аммиачных удоб. (ГА)",
         "minimal_date": "2024-04-25",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-07-06",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-02-05-0014",
+        "is_actual": "Актуально",
+        "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
+        "minimal_date": "2024-07-16",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -3454,6 +3454,17 @@
         "status": "Выполнено в срок"
     },
     {
+        "actual_data": "2024-06-29",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-03-01-0012",
+        "is_actual": "Актуально",
+        "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
+        "minimal_date": "2024-07-14",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
         "actual_data": "2024-05-06",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -3471,18 +3482,7 @@
         "higher_tm": "BL-01-02-06-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
-        "minimal_date": "2024-07-21",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
-        "actual_data": "2024-06-29",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-03-01-0012",
-        "is_actual": "Актуально",
-        "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
-        "minimal_date": "2024-07-14",
+        "minimal_date": "2024-07-16",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -3927,23 +3927,23 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-08-25",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-02-02-0003",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
         "actual_data": "2024-06-29",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
         "higher_tm": "BL-01-02-02-0026",
         "is_actual": "Статус отсутствует",
         "material_order": "Подкормка азотная 1-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-08-25",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-02-02-0003",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -4257,17 +4257,6 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-07-30",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-02-03-0115",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 3-я инсектицидная обр. (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
         "actual_data": "2024-05-03",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -4277,6 +4266,17 @@
         "minimal_date": "2024-04-28",
         "nzp_zp": "ZP",
         "status": "Выполнено не в срок"
+    },
+    {
+        "actual_data": "2024-07-30",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-02-03-0115",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Внесение СЗР 3-я инсектицидная обр. (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
     },
     {
         "actual_data": "2024-06-29",
@@ -4477,17 +4477,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-30",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-01-01-0028",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР 1-я инсектицидная обр. (ГА)",
-        "minimal_date": "2024-08-14",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-06-22",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -4497,6 +4486,17 @@
         "minimal_date": "2024-06-18",
         "nzp_zp": "ZP",
         "status": "Выполнено не в срок"
+    },
+    {
+        "actual_data": "2024-07-30",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-01-01-0028",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 1-я инсектицидная обр. (ГА)",
+        "minimal_date": "2024-08-14",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-25",
@@ -4686,17 +4686,6 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-25",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-06-03-0020",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
         "actual_data": "2024-07-03",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -4706,6 +4695,17 @@
         "minimal_date": "2024-06-23",
         "nzp_zp": "ZP",
         "status": "Выполнено не в срок"
+    },
+    {
+        "actual_data": "2024-08-25",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-06-03-0020",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
     },
     {
         "actual_data": "2024-08-08",
@@ -6281,6 +6281,17 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-05-16",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-02-01-0020",
+        "is_actual": "Актуально",
+        "material_order": "Посев без внесения удобрений (ГА)",
+        "minimal_date": "2024-05-14",
+        "nzp_zp": "ZP",
+        "status": "Выполнено не в срок"
+    },
+    {
         "actual_data": "2024-08-11",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -6303,13 +6314,13 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-05-16",
+        "actual_data": "2024-06-27",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
-        "higher_tm": "BL-01-02-01-0020",
+        "higher_tm": "BL-01-02-06-0007",
         "is_actual": "Актуально",
-        "material_order": "Посев без внесения удобрений (ГА)",
-        "minimal_date": "2024-05-14",
+        "material_order": "Внесение СЗР 1-я противозлак. обр. (ГА)",
+        "minimal_date": "2024-06-13",
         "nzp_zp": "ZP",
         "status": "Выполнено не в срок"
     },
@@ -6323,17 +6334,6 @@
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-27",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-02-06-0007",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР 1-я противозлак. обр. (ГА)",
-        "minimal_date": "2024-06-13",
-        "nzp_zp": "ZP",
-        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-02",
@@ -6413,17 +6413,6 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-03-30",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-07-05-0003",
-        "is_actual": "Актуально",
-        "material_order": "Боронование (ГА)",
-        "minimal_date": "2024-04-09",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-06-30",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -6431,6 +6420,17 @@
         "is_actual": "Актуально",
         "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
         "minimal_date": "2024-07-15",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-03-30",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-07-05-0003",
+        "is_actual": "Актуально",
+        "material_order": "Боронование (ГА)",
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -6512,17 +6512,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-01",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-01-01-0015",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-22",
-        "nzp_zp": "ZP",
-        "status": "Выполнено не в срок"
-    },
-    {
         "actual_data": "2024-05-15",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -6532,6 +6521,17 @@
         "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-07-01",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-01-01-0015",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
+        "minimal_date": "2024-06-22",
+        "nzp_zp": "ZP",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-08-05",
@@ -6600,17 +6600,6 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-07-17",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "KS-01-01-15-0001",
-        "is_actual": "Актуально",
-        "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
-        "minimal_date": "2024-08-01",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-07-02",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -6618,6 +6607,17 @@
         "is_actual": "Актуально",
         "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
         "minimal_date": "2024-07-17",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-07-17",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "KS-01-01-15-0001",
+        "is_actual": "Актуально",
+        "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
+        "minimal_date": "2024-08-01",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -6644,17 +6644,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-06",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-05-02-0028",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-07-02",
-        "nzp_zp": "ZP",
-        "status": "Выполнено не в срок"
-    },
-    {
         "actual_data": "2024-06-21",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -6662,6 +6651,17 @@
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
         "minimal_date": "2024-06-15",
+        "nzp_zp": "ZP",
+        "status": "Выполнено не в срок"
+    },
+    {
+        "actual_data": "2024-07-06",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-05-02-0028",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
+        "minimal_date": "2024-07-02",
         "nzp_zp": "ZP",
         "status": "Выполнено не в срок"
     },
@@ -7453,7 +7453,7 @@
         "higher_tm": "BL-01-02-01-0030",
         "is_actual": "Актуально",
         "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
-        "minimal_date": "2024-07-21",
+        "minimal_date": "2024-07-16",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -7467,6 +7467,17 @@
         "minimal_date": "2024-06-22",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-05-09",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-02-09-0014",
+        "is_actual": "Актуально",
+        "material_order": "Посев без внесения удобрений (ГА)",
+        "minimal_date": "2024-05-02",
+        "nzp_zp": "ZP",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-29",
@@ -7489,17 +7500,6 @@
         "minimal_date": "2024-05-30",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
-    },
-    {
-        "actual_data": "2024-05-09",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-02-09-0014",
-        "is_actual": "Актуально",
-        "material_order": "Посев без внесения удобрений (ГА)",
-        "minimal_date": "2024-05-02",
-        "nzp_zp": "ZP",
-        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-10",
@@ -7711,17 +7711,6 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-08-03",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-07-04-0015",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 3-я инсектицидная обр. (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
         "actual_data": "2024-05-10",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -7742,6 +7731,17 @@
         "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-08-03",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-07-04-0015",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Внесение СЗР 3-я инсектицидная обр. (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
     },
     {
         "actual_data": "2024-07-29",
@@ -8316,17 +8316,6 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-07-30",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-02-03-0142",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 3-я инсектицидная обр. (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
         "actual_data": "2024-07-03",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -8336,6 +8325,17 @@
         "minimal_date": "2024-07-18",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-07-30",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-02-03-0142",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Внесение СЗР 3-я инсектицидная обр. (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
     },
     {
         "actual_data": "2024-06-03",
@@ -8646,17 +8646,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-16",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-03-31-0001",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-22",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-04-05",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -8664,6 +8653,17 @@
         "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
         "minimal_date": "2024-04-14",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-06-16",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-03-31-0001",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
+        "minimal_date": "2024-06-22",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -9419,23 +9419,23 @@
         "actual_data": "2024-06-29",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
-        "higher_tm": "BL-02-02-02-0003",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Подкормка азотная 1-я (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-29",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
         "higher_tm": "BL-01-03-04-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
         "minimal_date": "2024-07-14",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-06-29",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-02-02-0003",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 1-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
     },
     {
         "actual_data": "2024-05-22",
@@ -9537,6 +9537,17 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-06-28",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-03-01-0004",
+        "is_actual": "Актуально",
+        "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
+        "minimal_date": "2024-07-13",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
         "actual_data": "2024-07-06",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -9559,13 +9570,13 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-28",
+        "actual_data": "2024-04-04",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
-        "higher_tm": "BL-01-03-01-0004",
+        "higher_tm": "BL-01-03-03-0016",
         "is_actual": "Актуально",
-        "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
-        "minimal_date": "2024-07-13",
+        "material_order": "Боронование (ГА)",
+        "minimal_date": "2024-04-14",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -9577,17 +9588,6 @@
         "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": "2024-05-26",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
-        "actual_data": "2024-04-04",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-03-03-0016",
-        "is_actual": "Актуально",
-        "material_order": "Боронование (ГА)",
-        "minimal_date": "2024-04-14",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -9812,17 +9812,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-24",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-02-02-0117",
-        "is_actual": "Актуально",
-        "material_order": "Лущение стерни (ГА)",
-        "minimal_date": "2024-09-21",
-        "nzp_zp": "NZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-04-02",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -9831,6 +9820,17 @@
         "material_order": "Внесение основных ж/аммиачных удоб. (ГА)",
         "minimal_date": "2024-04-12",
         "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-07-24",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-02-02-0117",
+        "is_actual": "Актуально",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": "2024-09-21",
+        "nzp_zp": "NZP",
         "status": "Выполнено в срок"
     },
     {
@@ -9884,7 +9884,7 @@
         "higher_tm": "BL-01-02-01-0007",
         "is_actual": "Актуально",
         "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
-        "minimal_date": "2024-07-21",
+        "minimal_date": "2024-07-16",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -9911,6 +9911,17 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-07-03",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-02-03-0119",
+        "is_actual": "Актуально",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": "2024-09-21",
+        "nzp_zp": "NZP",
+        "status": "Выполнено в срок"
+    },
+    {
         "actual_data": "2024-07-14",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -9931,17 +9942,6 @@
         "minimal_date": "2024-06-22",
         "nzp_zp": "ZP",
         "status": "Выполнено не в срок"
-    },
-    {
-        "actual_data": "2024-07-03",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-02-03-0119",
-        "is_actual": "Актуально",
-        "material_order": "Лущение стерни (ГА)",
-        "minimal_date": "2024-09-21",
-        "nzp_zp": "NZP",
-        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-21",
@@ -10659,17 +10659,6 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-07-10",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-02-06-0007",
-        "is_actual": "Актуально",
-        "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
-        "minimal_date": "2024-07-25",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-06-21",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -10679,6 +10668,17 @@
         "minimal_date": "2024-06-15",
         "nzp_zp": "ZP",
         "status": "Выполнено не в срок"
+    },
+    {
+        "actual_data": "2024-07-10",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-02-06-0007",
+        "is_actual": "Актуально",
+        "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
+        "minimal_date": "2024-07-16",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-13",
@@ -10890,6 +10890,17 @@
         "status": "Выполнено в срок"
     },
     {
+        "actual_data": "2024-06-10",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-03-03-0010",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 1-я противозлак. обр. (ГА)",
+        "minimal_date": "2024-05-28",
+        "nzp_zp": "ZP",
+        "status": "Выполнено не в срок"
+    },
+    {
         "actual_data": "2024-08-25",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -10910,17 +10921,6 @@
         "minimal_date": "2024-08-17",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
-    },
-    {
-        "actual_data": "2024-06-10",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-03-03-0010",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР 1-я противозлак. обр. (ГА)",
-        "minimal_date": "2024-05-28",
-        "nzp_zp": "ZP",
-        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-11",
@@ -11165,17 +11165,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-15",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-07-04-0005",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 3-я инсектицидная обр. (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
         "actual_data": "2024-06-30",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -11187,10 +11176,32 @@
         "status": "Выполнено в срок"
     },
     {
+        "actual_data": "2024-06-15",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-07-04-0005",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Внесение СЗР 3-я инсектицидная обр. (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-07-03",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
         "higher_tm": "BL-02-06-01-0013",
+        "is_actual": "Актуально",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": "2024-09-21",
+        "nzp_zp": "NZP",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-07-03",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-03-03-0115",
         "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-09-21",
@@ -11207,17 +11218,6 @@
         "minimal_date": "2024-06-26",
         "nzp_zp": "ZP",
         "status": "Выполнено не в срок"
-    },
-    {
-        "actual_data": "2024-07-03",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-03-03-0115",
-        "is_actual": "Актуально",
-        "material_order": "Лущение стерни (ГА)",
-        "minimal_date": "2024-09-21",
-        "nzp_zp": "NZP",
-        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-08-25",
@@ -11495,17 +11495,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-18",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-07-04-0015",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
-        "minimal_date": "2024-05-30",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-07-01",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -11515,6 +11504,17 @@
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-05-18",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-07-04-0015",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
+        "minimal_date": "2024-05-30",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-04",
@@ -11649,17 +11649,6 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-22",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-02-03-0018",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
-        "minimal_date": "2024-07-20",
-        "nzp_zp": "ZP",
-        "status": "Выполнено не в срок"
-    },
-    {
         "actual_data": "2024-04-04",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -11669,6 +11658,17 @@
         "minimal_date": "2024-04-14",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-07-22",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-02-03-0018",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
+        "minimal_date": "2024-07-20",
+        "nzp_zp": "ZP",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-08-02",
@@ -11781,17 +11781,6 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-07",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-02-07-0003",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Подкормка азотная 1-я (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
         "actual_data": "2024-06-09",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -11801,6 +11790,17 @@
         "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
         "status": "Выполнено не в срок"
+    },
+    {
+        "actual_data": "2024-07-07",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-02-07-0003",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 1-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
     },
     {
         "actual_data": "2024-08-25",
@@ -11847,6 +11847,17 @@
         "status": "Выполнено в срок"
     },
     {
+        "actual_data": "2024-06-22",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-02-07-0005",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
+        "minimal_date": "2024-06-18",
+        "nzp_zp": "ZP",
+        "status": "Выполнено не в срок"
+    },
+    {
         "actual_data": "2024-07-19",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -11867,17 +11878,6 @@
         "minimal_date": "2024-06-22",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
-    },
-    {
-        "actual_data": "2024-06-22",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-02-07-0005",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-18",
-        "nzp_zp": "ZP",
-        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-29",
@@ -11930,7 +11930,7 @@
         "higher_tm": "BL-01-02-07-0021",
         "is_actual": "Актуально",
         "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
-        "minimal_date": "2024-07-24",
+        "minimal_date": "2024-07-16",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -12892,17 +12892,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-20",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-05-10-0025",
-        "is_actual": "Актуально",
-        "material_order": "Лущение стерни (ГА)",
-        "minimal_date": "2024-09-21",
-        "nzp_zp": "NZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-06-22",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -12912,6 +12901,17 @@
         "minimal_date": "2024-06-13",
         "nzp_zp": "ZP",
         "status": "Выполнено не в срок"
+    },
+    {
+        "actual_data": "2024-07-20",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-05-10-0025",
+        "is_actual": "Актуально",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": "2024-09-21",
+        "nzp_zp": "NZP",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-11",
@@ -13002,6 +13002,17 @@
         "status": "Выполнено не в срок"
     },
     {
+        "actual_data": "2024-05-25",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-03-03-0013",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
+        "minimal_date": "2024-06-22",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
         "actual_data": "2024-08-25",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -13031,17 +13042,6 @@
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
         "minimal_date": "2024-07-20",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
-        "actual_data": "2024-05-25",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-03-03-0013",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-22",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -13783,17 +13783,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-23",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "KS-01-02-76-0001",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-24",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-05-06",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -13803,6 +13792,17 @@
         "minimal_date": "2024-05-05",
         "nzp_zp": "ZP",
         "status": "Выполнено не в срок"
+    },
+    {
+        "actual_data": "2024-06-23",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "KS-01-02-76-0001",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
+        "minimal_date": "2024-06-24",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-16",
@@ -14531,17 +14531,6 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-02",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-07-03-0021",
-        "is_actual": "Актуально",
-        "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
-        "minimal_date": "2024-07-17",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-05-07",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -14549,6 +14538,17 @@
         "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": "2024-05-26",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-07-02",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-07-03-0021",
+        "is_actual": "Актуально",
+        "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
+        "minimal_date": "2024-07-17",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -14685,17 +14685,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-21",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-01-03-0023",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
-        "minimal_date": "2024-07-20",
-        "nzp_zp": "ZP",
-        "status": "Выполнено не в срок"
-    },
-    {
         "actual_data": "2024-04-06",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -14705,6 +14694,17 @@
         "minimal_date": "2024-04-16",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-07-21",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-01-03-0023",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
+        "minimal_date": "2024-07-20",
+        "nzp_zp": "ZP",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-05-25",
@@ -15092,17 +15092,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-21",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-05-02-0043",
-        "is_actual": "Актуально",
-        "material_order": "Лущение стерни (ГА)",
-        "minimal_date": "2024-05-31",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-04-05",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -15110,6 +15099,17 @@
         "is_actual": "Актуально",
         "material_order": "Внесение основных ж/аммиачных удоб. (ГА)",
         "minimal_date": "2024-04-15",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-05-21",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-05-02-0043",
+        "is_actual": "Актуально",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": "2024-05-31",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -15268,17 +15268,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-07",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-01-01-0028",
-        "is_actual": "Актуально",
-        "material_order": "Боронование (ГА)",
-        "minimal_date": "2024-04-17",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-07-02",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -15286,6 +15275,17 @@
         "is_actual": "Актуально",
         "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
         "minimal_date": "2024-07-17",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-04-07",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-01-01-0028",
+        "is_actual": "Актуально",
+        "material_order": "Боронование (ГА)",
+        "minimal_date": "2024-04-17",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -15576,17 +15576,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-08-25",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-01-04-0029",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
         "actual_data": "2024-05-01",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -15596,6 +15585,17 @@
         "minimal_date": "2024-04-30",
         "nzp_zp": "ZP",
         "status": "Выполнено не в срок"
+    },
+    {
+        "actual_data": "2024-08-25",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-01-04-0029",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
     },
     {
         "actual_data": "2024-03-29",
@@ -16066,7 +16066,7 @@
         "higher_tm": "BL-01-02-06-0005",
         "is_actual": "Актуально",
         "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
-        "minimal_date": "2024-07-21",
+        "minimal_date": "2024-07-16",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -16137,6 +16137,17 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-05-08",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-03-03-0016",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
+        "minimal_date": "2024-05-30",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
         "actual_data": "2024-06-03",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -16157,17 +16168,6 @@
         "minimal_date": "2024-07-20",
         "nzp_zp": "ZP",
         "status": "Выполнено не в срок"
-    },
-    {
-        "actual_data": "2024-05-08",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-03-03-0016",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
-        "minimal_date": "2024-05-30",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-26",
@@ -16357,17 +16357,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-22",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-03-58-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Всевание (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
         "actual_data": "2024-07-02",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -16377,6 +16366,17 @@
         "minimal_date": "2024-07-17",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-06-22",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-03-58-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Всевание (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
     },
     {
         "actual_data": "2024-05-04",
@@ -16665,17 +16665,6 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-03",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-01-04-0027",
-        "is_actual": "Актуально",
-        "material_order": "Лущение стерни (ГА)",
-        "minimal_date": "2024-09-21",
-        "nzp_zp": "NZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-05-17",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -16684,6 +16673,17 @@
         "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
         "minimal_date": "2024-05-30",
         "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-07-03",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-01-04-0027",
+        "is_actual": "Актуально",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": "2024-09-21",
+        "nzp_zp": "NZP",
         "status": "Выполнено в срок"
     },
     {
@@ -17215,17 +17215,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-08-25",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "KS-01-01-32-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
         "actual_data": "2024-05-03",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -17235,6 +17224,17 @@
         "minimal_date": "2024-05-03",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-08-25",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "KS-01-01-32-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
     },
     {
         "actual_data": "2024-06-15",
@@ -17556,6 +17556,17 @@
         "status": "Выполнено в срок"
     },
     {
+        "actual_data": "2024-06-29",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-02-07-0009",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 1-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-07-08",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -17576,17 +17587,6 @@
         "minimal_date": "2024-06-19",
         "nzp_zp": "ZP",
         "status": "Выполнено не в срок"
-    },
-    {
-        "actual_data": "2024-06-29",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-02-07-0009",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Подкормка азотная 1-я (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
     },
     {
         "actual_data": "2024-07-16",
@@ -17611,17 +17611,6 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-08-03",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-05-04-0033",
-        "is_actual": "Актуально",
-        "material_order": "Посев пожнивной (ГА)",
-        "minimal_date": "2024-08-28",
-        "nzp_zp": "NZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-06-30",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -17631,6 +17620,17 @@
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-08-03",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-05-04-0033",
+        "is_actual": "Актуально",
+        "material_order": "Посев пожнивной (ГА)",
+        "minimal_date": "2024-08-28",
+        "nzp_zp": "NZP",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-17",
@@ -18029,17 +18029,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-08-13",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-01-07-0017",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Посев пожнивной (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
-    },
-    {
         "actual_data": "2024-05-04",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -18049,6 +18038,17 @@
         "minimal_date": "2024-05-02",
         "nzp_zp": "ZP",
         "status": "Выполнено не в срок"
+    },
+    {
+        "actual_data": "2024-08-13",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-01-07-0017",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Посев пожнивной (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "status": "Операция не отслеживается"
     },
     {
         "actual_data": "2024-07-07",
@@ -18205,17 +18205,6 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-07-02",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-05-01-0048",
-        "is_actual": "Актуально",
-        "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
-        "minimal_date": "2024-07-17",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-05-11",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -18225,6 +18214,17 @@
         "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
         "status": "Выполнено не в срок"
+    },
+    {
+        "actual_data": "2024-07-02",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-05-01-0048",
+        "is_actual": "Актуально",
+        "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
+        "minimal_date": "2024-07-17",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-01",
@@ -18513,17 +18513,6 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-05-11",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-03-58-0001",
-        "is_actual": "Актуально",
-        "material_order": "Культивация (ГА)",
-        "minimal_date": "2024-05-21",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-05-16",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -18531,6 +18520,17 @@
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
         "minimal_date": "2024-05-30",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-05-11",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-03-58-0001",
+        "is_actual": "Актуально",
+        "material_order": "Культивация (ГА)",
+        "minimal_date": "2024-05-21",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -18766,17 +18766,6 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-08-25",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-03-05-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
         "actual_data": "2024-04-29",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -18786,6 +18775,17 @@
         "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-08-25",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-03-05-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
     },
     {
         "actual_data": "2024-05-16",
@@ -18893,7 +18893,7 @@
         "higher_tm": "BL-01-02-05-0004",
         "is_actual": "Актуально",
         "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
-        "minimal_date": "2024-07-22",
+        "minimal_date": "2024-07-16",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -18931,7 +18931,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-07-28",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
         "higher_tm": "BL-02-05-06-0014",
@@ -19085,17 +19085,6 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-06",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-01-02-0012",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР 1-я инсектицидная обр. (ГА)",
-        "minimal_date": "2024-08-21",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-04-25",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -19103,6 +19092,17 @@
         "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": "2024-05-26",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-08-06",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-01-02-0012",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 1-я инсектицидная обр. (ГА)",
+        "minimal_date": "2024-08-21",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -19140,6 +19140,17 @@
         "status": "Выполнено в срок"
     },
     {
+        "actual_data": "2024-06-08",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-02-07-0006",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
+        "minimal_date": "2024-06-22",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
         "actual_data": "2024-08-06",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -19158,17 +19169,6 @@
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 4-я баковая смесь (ГА)",
         "minimal_date": "2024-07-14",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
-        "actual_data": "2024-06-08",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-02-07-0006",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-22",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -19261,6 +19261,17 @@
         "status": "Выполнено в срок"
     },
     {
+        "actual_data": "2024-06-13",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-03-03-0010",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 1-я инсектицидная обр. (ГА)",
+        "minimal_date": "2024-06-28",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
         "actual_data": "2024-06-11",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -19281,17 +19292,6 @@
         "minimal_date": "2024-07-20",
         "nzp_zp": "ZP",
         "status": "Выполнено не в срок"
-    },
-    {
-        "actual_data": "2024-06-13",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-03-03-0010",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР 1-я инсектицидная обр. (ГА)",
-        "minimal_date": "2024-06-28",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-29",
@@ -19454,7 +19454,7 @@
         "higher_tm": "BL-01-02-01-0020",
         "is_actual": "Актуально",
         "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
-        "minimal_date": "2024-07-22",
+        "minimal_date": "2024-07-16",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -19624,6 +19624,17 @@
         "status": "Выполнено не в срок"
     },
     {
+        "actual_data": "2024-04-05",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-03-03-0010",
+        "is_actual": "Актуально",
+        "material_order": "Боронование (ГА)",
+        "minimal_date": "2024-04-15",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
         "actual_data": "2024-05-29",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -19642,17 +19653,6 @@
         "is_actual": "Актуально",
         "material_order": "Культивация (ГА)",
         "minimal_date": "2024-05-24",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
-        "actual_data": "2024-04-05",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-03-03-0010",
-        "is_actual": "Актуально",
-        "material_order": "Боронование (ГА)",
-        "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -19767,17 +19767,6 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-29",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-02-04-0031",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР 1-я инсектицидная обр. (ГА)",
-        "minimal_date": "2024-07-14",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-05-01",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -19785,6 +19774,17 @@
         "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": "2024-05-26",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-06-29",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-02-04-0031",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 1-я инсектицидная обр. (ГА)",
+        "minimal_date": "2024-07-14",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -19943,6 +19943,17 @@
         "status": "Выполнено в срок"
     },
     {
+        "actual_data": "2024-06-30",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-02-03-0018",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 1-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
         "actual_data": "2024-08-02",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -19963,17 +19974,6 @@
         "minimal_date": "2024-05-30",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
-    },
-    {
-        "actual_data": "2024-06-30",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-02-03-0018",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Подкормка азотная 1-я (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
     },
     {
         "actual_data": "2024-08-07",
@@ -20031,17 +20031,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-20",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-05-06-0002",
-        "is_actual": "Актуально",
-        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
-        "minimal_date": "2024-10-06",
-        "nzp_zp": "NZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-05-13",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -20050,6 +20039,17 @@
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-07-20",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-05-06-0002",
+        "is_actual": "Актуально",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": "2024-10-06",
+        "nzp_zp": "NZP",
         "status": "Выполнено в срок"
     },
     {
@@ -20086,17 +20086,6 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-05-18",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-01-04-0032",
-        "is_actual": "Актуально",
-        "material_order": "Культивация (ГА)",
-        "minimal_date": "2024-05-28",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-06-06",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -20104,6 +20093,17 @@
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
         "minimal_date": "2024-06-22",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-05-18",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-01-04-0032",
+        "is_actual": "Актуально",
+        "material_order": "Культивация (ГА)",
+        "minimal_date": "2024-05-28",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -20455,7 +20455,7 @@
         "higher_tm": "BL-01-02-07-0006",
         "is_actual": "Актуально",
         "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
-        "minimal_date": "2024-07-22",
+        "minimal_date": "2024-07-16",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -20482,6 +20482,17 @@
         "status": "Выполнено не в срок"
     },
     {
+        "actual_data": "2024-06-01",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-03-01-0002",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 1-я противозлак. обр. (ГА)",
+        "minimal_date": "2024-05-25",
+        "nzp_zp": "ZP",
+        "status": "Выполнено не в срок"
+    },
+    {
         "actual_data": "2024-08-03",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -20502,17 +20513,6 @@
         "minimal_date": "2024-08-17",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
-    },
-    {
-        "actual_data": "2024-06-01",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-03-01-0002",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР 1-я противозлак. обр. (ГА)",
-        "minimal_date": "2024-05-25",
-        "nzp_zp": "ZP",
-        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-05-18",
@@ -20636,6 +20636,17 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-05-14",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-02-04-0009",
+        "is_actual": "Актуально",
+        "material_order": "Посев без внесения удобрений (ГА)",
+        "minimal_date": "2024-05-13",
+        "nzp_zp": "ZP",
+        "status": "Выполнено не в срок"
+    },
+    {
         "actual_data": "2024-04-06",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -20658,15 +20669,15 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-14",
+        "actual_data": "2024-06-27",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
-        "higher_tm": "BL-01-02-04-0009",
-        "is_actual": "Актуально",
-        "material_order": "Посев без внесения удобрений (ГА)",
-        "minimal_date": "2024-05-13",
+        "higher_tm": "BL-01-02-02-0012",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 1-я (ГА)",
+        "minimal_date": null,
         "nzp_zp": "ZP",
-        "status": "Выполнено не в срок"
+        "status": "Операция не отслеживается"
     },
     {
         "actual_data": "2024-05-10",
@@ -20689,17 +20700,6 @@
         "minimal_date": "2024-08-10",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
-    },
-    {
-        "actual_data": "2024-06-27",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-02-02-0012",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Подкормка азотная 1-я (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
     },
     {
         "actual_data": "2024-05-10",
@@ -20779,6 +20779,17 @@
         "status": "Выполнено в срок"
     },
     {
+        "actual_data": "2024-04-28",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-03-03-0016",
+        "is_actual": "Актуально",
+        "material_order": "Предпосевная культивация (ГА)",
+        "minimal_date": "2024-05-26",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
         "actual_data": "2024-05-10",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -20799,17 +20810,6 @@
         "minimal_date": "2024-06-23",
         "nzp_zp": "ZP",
         "status": "Выполнено не в срок"
-    },
-    {
-        "actual_data": "2024-04-28",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-03-03-0016",
-        "is_actual": "Актуально",
-        "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": "2024-05-26",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-28",
@@ -20939,7 +20939,7 @@
         "higher_tm": "BL-01-02-05-0017",
         "is_actual": "Актуально",
         "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
-        "minimal_date": "2024-07-21",
+        "minimal_date": "2024-07-16",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -21395,6 +21395,17 @@
         "status": "Выполнено в срок"
     },
     {
+        "actual_data": "2024-05-18",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-02-03-0013",
+        "is_actual": "Актуально",
+        "material_order": "Посев без внесения удобрений (ГА)",
+        "minimal_date": "2024-05-19",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
         "actual_data": "2024-07-13",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -21415,17 +21426,6 @@
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-05-18",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-02-03-0013",
-        "is_actual": "Актуально",
-        "material_order": "Посев без внесения удобрений (ГА)",
-        "minimal_date": "2024-05-19",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-08-03",
@@ -21527,17 +21527,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-29",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-01-02-0029",
-        "is_actual": "Актуально",
-        "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": "2024-05-26",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-06-15",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -21547,6 +21536,17 @@
         "minimal_date": "2024-06-08",
         "nzp_zp": "ZP",
         "status": "Выполнено не в срок"
+    },
+    {
+        "actual_data": "2024-04-29",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-01-02-0029",
+        "is_actual": "Актуально",
+        "material_order": "Предпосевная культивация (ГА)",
+        "minimal_date": "2024-05-26",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-04",
@@ -21560,17 +21560,6 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-18",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-07-04-0111",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-17",
-        "nzp_zp": "ZP",
-        "status": "Выполнено не в срок"
-    },
-    {
         "actual_data": "2024-06-27",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -21578,6 +21567,17 @@
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
         "minimal_date": "2024-06-19",
+        "nzp_zp": "ZP",
+        "status": "Выполнено не в срок"
+    },
+    {
+        "actual_data": "2024-06-18",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-07-04-0111",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
+        "minimal_date": "2024-06-17",
         "nzp_zp": "ZP",
         "status": "Выполнено не в срок"
     },
@@ -21780,17 +21780,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-08-04",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-06-03-0037",
-        "is_actual": "Актуально",
-        "material_order": "Лущение стерни (ГА)",
-        "minimal_date": "2024-09-21",
-        "nzp_zp": "NZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-05-15",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -21799,6 +21788,17 @@
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-08-04",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-06-03-0037",
+        "is_actual": "Актуально",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": "2024-09-21",
+        "nzp_zp": "NZP",
         "status": "Выполнено в срок"
     },
     {
@@ -22352,17 +22352,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-02",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-01-03-0040",
-        "is_actual": "Актуально",
-        "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
-        "minimal_date": "2024-07-17",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-06-15",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -22372,6 +22361,17 @@
         "minimal_date": "2024-06-08",
         "nzp_zp": "ZP",
         "status": "Выполнено не в срок"
+    },
+    {
+        "actual_data": "2024-07-02",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-01-03-0040",
+        "is_actual": "Актуально",
+        "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
+        "minimal_date": "2024-07-17",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-28",
@@ -22385,17 +22385,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-31",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-02-02-0103",
-        "is_actual": "Актуально",
-        "material_order": "Лущение стерни (ГА)",
-        "minimal_date": "2024-09-21",
-        "nzp_zp": "NZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-05-15",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -22404,6 +22393,17 @@
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": "2024-05-16",
         "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-07-31",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-02-02-0103",
+        "is_actual": "Актуально",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": "2024-09-21",
+        "nzp_zp": "NZP",
         "status": "Выполнено в срок"
     },
     {
@@ -22770,17 +22770,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-11",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-02-03-0013",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-20",
-        "nzp_zp": "ZP",
-        "status": "Выполнено не в срок"
-    },
-    {
         "actual_data": "2024-05-30",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -22790,6 +22779,17 @@
         "minimal_date": "2024-06-22",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-07-11",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-02-03-0013",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
+        "minimal_date": "2024-06-20",
+        "nzp_zp": "ZP",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-08-25",
@@ -23078,17 +23078,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-10",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-05-08-0010",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР 1-я противозлак. обр. (ГА)",
-        "minimal_date": "2024-06-06",
-        "nzp_zp": "ZP",
-        "status": "Выполнено не в срок"
-    },
-    {
         "actual_data": "2024-05-11",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -23098,6 +23087,17 @@
         "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-06-10",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-05-08-0010",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 1-я противозлак. обр. (ГА)",
+        "minimal_date": "2024-06-06",
+        "nzp_zp": "ZP",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-20",
@@ -23208,17 +23208,6 @@
         "minimal_date": "2024-06-07",
         "nzp_zp": "ZP",
         "status": "Выполнено не в срок"
-    },
-    {
-        "actual_data": "2024-04-25",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-03-01-0012",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Предпосевна� культивация (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
     },
     {
         "actual_data": "2024-06-27",
@@ -23716,17 +23705,6 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-07",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-07-03-0014",
-        "is_actual": "Актуально",
-        "material_order": "Боронование (ГА)",
-        "minimal_date": "2024-04-17",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-05-03",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -23736,6 +23714,17 @@
         "minimal_date": "2024-04-27",
         "nzp_zp": "ZP",
         "status": "Выполнено не в срок"
+    },
+    {
+        "actual_data": "2024-04-07",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-07-03-0014",
+        "is_actual": "Актуально",
+        "material_order": "Боронование (ГА)",
+        "minimal_date": "2024-04-17",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-27",
@@ -23936,17 +23925,6 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-16",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-07-08-0001",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-28",
-        "nzp_zp": "ZP",
-        "status": "Выполнено не в срок"
-    },
-    {
         "actual_data": "2024-05-14",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -23954,6 +23932,17 @@
         "is_actual": "Актуально",
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": "2024-05-11",
+        "nzp_zp": "ZP",
+        "status": "Выполнено не в срок"
+    },
+    {
+        "actual_data": "2024-07-16",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-07-08-0001",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
+        "minimal_date": "2024-06-28",
         "nzp_zp": "ZP",
         "status": "Выполнено не в срок"
     },
@@ -23991,6 +23980,17 @@
         "status": "Выполнено не в срок"
     },
     {
+        "actual_data": "2024-04-12",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-03-01-0004",
+        "is_actual": "Актуально",
+        "material_order": "Внесение основных ж/аммиачных удоб. (ГА)",
+        "minimal_date": "2024-04-22",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
         "actual_data": "2024-05-04",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -24013,24 +24013,13 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-12",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-03-01-0004",
-        "is_actual": "Актуально",
-        "material_order": "Внесение основных ж/аммиачных удоб. (ГА)",
-        "minimal_date": "2024-04-22",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-07-09",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
         "higher_tm": "BL-01-02-02-0014",
         "is_actual": "Актуально",
         "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
-        "minimal_date": "2024-07-24",
+        "minimal_date": "2024-07-16",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -24123,17 +24112,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-28",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-01-01-0026",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР 1-я противозлак. обр. (ГА)",
-        "minimal_date": "2024-05-26",
-        "nzp_zp": "ZP",
-        "status": "Выполнено не в срок"
-    },
-    {
         "actual_data": "2024-06-27",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -24143,6 +24121,17 @@
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-06-28",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-01-01-0026",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 1-я противозлак. обр. (ГА)",
+        "minimal_date": "2024-05-26",
+        "nzp_zp": "ZP",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-22",
@@ -24332,17 +24321,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-08",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "KS-01-02-38-0001",
-        "is_actual": "Актуально",
-        "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": "2024-05-26",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-06-08",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -24352,6 +24330,17 @@
         "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
         "status": "Выполнено не в срок"
+    },
+    {
+        "actual_data": "2024-05-08",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "KS-01-02-38-0001",
+        "is_actual": "Актуально",
+        "material_order": "Предпосевная культивация (ГА)",
+        "minimal_date": "2024-05-26",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-27",
@@ -25179,17 +25168,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-08-25",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "KS-01-02-41-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
         "actual_data": "2024-05-17",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -25199,6 +25177,17 @@
         "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-08-25",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "KS-01-02-41-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
     },
     {
         "actual_data": "2024-05-04",
@@ -25883,17 +25872,6 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-07-25",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "KS-01-01-06-0001",
-        "is_actual": "Актуально",
-        "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
-        "minimal_date": "2024-08-09",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-05-17",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -25901,6 +25879,17 @@
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
         "minimal_date": "2024-05-30",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-07-25",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "KS-01-01-06-0001",
+        "is_actual": "Актуально",
+        "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
+        "minimal_date": "2024-08-09",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -26818,17 +26807,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-19",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-03-87-0001",
-        "is_actual": "Актуально",
-        "material_order": "Лущение стерни (ГА)",
-        "minimal_date": "2024-05-29",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-06-21",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -26849,6 +26827,17 @@
         "minimal_date": "2024-04-30",
         "nzp_zp": "ZP",
         "status": "Выполнено не в срок"
+    },
+    {
+        "actual_data": "2024-05-19",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-03-87-0001",
+        "is_actual": "Актуально",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": "2024-05-29",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-08-01",
@@ -26906,17 +26895,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-08-25",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-02-10-0004",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
         "actual_data": "2024-05-10",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -26926,6 +26904,17 @@
         "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-08-25",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-02-10-0004",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
     },
     {
         "actual_data": "2024-04-09",
@@ -27071,17 +27060,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-07",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-07-02-0006",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-05-31",
-        "nzp_zp": "ZP",
-        "status": "Выполнено не в срок"
-    },
-    {
         "actual_data": "2024-04-03",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -27091,6 +27069,17 @@
         "minimal_date": "2024-04-13",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-06-07",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-07-02-0006",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
+        "minimal_date": "2024-05-31",
+        "nzp_zp": "ZP",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-01",
@@ -27687,17 +27676,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-16",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-03-31-0001",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
-        "minimal_date": "2024-05-30",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-07-02",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -27705,6 +27683,17 @@
         "is_actual": "Актуально",
         "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
         "minimal_date": "2024-07-17",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-05-16",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-03-31-0001",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
+        "minimal_date": "2024-05-30",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -27885,17 +27874,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-09",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-01-04-0008",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Подкормка азотная 1-я (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
         "actual_data": "2024-07-03",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -27905,6 +27883,17 @@
         "minimal_date": "2024-09-21",
         "nzp_zp": "NZP",
         "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-07-09",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-01-04-0008",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Подкормка азотная 1-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
     },
     {
         "actual_data": "2024-06-04",
@@ -28683,7 +28672,7 @@
         "higher_tm": "BL-01-02-07-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
-        "minimal_date": "2024-07-22",
+        "minimal_date": "2024-07-16",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -28721,17 +28710,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-05",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-01-04-0014",
-        "is_actual": "Актуально",
-        "material_order": "Боронование (ГА)",
-        "minimal_date": "2024-04-15",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-06-09",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -28739,6 +28717,17 @@
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
         "minimal_date": "2024-06-22",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-04-05",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-01-04-0014",
+        "is_actual": "Актуально",
+        "material_order": "Боронование (ГА)",
+        "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -29304,17 +29293,6 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-05-28",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-07-03-0019",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР 4-я баковая смесь (ГА)",
-        "minimal_date": "2024-07-21",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-06-04",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -29322,6 +29300,17 @@
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
         "minimal_date": "2024-06-13",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-05-28",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-07-03-0019",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 4-я баковая смесь (ГА)",
+        "minimal_date": "2024-07-21",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -29931,6 +29920,17 @@
         "status": "Выполнено не в срок"
     },
     {
+        "actual_data": "2024-04-27",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-03-03-0013",
+        "is_actual": "Актуально",
+        "material_order": "Предпосевная культивация (ГА)",
+        "minimal_date": "2024-05-26",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
         "actual_data": "2024-04-20",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -29962,17 +29962,6 @@
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-04-27",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-03-03-0013",
-        "is_actual": "Актуально",
-        "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": "2024-05-26",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-29",
@@ -30052,7 +30041,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-07-28",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
         "higher_tm": "BL-02-05-04-0023",
@@ -30173,17 +30162,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-15",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-07-01-0013",
-        "is_actual": "Актуально",
-        "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": "2024-05-16",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-05-01",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -30191,6 +30169,17 @@
         "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": "2024-05-26",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-05-15",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-07-01-0013",
+        "is_actual": "Актуально",
+        "material_order": "Посев с внесением удобрений (ГА)",
+        "minimal_date": "2024-05-16",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -30492,17 +30481,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-03",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-02-10-0004",
-        "is_actual": "Актуально",
-        "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": "2024-05-01",
-        "nzp_zp": "ZP",
-        "status": "Выполнено не в срок"
-    },
-    {
         "actual_data": "2024-05-04",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -30512,6 +30490,17 @@
         "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-05-03",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-02-10-0004",
+        "is_actual": "Актуально",
+        "material_order": "Посев с внесением удобрений (ГА)",
+        "minimal_date": "2024-05-01",
+        "nzp_zp": "ZP",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-05-20",
@@ -30839,7 +30828,7 @@
         "higher_tm": "BL-01-02-07-0005",
         "is_actual": "Актуально",
         "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
-        "minimal_date": "2024-07-22",
+        "minimal_date": "2024-07-16",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -30855,17 +30844,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-03",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-06-03-0015",
-        "is_actual": "Актуально",
-        "material_order": "Лущение стерни (ГА)",
-        "minimal_date": "2024-09-21",
-        "nzp_zp": "NZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-06-01",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -30875,6 +30853,17 @@
         "minimal_date": "2024-05-25",
         "nzp_zp": "ZP",
         "status": "Выполнено не в срок"
+    },
+    {
+        "actual_data": "2024-07-03",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-06-03-0015",
+        "is_actual": "Актуально",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": "2024-09-21",
+        "nzp_zp": "NZP",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-08-25",
@@ -30943,6 +30932,17 @@
         "status": "Выполнено в срок"
     },
     {
+        "actual_data": "2024-05-01",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-02-04-0001",
+        "is_actual": "Актуально",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": "2024-05-11",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
         "actual_data": "2024-08-07",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -30965,13 +30965,13 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-05-01",
+        "actual_data": "2024-05-15",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
-        "higher_tm": "BL-01-02-04-0001",
+        "higher_tm": "BL-01-02-06-0001",
         "is_actual": "Актуально",
-        "material_order": "Лущение стерни (ГА)",
-        "minimal_date": "2024-05-11",
+        "material_order": "Предпосевная культивация (ГА)",
+        "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -30984,17 +30984,6 @@
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-09-21",
         "nzp_zp": "NZP",
-        "status": "Выполнено в срок"
-    },
-    {
-        "actual_data": "2024-05-15",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-02-06-0001",
-        "is_actual": "Актуально",
-        "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": "2024-05-26",
-        "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
     {
@@ -31999,17 +31988,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-28",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-03-05-0001",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-22",
-        "nzp_zp": "ZP",
-        "status": "Выполнено не в срок"
-    },
-    {
         "actual_data": "2024-05-01",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -32017,6 +31995,17 @@
         "is_actual": "Актуально",
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": "2024-04-28",
+        "nzp_zp": "ZP",
+        "status": "Выполнено не в срок"
+    },
+    {
+        "actual_data": "2024-06-28",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-03-05-0001",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
+        "minimal_date": "2024-06-22",
         "nzp_zp": "ZP",
         "status": "Выполнено не в срок"
     },
@@ -32368,7 +32357,7 @@
         "higher_tm": "BL-01-02-07-0009",
         "is_actual": "Актуально",
         "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
-        "minimal_date": "2024-07-24",
+        "minimal_date": "2024-07-16",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -32390,7 +32379,7 @@
         "higher_tm": "BL-01-02-07-0004",
         "is_actual": "Актуально",
         "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
-        "minimal_date": "2024-07-22",
+        "minimal_date": "2024-07-16",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -32472,6 +32461,17 @@
         "status": "Выполнено не в срок"
     },
     {
+        "actual_data": "2024-05-01",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-03-03-0010",
+        "is_actual": "Актуально",
+        "material_order": "Посев без внесения удобрений (ГА)",
+        "minimal_date": "2024-04-28",
+        "nzp_zp": "ZP",
+        "status": "Выполнено не в срок"
+    },
+    {
         "actual_data": "2024-04-29",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -32492,17 +32492,6 @@
         "minimal_date": "2024-08-12",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
-    },
-    {
-        "actual_data": "2024-05-01",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-03-03-0010",
-        "is_actual": "Актуально",
-        "material_order": "Посев без внесения удобрений (ГА)",
-        "minimal_date": "2024-04-28",
-        "nzp_zp": "ZP",
-        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-05",
@@ -32615,17 +32604,6 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-25",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-02-07-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
         "actual_data": "2024-06-18",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -32635,6 +32613,17 @@
         "minimal_date": "2024-06-09",
         "nzp_zp": "ZP",
         "status": "Выполнено не в срок"
+    },
+    {
+        "actual_data": "2024-08-25",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-02-07-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
     },
     {
         "actual_data": "2024-06-15",
@@ -32648,17 +32637,6 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-07-14",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-03-01-0025",
-        "is_actual": "Актуально",
-        "material_order": "Лущение стерни (ГА)",
-        "minimal_date": "2024-09-21",
-        "nzp_zp": "NZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-06-14",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -32668,6 +32646,17 @@
         "minimal_date": "2024-06-11",
         "nzp_zp": "ZP",
         "status": "Выполнено не в срок"
+    },
+    {
+        "actual_data": "2024-07-14",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-03-01-0025",
+        "is_actual": "Актуально",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": "2024-09-21",
+        "nzp_zp": "NZP",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-09",
@@ -32791,17 +32780,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-05",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-01-04-0022",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-22",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-04-30",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -32811,6 +32789,17 @@
         "minimal_date": "2024-04-26",
         "nzp_zp": "ZP",
         "status": "Выполнено не в срок"
+    },
+    {
+        "actual_data": "2024-06-05",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-01-04-0022",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
+        "minimal_date": "2024-06-22",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-08-13",
@@ -33066,6 +33055,17 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-06-05",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-02-02-0012",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
+        "minimal_date": "2024-06-22",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
         "actual_data": "2024-04-29",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -33085,17 +33085,6 @@
         "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
         "minimal_date": "2024-10-06",
         "nzp_zp": "NZP",
-        "status": "Выполнено в срок"
-    },
-    {
-        "actual_data": "2024-06-05",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-02-02-0012",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-22",
-        "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
     {
@@ -33143,17 +33132,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-28",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-05-03-0141",
-        "is_actual": "Актуально",
-        "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
-        "minimal_date": "2024-07-13",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-05-15",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -33161,6 +33139,17 @@
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
         "minimal_date": "2024-05-30",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-06-28",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-05-03-0141",
+        "is_actual": "Актуально",
+        "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
+        "minimal_date": "2024-07-13",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -33374,23 +33363,23 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-08-25",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-02-18-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
         "actual_data": "2024-07-01",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
         "higher_tm": "BL-01-02-03-0013",
         "is_actual": "Статус отсутствует",
         "material_order": "Подкормка азотная 1-я (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-08-25",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-02-18-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
@@ -33748,17 +33737,6 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-04",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-05-03-0128",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-22",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-06-27",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -33768,6 +33746,17 @@
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-06-04",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-05-03-0128",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
+        "minimal_date": "2024-06-22",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-11",
@@ -33847,17 +33836,6 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-29",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-02-13-0209",
-        "is_actual": "Актуально",
-        "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": "2024-05-26",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-06-06",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -33865,6 +33843,17 @@
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
         "minimal_date": "2024-06-22",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-04-29",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-02-13-0209",
+        "is_actual": "Актуально",
+        "material_order": "Предпосевная культивация (ГА)",
+        "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -34056,17 +34045,6 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-05-08",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-01-01-0023",
-        "is_actual": "Актуально",
-        "material_order": "Посев без внесения удобрений (ГА)",
-        "minimal_date": "2024-05-03",
-        "nzp_zp": "ZP",
-        "status": "Выполнено не в срок"
-    },
-    {
         "actual_data": "2024-06-26",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -34074,6 +34052,17 @@
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я противозлак. обр. (ГА)",
         "minimal_date": "2024-06-05",
+        "nzp_zp": "ZP",
+        "status": "Выполнено не в срок"
+    },
+    {
+        "actual_data": "2024-05-08",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-01-01-0023",
+        "is_actual": "Актуально",
+        "material_order": "Посев без внесения удобрений (ГА)",
+        "minimal_date": "2024-05-03",
         "nzp_zp": "ZP",
         "status": "Выполнено не в срок"
     },
@@ -34474,17 +34463,6 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-08",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "KS-01-02-64-0001",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
-        "minimal_date": "2024-07-20",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-05-09",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -34496,6 +34474,17 @@
         "status": "Выполнено не в срок"
     },
     {
+        "actual_data": "2024-07-08",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "KS-01-02-64-0001",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
+        "minimal_date": "2024-07-20",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
         "actual_data": "2024-08-01",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -34505,6 +34494,17 @@
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-06-13",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-03-01-0006",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 1-я инсектицидная обр. (ГА)",
+        "minimal_date": "2024-06-28",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-11",
@@ -34529,17 +34529,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-13",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-03-01-0006",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР 1-я инсектицидная обр. (ГА)",
-        "minimal_date": "2024-06-28",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-06-04",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -34547,17 +34536,6 @@
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
         "minimal_date": "2024-06-22",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
-        "actual_data": "2024-05-22",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-03-88-0001",
-        "is_actual": "Актуально",
-        "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -34571,6 +34549,17 @@
         "minimal_date": "2024-06-08",
         "nzp_zp": "ZP",
         "status": "Выполнено не в срок"
+    },
+    {
+        "actual_data": "2024-05-22",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-03-88-0001",
+        "is_actual": "Актуально",
+        "material_order": "Посев с внесением удобрений (ГА)",
+        "minimal_date": "2024-05-26",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-19",
@@ -35178,17 +35167,6 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-15",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-01-09-0014",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
-        "minimal_date": "2024-07-20",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-06-21",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -35198,6 +35176,17 @@
         "minimal_date": "2024-06-15",
         "nzp_zp": "ZP",
         "status": "Выполнено не в срок"
+    },
+    {
+        "actual_data": "2024-07-15",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-01-09-0014",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
+        "minimal_date": "2024-07-20",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-15",
@@ -35244,17 +35233,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-08-25",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "KS-01-01-06-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
         "actual_data": "2024-06-25",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -35264,6 +35242,17 @@
         "minimal_date": "2024-06-08",
         "nzp_zp": "ZP",
         "status": "Выполнено не в срок"
+    },
+    {
+        "actual_data": "2024-08-25",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "KS-01-01-06-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
     },
     {
         "actual_data": "2024-05-15",
@@ -35596,17 +35585,6 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-08-05",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-02-09-0005",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение микроудобрений 3-я обр. (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
         "actual_data": "2024-06-26",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -35616,6 +35594,17 @@
         "minimal_date": "2024-06-20",
         "nzp_zp": "ZP",
         "status": "Выполнено не в срок"
+    },
+    {
+        "actual_data": "2024-08-05",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-02-09-0005",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Внесение микроудобрений 3-я обр. (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
     },
     {
         "actual_data": "2024-05-09",
@@ -35662,17 +35651,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-08-25",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "KS-01-02-71-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
         "actual_data": "2024-05-03",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -35682,6 +35660,17 @@
         "minimal_date": "2024-05-03",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-08-25",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "KS-01-02-71-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
     },
     {
         "actual_data": "2024-07-28",
@@ -36212,17 +36201,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-19",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-06-04-0021",
-        "is_actual": "Актуально",
-        "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": "2024-05-20",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-06-18",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -36232,6 +36210,17 @@
         "minimal_date": "2024-06-10",
         "nzp_zp": "ZP",
         "status": "Выполнено не в срок"
+    },
+    {
+        "actual_data": "2024-05-19",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-06-04-0021",
+        "is_actual": "Актуально",
+        "material_order": "Посев с внесением удобрений (ГА)",
+        "minimal_date": "2024-05-20",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-06",
@@ -36256,6 +36245,17 @@
         "status": "Выполнено в срок"
     },
     {
+        "actual_data": "2024-06-07",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-02-01-0020",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
+        "minimal_date": "2024-06-22",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
         "actual_data": "2024-08-25",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -36274,17 +36274,6 @@
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
         "minimal_date": "2024-07-20",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
-        "actual_data": "2024-06-07",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-02-01-0020",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-22",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -36586,17 +36575,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-10",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "KS-01-01-14-0001",
-        "is_actual": "Актуально",
-        "material_order": "Посев без внесения удобрений (ГА)",
-        "minimal_date": "2024-05-26",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-04-14",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -36604,6 +36582,17 @@
         "is_actual": "Актуально",
         "material_order": "Внесение основных ж/аммиачных удоб. (ГА)",
         "minimal_date": "2024-04-24",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-05-10",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "KS-01-01-14-0001",
+        "is_actual": "Актуально",
+        "material_order": "Посев без внесения удобрений (ГА)",
+        "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -36982,17 +36971,6 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-20",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "KS-01-02-54-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР Десикация (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
         "actual_data": "2024-06-05",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -37002,6 +36980,17 @@
         "minimal_date": "2024-06-22",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-08-20",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "KS-01-02-54-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Внесение СЗР Десикация (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
     },
     {
         "actual_data": "2024-07-02",
@@ -37411,17 +37400,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-26",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-07-05-0005",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР 1-я инсектицидная обр. (ГА)",
-        "minimal_date": "2024-08-10",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-06-05",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -37429,6 +37407,17 @@
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
         "minimal_date": "2024-06-22",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-07-26",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-07-05-0005",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 1-я инсектицидная обр. (ГА)",
+        "minimal_date": "2024-08-10",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -37851,17 +37840,6 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-08-13",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-03-32-0001",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР 1-я инсектицидная обр. (ГА)",
-        "minimal_date": "2024-08-28",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-06-29",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -37869,6 +37847,17 @@
         "is_actual": "Актуально",
         "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
         "minimal_date": "2024-07-14",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-08-13",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-03-32-0001",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 1-я инсектицидная обр. (ГА)",
+        "minimal_date": "2024-08-28",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -38016,17 +38005,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-08-09",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-07-01-0033",
-        "is_actual": "Актуально",
-        "material_order": "Лущение стерни (ГА)",
-        "minimal_date": "2024-09-21",
-        "nzp_zp": "NZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-06-06",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -38035,6 +38013,17 @@
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
         "minimal_date": "2024-06-22",
         "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-08-09",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-07-01-0033",
+        "is_actual": "Актуально",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": "2024-09-21",
+        "nzp_zp": "NZP",
         "status": "Выполнено в срок"
     },
     {
@@ -38060,6 +38049,17 @@
         "status": "Выполнено в срок"
     },
     {
+        "actual_data": "2024-05-02",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-02-04-0002",
+        "is_actual": "Актуально",
+        "material_order": "Посев с внесением удобрений (ГА)",
+        "minimal_date": "2024-05-02",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
         "actual_data": "2024-05-16",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -38078,17 +38078,6 @@
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
         "minimal_date": "2024-07-20",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
-        "actual_data": "2024-05-02",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-02-04-0002",
-        "is_actual": "Актуально",
-        "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": "2024-05-02",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -38225,17 +38214,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-08-25",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-03-36-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
         "actual_data": "2024-06-07",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -38245,6 +38223,17 @@
         "minimal_date": "2024-06-22",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-08-25",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-03-36-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
     },
     {
         "actual_data": "2024-08-25",
@@ -38269,17 +38258,6 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-23",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-01-01-0001",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
-        "minimal_date": "2024-07-20",
-        "nzp_zp": "ZP",
-        "status": "Выполнено не в срок"
-    },
-    {
         "actual_data": "2024-05-07",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -38289,6 +38267,17 @@
         "minimal_date": "2024-05-30",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-07-23",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-01-01-0001",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
+        "minimal_date": "2024-07-20",
+        "nzp_zp": "ZP",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-05-04",
@@ -38863,17 +38852,6 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-08-01",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-06-04-0021",
-        "is_actual": "Актуально",
-        "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
-        "minimal_date": "2024-08-16",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-06-06",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -38892,6 +38870,17 @@
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
         "minimal_date": "2024-06-22",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-08-01",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-06-04-0021",
+        "is_actual": "Актуально",
+        "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
+        "minimal_date": "2024-08-16",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -39061,17 +39050,6 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-05-08",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-07-04-0111",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
-        "minimal_date": "2024-05-30",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-06-21",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -39081,6 +39059,17 @@
         "minimal_date": "2024-06-16",
         "nzp_zp": "ZP",
         "status": "Выполнено не в срок"
+    },
+    {
+        "actual_data": "2024-05-08",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-07-04-0111",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
+        "minimal_date": "2024-05-30",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-29",
@@ -39127,17 +39116,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-20",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-05-02-0049",
-        "is_actual": "Актуально",
-        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
-        "minimal_date": "2024-10-06",
-        "nzp_zp": "NZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-06-09",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -39146,6 +39124,17 @@
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
         "minimal_date": "2024-06-22",
         "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-07-20",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-05-02-0049",
+        "is_actual": "Актуально",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": "2024-10-06",
+        "nzp_zp": "NZP",
         "status": "Выполнено в срок"
     },
     {
@@ -39171,17 +39160,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-03",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-06-01-0001",
-        "is_actual": "Актуально",
-        "material_order": "Лущение стерни (ГА)",
-        "minimal_date": "2024-09-21",
-        "nzp_zp": "NZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-04-24",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -39190,6 +39168,17 @@
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-07-03",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-06-01-0001",
+        "is_actual": "Актуально",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": "2024-09-21",
+        "nzp_zp": "NZP",
         "status": "Выполнено в срок"
     },
     {
@@ -39325,17 +39314,6 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-06",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-01-07-0003",
-        "is_actual": "Актуально",
-        "material_order": "Лущение стерни (ГА)",
-        "minimal_date": "2024-09-21",
-        "nzp_zp": "NZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-04-26",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -39344,6 +39322,17 @@
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-08-06",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-01-07-0003",
+        "is_actual": "Актуально",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": "2024-09-21",
+        "nzp_zp": "NZP",
         "status": "Выполнено в срок"
     },
     {
@@ -39556,17 +39545,6 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-05-11",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-01-02-0037",
-        "is_actual": "Актуально",
-        "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": "2024-05-26",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-05-30",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -39574,6 +39552,17 @@
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
         "minimal_date": "2024-06-22",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-05-11",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-01-02-0037",
+        "is_actual": "Актуально",
+        "material_order": "Предпосевная культивация (ГА)",
+        "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -39969,7 +39958,7 @@
         "higher_tm": "BL-01-02-07-0003",
         "is_actual": "Актуально",
         "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
-        "minimal_date": "2024-07-22",
+        "minimal_date": "2024-07-16",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -40326,6 +40315,17 @@
         "status": "Выполнено в срок"
     },
     {
+        "actual_data": "2024-06-07",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-02-07-0004",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
+        "minimal_date": "2024-06-22",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
         "actual_data": "2024-07-27",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -40348,24 +40348,13 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-07",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-02-07-0004",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-22",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-07-09",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
         "higher_tm": "BL-01-02-02-0026",
         "is_actual": "Актуально",
         "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
-        "minimal_date": "2024-07-24",
+        "minimal_date": "2024-07-16",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -40436,17 +40425,6 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-25",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-03-88-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
         "actual_data": "2024-06-23",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -40456,6 +40434,17 @@
         "minimal_date": "2024-06-16",
         "nzp_zp": "ZP",
         "status": "Выполнено не в срок"
+    },
+    {
+        "actual_data": "2024-08-25",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-03-88-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
     },
     {
         "actual_data": "2024-07-22",
@@ -40579,6 +40568,17 @@
         "status": "Операция не отслеживается"
     },
     {
+        "actual_data": "2024-05-08",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-03-03-0010",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
+        "minimal_date": "2024-05-30",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
         "actual_data": "2024-07-05",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -40599,17 +40599,6 @@
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-05-08",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-03-03-0010",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
-        "minimal_date": "2024-05-30",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-06",
@@ -41000,6 +40989,17 @@
         "actual_data": "2024-06-13",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
+        "higher_tm": "BL-01-03-01-0002",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 1-я инсектицидная обр. (ГА)",
+        "minimal_date": "2024-06-28",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-06-13",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
         "higher_tm": "BL-02-05-04-0025",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
@@ -41017,17 +41017,6 @@
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-13",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-03-01-0002",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР 1-я инсектицидная обр. (ГА)",
-        "minimal_date": "2024-06-28",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-04",
@@ -41239,17 +41228,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-10",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-06-03-0018",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
-        "minimal_date": "2024-07-20",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-06-18",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -41259,6 +41237,17 @@
         "minimal_date": "2024-06-09",
         "nzp_zp": "ZP",
         "status": "Выполнено не в срок"
+    },
+    {
+        "actual_data": "2024-07-10",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-06-03-0018",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
+        "minimal_date": "2024-07-20",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-03",
@@ -42086,17 +42075,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-13",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-03-90-0001",
-        "is_actual": "Актуально",
-        "material_order": "Культивация (ГА)",
-        "minimal_date": "2024-05-23",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-04-03",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -42104,6 +42082,17 @@
         "is_actual": "Актуально",
         "material_order": "Внесение основных ж/аммиачных удоб. (ГА)",
         "minimal_date": "2024-04-13",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-05-13",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-03-90-0001",
+        "is_actual": "Актуально",
+        "material_order": "Культивация (ГА)",
+        "minimal_date": "2024-05-23",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -42196,17 +42185,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-08-03",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-07-04-0017",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 3-я инсектицидная обр. (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
         "actual_data": "2024-06-14",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -42216,6 +42194,17 @@
         "minimal_date": "2024-06-08",
         "nzp_zp": "ZP",
         "status": "Выполнено не в срок"
+    },
+    {
+        "actual_data": "2024-08-03",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-07-04-0017",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Внесение СЗР 3-я инсектицидная обр. (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
     },
     {
         "actual_data": "2024-08-04",
@@ -42240,6 +42229,17 @@
         "status": "Выполнено не в срок"
     },
     {
+        "actual_data": "2024-05-17",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-02-07-0004",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
+        "minimal_date": "2024-05-30",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
         "actual_data": "2024-05-04",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -42260,17 +42260,6 @@
         "minimal_date": "2024-06-22",
         "nzp_zp": "ZP",
         "status": "Выполнено не в срок"
-    },
-    {
-        "actual_data": "2024-05-17",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-02-07-0004",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
-        "minimal_date": "2024-05-30",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-14",
@@ -42669,17 +42658,6 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-28",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-02-14-0002",
-        "is_actual": "Актуально",
-        "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
-        "minimal_date": "2024-07-13",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-05-04",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -42687,6 +42665,17 @@
         "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": "2024-05-26",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-06-28",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-02-14-0002",
+        "is_actual": "Актуально",
+        "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
+        "minimal_date": "2024-07-13",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -43142,17 +43131,6 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-10",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-02-09-0014",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение микроудобрений 3-я обр. (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
         "actual_data": "2024-05-16",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -43162,6 +43140,17 @@
         "minimal_date": "2024-05-30",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-08-10",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-02-09-0014",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Внесение микроудобрений 3-я обр. (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
     },
     {
         "actual_data": "2024-06-18",
@@ -43208,6 +43197,17 @@
         "status": "Выполнено в срок"
     },
     {
+        "actual_data": "2024-06-21",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-03-03-0001",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
+        "minimal_date": "2024-06-15",
+        "nzp_zp": "ZP",
+        "status": "Выполнено не в срок"
+    },
+    {
         "actual_data": "2024-05-12",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -43228,17 +43228,6 @@
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-21",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-03-03-0001",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-15",
-        "nzp_zp": "ZP",
-        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-08",
@@ -43263,17 +43252,6 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-28",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-03-42-0001",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-22",
-        "nzp_zp": "ZP",
-        "status": "Выполнено не в срок"
-    },
-    {
         "actual_data": "2024-06-23",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -43281,6 +43259,17 @@
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
         "minimal_date": "2024-06-19",
+        "nzp_zp": "ZP",
+        "status": "Выполнено не в срок"
+    },
+    {
+        "actual_data": "2024-06-28",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-03-42-0001",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
+        "minimal_date": "2024-06-22",
         "nzp_zp": "ZP",
         "status": "Выполнено не в срок"
     },
@@ -43824,17 +43813,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-29",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-02-07-0004",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 2-я противозлак. обр. (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
         "actual_data": "2024-04-30",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -43855,6 +43833,17 @@
         "minimal_date": "2024-04-23",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-07-29",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-02-07-0004",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Внесение СЗР 2-я противозлак. обр. (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "ZP",
+        "status": "Операция не отслеживается"
     },
     {
         "actual_data": "2024-06-18",
@@ -44363,17 +44352,6 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-07-27",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-02-01-01-0029",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
-        "minimal_date": "2024-07-20",
-        "nzp_zp": "ZP",
-        "status": "Выполнено не в срок"
-    },
-    {
         "actual_data": "2024-07-03",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -44383,6 +44361,17 @@
         "minimal_date": "2024-09-21",
         "nzp_zp": "NZP",
         "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-07-27",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-02-01-01-0029",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
+        "minimal_date": "2024-07-20",
+        "nzp_zp": "ZP",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-05-28",
@@ -44407,17 +44396,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-12",
-        "business_dir": "Белгород-Курск",
-        "culture": "Соя",
-        "higher_tm": "BL-01-05-01-0051",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР 1-я противозлак. обр. (ГА)",
-        "minimal_date": "2024-06-09",
-        "nzp_zp": "ZP",
-        "status": "Выполнено не в срок"
-    },
-    {
         "actual_data": "2024-06-21",
         "business_dir": "Белгород-Курск",
         "culture": "Соя",
@@ -44425,6 +44403,17 @@
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
         "minimal_date": "2024-06-17",
+        "nzp_zp": "ZP",
+        "status": "Выполнено не в срок"
+    },
+    {
+        "actual_data": "2024-06-12",
+        "business_dir": "Белгород-Курск",
+        "culture": "Соя",
+        "higher_tm": "BL-01-05-01-0051",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 1-я противозлак. обр. (ГА)",
+        "minimal_date": "2024-06-09",
         "nzp_zp": "ZP",
         "status": "Выполнено не в срок"
     },

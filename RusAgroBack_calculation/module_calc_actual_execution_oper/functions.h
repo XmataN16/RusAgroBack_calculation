@@ -170,85 +170,47 @@ public:
     nlohmann::json to_json() const 
     {
         nlohmann::json j;
-        //j["row_count"] = row_count;
 
         for (int i = 0; i < row_count; ++i) 
         {
             nlohmann::json row;
 
-            row["higher_tm"] = higher_tm[i] ? *higher_tm[i] : nullptr;
-            row["material_order"] = material_order[i] ? *material_order[i] : nullptr;
-            row["culture"] = culture[i] ? *culture[i] : nullptr;
-            row["business_dir"] = business_dir[i] ? *business_dir[i] : nullptr;
-            row["nzp_zp"] = nzp_zp[i] ? *nzp_zp[i] : nullptr;
-            //row["is_completed"] = is_completed[i].has_value() ? is_completed[i].value() : nullptr;
-            /*
-            if (tm_to_str(minimal_planned_date[i]).has_value())
-            {
-                row["minimal_planned_date"] = tm_to_str(minimal_planned_date[i]).value();
-            }
-            else
-            {
-                row["minimal_planned_date"] = nullptr;
-            }
-            */
+            row[u8"higher_tm"] = higher_tm[i] ? *higher_tm[i] : nullptr;
+            row[u8"material_order"] = material_order[i] ? *material_order[i] : nullptr;
+            row[u8"culture"] = culture[i] ? *culture[i] : nullptr;
+            row[u8"business_dir"] = business_dir[i] ? *business_dir[i] : nullptr;
+            row[u8"nzp_zp"] = nzp_zp[i] ? *nzp_zp[i] : nullptr;
             if (tm_to_str(actual_data[i]).has_value())
             {
-                row["actual_data"] = tm_to_str(actual_data[i]).value();
+                row[u8"actual_data"] = tm_to_str(actual_data[i]).value();
             }
             else
             {
-                row["actual_data"] = nullptr;
+                row[u8"actual_data"] = nullptr;
             }
-            /*
-            if (tm_to_str(actual_input_data[i]).has_value())
-            {
-                row["actual_input_data"] = tm_to_str(actual_input_data[i]).value();
-            }
-            else
-            {
-                row["actual_input_data"] = nullptr;
-            }
-            if (tm_to_str(actual_alternative_data[i]).has_value())
-            {
-                row["actual_alternative_data"] = tm_to_str(actual_alternative_data[i]).value();
-            }
-            else
-            {
-                row["actual_alternative_data"] = nullptr;
-            }
-            if (tm_to_str(ten_percent[i]).has_value())
-            {
-                row["ten_percent"] = tm_to_str(ten_percent[i]).value();
-            }
-            else
-            {
-                row["ten_percent"] = nullptr;
-            }
-            */
             if (tm_to_str(minimal_date[i]).has_value())
             {
-                row["minimal_date"] = tm_to_str(minimal_date[i]).value();
+                row[u8"minimal_date"] = tm_to_str(minimal_date[i]).value();
             }
             else
             {
-                row["minimal_date"] = nullptr;
+                row[u8"minimal_date"] = nullptr;
             }
             if (status[i].has_value())
             {
-                row["status"] = status[i].value();
+                row[u8"status"] = status[i].value();
             }
             else
             {
-                row["status"] = nullptr;
+                row[u8"status"] = nullptr;
             }
             if (is_actual[i].has_value())
             {
-                row["is_actual"] = is_actual[i].value();
+                row[u8"is_actual"] = is_actual[i].value();
             }
             else
             {
-                row["is_actual"] = nullptr;
+                row[u8"is_actual"] = nullptr;
             }
 
             j.push_back(row);
@@ -278,42 +240,42 @@ nlohmann::json to_json_all(unique_pairs uniq_pairs[CULTURES_COUNT][REGIONS_COUNT
             {
                 nlohmann::json row;
 
-                row["higher_tm"] = uniq_pairs[culture][region].higher_tm[i] ? *uniq_pairs[culture][region].higher_tm[i] : nullptr;
-                row["material_order"] = uniq_pairs[culture][region].material_order[i] ? *uniq_pairs[culture][region].material_order[i] : nullptr;
-                row["culture"] = uniq_pairs[culture][region].culture[i] ? *uniq_pairs[culture][region].culture[i] : nullptr;
-                row["business_dir"] = uniq_pairs[culture][region].business_dir[i] ? *uniq_pairs[culture][region].business_dir[i] : nullptr;
-                row["nzp_zp"] = uniq_pairs[culture][region].nzp_zp[i] ? *uniq_pairs[culture][region].nzp_zp[i] : nullptr;
+                row[u8"higher_tm"] = uniq_pairs[culture][region].higher_tm[i] ? *uniq_pairs[culture][region].higher_tm[i] : nullptr;
+                row[u8"material_order"] = uniq_pairs[culture][region].material_order[i] ? *uniq_pairs[culture][region].material_order[i] : nullptr;
+                row[u8"culture"] = uniq_pairs[culture][region].culture[i] ? *uniq_pairs[culture][region].culture[i] : nullptr;
+                row[u8"business_dir"] = uniq_pairs[culture][region].business_dir[i] ? *uniq_pairs[culture][region].business_dir[i] : nullptr;
+                row[u8"nzp_zp"] = uniq_pairs[culture][region].nzp_zp[i] ? *uniq_pairs[culture][region].nzp_zp[i] : nullptr;
                 if (tm_to_str(uniq_pairs[culture][region].actual_data[i]).has_value())
                 {
-                    row["actual_data"] = tm_to_str(uniq_pairs[culture][region].actual_data[i]).value();
+                    row[u8"actual_data"] = tm_to_str(uniq_pairs[culture][region].actual_data[i]).value();
                 }
                 else
                 {
-                    row["actual_data"] = nullptr;
+                    row[u8"actual_data"] = nullptr;
                 }
                 if (tm_to_str(uniq_pairs[culture][region].minimal_date[i]).has_value())
                 {
-                    row["minimal_date"] = tm_to_str(uniq_pairs[culture][region].minimal_date[i]).value();
+                    row[u8"minimal_date"] = tm_to_str(uniq_pairs[culture][region].minimal_date[i]).value();
                 }
                 else
                 {
-                    row["minimal_date"] = nullptr;
+                    row[u8"minimal_date"] = nullptr;
                 }
                 if (uniq_pairs[culture][region].status[i].has_value())
                 {
-                    row["status"] = uniq_pairs[culture][region].status[i].value();
+                    row[u8"status"] = uniq_pairs[culture][region].status[i].value();
                 }
                 else
                 {
-                    row["status"] = nullptr;
+                    row[u8"status"] = nullptr;
                 }
                 if (uniq_pairs[culture][region].is_actual[i].has_value())
                 {
-                    row["is_actual"] = uniq_pairs[culture][region].is_actual[i].value();
+                    row[u8"is_actual"] = uniq_pairs[culture][region].is_actual[i].value();
                 }
                 else
                 {
-                    row["is_actual"] = nullptr;
+                    row[u8"is_actual"] = nullptr;
                 }
 
                 j.push_back(row);

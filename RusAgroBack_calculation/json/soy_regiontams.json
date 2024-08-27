@@ -4670,7 +4670,7 @@
         "higher_tm": "TM-06-13-01-0001",
         "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
-        "minimal_date": "2024-05-13",
+        "minimal_date": "2024-05-16",
         "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
@@ -21934,17 +21934,6 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-24",
-        "business_dir": "Тамбов-Юг",
-        "culture": "Соя",
-        "higher_tm": "TM-01-31-29-0003",
-        "is_actual": "Актуально",
-        "material_order": "Посев без внесения удобрений (ГА)",
-        "minimal_date": "2024-05-26",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": "2024-07-12",
         "business_dir": "Тамбов-Юг",
         "culture": "Соя",
@@ -21953,6 +21942,17 @@
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-09-21",
         "nzp_zp": "NZP",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-05-24",
+        "business_dir": "Тамбов-Юг",
+        "culture": "Соя",
+        "higher_tm": "TM-01-31-29-0003",
+        "is_actual": "Актуально",
+        "material_order": "Посев без внесения удобрений (ГА)",
+        "minimal_date": "2024-05-26",
+        "nzp_zp": "ZP",
         "status": "Выполнено в срок"
     },
     {
@@ -27885,7 +27885,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-08-07",
+        "actual_data": "2024-06-30",
         "business_dir": "Тамбов-Юг",
         "culture": "Соя",
         "higher_tm": "TM-06-21-15-0002",
@@ -27893,7 +27893,7 @@
         "material_order": "Внесение СЗР 2-я инсектицидная обр. (ГА)",
         "minimal_date": "2024-06-30",
         "nzp_zp": "ZP",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-08-25",
@@ -30404,7 +30404,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-30",
+        "actual_data": "2024-08-10",
         "business_dir": "Тамбов-Юг",
         "culture": "Соя",
         "higher_tm": "TM-06-21-28-0011",
@@ -30412,7 +30412,7 @@
         "material_order": "Внесение СЗР 2-я инсектицидная обр. (ГА)",
         "minimal_date": "2024-06-30",
         "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-05-25",

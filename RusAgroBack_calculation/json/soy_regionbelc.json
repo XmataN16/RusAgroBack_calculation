@@ -957,6 +957,17 @@
         "status": "Выполнено в срок"
     },
     {
+        "actual_data": "2024-03-30",
+        "business_dir": "Белгород Центр",
+        "culture": "Соя",
+        "higher_tm": "BL-31-01-01-0001",
+        "is_actual": "Актуально",
+        "material_order": "Боронование (ГА)",
+        "minimal_date": "2024-04-09",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
         "actual_data": "2024-07-10",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
@@ -977,17 +988,6 @@
         "minimal_date": "2024-06-17",
         "nzp_zp": "ZP",
         "status": "Выполнено не в срок"
-    },
-    {
-        "actual_data": "2024-03-30",
-        "business_dir": "Белгород Центр",
-        "culture": "Соя",
-        "higher_tm": "BL-31-01-01-0001",
-        "is_actual": "Актуально",
-        "material_order": "Боронование (ГА)",
-        "minimal_date": "2024-04-09",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-24",
@@ -33627,6 +33627,17 @@
         "status": "Выполнено в срок"
     },
     {
+        "actual_data": "2024-06-14",
+        "business_dir": "Белгород Центр",
+        "culture": "Соя",
+        "higher_tm": "BL-31-01-01-0001",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
+        "minimal_date": "2024-06-15",
+        "nzp_zp": "ZP",
+        "status": "Выполнено в срок"
+    },
+    {
         "actual_data": "2024-06-09",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
@@ -33647,17 +33658,6 @@
         "minimal_date": "2024-05-22",
         "nzp_zp": "ZP",
         "status": "Выполнено не в срок"
-    },
-    {
-        "actual_data": "2024-06-14",
-        "business_dir": "Белгород Центр",
-        "culture": "Соя",
-        "higher_tm": "BL-31-01-01-0001",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-15",
-        "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-25",
@@ -52756,17 +52756,6 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-28",
-        "business_dir": "Белгород Центр",
-        "culture": "Соя",
-        "higher_tm": "BL-10-02-39-0013",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
-        "minimal_date": "2024-07-20",
-        "nzp_zp": "ZP",
-        "status": "Выполнено не в срок"
-    },
-    {
         "actual_data": "2024-06-12",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
@@ -52776,6 +52765,17 @@
         "minimal_date": null,
         "nzp_zp": "ZP",
         "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": "2024-07-28",
+        "business_dir": "Белгород Центр",
+        "culture": "Соя",
+        "higher_tm": "BL-10-02-39-0013",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
+        "minimal_date": "2024-07-20",
+        "nzp_zp": "ZP",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-12",
