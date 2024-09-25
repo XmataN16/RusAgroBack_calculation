@@ -4,22 +4,26 @@
         "business_dir": "Белгород Центр",
         "culture": "Чечевица",
         "higher_tm": "BL-10-01-16-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-01",
         "business_dir": "Белгород Центр",
         "culture": "Чечевица",
         "higher_tm": "BL-10-01-16-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-13",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 30,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-10",
@@ -30,6 +34,8 @@
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
         "minimal_date": "2024-04-18",
         "nzp_zp": "ZP",
+        "order": 90,
+        "pu": "РАИ ПУ Покровский",
         "status": "Выполнено в срок"
     },
     {
@@ -37,55 +43,65 @@
         "business_dir": "Белгород Центр",
         "culture": "Чечевица",
         "higher_tm": "BL-10-01-16-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Десикация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-22",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-02",
         "business_dir": "Белгород Центр",
         "culture": "Чечевица",
         "higher_tm": "BL-10-01-16-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-13",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-01",
         "business_dir": "Белгород Центр",
         "culture": "Чечевица",
         "higher_tm": "BL-10-01-16-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-11",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 10,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-20",
+        "actual_data": "2024-07-19",
         "business_dir": "Белгород Центр",
         "culture": "Чечевица",
         "higher_tm": "BL-10-01-16-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-30",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 50,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-01",
         "business_dir": "Белгород Центр",
         "culture": "Чечевица",
         "higher_tm": "BL-10-01-16-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-13",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 30,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-10",
@@ -96,73 +112,87 @@
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
         "minimal_date": "2024-04-18",
         "nzp_zp": "ZP",
+        "order": 90,
+        "pu": "РАИ ПУ Покровский",
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-12",
+        "actual_data": null,
         "business_dir": "Белгород Центр",
         "culture": "Чечевица",
         "higher_tm": "BL-10-01-16-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР Десикация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-22",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-04-01",
+        "actual_data": "2024-04-03",
         "business_dir": "Белгород Центр",
         "culture": "Чечевица",
         "higher_tm": "BL-10-01-16-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-13",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-01",
+        "actual_data": "2024-03-29",
         "business_dir": "Белгород Центр",
         "culture": "Чечевица",
         "higher_tm": "BL-10-01-16-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-11",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 10,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-20",
+        "actual_data": "2024-07-19",
         "business_dir": "Белгород Центр",
         "culture": "Чечевица",
         "higher_tm": "BL-10-01-16-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-30",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 50,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-01",
         "business_dir": "Белгород Центр",
         "culture": "Чечевица",
         "higher_tm": "BL-10-01-16-0007",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-06",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-01",
         "business_dir": "Белгород Центр",
         "culture": "Чечевица",
         "higher_tm": "BL-10-01-16-0007",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-13",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 30,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-10",
@@ -173,73 +203,87 @@
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
         "minimal_date": "2024-04-18",
         "nzp_zp": "ZP",
+        "order": 90,
+        "pu": "РАИ ПУ Покровский",
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-20",
+        "actual_data": null,
         "business_dir": "Белгород Центр",
         "culture": "Чечевица",
         "higher_tm": "BL-10-01-16-0007",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР Десикация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-22",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-04-03",
         "business_dir": "Белгород Центр",
         "culture": "Чечевица",
         "higher_tm": "BL-10-01-16-0007",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-13",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-02",
         "business_dir": "Белгород Центр",
         "culture": "Чечевица",
         "higher_tm": "BL-10-01-16-0007",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-12",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 10,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-19",
         "business_dir": "Белгород Центр",
         "culture": "Чечевица",
         "higher_tm": "BL-10-01-16-0007",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-30",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 50,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-01",
+        "actual_data": null,
         "business_dir": "Белгород Центр",
         "culture": "Чечевица",
         "higher_tm": "BL-10-01-16-0009",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Боронование (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-06",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-05-01",
         "business_dir": "Белгород Центр",
         "culture": "Чечевица",
         "higher_tm": "BL-10-01-16-0009",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-13",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 30,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-10",
@@ -250,62 +294,74 @@
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
         "minimal_date": "2024-04-18",
         "nzp_zp": "ZP",
+        "order": 90,
+        "pu": "РАИ ПУ Покровский",
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-12",
+        "actual_data": "2024-06-20",
         "business_dir": "Белгород Центр",
         "culture": "Чечевица",
         "higher_tm": "BL-10-01-16-0009",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Десикация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-22",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-03",
         "business_dir": "Белгород Центр",
         "culture": "Чечевица",
         "higher_tm": "BL-10-01-16-0009",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-13",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-02",
+        "actual_data": null,
         "business_dir": "Белгород Центр",
         "culture": "Чечевица",
         "higher_tm": "BL-10-01-16-0009",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-12",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 10,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-07-21",
+        "actual_data": null,
         "business_dir": "Белгород Центр",
         "culture": "Чечевица",
         "higher_tm": "BL-10-01-16-0009",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-31",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 50,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-05-01",
         "business_dir": "Белгород Центр",
         "culture": "Чечевица",
         "higher_tm": "BL-10-01-16-0015",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-13",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 30,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-10",
@@ -316,62 +372,74 @@
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
         "minimal_date": "2024-04-18",
         "nzp_zp": "ZP",
+        "order": 90,
+        "pu": "РАИ ПУ Покровский",
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-12",
+        "actual_data": "2024-06-20",
         "business_dir": "Белгород Центр",
         "culture": "Чечевица",
         "higher_tm": "BL-10-01-16-0015",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Десикация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-22",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-03",
         "business_dir": "Белгород Центр",
         "culture": "Чечевица",
         "higher_tm": "BL-10-01-16-0015",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-13",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-20",
         "business_dir": "Белгород Центр",
         "culture": "Чечевица",
         "higher_tm": "BL-10-01-16-0015",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-30",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 50,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-10",
         "business_dir": "Белгород Центр",
         "culture": "Чечевица",
         "higher_tm": "BL-10-02-04-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Десикация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-20",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-14",
+        "actual_data": null,
         "business_dir": "Белгород Центр",
         "culture": "Чечевица",
         "higher_tm": "BL-10-02-04-0001",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
         "minimal_date": "2024-04-16",
         "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
+        "order": 80,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-05-17",
@@ -382,62 +450,74 @@
         "material_order": "Внесение СЗР Противозлаковая обр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "РАИ ПУ Веселовский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-05",
+        "actual_data": null,
         "business_dir": "Белгород Центр",
         "culture": "Чечевица",
         "higher_tm": "BL-10-02-04-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-13",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-04-04",
         "business_dir": "Белгород Центр",
         "culture": "Чечевица",
         "higher_tm": "BL-10-02-04-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 10,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-21",
+        "actual_data": null,
         "business_dir": "Белгород Центр",
         "culture": "Чечевица",
         "higher_tm": "BL-10-02-04-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-31",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 50,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-04-01",
         "business_dir": "Белгород Центр",
         "culture": "Чечевица",
         "higher_tm": "BL-10-02-04-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-06",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-10",
         "business_dir": "Белгород Центр",
         "culture": "Чечевица",
         "higher_tm": "BL-10-02-04-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Десикация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-20",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-13",
@@ -448,6 +528,8 @@
         "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
         "minimal_date": "2024-04-16",
         "nzp_zp": "ZP",
+        "order": 80,
+        "pu": "РАИ ПУ Веселовский",
         "status": "Выполнено в срок"
     },
     {
@@ -459,62 +541,74 @@
         "material_order": "Внесение СЗР Противозлаковая обр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "РАИ ПУ Веселовский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-04",
+        "actual_data": null,
         "business_dir": "Белгород Центр",
         "culture": "Чечевица",
         "higher_tm": "BL-10-02-04-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-13",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-04-04",
         "business_dir": "Белгород Центр",
         "culture": "Чечевица",
         "higher_tm": "BL-10-02-04-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 10,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-21",
+        "actual_data": null,
         "business_dir": "Белгород Центр",
         "culture": "Чечевица",
         "higher_tm": "BL-10-02-04-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-31",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 50,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-04-02",
         "business_dir": "Белгород Центр",
         "culture": "Чечевица",
         "higher_tm": "BL-10-02-04-0009",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-07",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-10",
+        "actual_data": "2024-06-20",
         "business_dir": "Белгород Центр",
         "culture": "Чечевица",
         "higher_tm": "BL-10-02-04-0009",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Десикация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-20",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-14",
@@ -525,6 +619,8 @@
         "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
         "minimal_date": "2024-04-16",
         "nzp_zp": "ZP",
+        "order": 80,
+        "pu": "РАИ ПУ Веселовский",
         "status": "Выполнено в срок"
     },
     {
@@ -536,6 +632,8 @@
         "material_order": "Внесение СЗР Противозлаковая обр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "РАИ ПУ Веселовский",
         "status": "Операция не отслеживается"
     },
     {
@@ -543,87 +641,103 @@
         "business_dir": "Белгород Центр",
         "culture": "Чечевица",
         "higher_tm": "BL-10-02-04-0009",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-13",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-05",
         "business_dir": "Белгород Центр",
         "culture": "Чечевица",
         "higher_tm": "BL-10-02-04-0009",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 10,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-21",
         "business_dir": "Белгород Центр",
         "culture": "Чечевица",
         "higher_tm": "BL-10-02-04-0009",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-31",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 50,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-30",
+        "actual_data": null,
         "business_dir": "Белгород Центр",
         "culture": "Чечевица",
         "higher_tm": "BL-10-03-34-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-04",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-07-29",
         "business_dir": "Белгород Центр",
         "culture": "Чечевица",
         "higher_tm": "BL-10-03-34-0008",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-04",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-08-10",
+        "actual_data": null,
         "business_dir": "Белгород Центр",
         "culture": "Чечевица",
         "higher_tm": "BL-10-03-34-0008",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-19",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-07-14",
+        "actual_data": "2024-07-03",
         "business_dir": "Белгород Центр",
         "culture": "Чечевица",
         "higher_tm": "BL-10-03-34-0009",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-04",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-08-11",
         "business_dir": "Белгород Центр",
         "culture": "Чечевица",
         "higher_tm": "BL-10-03-34-0009",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-19",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     }
 ]

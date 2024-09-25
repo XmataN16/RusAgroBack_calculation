@@ -4,11 +4,13 @@
         "business_dir": "Белгород Центр",
         "culture": "Кукуруза на зерно",
         "higher_tm": "BL-10-05-05-0001",
-        "is_actual": "Актуально",
+        "is_actual": "Статус отсутствует",
         "material_order": "Боронование (ГА)",
-        "minimal_date": "2024-04-01",
+        "minimal_date": null,
         "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
+        "order": 270,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Операция не отслеживается"
     },
     {
         "actual_data": "2024-07-01",
@@ -19,6 +21,8 @@
         "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "РАИ ПУ Покровский",
         "status": "Операция не отслеживается"
     },
     {
@@ -30,18 +34,22 @@
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": 310,
+        "pu": "РАИ ПУ Покровский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-20",
+        "actual_data": "2024-07-22",
         "business_dir": "Белгород Центр",
         "culture": "Кукуруза на зерно",
         "higher_tm": "BL-10-05-05-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я инсектицидная обр. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-01",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-07",
@@ -52,10 +60,12 @@
         "material_order": "Междурядная обработка с внесен. КАС (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "РАИ ПУ Покровский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-13",
+        "actual_data": "2024-04-12",
         "business_dir": "Белгород Центр",
         "culture": "Кукуруза на зерно",
         "higher_tm": "BL-10-05-05-0001",
@@ -63,21 +73,25 @@
         "material_order": "Посев с внесением удобрений (ГА)",
         "minimal_date": "2024-04-30",
         "nzp_zp": "ZP",
+        "order": 190,
+        "pu": "РАИ ПУ Покровский",
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-13",
+        "actual_data": null,
         "business_dir": "Белгород Центр",
         "culture": "Кукуруза на зерно",
         "higher_tm": "BL-10-05-05-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 280,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-09-15",
+        "actual_data": null,
         "business_dir": "Белгород Центр",
         "culture": "Кукуруза на зерно",
         "higher_tm": "BL-10-05-05-0001",
@@ -85,6 +99,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": 330,
+        "pu": "РАИ ПУ Покровский",
         "status": "Операция не отслеживается"
     },
     {
@@ -92,11 +108,13 @@
         "business_dir": "Белгород Центр",
         "culture": "Кукуруза на зерно",
         "higher_tm": "BL-10-05-05-0003",
-        "is_actual": "Актуально",
+        "is_actual": "Статус отсутствует",
         "material_order": "Боронование (ГА)",
-        "minimal_date": "2024-04-03",
+        "minimal_date": null,
         "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
+        "order": 270,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Операция не отслеживается"
     },
     {
         "actual_data": "2024-07-01",
@@ -107,6 +125,8 @@
         "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "РАИ ПУ Покровский",
         "status": "Операция не отслеживается"
     },
     {
@@ -118,18 +138,22 @@
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": 310,
+        "pu": "РАИ ПУ Покровский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-20",
+        "actual_data": null,
         "business_dir": "Белгород Центр",
         "culture": "Кукуруза на зерно",
         "higher_tm": "BL-10-05-05-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 1-я инсектицидная обр. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-03",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-06-08",
@@ -140,32 +164,38 @@
         "material_order": "Междурядная обработка с внесен. КАС (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "РАИ ПУ Покровский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-17",
+        "actual_data": null,
         "business_dir": "Белгород Центр",
         "culture": "Кукуруза на зерно",
         "higher_tm": "BL-10-05-05-0003",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Посев с внесением удобрений (ГА)",
         "minimal_date": "2024-04-30",
         "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
+        "order": 190,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-04-15",
+        "actual_data": null,
         "business_dir": "Белгород Центр",
         "culture": "Кукуруза на зерно",
         "higher_tm": "BL-10-05-05-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 280,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-09-15",
+        "actual_data": null,
         "business_dir": "Белгород Центр",
         "culture": "Кукуруза на зерно",
         "higher_tm": "BL-10-05-05-0003",
@@ -173,6 +203,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": 330,
+        "pu": "РАИ ПУ Покровский",
         "status": "Операция не отслеживается"
     }
 ]

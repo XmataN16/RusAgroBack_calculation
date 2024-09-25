@@ -1,17 +1,19 @@
 [
     {
-        "actual_data": "2024-04-13",
+        "actual_data": null,
         "business_dir": "Тамбов-Север",
         "culture": "Кукуруза на зерно",
         "higher_tm": "TM-04-61-64-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение азот. удобр. перед севом (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-29",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 260,
+        "pu": "АГТ ПУ Богословский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-06-06",
+        "actual_data": null,
         "business_dir": "Тамбов-Север",
         "culture": "Кукуруза на зерно",
         "higher_tm": "TM-04-61-64-0001",
@@ -19,21 +21,25 @@
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": 310,
+        "pu": "АГТ ПУ Богословский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-03",
+        "actual_data": "2024-05-20",
         "business_dir": "Тамбов-Север",
         "culture": "Кукуруза на зерно",
         "higher_tm": "TM-04-61-64-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-18",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 320,
+        "pu": "АГТ ПУ Богословский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-29",
+        "actual_data": "2024-04-30",
         "business_dir": "Тамбов-Север",
         "culture": "Кукуруза на зерно",
         "higher_tm": "TM-04-61-64-0001",
@@ -41,10 +47,12 @@
         "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": 300,
+        "pu": "АГТ ПУ Богословский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-26",
+        "actual_data": null,
         "business_dir": "Тамбов-Север",
         "culture": "Кукуруза на зерно",
         "higher_tm": "TM-04-61-64-0001",
@@ -52,6 +60,8 @@
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": 290,
+        "pu": "АГТ ПУ Богословский",
         "status": "Операция не отслеживается"
     },
     {
@@ -63,21 +73,25 @@
         "material_order": "Посев с внесением удобрений (ГА)",
         "minimal_date": "2024-05-07",
         "nzp_zp": "ZP",
+        "order": 190,
+        "pu": "АГТ ПУ Богословский",
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-24",
+        "actual_data": null,
         "business_dir": "Тамбов-Север",
         "culture": "Кукуруза на зерно",
         "higher_tm": "TM-04-61-64-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 280,
+        "pu": "АГТ ПУ Богословский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-10-16",
+        "actual_data": null,
         "business_dir": "Тамбов-Север",
         "culture": "Кукуруза на зерно",
         "higher_tm": "TM-04-61-64-0001",
@@ -85,6 +99,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": 330,
+        "pu": "АГТ ПУ Богословский",
         "status": "Операция не отслеживается"
     }
 ]

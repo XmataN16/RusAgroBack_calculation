@@ -4,11 +4,13 @@
         "business_dir": "Белгород-Курск",
         "culture": "Чечевица",
         "higher_tm": "BL-01-05-01-0027",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-11",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Малотроицкий",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-19",
@@ -19,6 +21,8 @@
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
         "minimal_date": "2024-04-26",
         "nzp_zp": "ZP",
+        "order": 90,
+        "pu": "РАИ ПУ Малотроицкий",
         "status": "Выполнено в срок"
     },
     {
@@ -26,11 +30,13 @@
         "business_dir": "Белгород-Курск",
         "culture": "Чечевица",
         "higher_tm": "BL-01-05-01-0027",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Десикация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-23",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Малотроицкий",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-28",
@@ -41,54 +47,64 @@
         "material_order": "Внесение СЗР Противозлаковая обр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "РАИ ПУ Малотроицкий",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-14",
+        "actual_data": "2024-04-15",
         "business_dir": "Белгород-Курск",
         "culture": "Чечевица",
         "higher_tm": "BL-01-05-01-0027",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-21",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "РАИ ПУ Малотроицкий",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-14",
         "business_dir": "Белгород-Курск",
         "culture": "Чечевица",
         "higher_tm": "BL-01-05-01-0027",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-24",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 10,
+        "pu": "РАИ ПУ Малотроицкий",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-21",
         "business_dir": "Белгород-Курск",
         "culture": "Чечевица",
         "higher_tm": "BL-01-05-01-0027",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-31",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 50,
+        "pu": "РАИ ПУ Малотроицкий",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-03",
         "business_dir": "Белгород-Курск",
         "culture": "Чечевица",
         "higher_tm": "BL-01-05-02-0031",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-08",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Малотроицкий",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-19",
+        "actual_data": "2024-04-18",
         "business_dir": "Белгород-Курск",
         "culture": "Чечевица",
         "higher_tm": "BL-01-05-02-0031",
@@ -96,6 +112,8 @@
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
         "minimal_date": "2024-04-26",
         "nzp_zp": "ZP",
+        "order": 90,
+        "pu": "РАИ ПУ Малотроицкий",
         "status": "Выполнено в срок"
     },
     {
@@ -103,11 +121,13 @@
         "business_dir": "Белгород-Курск",
         "culture": "Чечевица",
         "higher_tm": "BL-01-05-02-0031",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Десикация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-23",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Малотроицкий",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-29",
@@ -118,6 +138,8 @@
         "material_order": "Внесение СЗР Противозлаковая обр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "РАИ ПУ Малотроицкий",
         "status": "Операция не отслеживается"
     },
     {
@@ -125,44 +147,52 @@
         "business_dir": "Белгород-Курск",
         "culture": "Чечевица",
         "higher_tm": "BL-01-05-02-0031",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-21",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "РАИ ПУ Малотроицкий",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-20",
+        "actual_data": "2024-07-22",
         "business_dir": "Белгород-Курск",
         "culture": "Чечевица",
         "higher_tm": "BL-01-05-02-0031",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-01",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 50,
+        "pu": "РАИ ПУ Малотроицкий",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-08",
         "business_dir": "Белгород-Курск",
         "culture": "Чечевица",
         "higher_tm": "BL-01-05-03-0032",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-13",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Малотроицкий",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-23",
+        "actual_data": null,
         "business_dir": "Белгород-Курск",
         "culture": "Чечевица",
         "higher_tm": "BL-01-05-03-0032",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР Десикация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-25",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Малотроицкий",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-05-29",
@@ -173,6 +203,8 @@
         "material_order": "Внесение СЗР Противозлаковая обр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "РАИ ПУ Малотроицкий",
         "status": "Операция не отслеживается"
     },
     {
@@ -180,33 +212,39 @@
         "business_dir": "Белгород-Курск",
         "culture": "Чечевица",
         "higher_tm": "BL-01-05-03-0032",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-21",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "РАИ ПУ Малотроицкий",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-26",
         "business_dir": "Белгород-Курск",
         "culture": "Чечевица",
         "higher_tm": "BL-01-05-03-0032",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 50,
+        "pu": "РАИ ПУ Малотроицкий",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-03",
         "business_dir": "Белгород-Курск",
         "culture": "Чечевица",
         "higher_tm": "BL-01-05-06-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-08",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Малотроицкий",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-19",
@@ -217,6 +255,8 @@
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
         "minimal_date": "2024-04-26",
         "nzp_zp": "ZP",
+        "order": 90,
+        "pu": "РАИ ПУ Малотроицкий",
         "status": "Выполнено в срок"
     },
     {
@@ -224,11 +264,13 @@
         "business_dir": "Белгород-Курск",
         "culture": "Чечевица",
         "higher_tm": "BL-01-05-06-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Десикация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-26",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Малотроицкий",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-29",
@@ -239,6 +281,8 @@
         "material_order": "Внесение СЗР Противозлаковая обр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "РАИ ПУ Малотроицкий",
         "status": "Операция не отслеживается"
     },
     {
@@ -246,33 +290,39 @@
         "business_dir": "Белгород-Курск",
         "culture": "Чечевица",
         "higher_tm": "BL-01-05-06-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-21",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "РАИ ПУ Малотроицкий",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-20",
         "business_dir": "Белгород-Курск",
         "culture": "Чечевица",
         "higher_tm": "BL-01-05-06-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-30",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 50,
+        "pu": "РАИ ПУ Малотроицкий",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-02",
         "business_dir": "Белгород-Курск",
         "culture": "Чечевица",
         "higher_tm": "BL-01-05-07-0012",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-07",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Малотроицкий",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-18",
@@ -283,6 +333,8 @@
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
         "minimal_date": "2024-04-26",
         "nzp_zp": "ZP",
+        "order": 90,
+        "pu": "РАИ ПУ Малотроицкий",
         "status": "Выполнено в срок"
     },
     {
@@ -290,11 +342,13 @@
         "business_dir": "Белгород-Курск",
         "culture": "Чечевица",
         "higher_tm": "BL-01-05-07-0012",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Десикация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-23",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Малотроицкий",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-28",
@@ -305,6 +359,8 @@
         "material_order": "Внесение СЗР Противозлаковая обр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "РАИ ПУ Малотроицкий",
         "status": "Операция не отслеживается"
     },
     {
@@ -312,33 +368,39 @@
         "business_dir": "Белгород-Курск",
         "culture": "Чечевица",
         "higher_tm": "BL-01-05-07-0012",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-21",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "РАИ ПУ Малотроицкий",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-25",
+        "actual_data": "2024-07-20",
         "business_dir": "Белгород-Курск",
         "culture": "Чечевица",
         "higher_tm": "BL-01-05-07-0012",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-04",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 50,
+        "pu": "РАИ ПУ Малотроицкий",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-04",
+        "actual_data": "2024-04-05",
         "business_dir": "Белгород-Курск",
         "culture": "Чечевица",
         "higher_tm": "BL-01-05-08-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Малотроицкий",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-18",
@@ -349,6 +411,8 @@
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
         "minimal_date": "2024-04-26",
         "nzp_zp": "ZP",
+        "order": 90,
+        "pu": "РАИ ПУ Малотроицкий",
         "status": "Выполнено в срок"
     },
     {
@@ -356,11 +420,13 @@
         "business_dir": "Белгород-Курск",
         "culture": "Чечевица",
         "higher_tm": "BL-01-05-08-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Десикация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-25",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Малотроицкий",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-29",
@@ -371,17 +437,8 @@
         "material_order": "Внесение СЗР Противозлаковая обр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-04-14",
-        "business_dir": "Белгород-Курск",
-        "culture": "Чечевица",
-        "higher_tm": "BL-01-05-08-0003",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
+        "order": null,
+        "pu": "РАИ ПУ Малотроицкий",
         "status": "Операция не отслеживается"
     },
     {
@@ -389,33 +446,52 @@
         "business_dir": "Белгород-Курск",
         "culture": "Чечевица",
         "higher_tm": "BL-01-05-08-0003",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "is_actual": "Актуально",
+        "material_order": "Посев с внесением удобрений (ГА)",
+        "minimal_date": "2024-04-21",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "РАИ ПУ Малотроицкий",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-04-13",
+        "business_dir": "Белгород-Курск",
+        "culture": "Чечевица",
+        "higher_tm": "BL-01-05-08-0003",
+        "is_actual": "Актуально",
+        "material_order": "Предпосевная культивация (ГА)",
+        "minimal_date": "2024-04-23",
+        "nzp_zp": "ZP",
+        "order": 10,
+        "pu": "РАИ ПУ Малотроицкий",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-24",
         "business_dir": "Белгород-Курск",
         "culture": "Чечевица",
         "higher_tm": "BL-01-05-08-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-03",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 50,
+        "pu": "РАИ ПУ Малотроицкий",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-05",
         "business_dir": "Белгород-Курск",
         "culture": "Чечевица",
         "higher_tm": "BL-01-05-08-0101",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Малотроицкий",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-18",
@@ -426,6 +502,8 @@
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
         "minimal_date": "2024-04-26",
         "nzp_zp": "ZP",
+        "order": 90,
+        "pu": "РАИ ПУ Малотроицкий",
         "status": "Выполнено в срок"
     },
     {
@@ -433,11 +511,13 @@
         "business_dir": "Белгород-Курск",
         "culture": "Чечевица",
         "higher_tm": "BL-01-05-08-0101",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Десикация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-25",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Малотроицкий",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-29",
@@ -448,6 +528,8 @@
         "material_order": "Внесение СЗР Противозлаковая обр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "РАИ ПУ Малотроицкий",
         "status": "Операция не отслеживается"
     },
     {
@@ -455,44 +537,52 @@
         "business_dir": "Белгород-Курск",
         "culture": "Чечевица",
         "higher_tm": "BL-01-05-08-0101",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-21",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "РАИ ПУ Малотроицкий",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-22",
         "business_dir": "Белгород-Курск",
         "culture": "Чечевица",
         "higher_tm": "BL-01-05-08-0101",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-01",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 50,
+        "pu": "РАИ ПУ Малотроицкий",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-06",
         "business_dir": "Белгород-Курск",
         "culture": "Чечевица",
         "higher_tm": "BL-01-05-10-0017",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-11",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Малотроицкий",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-15",
         "business_dir": "Белгород-Курск",
         "culture": "Чечевица",
         "higher_tm": "BL-01-05-10-0017",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Десикация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-25",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Малотроицкий",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-28",
@@ -503,6 +593,8 @@
         "material_order": "Внесение СЗР Противозлаковая обр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "РАИ ПУ Малотроицкий",
         "status": "Операция не отслеживается"
     },
     {
@@ -510,32 +602,38 @@
         "business_dir": "Белгород-Курск",
         "culture": "Чечевица",
         "higher_tm": "BL-01-05-10-0017",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-21",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "РАИ ПУ Малотроицкий",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-08",
         "business_dir": "Белгород-Курск",
         "culture": "Чечевица",
         "higher_tm": "BL-01-05-10-0017",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-18",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 10,
+        "pu": "РАИ ПУ Малотроицкий",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-22",
         "business_dir": "Белгород-Курск",
         "culture": "Чечевица",
         "higher_tm": "BL-01-05-10-0017",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-01",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 50,
+        "pu": "РАИ ПУ Малотроицкий",
+        "status": "Выполнено в срок"
     }
 ]

@@ -4,11 +4,13 @@
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-02-03-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-30",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "ОтА ПУ Жилинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-09",
@@ -19,6 +21,8 @@
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
         "minimal_date": "2024-05-24",
         "nzp_zp": "ZP",
+        "order": 140,
+        "pu": "ОтА ПУ Жилинский",
         "status": "Выполнено не в срок"
     },
     {
@@ -26,11 +30,13 @@
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-02-03-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Десикация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-20",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "ОтА ПУ Жилинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-06",
@@ -41,29 +47,35 @@
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-04-13",
         "nzp_zp": "ZP",
+        "order": 0,
+        "pu": "ОтА ПУ Жилинский",
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-20",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-02-03-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-30",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "ОтА ПУ Жилинский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-04-24",
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-02-04-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-01",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "ОтА ПУ Жилинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-09",
@@ -74,18 +86,22 @@
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
         "minimal_date": "2024-05-24",
         "nzp_zp": "ZP",
+        "order": 140,
+        "pu": "ОтА ПУ Жилинский",
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-07-13",
+        "actual_data": "2024-07-10",
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-02-04-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Десикация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-20",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "ОтА ПУ Жилинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-06",
@@ -96,29 +112,35 @@
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-04-13",
         "nzp_zp": "ZP",
+        "order": 0,
+        "pu": "ОтА ПУ Жилинский",
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-20",
+        "actual_data": "2024-07-17",
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-02-04-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-30",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "ОтА ПУ Жилинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-23",
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-02-05-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-30",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "ОтА ПУ Жилинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-09",
@@ -129,6 +151,8 @@
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
         "minimal_date": "2024-05-24",
         "nzp_zp": "ZP",
+        "order": 140,
+        "pu": "ОтА ПУ Жилинский",
         "status": "Выполнено не в срок"
     },
     {
@@ -136,11 +160,13 @@
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-02-05-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Десикация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-20",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "ОтА ПУ Жилинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-05",
@@ -151,29 +177,35 @@
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-04-12",
         "nzp_zp": "ZP",
+        "order": 0,
+        "pu": "ОтА ПУ Жилинский",
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-20",
+        "actual_data": "2024-07-17",
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-02-05-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-30",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "ОтА ПУ Жилинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-23",
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-02-06-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-30",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "ОтА ПУ Жилинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-09",
@@ -184,6 +216,8 @@
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
         "minimal_date": "2024-05-24",
         "nzp_zp": "ZP",
+        "order": 140,
+        "pu": "ОтА ПУ Жилинский",
         "status": "Выполнено не в срок"
     },
     {
@@ -191,11 +225,13 @@
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-02-06-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Десикация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-19",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "ОтА ПУ Жилинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-05",
@@ -206,29 +242,35 @@
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-04-12",
         "nzp_zp": "ZP",
+        "order": 0,
+        "pu": "ОтА ПУ Жилинский",
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-19",
+        "actual_data": "2024-07-18",
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-02-06-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-29",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "ОтА ПУ Жилинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-24",
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-02-09-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-01",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "ОтА ПУ Жилинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-10",
@@ -239,6 +281,8 @@
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
         "minimal_date": "2024-05-24",
         "nzp_zp": "ZP",
+        "order": 140,
+        "pu": "ОтА ПУ Жилинский",
         "status": "Выполнено не в срок"
     },
     {
@@ -246,11 +290,13 @@
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-02-09-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Десикация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-22",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "ОтА ПУ Жилинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-06",
@@ -261,6 +307,8 @@
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-04-13",
         "nzp_zp": "ZP",
+        "order": 0,
+        "pu": "ОтА ПУ Жилинский",
         "status": "Выполнено в срок"
     },
     {
@@ -268,22 +316,26 @@
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-02-09-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-31",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "ОтА ПУ Жилинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-24",
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-02-09-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-01",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "ОтА ПУ Жилинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-11",
@@ -294,6 +346,8 @@
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
         "minimal_date": "2024-05-24",
         "nzp_zp": "ZP",
+        "order": 140,
+        "pu": "ОтА ПУ Жилинский",
         "status": "Выполнено не в срок"
     },
     {
@@ -301,11 +355,13 @@
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-02-09-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Десикация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-22",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "ОтА ПУ Жилинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-06",
@@ -316,29 +372,35 @@
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-04-13",
         "nzp_zp": "ZP",
+        "order": 0,
+        "pu": "ОтА ПУ Жилинский",
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-20",
+        "actual_data": "2024-07-21",
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-02-09-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-31",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "ОтА ПУ Жилинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-24",
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-02-09-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-01",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "ОтА ПУ Жилинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-10",
@@ -349,6 +411,8 @@
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
         "minimal_date": "2024-05-24",
         "nzp_zp": "ZP",
+        "order": 140,
+        "pu": "ОтА ПУ Жилинский",
         "status": "Выполнено не в срок"
     },
     {
@@ -356,11 +420,13 @@
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-02-09-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Десикация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-22",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "ОтА ПУ Жилинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-06",
@@ -371,6 +437,8 @@
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-04-13",
         "nzp_zp": "ZP",
+        "order": 0,
+        "pu": "ОтА ПУ Жилинский",
         "status": "Выполнено в срок"
     },
     {
@@ -378,22 +446,26 @@
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-02-09-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-01",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "ОтА ПУ Жилинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-24",
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-02-09-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-01",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "ОтА ПУ Жилинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-10",
@@ -404,6 +476,8 @@
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
         "minimal_date": "2024-05-24",
         "nzp_zp": "ZP",
+        "order": 140,
+        "pu": "ОтА ПУ Жилинский",
         "status": "Выполнено не в срок"
     },
     {
@@ -411,11 +485,13 @@
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-02-09-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Десикация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-22",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "ОтА ПУ Жилинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-06",
@@ -426,6 +502,8 @@
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-04-13",
         "nzp_zp": "ZP",
+        "order": 0,
+        "pu": "ОтА ПУ Жилинский",
         "status": "Выполнено в срок"
     },
     {
@@ -433,22 +511,26 @@
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-02-09-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-01",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "ОтА ПУ Жилинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-25",
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-02-33-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-02",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "ОтА ПУ Жилинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-14",
@@ -459,10 +541,12 @@
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
         "minimal_date": "2024-05-24",
         "nzp_zp": "ZP",
+        "order": 140,
+        "pu": "ОтА ПУ Жилинский",
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-07-10",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-02-33-0001",
@@ -470,6 +554,8 @@
         "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": 60,
+        "pu": "ОтА ПУ Жилинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -481,29 +567,35 @@
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-04-13",
         "nzp_zp": "ZP",
+        "order": 0,
+        "pu": "ОтА ПУ Жилинский",
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-23",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-02-33-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-02",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "ОтА ПУ Жилинский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-04-25",
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-02-33-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-02",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "ОтА ПУ Жилинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-14",
@@ -514,10 +606,12 @@
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
         "minimal_date": "2024-05-24",
         "nzp_zp": "ZP",
+        "order": 140,
+        "pu": "ОтА ПУ Жилинский",
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-07-10",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-02-33-0002",
@@ -525,6 +619,8 @@
         "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": 60,
+        "pu": "ОтА ПУ Жилинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -536,29 +632,35 @@
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-04-13",
         "nzp_zp": "ZP",
+        "order": 0,
+        "pu": "ОтА ПУ Жилинский",
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-23",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-02-33-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-02",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "ОтА ПУ Жилинский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-04-25",
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-02-34-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-02",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "ОтА ПУ Жилинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-07",
@@ -569,6 +671,8 @@
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-04-14",
         "nzp_zp": "ZP",
+        "order": 0,
+        "pu": "ОтА ПУ Жилинский",
         "status": "Выполнено в срок"
     },
     {
@@ -576,11 +680,13 @@
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-02-35-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-03",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "ОтА ПУ Жилинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-07",
@@ -591,18 +697,22 @@
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-04-14",
         "nzp_zp": "ZP",
+        "order": 0,
+        "pu": "ОтА ПУ Жилинский",
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-28",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-02-36-0006",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "ОтА ПУ Жилинский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-04-07",
@@ -613,18 +723,22 @@
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-04-14",
         "nzp_zp": "ZP",
+        "order": 0,
+        "pu": "ОтА ПУ Жилинский",
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-28",
+        "actual_data": "2024-04-26",
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-02-36-0007",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "ОтА ПУ Жилинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-07",
@@ -635,6 +749,8 @@
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-04-14",
         "nzp_zp": "ZP",
+        "order": 0,
+        "pu": "ОтА ПУ Жилинский",
         "status": "Выполнено в срок"
     },
     {
@@ -642,11 +758,13 @@
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-02-36-0008",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "ОтА ПУ Жилинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-07",
@@ -657,6 +775,8 @@
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-04-14",
         "nzp_zp": "ZP",
+        "order": 0,
+        "pu": "ОтА ПУ Жилинский",
         "status": "Выполнено в срок"
     },
     {
@@ -668,6 +788,8 @@
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-04-14",
         "nzp_zp": "ZP",
+        "order": 0,
+        "pu": "ОтА ПУ Жилинский",
         "status": "Выполнено в срок"
     },
     {
@@ -675,11 +797,13 @@
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-02-37-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-10",
@@ -690,10 +814,12 @@
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
         "minimal_date": "2024-05-24",
         "nzp_zp": "ZP",
+        "order": 140,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-07-10",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-02-37-0001",
@@ -701,6 +827,8 @@
         "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": 60,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -712,6 +840,8 @@
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-04-16",
         "nzp_zp": "ZP",
+        "order": 0,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено в срок"
     },
     {
@@ -723,21 +853,25 @@
         "material_order": "Подкормка азотная 2-я (ГА)",
         "minimal_date": "2024-04-28",
         "nzp_zp": "ZP",
+        "order": 160,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-26",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-02-37-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-28-0001",
@@ -745,10 +879,12 @@
         "material_order": "Внесение азот. удобр. перед севом (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-28-0001",
@@ -756,10 +892,12 @@
         "material_order": "Внесение основных калийных удобр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-28-0001",
@@ -767,10 +905,12 @@
         "material_order": "Внесение основных комплекс. удобр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-28-0001",
@@ -778,10 +918,12 @@
         "material_order": "Внесение основных фосфорных удобр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-28-0001",
@@ -789,21 +931,25 @@
         "material_order": "Выравнивание почвы (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-10",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-28-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-13",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-08-10",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-28-0001",
@@ -811,10 +957,12 @@
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-28-0001",
@@ -822,10 +970,12 @@
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": 100,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-28-0002",
@@ -833,10 +983,12 @@
         "material_order": "Внесение азот. удобр. перед севом (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-28-0002",
@@ -844,10 +996,12 @@
         "material_order": "Внесение основных калийных удобр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-28-0002",
@@ -855,10 +1009,12 @@
         "material_order": "Внесение основных комплекс. удобр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-28-0002",
@@ -866,10 +1022,12 @@
         "material_order": "Внесение основных фосфорных удобр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-28-0002",
@@ -877,21 +1035,25 @@
         "material_order": "Выравнивание почвы (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-10",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-28-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-13",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-08-10",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-28-0002",
@@ -899,10 +1061,12 @@
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-28-0002",
@@ -910,10 +1074,12 @@
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": 100,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-28-0003",
@@ -921,10 +1087,12 @@
         "material_order": "Внесение азот. удобр. перед севом (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-28-0003",
@@ -932,10 +1100,12 @@
         "material_order": "Внесение основных калийных удобр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-28-0003",
@@ -943,10 +1113,12 @@
         "material_order": "Внесение основных комплекс. удобр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-28-0003",
@@ -954,120 +1126,142 @@
         "material_order": "Внесение основных фосфорных удобр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-08-01",
-        "business_dir": "Орел",
-        "culture": "Рапс озимый",
-        "higher_tm": "OR-01-03-28-0003",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Выравнивание почвы (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-08-10",
-        "business_dir": "Орел",
-        "culture": "Рапс озимый",
-        "higher_tm": "OR-01-03-28-0003",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Культивация (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-08-10",
-        "business_dir": "Орел",
-        "culture": "Рапс озимый",
-        "higher_tm": "OR-01-03-28-0003",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Посев без внесения удобрений (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-08-01",
-        "business_dir": "Орел",
-        "culture": "Рапс озимый",
-        "higher_tm": "OR-01-03-28-0003",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-08-01",
-        "business_dir": "Орел",
-        "culture": "Рапс озимый",
-        "higher_tm": "OR-01-03-31-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение азот. удобр. перед севом (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-08-01",
-        "business_dir": "Орел",
-        "culture": "Рапс озимый",
-        "higher_tm": "OR-01-03-31-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение основных калийных удобр. (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-08-01",
-        "business_dir": "Орел",
-        "culture": "Рапс озимый",
-        "higher_tm": "OR-01-03-31-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение основных комплекс. удобр. (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-08-11",
-        "business_dir": "Орел",
-        "culture": "Рапс озимый",
-        "higher_tm": "OR-01-03-31-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение основных фосфорных удобр. (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
         "actual_data": "2024-08-13",
         "business_dir": "Орел",
         "culture": "Рапс озимый",
+        "higher_tm": "OR-01-03-28-0003",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Выравнивание почвы (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": null,
+        "business_dir": "Орел",
+        "culture": "Рапс озимый",
+        "higher_tm": "OR-01-03-28-0003",
+        "is_actual": "Ориентировочно",
+        "material_order": "Культивация (ГА)",
+        "minimal_date": "2024-08-13",
+        "nzp_zp": "NZP",
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
+    },
+    {
+        "actual_data": null,
+        "business_dir": "Орел",
+        "culture": "Рапс озимый",
+        "higher_tm": "OR-01-03-28-0003",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Посев без внесения удобрений (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": null,
+        "business_dir": "Орел",
+        "culture": "Рапс озимый",
+        "higher_tm": "OR-01-03-28-0003",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Предпосевная культивация (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "order": 100,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": null,
+        "business_dir": "Орел",
+        "culture": "Рапс озимый",
+        "higher_tm": "OR-01-03-31-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Внесение азот. удобр. перед севом (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": null,
+        "business_dir": "Орел",
+        "culture": "Рапс озимый",
+        "higher_tm": "OR-01-03-31-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Внесение основных калийных удобр. (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": null,
+        "business_dir": "Орел",
+        "culture": "Рапс озимый",
+        "higher_tm": "OR-01-03-31-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Внесение основных комплекс. удобр. (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": null,
+        "business_dir": "Орел",
+        "culture": "Рапс озимый",
+        "higher_tm": "OR-01-03-31-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Внесение основных фосфорных удобр. (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": null,
+        "business_dir": "Орел",
+        "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-31-0001",
         "is_actual": "Статус отсутствует",
         "material_order": "Выравнивание почвы (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-10",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-31-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-13",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-08-13",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-31-0001",
@@ -1075,21 +1269,25 @@
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-13",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-31-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-23",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 100,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-37-0001",
@@ -1097,10 +1295,12 @@
         "material_order": "Внесение азот. удобр. перед севом (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-37-0001",
@@ -1108,10 +1308,12 @@
         "material_order": "Внесение основных калийных удобр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-37-0001",
@@ -1119,6 +1321,21 @@
         "material_order": "Внесение основных комплекс. удобр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": null,
+        "business_dir": "Орел",
+        "culture": "Рапс озимый",
+        "higher_tm": "OR-01-03-37-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Внесение основных фосфорных удобр. (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -1127,35 +1344,28 @@
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-37-0001",
         "is_actual": "Статус отсутствует",
-        "material_order": "Внесение основных фосфорных удобр. (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-08-13",
-        "business_dir": "Орел",
-        "culture": "Рапс озимый",
-        "higher_tm": "OR-01-03-37-0001",
-        "is_actual": "Статус отсутствует",
         "material_order": "Выравнивание почвы (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-10",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-37-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-13",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-08-10",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-37-0001",
@@ -1163,10 +1373,12 @@
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-37-0001",
@@ -1174,10 +1386,12 @@
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": 100,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-47-0004",
@@ -1185,10 +1399,12 @@
         "material_order": "Внесение азот. удобр. перед севом (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-47-0004",
@@ -1196,10 +1412,12 @@
         "material_order": "Внесение основных калийных удобр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-47-0004",
@@ -1207,10 +1425,12 @@
         "material_order": "Внесение основных комплекс. удобр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-47-0004",
@@ -1218,10 +1438,12 @@
         "material_order": "Внесение основных фосфорных удобр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-47-0004",
@@ -1229,32 +1451,38 @@
         "material_order": "Выравнивание почвы (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-10",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-47-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-13",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-07-20",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-47-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-02",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 80,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-08-10",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-47-0004",
@@ -1262,10 +1490,12 @@
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-47-0004",
@@ -1273,10 +1503,12 @@
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": 100,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-50-0003",
@@ -1284,10 +1516,12 @@
         "material_order": "Внесение азот. удобр. перед севом (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-50-0003",
@@ -1295,10 +1529,12 @@
         "material_order": "Внесение основных калийных удобр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-50-0003",
@@ -1306,10 +1542,12 @@
         "material_order": "Внесение основных комплекс. удобр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-50-0003",
@@ -1317,10 +1555,12 @@
         "material_order": "Внесение основных фосфорных удобр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-50-0003",
@@ -1328,21 +1568,25 @@
         "material_order": "Выравнивание почвы (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-10",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-50-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-13",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-08-10",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-50-0003",
@@ -1350,10 +1594,12 @@
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-50-0003",
@@ -1361,6 +1607,8 @@
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": 100,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -1368,14 +1616,16 @@
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-52-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-08",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-18",
+        "actual_data": "2024-06-11",
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-52-0001",
@@ -1383,6 +1633,8 @@
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
         "minimal_date": "2024-05-24",
         "nzp_zp": "ZP",
+        "order": 140,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено не в срок"
     },
     {
@@ -1390,11 +1642,13 @@
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-52-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Десикация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-29",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-10",
@@ -1405,21 +1659,25 @@
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-04-17",
         "nzp_zp": "ZP",
+        "order": 0,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-28",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-52-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-07",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-08-13",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-52-0002",
@@ -1427,6 +1685,8 @@
         "material_order": "Внесение азот. удобр. перед севом (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -1438,10 +1698,12 @@
         "material_order": "Внесение основных калийных удобр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-52-0002",
@@ -1449,6 +1711,8 @@
         "material_order": "Внесение основных комплекс. удобр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -1460,6 +1724,8 @@
         "material_order": "Внесение основных фосфорных удобр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -1471,29 +1737,35 @@
         "material_order": "Выравнивание почвы (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-10",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-52-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-13",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-07-27",
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-52-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-02",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 80,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-08-12",
@@ -1504,6 +1776,8 @@
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -1511,14 +1785,16 @@
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-52-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-22",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 100,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-53-0001",
@@ -1526,10 +1802,12 @@
         "material_order": "Внесение азот. удобр. перед севом (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-53-0001",
@@ -1537,10 +1815,12 @@
         "material_order": "Внесение основных калийных удобр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-53-0001",
@@ -1548,10 +1828,12 @@
         "material_order": "Внесение основных комплекс. удобр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-53-0001",
@@ -1559,10 +1841,12 @@
         "material_order": "Внесение основных фосфорных удобр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-53-0001",
@@ -1570,32 +1854,38 @@
         "material_order": "Выравнивание почвы (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-10",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-53-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-13",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-08-09",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-53-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-02",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 80,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-08-10",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-53-0001",
@@ -1603,10 +1893,12 @@
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-53-0001",
@@ -1614,10 +1906,12 @@
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": 100,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-53-0002",
@@ -1625,10 +1919,12 @@
         "material_order": "Внесение азот. удобр. перед севом (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-53-0002",
@@ -1636,10 +1932,12 @@
         "material_order": "Внесение основных калийных удобр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-53-0002",
@@ -1647,10 +1945,12 @@
         "material_order": "Внесение основных комплекс. удобр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-53-0002",
@@ -1658,10 +1958,12 @@
         "material_order": "Внесение основных фосфорных удобр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-53-0002",
@@ -1669,32 +1971,38 @@
         "material_order": "Выравнивание почвы (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-10",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-53-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-13",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-07-22",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-53-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-02",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 80,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-08-10",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-53-0002",
@@ -1702,10 +2010,12 @@
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-53-0002",
@@ -1713,10 +2023,12 @@
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": 100,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-54-0001",
@@ -1724,10 +2036,12 @@
         "material_order": "Внесение азот. удобр. перед севом (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-54-0001",
@@ -1735,10 +2049,12 @@
         "material_order": "Внесение основных калийных удобр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-54-0001",
@@ -1746,10 +2062,12 @@
         "material_order": "Внесение основных комплекс. удобр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-54-0001",
@@ -1757,10 +2075,12 @@
         "material_order": "Внесение основных фосфорных удобр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-54-0001",
@@ -1768,32 +2088,38 @@
         "material_order": "Выравнивание почвы (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-10",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-54-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-13",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-07-19",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-54-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-02",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 80,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-08-10",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-54-0001",
@@ -1801,10 +2127,12 @@
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-54-0001",
@@ -1812,10 +2140,12 @@
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": 100,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-54-0002",
@@ -1823,10 +2153,12 @@
         "material_order": "Внесение азот. удобр. перед севом (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-54-0002",
@@ -1834,10 +2166,12 @@
         "material_order": "Внесение основных калийных удобр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-54-0002",
@@ -1845,10 +2179,12 @@
         "material_order": "Внесение основных комплекс. удобр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-54-0002",
@@ -1856,10 +2192,12 @@
         "material_order": "Внесение основных фосфорных удобр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-54-0002",
@@ -1867,32 +2205,38 @@
         "material_order": "Выравнивание почвы (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-10",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-54-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-13",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-08-09",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-54-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-02",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 80,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-08-10",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-54-0002",
@@ -1900,10 +2244,12 @@
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-54-0002",
@@ -1911,10 +2257,12 @@
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": 100,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-59-0001",
@@ -1922,10 +2270,12 @@
         "material_order": "Внесение азот. удобр. перед севом (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-59-0001",
@@ -1933,10 +2283,12 @@
         "material_order": "Внесение основных калийных удобр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-59-0001",
@@ -1944,10 +2296,12 @@
         "material_order": "Внесение основных комплекс. удобр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-59-0001",
@@ -1955,10 +2309,12 @@
         "material_order": "Внесение основных фосфорных удобр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-59-0001",
@@ -1966,32 +2322,38 @@
         "material_order": "Выравнивание почвы (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-10",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-59-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-13",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-07-19",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-59-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-02",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 80,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-08-10",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-59-0001",
@@ -1999,10 +2361,12 @@
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-59-0001",
@@ -2010,6 +2374,8 @@
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": 100,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -2021,10 +2387,12 @@
         "material_order": "Внесение азот. удобр. перед севом (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-08",
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-60-0001",
@@ -2032,10 +2400,12 @@
         "material_order": "Внесение основных калийных удобр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-60-0001",
@@ -2043,6 +2413,8 @@
         "material_order": "Внесение основных комплекс. удобр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -2054,10 +2426,12 @@
         "material_order": "Внесение основных фосфорных удобр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-07",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-60-0001",
@@ -2065,21 +2439,25 @@
         "material_order": "Выравнивание почвы (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-11",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-60-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-13",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-08-11",
+        "actual_data": "2024-08-10",
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-60-0001",
@@ -2087,21 +2465,25 @@
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-11",
+        "actual_data": "2024-08-10",
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-60-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-21",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 100,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-61-0001",
@@ -2109,6 +2491,8 @@
         "material_order": "Внесение азот. удобр. перед севом (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -2120,6 +2504,21 @@
         "material_order": "Внесение основных калийных удобр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Операция не отслеживается"
+    },
+    {
+        "actual_data": null,
+        "business_dir": "Орел",
+        "culture": "Рапс озимый",
+        "higher_tm": "OR-01-03-61-0001",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Внесение основных комплекс. удобр. (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -2128,20 +2527,11 @@
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-61-0001",
         "is_actual": "Статус отсутствует",
-        "material_order": "Внесение основных комплекс. удобр. (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-08-10",
-        "business_dir": "Орел",
-        "culture": "Рапс озимый",
-        "higher_tm": "OR-01-03-61-0001",
-        "is_actual": "Статус отсутствует",
         "material_order": "Внесение основных фосфорных удобр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -2153,29 +2543,35 @@
         "material_order": "Выравнивание почвы (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-10",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-61-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-13",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-07-31",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-61-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-02",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 80,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-08-13",
@@ -2186,21 +2582,25 @@
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-12",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-61-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-22",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 100,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-70-0001",
@@ -2208,10 +2608,12 @@
         "material_order": "Внесение азот. удобр. перед севом (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-70-0001",
@@ -2219,10 +2621,12 @@
         "material_order": "Внесение основных калийных удобр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-70-0001",
@@ -2230,10 +2634,12 @@
         "material_order": "Внесение основных комплекс. удобр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-70-0001",
@@ -2241,10 +2647,12 @@
         "material_order": "Внесение основных фосфорных удобр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-70-0001",
@@ -2252,21 +2660,25 @@
         "material_order": "Выравнивание почвы (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-10",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-70-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-13",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-08-10",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-70-0001",
@@ -2274,10 +2686,12 @@
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-70-0001",
@@ -2285,10 +2699,12 @@
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": 100,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-70-0002",
@@ -2296,10 +2712,12 @@
         "material_order": "Внесение азот. удобр. перед севом (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-70-0002",
@@ -2307,10 +2725,12 @@
         "material_order": "Внесение основных калийных удобр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-70-0002",
@@ -2318,10 +2738,12 @@
         "material_order": "Внесение основных комплекс. удобр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-70-0002",
@@ -2329,10 +2751,12 @@
         "material_order": "Внесение основных фосфорных удобр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-70-0002",
@@ -2340,21 +2764,25 @@
         "material_order": "Выравнивание почвы (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-10",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-70-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-13",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-08-10",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-70-0002",
@@ -2362,10 +2790,12 @@
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-70-0002",
@@ -2373,10 +2803,12 @@
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": 100,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-70-0003",
@@ -2384,10 +2816,12 @@
         "material_order": "Внесение азот. удобр. перед севом (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-70-0003",
@@ -2395,10 +2829,12 @@
         "material_order": "Внесение основных калийных удобр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-70-0003",
@@ -2406,10 +2842,12 @@
         "material_order": "Внесение основных комплекс. удобр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-70-0003",
@@ -2417,10 +2855,12 @@
         "material_order": "Внесение основных фосфорных удобр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-70-0003",
@@ -2428,21 +2868,25 @@
         "material_order": "Выравнивание почвы (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-10",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-70-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-13",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-08-10",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-70-0003",
@@ -2450,10 +2894,12 @@
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-70-0003",
@@ -2461,72 +2907,86 @@
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": 100,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-10",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-02-04-59-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-13",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "ОтА ПУ Нечаево",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-07-20",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-02-04-59-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-02",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 80,
+        "pu": "ОтА ПУ Нечаево",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-08-10",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-02-04-60-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-13",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "ОтА ПУ Нечаево",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-07-20",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-02-04-60-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-02",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 80,
+        "pu": "ОтА ПУ Нечаево",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-08-10",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-02-04-62-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-13",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "ОтА ПУ Нечаево",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-07-20",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-02-04-62-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-02",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 80,
+        "pu": "ОтА ПУ Нечаево",
+        "status": "Просрочено"
     }
 ]

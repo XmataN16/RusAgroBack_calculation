@@ -14,6 +14,7 @@ public:
     std::vector<std::optional<std::string>> material_order;
     std::vector<std::optional<float>> planned_volume;
     std::vector<std::optional<float>> actual_volume;
+    std::vector<std::optional<std::string>> pu;
 
     data(soci::rowset<soci::row> data)
     {
@@ -29,6 +30,7 @@ public:
             material_order.push_back(r.get_indicator(6) == soci::i_null ? std::optional<std::string>{} : r.get<std::string>(6));
             planned_volume.push_back(r.get_indicator(7) == soci::i_null ? std::optional<double>{} : r.get<double>(7));
             actual_volume.push_back(r.get_indicator(8) == soci::i_null ? std::optional<double>{} : r.get<double>(8));
+            pu.push_back(r.get_indicator(9) == soci::i_null ? std::optional<std::string>{} : r.get<std::string>(9));
         }
         this->row_count = this->id.size();
     }
@@ -91,6 +93,10 @@ public:
                 std::cout << "Actual Volume: NULL\n";
 
             std::cout << "-----------------------------\n";
+            if (pu[i].has_value())
+                std::cout << "PU: " << pu[i].value() << "\n";
+            else
+                std::cout << "PU: NULL\n";
         }
     }
 };

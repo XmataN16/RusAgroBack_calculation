@@ -8,6 +8,8 @@
         "material_order": "Внесение основных фосфорных удобр. (ГА)",
         "minimal_date": "2024-04-08",
         "nzp_zp": "ZP",
+        "order": 290,
+        "pu": "ОтА ПУ Жилинский",
         "status": "Выполнено в срок"
     },
     {
@@ -19,10 +21,12 @@
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-04-17",
         "nzp_zp": "ZP",
+        "order": 40,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-28",
+        "actual_data": "2024-06-01",
         "business_dir": "Орел",
         "culture": "Подсолнечник",
         "higher_tm": "OR-01-03-22-0001",
@@ -30,6 +34,8 @@
         "material_order": "Внесение основных ж/аммиачных удоб. (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -37,14 +43,16 @@
         "business_dir": "Орел",
         "culture": "Подсолнечник",
         "higher_tm": "OR-01-03-22-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-31",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-10",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Подсолнечник",
         "higher_tm": "OR-01-03-22-0001",
@@ -52,6 +60,8 @@
         "material_order": "Внесение СЗР 1-я противозлак. обр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -59,11 +69,13 @@
         "business_dir": "Орел",
         "culture": "Подсолнечник",
         "higher_tm": "OR-01-03-22-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-24",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 140,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-18",
@@ -74,10 +86,12 @@
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
         "minimal_date": "2024-05-16",
         "nzp_zp": "ZP",
+        "order": 110,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-08-25",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Подсолнечник",
         "higher_tm": "OR-01-03-22-0001",
@@ -85,6 +99,8 @@
         "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": 260,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -96,6 +112,8 @@
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-05-11",
         "nzp_zp": "ZP",
+        "order": 40,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено в срок"
     },
     {
@@ -107,6 +125,8 @@
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": "2024-04-30",
         "nzp_zp": "ZP",
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено не в срок"
     },
     {
@@ -118,10 +138,12 @@
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": "2024-05-01",
         "nzp_zp": "ZP",
+        "order": 80,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-09-10",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Подсолнечник",
         "higher_tm": "OR-01-03-22-0001",
@@ -129,10 +151,12 @@
         "material_order": "Прямое комбайн. с изм. корзинок (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": 160,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-01",
+        "actual_data": "2024-04-25",
         "business_dir": "Орел",
         "culture": "Подсолнечник",
         "higher_tm": "OR-01-03-25-0001",
@@ -140,6 +164,8 @@
         "material_order": "Внесение основных ж/аммиачных удоб. (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -147,14 +173,16 @@
         "business_dir": "Орел",
         "culture": "Подсолнечник",
         "higher_tm": "OR-01-03-25-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-31",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-10",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Подсолнечник",
         "higher_tm": "OR-01-03-25-0001",
@@ -162,18 +190,22 @@
         "material_order": "Внесение СЗР 1-я противозлак. обр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-18",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Подсолнечник",
         "higher_tm": "OR-01-03-25-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-24",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 140,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-05-16",
@@ -184,10 +216,12 @@
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
         "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
+        "order": 110,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-08-25",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Подсолнечник",
         "higher_tm": "OR-01-03-25-0001",
@@ -195,6 +229,8 @@
         "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": 260,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -206,6 +242,8 @@
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-05-12",
         "nzp_zp": "ZP",
+        "order": 40,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено в срок"
     },
     {
@@ -217,6 +255,8 @@
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": "2024-04-30",
         "nzp_zp": "ZP",
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено не в срок"
     },
     {
@@ -228,10 +268,12 @@
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": "2024-05-01",
         "nzp_zp": "ZP",
+        "order": 80,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-09-10",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Подсолнечник",
         "higher_tm": "OR-01-03-25-0001",
@@ -239,6 +281,8 @@
         "material_order": "Прямое комбайн. с изм. корзинок (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": 160,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -250,6 +294,8 @@
         "material_order": "Внесение основных ж/аммиачных удоб. (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -257,14 +303,16 @@
         "business_dir": "Орел",
         "culture": "Подсолнечник",
         "higher_tm": "OR-01-03-25-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-31",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-10",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Подсолнечник",
         "higher_tm": "OR-01-03-25-0002",
@@ -272,6 +320,8 @@
         "material_order": "Внесение СЗР 1-я противозлак. обр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -279,11 +329,13 @@
         "business_dir": "Орел",
         "culture": "Подсолнечник",
         "higher_tm": "OR-01-03-25-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-24",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 140,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-16",
@@ -292,12 +344,14 @@
         "higher_tm": "OR-01-03-25-0002",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
-        "minimal_date": "2024-05-16",
+        "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
+        "order": 110,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-08-25",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Подсолнечник",
         "higher_tm": "OR-01-03-25-0002",
@@ -305,21 +359,25 @@
         "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": 260,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-05-02",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Подсолнечник",
         "higher_tm": "OR-01-03-25-0002",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-05-12",
         "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
+        "order": 40,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-05-12",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Подсолнечник",
         "higher_tm": "OR-01-03-25-0002",
@@ -327,7 +385,9 @@
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": "2024-04-30",
         "nzp_zp": "ZP",
-        "status": "Выполнено не в срок"
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-05-03",
@@ -338,10 +398,12 @@
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": "2024-05-01",
         "nzp_zp": "ZP",
+        "order": 80,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-09-10",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Подсолнечник",
         "higher_tm": "OR-01-03-25-0002",
@@ -349,10 +411,12 @@
         "material_order": "Прямое комбайн. с изм. корзинок (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": 160,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-26",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Подсолнечник",
         "higher_tm": "OR-01-03-26-0001",
@@ -360,6 +424,8 @@
         "material_order": "Внесение основных ж/аммиачных удоб. (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -367,14 +433,16 @@
         "business_dir": "Орел",
         "culture": "Подсолнечник",
         "higher_tm": "OR-01-03-26-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-31",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-10",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Подсолнечник",
         "higher_tm": "OR-01-03-26-0001",
@@ -382,21 +450,25 @@
         "material_order": "Внесение СЗР 1-я противозлак. обр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-19",
+        "actual_data": "2024-05-14",
         "business_dir": "Орел",
         "culture": "Подсолнечник",
         "higher_tm": "OR-01-03-26-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-24",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 140,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-18",
+        "actual_data": "2024-05-01",
         "business_dir": "Орел",
         "culture": "Подсолнечник",
         "higher_tm": "OR-01-03-26-0001",
@@ -404,10 +476,12 @@
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
         "minimal_date": "2024-05-13",
         "nzp_zp": "ZP",
-        "status": "Выполнено не в срок"
+        "order": 110,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-08-25",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Подсолнечник",
         "higher_tm": "OR-01-03-26-0001",
@@ -415,6 +489,8 @@
         "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": 260,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -426,6 +502,8 @@
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-05-11",
         "nzp_zp": "ZP",
+        "order": 40,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено в срок"
     },
     {
@@ -437,6 +515,8 @@
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": "2024-04-30",
         "nzp_zp": "ZP",
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено не в срок"
     },
     {
@@ -448,10 +528,12 @@
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": "2024-05-01",
         "nzp_zp": "ZP",
+        "order": 80,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-09-10",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Подсолнечник",
         "higher_tm": "OR-01-03-26-0001",
@@ -459,10 +541,12 @@
         "material_order": "Прямое комбайн. с изм. корзинок (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": 160,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-27",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Подсолнечник",
         "higher_tm": "OR-01-03-27-0001",
@@ -470,29 +554,35 @@
         "material_order": "Внесение основных ж/аммиачных удоб. (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-05-11",
         "business_dir": "Орел",
         "culture": "Подсолнечник",
         "higher_tm": "OR-01-03-27-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-31",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-14",
+        "actual_data": "2024-06-19",
         "business_dir": "Орел",
         "culture": "Подсолнечник",
         "higher_tm": "OR-01-03-27-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-24",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 140,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-17",
@@ -503,10 +593,12 @@
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
         "minimal_date": "2024-05-13",
         "nzp_zp": "ZP",
+        "order": 110,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-04-20",
+        "actual_data": "2024-05-01",
         "business_dir": "Орел",
         "culture": "Подсолнечник",
         "higher_tm": "OR-01-03-27-0001",
@@ -514,6 +606,8 @@
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-05-11",
         "nzp_zp": "ZP",
+        "order": 40,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено в срок"
     },
     {
@@ -525,6 +619,8 @@
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": "2024-04-30",
         "nzp_zp": "ZP",
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено не в срок"
     },
     {
@@ -536,10 +632,12 @@
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": "2024-05-01",
         "nzp_zp": "ZP",
+        "order": 80,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-09-10",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Подсолнечник",
         "higher_tm": "OR-01-03-27-0001",
@@ -547,6 +645,8 @@
         "material_order": "Прямое комбайн. с изм. корзинок (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": 160,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -554,14 +654,16 @@
         "business_dir": "Орел",
         "culture": "Подсолнечник",
         "higher_tm": "OR-01-03-27-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-31",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-10",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Подсолнечник",
         "higher_tm": "OR-01-03-27-0005",
@@ -569,21 +671,25 @@
         "material_order": "Внесение СЗР 1-я противозлак. обр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-19",
+        "actual_data": "2024-05-14",
         "business_dir": "Орел",
         "culture": "Подсолнечник",
         "higher_tm": "OR-01-03-27-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-24",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 140,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Подсолнечник",
         "higher_tm": "OR-01-03-27-0005",
@@ -591,10 +697,12 @@
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
         "minimal_date": "2024-05-13",
         "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
+        "order": 110,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-08-25",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Подсолнечник",
         "higher_tm": "OR-01-03-27-0005",
@@ -602,6 +710,8 @@
         "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": 260,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -613,6 +723,8 @@
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-05-13",
         "nzp_zp": "ZP",
+        "order": 40,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено в срок"
     },
     {
@@ -622,12 +734,14 @@
         "higher_tm": "OR-01-03-27-0005",
         "is_actual": "Актуально",
         "material_order": "Посев без внесения удобрений (ГА)",
-        "minimal_date": "2024-04-20",
+        "minimal_date": "2024-04-30",
         "nzp_zp": "ZP",
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-04-19",
+        "actual_data": "2024-05-04",
         "business_dir": "Орел",
         "culture": "Подсолнечник",
         "higher_tm": "OR-01-03-27-0005",
@@ -635,10 +749,12 @@
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": "2024-05-01",
         "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
+        "order": 80,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-09-10",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Подсолнечник",
         "higher_tm": "OR-01-03-27-0005",
@@ -646,6 +762,8 @@
         "material_order": "Прямое комбайн. с изм. корзинок (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": 160,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -653,14 +771,16 @@
         "business_dir": "Орел",
         "culture": "Подсолнечник",
         "higher_tm": "OR-01-03-27-0011",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-31",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-10",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Подсолнечник",
         "higher_tm": "OR-01-03-27-0011",
@@ -668,6 +788,8 @@
         "material_order": "Внесение СЗР 1-я противозлак. обр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -675,25 +797,29 @@
         "business_dir": "Орел",
         "culture": "Подсолнечник",
         "higher_tm": "OR-01-03-27-0011",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-24",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 140,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-01",
+        "actual_data": "2024-05-17",
         "business_dir": "Орел",
         "culture": "Подсолнечник",
         "higher_tm": "OR-01-03-27-0011",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
-        "minimal_date": "2024-05-16",
+        "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
+        "order": 110,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-08-25",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Подсолнечник",
         "higher_tm": "OR-01-03-27-0011",
@@ -701,10 +827,12 @@
         "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": 260,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-05-12",
+        "actual_data": "2024-04-19",
         "business_dir": "Орел",
         "culture": "Подсолнечник",
         "higher_tm": "OR-01-03-27-0011",
@@ -712,10 +840,12 @@
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": "2024-04-30",
         "nzp_zp": "ZP",
-        "status": "Выполнено не в срок"
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-09-10",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Подсолнечник",
         "higher_tm": "OR-01-03-27-0011",
@@ -723,6 +853,8 @@
         "material_order": "Прямое комбайн. с изм. корзинок (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": 160,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     }
 ]

@@ -43,8 +43,15 @@ void calc_actual_input_date_completion_entry_oper(initial_data init_data[], uniq
                                     {
                                         if (uniq_pairs[culture][region].material_order[i] == current_operation and field == uniq_pairs[culture][region].higher_tm[i])
                                         {
-                                            std::tm temp = uniq_pairs[culture][region].actual_data[i].value();
-                                            uniq_pairs[culture][region].actual_input_data[record_uniq] = add_days(temp, days);
+                                            if (uniq_pairs[culture][region].actual_data[i].has_value())
+                                            {
+                                                std::tm temp = uniq_pairs[culture][region].actual_data[i].value();
+                                                uniq_pairs[culture][region].actual_input_data[record_uniq] = add_days(temp, days);
+                                            }
+                                            else
+                                            {
+                                                uniq_pairs[culture][region].actual_input_data[record_uniq] = std::nullopt;
+                                            }
                                         }
                                     }
                                 }
@@ -94,8 +101,16 @@ void calc_actual_alternative_date_completion_entry_oper(initial_data init_data[]
                                     {
                                         if (uniq_pairs[culture][region].material_order[i] == current_operation and field == uniq_pairs[culture][region].higher_tm[i])
                                         {
-                                            std::tm temp = uniq_pairs[culture][region].actual_data[i].value();
-                                            uniq_pairs[culture][region].actual_alternative_data[record_uniq] = add_days(temp, days);
+                                            if (uniq_pairs[culture][region].actual_data[i].has_value())
+                                            {
+                                                std::tm temp = uniq_pairs[culture][region].actual_data[i].value();
+                                                uniq_pairs[culture][region].actual_alternative_data[record_uniq] = add_days(temp, days);
+                                            }
+                                            else
+                                            {
+                                                uniq_pairs[culture][region].actual_alternative_data[record_uniq] = std::nullopt;
+                                            }
+
                                         }
                                     }
                                 }

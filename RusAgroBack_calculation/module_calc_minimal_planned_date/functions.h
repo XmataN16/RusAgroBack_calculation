@@ -3,6 +3,11 @@
 
 // Функции для расчета кратчайших плановых дат завершения
 
+std::string tolowercase(const std::string& str)
+{
+    return boost::locale::to_lower(str, boost::locale::generator().generate("ru_RU.UTF-8"));
+}
+
 // Cчитывание таблицы по каждой культуре в массив в PostgreSQL
 void read_table_initial_data(soci::session& sql, initial_data init_data[])
 {
@@ -100,6 +105,7 @@ std::string set_status(std::optional<std::tm> actual_date, std::optional<std::tm
 
     // Преобразуем time_t в локальное время и сохраняем его в структуре std::tm
     std::tm* current_time = std::localtime(&t);
+
     if (!minimal_date.has_value())
     {
         return u8"Операция не отслеживается";
@@ -141,23 +147,36 @@ std::string set_is_actual(std::optional<std::string> status, std::optional<std::
 
 void calc_minimal_date(initial_data init_data[], unique_pairs uniq_pairs[CULTURES_COUNT][REGIONS_COUNT])
 {
-    // Параллелизация внешнего цикла по культурам и регионам
-    #pragma omp parallel for collapse(2) 
+    // Генерация локали только один раз перед началом цикла
+    boost::locale::generator gen;
+    std::locale loc = gen.generate("ru_RU.UTF-8");
+
+    #pragma omp parallel for collapse(2)
     for (int culture = 0; culture < CULTURES_COUNT; culture++)
     {
         for (int region = 0; region < REGIONS_COUNT; region++)
         {
-            // Параллелизация внутренних циклов по i и j
-            //#pragma omp parallel for collapse(2)
+            #pragma omp parallel for 
             for (int i = 0; i < uniq_pairs[culture][region].row_count; i++)
             {
                 for (int j = 0; j < init_data[culture].row_count; j++)
                 {
-                    if (uniq_pairs[culture][region].material_order[i].value() == init_data[culture].operation[j].value() and uniq_pairs[culture][region].nzp_zp[i].value() == init_data[culture].season[j].value())
+                    // Преобразование строк с использованием локали, созданной заранее
+                    if (boost::locale::to_lower(uniq_pairs[culture][region].material_order[i].value(), loc) ==
+                        boost::locale::to_lower(init_data[culture].operation[j].value(), loc) and
+                        uniq_pairs[culture][region].nzp_zp[i].value() == init_data[culture].season[j].value())
                     {
-                        std::optional<std::tm> min_plan_date = init_data[culture].input_operation[j].has_value() ? init_data[culture].minimal_date[region][j] : add_days(uniq_pairs[culture][region].ten_percent[i], init_data[culture].noinput_deadline[j].value());
+                        //очередь операций
+                        uniq_pairs[culture][region].order[i] = init_data[culture].order[j];
+
+                        std::optional<std::tm> min_plan_date = init_data[culture].input_operation[j].has_value() ?
+                            init_data[culture].minimal_date[region][j] :
+                            add_days(uniq_pairs[culture][region].ten_percent[i], init_data[culture].noinput_deadline[j].value());
+
                         uniq_pairs[culture][region].minimal_planned_date[i] = init_data[culture].minimal_date[region][j];
-                        if ((!init_data[culture].input_operation[j].has_value()) and (!init_data[culture].alternative_input[j].has_value()))
+
+                        if ((!init_data[culture].input_operation[j].has_value()) and
+                            (!init_data[culture].alternative_input[j].has_value()))
                         {
                             if (uniq_pairs[culture][region].ten_percent[i].has_value())
                             {
@@ -182,12 +201,16 @@ void calc_minimal_date(initial_data init_data[], unique_pairs uniq_pairs[CULTURE
                         }
                         else
                         {
-                            std::vector<std::optional<std::tm>> dates = { uniq_pairs[culture][region].actual_input_data[i], uniq_pairs[culture][region].actual_alternative_data[i], min_plan_date };
+                            std::vector<std::optional<std::tm>> dates = { uniq_pairs[culture][region].actual_input_data[i],
+                                                                         uniq_pairs[culture][region].actual_alternative_data[i],
+                                                                         min_plan_date };
                             uniq_pairs[culture][region].minimal_date[i] = custom_max(dates);
                         }
                     }
                     uniq_pairs[culture][region].status[i] = set_status(uniq_pairs[culture][region].actual_data[i], uniq_pairs[culture][region].minimal_date[i]);
-                    uniq_pairs[culture][region].is_actual[i] = set_is_actual(uniq_pairs[culture][region].status[i], uniq_pairs[culture][region].actual_data[i], uniq_pairs[culture][region].actual_input_data[i], uniq_pairs[culture][region].actual_alternative_data[i]);
+                    uniq_pairs[culture][region].is_actual[i] = set_is_actual(uniq_pairs[culture][region].status[i], uniq_pairs[culture][region].actual_data[i],
+                        uniq_pairs[culture][region].actual_input_data[i],
+                        uniq_pairs[culture][region].actual_alternative_data[i]);
                 }
             }
         }

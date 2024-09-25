@@ -4,88 +4,104 @@
         "business_dir": "Белгород Центр",
         "culture": "Ячмень",
         "higher_tm": "BL-07-02-31-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-27",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "РАИ ПУ Белоколодезянский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-07",
         "business_dir": "Белгород Центр",
         "culture": "Ячмень",
         "higher_tm": "BL-07-02-31-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-12",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Белоколодезянский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-08",
         "business_dir": "Белгород Центр",
         "culture": "Ячмень",
         "higher_tm": "BL-07-02-31-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-03-29",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Белоколодезянский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-08-03",
+        "actual_data": null,
         "business_dir": "Белгород Центр",
         "culture": "Ячмень",
         "higher_tm": "BL-07-02-31-0004",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
         "minimal_date": "2024-08-13",
         "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
+        "order": 170,
+        "pu": "РАИ ПУ Белоколодезянский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-05-12",
         "business_dir": "Белгород Центр",
         "culture": "Ячмень",
         "higher_tm": "BL-10-01-14-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-27",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-02",
         "business_dir": "Белгород Центр",
         "culture": "Ячмень",
         "higher_tm": "BL-10-01-14-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-19",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 110,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-01",
         "business_dir": "Белгород Центр",
         "culture": "Ячмень",
         "higher_tm": "BL-10-01-14-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-03-29",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-03-28",
         "business_dir": "Белгород Центр",
         "culture": "Ячмень",
         "higher_tm": "BL-10-01-14-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-02",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 30,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-18",
@@ -96,6 +112,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-07-28",
         "nzp_zp": "ZP",
+        "order": 180,
+        "pu": "РАИ ПУ Покровский",
         "status": "Выполнено в срок"
     },
     {
@@ -103,44 +121,52 @@
         "business_dir": "Белгород Центр",
         "culture": "Ячмень",
         "higher_tm": "BL-10-01-14-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-27",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-01",
+        "actual_data": "2024-04-12",
         "business_dir": "Белгород Центр",
         "culture": "Ячмень",
         "higher_tm": "BL-10-01-14-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-19",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 110,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-03-31",
         "business_dir": "Белгород Центр",
         "culture": "Ячмень",
         "higher_tm": "BL-10-01-14-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-03-29",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-03-30",
+        "actual_data": null,
         "business_dir": "Белгород Центр",
         "culture": "Ячмень",
         "higher_tm": "BL-10-01-14-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-04",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 30,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-07-17",
@@ -151,6 +177,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-07-27",
         "nzp_zp": "ZP",
+        "order": 180,
+        "pu": "РАИ ПУ Покровский",
         "status": "Выполнено в срок"
     },
     {
@@ -158,44 +186,52 @@
         "business_dir": "Белгород Центр",
         "culture": "Ячмень",
         "higher_tm": "BL-10-01-14-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-27",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-02",
+        "actual_data": "2024-04-12",
         "business_dir": "Белгород Центр",
         "culture": "Ячмень",
         "higher_tm": "BL-10-01-14-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-19",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 110,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-01",
         "business_dir": "Белгород Центр",
         "culture": "Ячмень",
         "higher_tm": "BL-10-01-14-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-03-29",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-03-30",
         "business_dir": "Белгород Центр",
         "culture": "Ячмень",
         "higher_tm": "BL-10-01-14-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-04",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 30,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-18",
@@ -206,6 +242,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-07-28",
         "nzp_zp": "ZP",
+        "order": 180,
+        "pu": "РАИ ПУ Покровский",
         "status": "Выполнено в срок"
     },
     {
@@ -213,47 +251,55 @@
         "business_dir": "Белгород Центр",
         "culture": "Ячмень",
         "higher_tm": "BL-10-01-16-0006",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-27",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-01",
+        "actual_data": "2024-04-12",
         "business_dir": "Белгород Центр",
         "culture": "Ячмень",
         "higher_tm": "BL-10-01-16-0006",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-19",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 110,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-03-30",
+        "actual_data": "2024-03-28",
         "business_dir": "Белгород Центр",
         "culture": "Ячмень",
         "higher_tm": "BL-10-01-16-0006",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-03-29",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-03-29",
+        "actual_data": null,
         "business_dir": "Белгород Центр",
         "culture": "Ячмень",
         "higher_tm": "BL-10-01-16-0006",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-03",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 30,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-07-17",
+        "actual_data": "2024-07-16",
         "business_dir": "Белгород Центр",
         "culture": "Ячмень",
         "higher_tm": "BL-10-01-16-0006",
@@ -261,6 +307,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-07-27",
         "nzp_zp": "ZP",
+        "order": 180,
+        "pu": "РАИ ПУ Покровский",
         "status": "Выполнено в срок"
     },
     {
@@ -268,44 +316,52 @@
         "business_dir": "Белгород Центр",
         "culture": "Ячмень",
         "higher_tm": "BL-10-02-32-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-03",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-03",
         "business_dir": "Белгород Центр",
         "culture": "Ячмень",
         "higher_tm": "BL-10-02-32-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-27",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-05-20",
+        "actual_data": null,
         "business_dir": "Белгород Центр",
         "culture": "Ячмень",
         "higher_tm": "BL-10-02-32-0004",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
         "minimal_date": "2024-05-29",
         "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
+        "order": 160,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-03-31",
         "business_dir": "Белгород Центр",
         "culture": "Ячмень",
         "higher_tm": "BL-10-02-32-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-03-29",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-13",
@@ -316,6 +372,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-07-23",
         "nzp_zp": "ZP",
+        "order": 180,
+        "pu": "РАИ ПУ Веселовский",
         "status": "Выполнено в срок"
     },
     {
@@ -323,11 +381,13 @@
         "business_dir": "Белгород Центр",
         "culture": "Ячмень",
         "higher_tm": "BL-10-02-32-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-27",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-05-28",
@@ -338,6 +398,8 @@
         "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
         "minimal_date": "2024-05-29",
         "nzp_zp": "ZP",
+        "order": 160,
+        "pu": "РАИ ПУ Веселовский",
         "status": "Выполнено в срок"
     },
     {
@@ -345,22 +407,26 @@
         "business_dir": "Белгород Центр",
         "culture": "Ячмень",
         "higher_tm": "BL-10-02-32-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-03",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-03-31",
         "business_dir": "Белгород Центр",
         "culture": "Ячмень",
         "higher_tm": "BL-10-02-32-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-03-29",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-12",
@@ -371,6 +437,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-07-22",
         "nzp_zp": "ZP",
+        "order": 180,
+        "pu": "РАИ ПУ Веселовский",
         "status": "Выполнено в срок"
     },
     {
@@ -378,11 +446,13 @@
         "business_dir": "Белгород Центр",
         "culture": "Ячмень",
         "higher_tm": "BL-10-02-32-0006",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-27",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-05-28",
@@ -393,6 +463,8 @@
         "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
         "minimal_date": "2024-05-29",
         "nzp_zp": "ZP",
+        "order": 160,
+        "pu": "РАИ ПУ Веселовский",
         "status": "Выполнено в срок"
     },
     {
@@ -400,33 +472,39 @@
         "business_dir": "Белгород Центр",
         "culture": "Ячмень",
         "higher_tm": "BL-10-02-32-0006",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-02",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 80,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-03-30",
         "business_dir": "Белгород Центр",
         "culture": "Ячмень",
         "higher_tm": "BL-10-02-32-0006",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-04",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-02",
         "business_dir": "Белгород Центр",
         "culture": "Ячмень",
         "higher_tm": "BL-10-02-32-0006",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-03-29",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-11",
@@ -437,6 +515,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-07-21",
         "nzp_zp": "ZP",
+        "order": 180,
+        "pu": "РАИ ПУ Веселовский",
         "status": "Выполнено в срок"
     },
     {
@@ -444,14 +524,16 @@
         "business_dir": "Белгород Центр",
         "culture": "Ячмень",
         "higher_tm": "BL-10-02-32-0008",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-27",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-05-29",
+        "actual_data": "2024-05-20",
         "business_dir": "Белгород Центр",
         "culture": "Ячмень",
         "higher_tm": "BL-10-02-32-0008",
@@ -459,29 +541,35 @@
         "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
         "minimal_date": "2024-05-29",
         "nzp_zp": "ZP",
+        "order": 160,
+        "pu": "РАИ ПУ Веселовский",
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-03-30",
+        "actual_data": null,
         "business_dir": "Белгород Центр",
         "culture": "Ячмень",
         "higher_tm": "BL-10-02-32-0008",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-04",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-04-01",
+        "actual_data": "2024-03-31",
         "business_dir": "Белгород Центр",
         "culture": "Ячмень",
         "higher_tm": "BL-10-02-32-0008",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-03-29",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-11",
@@ -492,6 +580,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-07-21",
         "nzp_zp": "ZP",
+        "order": 180,
+        "pu": "РАИ ПУ Веселовский",
         "status": "Выполнено в срок"
     },
     {
@@ -499,11 +589,13 @@
         "business_dir": "Белгород Центр",
         "culture": "Ячмень",
         "higher_tm": "BL-10-02-32-0023",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-27",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-05-29",
@@ -514,6 +606,8 @@
         "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
         "minimal_date": "2024-05-29",
         "nzp_zp": "ZP",
+        "order": 160,
+        "pu": "РАИ ПУ Веселовский",
         "status": "Выполнено в срок"
     },
     {
@@ -521,33 +615,39 @@
         "business_dir": "Белгород Центр",
         "culture": "Ячмень",
         "higher_tm": "BL-10-02-32-0023",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-02",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 80,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-03-31",
         "business_dir": "Белгород Центр",
         "culture": "Ячмень",
         "higher_tm": "BL-10-02-32-0023",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-03-25",
+        "actual_data": "2024-04-02",
         "business_dir": "Белгород Центр",
         "culture": "Ячмень",
         "higher_tm": "BL-10-02-32-0023",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-03-29",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-11",
@@ -558,6 +658,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-07-21",
         "nzp_zp": "ZP",
+        "order": 180,
+        "pu": "РАИ ПУ Веселовский",
         "status": "Выполнено в срок"
     },
     {
@@ -565,22 +667,26 @@
         "business_dir": "Белгород Центр",
         "culture": "Ячмень",
         "higher_tm": "BL-10-02-34-0014",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-03",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-03",
         "business_dir": "Белгород Центр",
         "culture": "Ячмень",
         "higher_tm": "BL-10-02-34-0014",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-27",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-05-28",
@@ -591,6 +697,8 @@
         "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
         "minimal_date": "2024-05-29",
         "nzp_zp": "ZP",
+        "order": 160,
+        "pu": "РАИ ПУ Веселовский",
         "status": "Выполнено в срок"
     },
     {
@@ -598,14 +706,16 @@
         "business_dir": "Белгород Центр",
         "culture": "Ячмень",
         "higher_tm": "BL-10-02-34-0014",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-03-29",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-07-09",
+        "actual_data": "2024-07-08",
         "business_dir": "Белгород Центр",
         "culture": "Ячмень",
         "higher_tm": "BL-10-02-34-0014",
@@ -613,6 +723,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-07-19",
         "nzp_zp": "ZP",
+        "order": 180,
+        "pu": "РАИ ПУ Веселовский",
         "status": "Выполнено в срок"
     }
 ]

@@ -11,6 +11,8 @@ public:
     std::vector<std::optional<std::string>> culture;
     std::vector<std::optional<std::string>> business_dir;
     std::vector<std::optional<std::string>> nzp_zp;
+    std::vector<std::optional<std::string>> pu;
+    std::vector<std::optional<int>> order;
     std::vector<std::optional<bool>> is_completed;
     std::vector<std::optional<std::tm>> minimal_planned_date;
     std::vector<std::optional<std::tm>> actual_data;
@@ -20,6 +22,7 @@ public:
     std::vector<std::optional<std::tm>> minimal_date;
     std::vector<std::optional<std::string>> status;
     std::vector<std::optional<std::string>> is_actual;
+    
 
     unique_pairs(soci::rowset<soci::row> data)
     {
@@ -31,6 +34,8 @@ public:
             culture.push_back(r.get_indicator(2) == soci::i_null ? std::optional<std::string>{} : r.get<std::string>(2));
             business_dir.push_back(r.get_indicator(3) == soci::i_null ? std::optional<std::string>{} : r.get<std::string>(3));
             nzp_zp.push_back(r.get_indicator(4) == soci::i_null ? std::optional<std::string>{} : r.get<std::string>(4));
+            pu.push_back(r.get_indicator(5) == soci::i_null ? std::optional<std::string>{} : r.get<std::string>(5));
+            order.push_back(std::nullopt);
             is_completed.push_back(std::nullopt);
             actual_data.push_back(std::nullopt);
             minimal_planned_date.push_back(std::nullopt);
@@ -78,6 +83,16 @@ public:
                     std::cout << "nzp_zp: " << nzp_zp[i].value() << "\n";
                 else
                     std::cout << "nzp_zp: NULL\n";
+
+                if (pu[i].has_value())
+                    std::cout << "PU: " << pu[i].value() << "\n";
+                else
+                    std::cout << "PU: NULL\n";
+
+                if (order[i].has_value())
+                    std::cout << "order: " << order[i].value() << "\n";
+                else
+                    std::cout << "order: NULL\n";
 
                 if (is_completed[i].has_value())
                 {
@@ -180,6 +195,15 @@ public:
             row[u8"culture"] = culture[i] ? *culture[i] : nullptr;
             row[u8"business_dir"] = business_dir[i] ? *business_dir[i] : nullptr;
             row[u8"nzp_zp"] = nzp_zp[i] ? *nzp_zp[i] : nullptr;
+            row[u8"pu"] = pu[i] ? *pu[i] : nullptr;
+            if (order[i].has_value())
+            {
+                row[u8"order"] = order[i].value();
+            }
+            else
+            {
+                row[u8"order"] = nullptr;
+            }
             if (tm_to_str(actual_data[i]).has_value())
             {
                 row[u8"actual_data"] = tm_to_str(actual_data[i]).value();
@@ -245,6 +269,15 @@ nlohmann::json to_json_all(unique_pairs uniq_pairs[CULTURES_COUNT][REGIONS_COUNT
                 row[u8"culture"] = uniq_pairs[culture][region].culture[i] ? *uniq_pairs[culture][region].culture[i] : nullptr;
                 row[u8"business_dir"] = uniq_pairs[culture][region].business_dir[i] ? *uniq_pairs[culture][region].business_dir[i] : nullptr;
                 row[u8"nzp_zp"] = uniq_pairs[culture][region].nzp_zp[i] ? *uniq_pairs[culture][region].nzp_zp[i] : nullptr;
+                row[u8"pu"] = uniq_pairs[culture][region].pu[i] ? *uniq_pairs[culture][region].pu[i] : nullptr;
+                if (uniq_pairs[culture][region].order[i].has_value())
+                {
+                    row[u8"order"] = uniq_pairs[culture][region].order[i].value();
+                }
+                else
+                {
+                    row[u8"order"] = nullptr;
+                }
                 if (tm_to_str(uniq_pairs[culture][region].actual_data[i]).has_value())
                 {
                     row[u8"actual_data"] = tm_to_str(uniq_pairs[culture][region].actual_data[i]).value();
@@ -311,7 +344,7 @@ void read_table_unique_pairs(soci::session& sql, unique_pairs uniq_pairs[][REGIO
     {
         for (int region = 0; region < REGIONS_COUNT; region++)
         {
-            soci::rowset<soci::row> rs = (sql.prepare << "SELECT DISTINCT higher_tm, material_order, culture, business_dir, nzp_zp FROM platform_shbn_data WHERE culture = '" << CULTURES_RUS[culture] << "' and business_dir = '" << REGIONS_RUS[region] << "'");
+            soci::rowset<soci::row> rs = (sql.prepare << "SELECT DISTINCT higher_tm, material_order, culture, business_dir, nzp_zp, pu FROM platform_shbn_data WHERE culture = '" << CULTURES_RUS[culture] << "' and business_dir = '" << REGIONS_RUS[region] << "'");
             uniq_pairs[culture][region] = unique_pairs(rs);
         }
     }
@@ -330,8 +363,8 @@ void get_unique_higher_tm_material_order(soci::session& sql, data data_shbn[CULT
             //#pragma omp parallel for
             for (int pair = 0; pair < uniq_pairs[culture][region].row_count; pair++)
             {
-                float sum_planned_volume = 0;
-                float sum_actual_volume = 0;
+                float sum_planned_volume = 0.0f;
+                float sum_actual_volume = 0.0f;
                 std::tm max_date = create_date(1999, 1, 1);
 
                 // Параллелизация внешнего цикла по парам
@@ -350,8 +383,16 @@ void get_unique_higher_tm_material_order(soci::session& sql, data data_shbn[CULT
                         }
                     }
                 }
-                temp_is_completed[pair] = ((sum_planned_volume * 0.75f) == sum_actual_volume && sum_actual_volume != 0);
-                temp_actual_data[pair] = max_date;
+                temp_is_completed[pair] = ((sum_planned_volume * 1.0f) == sum_actual_volume && sum_planned_volume != 0);
+
+                if (temp_is_completed[pair] == 0)
+                {
+                    temp_actual_data[pair] = std::nullopt;
+                }
+                else
+                {
+                    temp_actual_data[pair] = max_date;
+                }
             }
 
             uniq_pairs[culture][region].is_completed = std::move(temp_is_completed);

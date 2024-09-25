@@ -1,80 +1,94 @@
 [
     {
-        "actual_data": "2024-08-05",
+        "actual_data": null,
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-11-04-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-30",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "АГТ ПУ Кочетовский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-04-10",
+        "actual_data": "2024-04-11",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-12-04-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-16",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "АГТ ПУ Первомайский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-21",
+        "actual_data": "2024-05-10",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-12-04-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "АГТ ПУ Первомайский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-22",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-12-04-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-02",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "АГТ ПУ Первомайский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-08",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-12-04-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Противозлаковая обр. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-04-16",
-        "business_dir": "Тамбов-Север",
-        "culture": "Горох",
-        "higher_tm": "TM-03-12-04-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 80,
+        "pu": "АГТ ПУ Первомайский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-15",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-12-04-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "is_actual": "Актуально",
+        "material_order": "Посев с внесением удобрений (ГА)",
+        "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "АГТ ПУ Первомайский",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-04-15",
+        "business_dir": "Тамбов-Север",
+        "culture": "Горох",
+        "higher_tm": "TM-03-12-04-0001",
+        "is_actual": "Актуально",
+        "material_order": "Предпосевная культивация (ГА)",
+        "minimal_date": "2024-04-25",
+        "nzp_zp": "ZP",
+        "order": 30,
+        "pu": "АГТ ПУ Первомайский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-31",
@@ -85,6 +99,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-12",
         "nzp_zp": "ZP",
+        "order": 160,
+        "pu": "АГТ ПУ Первомайский",
         "status": "Выполнено в срок"
     },
     {
@@ -92,77 +108,91 @@
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-12-04-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "АГТ ПУ Первомайский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-21",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-12-04-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "АГТ ПУ Первомайский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-21",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-12-04-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-01",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "АГТ ПУ Первомайский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-20",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-12-04-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Десикация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-23",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 100,
+        "pu": "АГТ ПУ Первомайский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-29",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-12-04-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Противозлаковая обр. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 80,
+        "pu": "АГТ ПУ Первомайский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-15",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-12-04-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "АГТ ПУ Первомайский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-13",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-12-04-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-23",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 30,
+        "pu": "АГТ ПУ Первомайский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-27",
@@ -173,6 +203,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-08",
         "nzp_zp": "ZP",
+        "order": 160,
+        "pu": "АГТ ПУ Первомайский",
         "status": "Выполнено в срок"
     },
     {
@@ -180,22 +212,26 @@
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-14-05-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "АГТ ПУ Кочетовский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-19",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-14-05-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-29",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "АГТ ПУ Кочетовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-27",
@@ -206,6 +242,8 @@
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
         "minimal_date": "2024-04-20",
         "nzp_zp": "ZP",
+        "order": 200,
+        "pu": "АГТ ПУ Кочетовский",
         "status": "Выполнено не в срок"
     },
     {
@@ -213,11 +251,13 @@
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-14-05-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "АГТ ПУ Кочетовский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-26",
@@ -228,6 +268,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-07",
         "nzp_zp": "ZP",
+        "order": 160,
+        "pu": "АГТ ПУ Кочетовский",
         "status": "Выполнено в срок"
     },
     {
@@ -235,33 +277,39 @@
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-14-06-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-17",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "АГТ ПУ Кочетовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-14",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-14-06-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "АГТ ПУ Кочетовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-10",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-14-11-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "АГТ ПУ Кочетовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-16",
@@ -272,6 +320,8 @@
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
         "minimal_date": "2024-04-20",
         "nzp_zp": "ZP",
+        "order": 200,
+        "pu": "АГТ ПУ Кочетовский",
         "status": "Выполнено в срок"
     },
     {
@@ -279,110 +329,130 @@
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-14-11-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "АГТ ПУ Кочетовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-08-10",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-14-20-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-30",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "АГТ ПУ Кочетовский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-08-11",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-14-21-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-30",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "АГТ ПУ Кочетовский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-08-12",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-14-25-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-30",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "АГТ ПУ Кочетовский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-12",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-14-28-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-17",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "АГТ ПУ Кочетовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-16",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-14-28-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "АГТ ПУ Кочетовский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-08-13",
+        "actual_data": null,
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-14-35-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-30",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "АГТ ПУ Кочетовский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-04-11",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-14-38-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-16",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "АГТ ПУ Кочетовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-26",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-14-38-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "АГТ ПУ Кочетовский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-19",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-14-38-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-29",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "АГТ ПУ Кочетовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-18",
@@ -393,6 +463,8 @@
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
         "minimal_date": "2024-04-20",
         "nzp_zp": "ZP",
+        "order": 200,
+        "pu": "АГТ ПУ Кочетовский",
         "status": "Выполнено в срок"
     },
     {
@@ -400,11 +472,13 @@
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-14-38-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "АГТ ПУ Кочетовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-22",
@@ -415,6 +489,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-03",
         "nzp_zp": "ZP",
+        "order": 160,
+        "pu": "АГТ ПУ Кочетовский",
         "status": "Выполнено в срок"
     },
     {
@@ -422,11 +498,13 @@
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-14-42-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "АГТ ПУ Кочетовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-17",
@@ -437,6 +515,8 @@
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
         "minimal_date": "2024-04-20",
         "nzp_zp": "ZP",
+        "order": 200,
+        "pu": "АГТ ПУ Кочетовский",
         "status": "Выполнено в срок"
     },
     {
@@ -444,88 +524,104 @@
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-14-42-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "АГТ ПУ Кочетовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-12",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-72-01-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-17",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "АГТ ПУ Первомайский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-18",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-72-01-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "АГТ ПУ Первомайский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-01",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-72-01-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я инсектицидная обр. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 50,
+        "pu": "АГТ ПУ Первомайский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-24",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-72-01-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-04",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "АГТ ПУ Первомайский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-30",
+        "actual_data": null,
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-72-01-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР Противозлаковая обр. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 80,
+        "pu": "АГТ ПУ Первомайский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-04-18",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-72-01-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "АГТ ПУ Первомайский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-17",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-72-01-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-27",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 30,
+        "pu": "АГТ ПУ Первомайский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-30",
@@ -536,6 +632,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-11",
         "nzp_zp": "ZP",
+        "order": 160,
+        "pu": "АГТ ПУ Первомайский",
         "status": "Выполнено в срок"
     },
     {
@@ -543,66 +641,78 @@
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-72-02-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "АГТ ПУ Первомайский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-21",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-72-02-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "АГТ ПУ Первомайский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-19",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-72-02-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-29",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "АГТ ПУ Первомайский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-07",
+        "actual_data": "2024-05-10",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-72-02-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Противозлаковая обр. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 80,
+        "pu": "АГТ ПУ Первомайский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-17",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-72-02-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "АГТ ПУ Первомайский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-04-15",
+        "actual_data": "2024-04-16",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-72-02-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-26",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 30,
+        "pu": "АГТ ПУ Первомайский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-25",
@@ -613,95 +723,113 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-06",
         "nzp_zp": "ZP",
+        "order": 160,
+        "pu": "АГТ ПУ Первомайский",
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-11",
+        "actual_data": null,
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-72-20-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Боронование (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-17",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "АГТ ПУ Первомайский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-05-15",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-72-20-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "АГТ ПУ Первомайский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-29",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-72-20-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я инсектицидная обр. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 50,
+        "pu": "АГТ ПУ Первомайский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-22",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-72-20-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-02",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "АГТ ПУ Первомайский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-21",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-72-20-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Десикация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-24",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 100,
+        "pu": "АГТ ПУ Первомайский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-06",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-72-20-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Противозлаковая обр. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 80,
+        "pu": "АГТ ПУ Первомайский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-20",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-72-20-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "АГТ ПУ Первомайский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-19",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-72-20-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-29",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 30,
+        "pu": "АГТ ПУ Первомайский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-29",
@@ -712,6 +840,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-10",
         "nzp_zp": "ZP",
+        "order": 160,
+        "pu": "АГТ ПУ Первомайский",
         "status": "Выполнено в срок"
     },
     {
@@ -719,77 +849,91 @@
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-72-22-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-20",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "АГТ ПУ Первомайский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-16",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-72-22-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "АГТ ПУ Первомайский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-07-01",
+        "actual_data": "2024-06-30",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-72-22-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я инсектицидная обр. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 50,
+        "pu": "АГТ ПУ Первомайский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-25",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-72-22-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "АГТ ПУ Первомайский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-06",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-72-22-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Противозлаковая обр. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 80,
+        "pu": "АГТ ПУ Первомайский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-18",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-72-22-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "АГТ ПУ Первомайский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-04-18",
+        "actual_data": null,
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-72-22-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-28",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 30,
+        "pu": "АГТ ПУ Первомайский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-07-31",
@@ -800,139 +944,165 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-12",
         "nzp_zp": "ZP",
+        "order": 160,
+        "pu": "АГТ ПУ Первомайский",
         "status": "Выполнено в срок"
-    },
-    {
-        "actual_data": "2024-04-12",
-        "business_dir": "Тамбов-Север",
-        "culture": "Горох",
-        "higher_tm": "TM-04-13-10-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
     },
     {
         "actual_data": "2024-04-08",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-13-10-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "is_actual": "Актуально",
+        "material_order": "Посев с внесением удобрений (ГА)",
+        "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "АГТ ПУ Никифоровский",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-04-08",
+        "business_dir": "Тамбов-Север",
+        "culture": "Горох",
+        "higher_tm": "TM-04-13-10-0001",
+        "is_actual": "Актуально",
+        "material_order": "Предпосевная культивация (ГА)",
+        "minimal_date": "2024-04-18",
+        "nzp_zp": "ZP",
+        "order": 30,
+        "pu": "АГТ ПУ Никифоровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-13",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-13-21-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "АГТ ПУ Никифоровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-08",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-13-21-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-18",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 30,
+        "pu": "АГТ ПУ Никифоровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-13",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-13-23-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "АГТ ПУ Никифоровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-09",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-13-23-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-19",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 30,
+        "pu": "АГТ ПУ Никифоровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-18",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-13-24-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "АГТ ПУ Никифоровский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-27",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-13-24-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я инсектицидная обр. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 50,
+        "pu": "АГТ ПУ Никифоровский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-20",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-13-24-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-30",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "АГТ ПУ Никифоровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-20",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-13-24-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-25",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "АГТ ПУ Никифоровский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-22",
+        "actual_data": null,
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-13-24-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "АГТ ПУ Никифоровский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-04-20",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-13-24-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-30",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 30,
+        "pu": "АГТ ПУ Никифоровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-22",
@@ -943,6 +1113,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-03",
         "nzp_zp": "ZP",
+        "order": 160,
+        "pu": "АГТ ПУ Никифоровский",
         "status": "Выполнено в срок"
     },
     {
@@ -950,77 +1122,91 @@
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-13-25-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "АГТ ПУ Никифоровский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-28",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-13-25-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я инсектицидная обр. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 50,
+        "pu": "АГТ ПУ Никифоровский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-20",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-13-25-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-30",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "АГТ ПУ Никифоровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-20",
-        "business_dir": "Тамбов-Север",
-        "culture": "Горох",
-        "higher_tm": "TM-04-13-25-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-04-20",
-        "business_dir": "Тамбов-Север",
-        "culture": "Горох",
-        "higher_tm": "TM-04-13-25-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-07-21",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-13-25-0001",
         "is_actual": "Актуально",
+        "material_order": "Посев с внесением удобрений (ГА)",
+        "minimal_date": "2024-04-15",
+        "nzp_zp": "ZP",
+        "order": 40,
+        "pu": "АГТ ПУ Никифоровский",
+        "status": "Выполнено не в срок"
+    },
+    {
+        "actual_data": "2024-04-19",
+        "business_dir": "Тамбов-Север",
+        "culture": "Горох",
+        "higher_tm": "TM-04-13-25-0001",
+        "is_actual": "Актуально",
+        "material_order": "Предпосевная культивация (ГА)",
+        "minimal_date": "2024-04-30",
+        "nzp_zp": "ZP",
+        "order": 30,
+        "pu": "АГТ ПУ Никифоровский",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": null,
+        "business_dir": "Тамбов-Север",
+        "culture": "Горох",
+        "higher_tm": "TM-04-13-25-0001",
+        "is_actual": "Ориентировочно",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-02",
         "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
+        "order": 160,
+        "pu": "АГТ ПУ Никифоровский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-04-08",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-15-01-0013",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-13",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "АГТ ПУ Никифоровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-16",
@@ -1031,6 +1217,8 @@
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
         "minimal_date": "2024-04-20",
         "nzp_zp": "ZP",
+        "order": 200,
+        "pu": "АГТ ПУ Никифоровский",
         "status": "Выполнено в срок"
     },
     {
@@ -1038,253 +1226,299 @@
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-15-01-0013",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "АГТ ПУ Никифоровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-13",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-15-01-0014",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "АГТ ПУ Никифоровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-08",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-15-01-0014",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-18",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 30,
+        "pu": "АГТ ПУ Никифоровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-10",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-21-09-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "АГТ ПУ Никифоровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-07",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-21-09-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-17",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 30,
+        "pu": "АГТ ПУ Никифоровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-11",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-21-19-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "АГТ ПУ Никифоровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-08",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-21-19-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-18",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 30,
+        "pu": "АГТ ПУ Никифоровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-10",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-41-01-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "АГТ ПУ Богословский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-12",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-41-01-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "АГТ ПУ Богословский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-11",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-41-01-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-21",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 30,
+        "pu": "АГТ ПУ Богословский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-11",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-41-02-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "АГТ ПУ Богословский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-10",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-41-02-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-20",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 30,
+        "pu": "АГТ ПУ Богословский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-09",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-41-02-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "АГТ ПУ Богословский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-11",
+        "actual_data": "2024-04-08",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-41-02-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "АГТ ПУ Богословский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-01",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-41-03-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "АГТ ПУ Богословский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-02",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-41-03-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Противозлаковая обр. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 80,
+        "pu": "АГТ ПУ Богословский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-21",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-41-03-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "АГТ ПУ Богословский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-04-21",
+        "actual_data": null,
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-41-03-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-01",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 30,
+        "pu": "АГТ ПУ Богословский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-05-14",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-41-20-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "АГТ ПУ Богословский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-25",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-41-20-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "АГТ ПУ Богословский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-04",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-41-20-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Противозлаковая обр. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 80,
+        "pu": "АГТ ПУ Богословский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-20",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-41-20-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-25",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "АГТ ПУ Богословский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-20",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-41-20-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "АГТ ПУ Богословский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-17",
@@ -1295,6 +1529,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-07-29",
         "nzp_zp": "ZP",
+        "order": 160,
+        "pu": "АГТ ПУ Богословский",
         "status": "Выполнено в срок"
     },
     {
@@ -1302,55 +1538,65 @@
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-41-22-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "АГТ ПУ Богословский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-25",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-41-22-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "АГТ ПУ Богословский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-06",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-41-22-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Противозлаковая обр. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 80,
+        "pu": "АГТ ПУ Богословский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-04-14",
+        "actual_data": "2024-04-09",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-41-22-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-19",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "АГТ ПУ Богословский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-20",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-41-22-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "АГТ ПУ Богословский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-18",
@@ -1361,6 +1607,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-07-30",
         "nzp_zp": "ZP",
+        "order": 160,
+        "pu": "АГТ ПУ Богословский",
         "status": "Выполнено в срок"
     },
     {
@@ -1368,55 +1616,65 @@
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-41-23-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "АГТ ПУ Богословский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-25",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-41-23-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "АГТ ПУ Богословский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-06",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-41-23-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Противозлаковая обр. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 80,
+        "pu": "АГТ ПУ Богословский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-04-19",
+        "actual_data": null,
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-41-23-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-24",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "АГТ ПУ Богословский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-04-20",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-41-23-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "АГТ ПУ Богословский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-18",
@@ -1427,6 +1685,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-07-30",
         "nzp_zp": "ZP",
+        "order": 160,
+        "pu": "АГТ ПУ Богословский",
         "status": "Выполнено в срок"
     },
     {
@@ -1434,55 +1694,65 @@
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-41-24-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "АГТ ПУ Богословский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-25",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-41-24-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "АГТ ПУ Богословский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-06",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-41-24-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Противозлаковая обр. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 80,
+        "pu": "АГТ ПУ Богословский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-04-13",
+        "actual_data": null,
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-41-24-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-18",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "АГТ ПУ Богословский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-04-13",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-41-24-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "АГТ ПУ Богословский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-17",
@@ -1493,6 +1763,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-07-29",
         "nzp_zp": "ZP",
+        "order": 160,
+        "pu": "АГТ ПУ Богословский",
         "status": "Выполнено в срок"
     },
     {
@@ -1500,55 +1772,65 @@
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-41-25-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "АГТ ПУ Богословский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-25",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-41-25-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "АГТ ПУ Богословский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-06",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-41-25-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Противозлаковая обр. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 80,
+        "pu": "АГТ ПУ Богословский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-12",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-41-25-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-17",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "АГТ ПУ Богословский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-13",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-41-25-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "АГТ ПУ Богословский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-18",
@@ -1559,10 +1841,12 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-07-30",
         "nzp_zp": "ZP",
+        "order": 160,
+        "pu": "АГТ ПУ Богословский",
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-08-04",
+        "actual_data": null,
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-61-09-0001",
@@ -1570,10 +1854,12 @@
         "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "АГТ ПУ Богословский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-04",
+        "actual_data": null,
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-61-10-0001",
@@ -1581,10 +1867,12 @@
         "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "АГТ ПУ Богословский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-05",
+        "actual_data": null,
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-61-11-0001",
@@ -1592,10 +1880,12 @@
         "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "АГТ ПУ Богословский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-11",
+        "actual_data": null,
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-61-13-0001",
@@ -1603,32 +1893,38 @@
         "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "АГТ ПУ Богословский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-10",
+        "actual_data": null,
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-61-15-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-30",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "АГТ ПУ Богословский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-08-05",
+        "actual_data": null,
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-61-16-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-30",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "АГТ ПУ Богословский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-61-18-0001",
@@ -1636,17 +1932,21 @@
         "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
         "minimal_date": null,
         "nzp_zp": "NZP",
+        "order": null,
+        "pu": "АГТ ПУ Богословский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-07",
+        "actual_data": null,
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-61-49-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-30",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "АГТ ПУ Богословский",
+        "status": "Просрочено"
     }
 ]

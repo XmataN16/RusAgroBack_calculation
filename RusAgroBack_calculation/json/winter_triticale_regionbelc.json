@@ -1,17 +1,19 @@
 [
     {
-        "actual_data": "2024-04-20",
+        "actual_data": null,
         "business_dir": "Белгород Центр",
         "culture": "Тритикале озимая",
         "higher_tm": "BL-08-06-25-0202",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
         "minimal_date": "2024-04-30",
         "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
+        "order": 10,
+        "pu": "РАИ ПУ Грушевский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-05-06",
+        "actual_data": "2024-05-01",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале озимая",
         "higher_tm": "BL-08-06-25-0202",
@@ -19,21 +21,25 @@
         "material_order": "Внесение СЗР Противозлаковая обр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "РАИ ПУ Грушевский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-03-13",
+        "actual_data": null,
         "business_dir": "Белгород Центр",
         "culture": "Тритикале озимая",
         "higher_tm": "BL-08-06-25-0202",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-03-25",
         "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
+        "order": 0,
+        "pu": "РАИ ПУ Грушевский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-04-23",
+        "actual_data": null,
         "business_dir": "Белгород Центр",
         "culture": "Тритикале озимая",
         "higher_tm": "BL-08-06-25-0202",
@@ -41,6 +47,8 @@
         "material_order": "Подкормка азотная 2-я КАС (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "РАИ ПУ Грушевский",
         "status": "Операция не отслеживается"
     }
 ]

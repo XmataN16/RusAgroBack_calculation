@@ -1,69 +1,81 @@
 [
     {
-        "actual_data": "2024-07-20",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-02-12-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-02",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 130,
+        "pu": "ОтА ПУ Жилинский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-07-20",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-02-14-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-02",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 130,
+        "pu": "ОтА ПУ Жилинский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-07-20",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-02-14-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-02",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 130,
+        "pu": "ОтА ПУ Жилинский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-07-20",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-02-15-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-02",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 130,
+        "pu": "ОтА ПУ Жилинский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-07-20",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-02-16-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-02",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 130,
+        "pu": "ОтА ПУ Жилинский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-07-20",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-02-16-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-02",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 130,
+        "pu": "ОтА ПУ Жилинский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-05-04",
@@ -74,6 +86,8 @@
         "material_order": "Боронование после сева (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -85,6 +99,8 @@
         "material_order": "Внесение азот. удобр. перед севом (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -92,22 +108,26 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-01-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-10",
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-01-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 110,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-26",
@@ -118,6 +138,8 @@
         "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -125,14 +147,16 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-01-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-08",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-19",
+        "actual_data": "2024-05-10",
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-01-0002",
@@ -140,6 +164,8 @@
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено не в срок"
     },
     {
@@ -151,6 +177,8 @@
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -162,6 +190,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-15",
         "nzp_zp": "ZP",
+        "order": 180,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено в срок"
     },
     {
@@ -173,10 +203,12 @@
         "material_order": "Боронование после сева (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-05-03",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-10-0001",
@@ -184,6 +216,8 @@
         "material_order": "Внесение азот. удобр. перед севом (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -191,22 +225,26 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-10-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-10",
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-10-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 110,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-26",
@@ -217,6 +255,8 @@
         "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -224,11 +264,13 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-10-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-08",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-19",
@@ -239,6 +281,8 @@
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено не в срок"
     },
     {
@@ -250,6 +294,8 @@
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -261,6 +307,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-15",
         "nzp_zp": "ZP",
+        "order": 180,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено в срок"
     },
     {
@@ -272,10 +320,12 @@
         "material_order": "Боронование после сева (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-05-03",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-12-0004",
@@ -283,6 +333,8 @@
         "material_order": "Внесение азот. удобр. перед севом (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -290,22 +342,26 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-12-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-10",
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-12-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 110,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-26",
@@ -316,18 +372,22 @@
         "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-05-03",
+        "actual_data": "2024-05-01",
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-12-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-08",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-19",
@@ -338,6 +398,8 @@
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено не в срок"
     },
     {
@@ -349,6 +411,8 @@
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -360,6 +424,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-15",
         "nzp_zp": "ZP",
+        "order": 180,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено в срок"
     },
     {
@@ -367,22 +433,26 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-15-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-09",
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-15-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 110,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-26",
@@ -393,51 +463,61 @@
         "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-05-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-15-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-06",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-06-19",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-15-0001",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
-        "status": "Выполнено не в срок"
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-05-03",
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-15-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-05-01",
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-15-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-06",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 30,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-08-05",
@@ -448,6 +528,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-15",
         "nzp_zp": "ZP",
+        "order": 180,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено в срок"
     },
     {
@@ -455,22 +537,26 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-17-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-05-22",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-17-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 110,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-07-26",
@@ -481,6 +567,8 @@
         "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -488,33 +576,39 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-17-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-27",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-18",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-17-0001",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
-        "status": "Выполнено не в срок"
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-04-30",
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-17-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-08-05",
@@ -525,6 +619,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-15",
         "nzp_zp": "ZP",
+        "order": 180,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено в срок"
     },
     {
@@ -532,22 +628,26 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-19-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-05-22",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-19-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 110,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-07-26",
@@ -558,6 +658,8 @@
         "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -565,11 +667,26 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-19-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-04-30",
+        "business_dir": "Орел",
+        "culture": "Ячмень",
+        "higher_tm": "OR-01-03-19-0001",
+        "is_actual": "Актуально",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": "2024-05-05",
+        "nzp_zp": "ZP",
+        "order": 0,
+        "pu": "ОтА ПУ Отрадинск�й",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-18",
@@ -580,6 +697,8 @@
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено не в срок"
     },
     {
@@ -587,11 +706,13 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-19-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-08-05",
@@ -602,6 +723,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-15",
         "nzp_zp": "ZP",
+        "order": 180,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено в срок"
     },
     {
@@ -609,22 +732,26 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-20-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-05-22",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-20-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 110,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-07-26",
@@ -635,6 +762,8 @@
         "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -642,14 +771,16 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-20-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-06",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-10",
+        "actual_data": "2024-06-18",
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-20-0001",
@@ -657,6 +788,8 @@
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено не в срок"
     },
     {
@@ -664,11 +797,13 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-20-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-08-05",
@@ -679,6 +814,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-15",
         "nzp_zp": "ZP",
+        "order": 180,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено в срок"
     },
     {
@@ -686,22 +823,26 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-21-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-05-22",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-21-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 110,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-07-26",
@@ -712,6 +853,8 @@
         "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -719,11 +862,13 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-21-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-28",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-18",
@@ -734,6 +879,8 @@
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено не в срок"
     },
     {
@@ -741,11 +888,13 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-21-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-08-06",
@@ -756,6 +905,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-16",
         "nzp_zp": "ZP",
+        "order": 180,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено в срок"
     },
     {
@@ -763,22 +914,26 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-21-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-05-22",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-21-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 110,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-07-26",
@@ -789,6 +944,8 @@
         "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -796,11 +953,13 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-21-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-27",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-18",
@@ -811,6 +970,8 @@
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено не в срок"
     },
     {
@@ -818,11 +979,13 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-21-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-08-06",
@@ -833,40 +996,48 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-16",
         "nzp_zp": "ZP",
+        "order": 180,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-08-12",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-23-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-02",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 130,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-06-26",
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-24-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-05-22",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-24-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 110,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-07-26",
@@ -877,18 +1048,22 @@
         "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-30",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-24-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-06-19",
@@ -899,62 +1074,74 @@
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-05-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-24-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-05-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-24-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-06",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 30,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-08-04",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-24-0001",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-14",
         "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
+        "order": 180,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-28-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-05-22",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-28-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 110,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-07-25",
@@ -965,18 +1152,22 @@
         "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-30",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-28-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-06-18",
@@ -987,6 +1178,8 @@
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено не в срок"
     },
     {
@@ -994,11 +1187,13 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-28-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-08-03",
@@ -1009,29 +1204,35 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-13",
         "nzp_zp": "ZP",
+        "order": 180,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-01",
+        "actual_data": "2024-06-28",
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-28-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-05-22",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-28-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 110,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-07-25",
@@ -1042,10 +1243,12 @@
         "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-18",
+        "actual_data": "2024-05-10",
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-28-0002",
@@ -1053,6 +1256,8 @@
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено не в срок"
     },
     {
@@ -1060,11 +1265,13 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-28-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-08-04",
@@ -1075,29 +1282,35 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-14",
         "nzp_zp": "ZP",
+        "order": 180,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-26",
+        "actual_data": "2024-05-01",
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-28-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-22",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-28-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 110,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-07-25",
@@ -1108,6 +1321,8 @@
         "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -1115,33 +1330,39 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-28-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-18",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-28-0003",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
-        "status": "Выполнено не в срок"
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-05-01",
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-28-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-08-04",
@@ -1152,29 +1373,35 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-14",
         "nzp_zp": "ZP",
+        "order": 180,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-01",
+        "actual_data": "2024-07-02",
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-29-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-05-22",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-29-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 110,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-07-26",
@@ -1185,6 +1412,8 @@
         "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -1192,14 +1421,16 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-29-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-29",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-18",
+        "actual_data": "2024-05-10",
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-29-0001",
@@ -1207,6 +1438,8 @@
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено не в срок"
     },
     {
@@ -1214,11 +1447,13 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-29-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-08-04",
@@ -1229,6 +1464,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-14",
         "nzp_zp": "ZP",
+        "order": 180,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено в срок"
     },
     {
@@ -1236,22 +1473,26 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-29-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-05-22",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-29-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 110,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-07-26",
@@ -1262,6 +1503,8 @@
         "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -1269,11 +1512,13 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-29-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-03",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-18",
@@ -1284,6 +1529,8 @@
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено не в срок"
     },
     {
@@ -1291,11 +1538,13 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-29-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-08-05",
@@ -1306,6 +1555,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-15",
         "nzp_zp": "ZP",
+        "order": 180,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено в срок"
     },
     {
@@ -1313,22 +1564,26 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-29-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-05-22",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-29-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 110,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-07-26",
@@ -1339,18 +1594,22 @@
         "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-05-02",
+        "actual_data": "2024-04-20",
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-29-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-07",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-18",
@@ -1361,6 +1620,8 @@
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено не в срок"
     },
     {
@@ -1368,14 +1629,16 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-29-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-08-04",
+        "actual_data": "2024-08-03",
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-29-0003",
@@ -1383,6 +1646,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-14",
         "nzp_zp": "ZP",
+        "order": 180,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено в срок"
     },
     {
@@ -1390,22 +1655,26 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-29-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-05-22",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-29-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 110,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-07-26",
@@ -1416,6 +1685,8 @@
         "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -1423,11 +1694,13 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-29-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-03",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-18",
@@ -1438,6 +1711,8 @@
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено не в срок"
     },
     {
@@ -1445,11 +1720,13 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-29-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-08-05",
@@ -1460,6 +1737,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-15",
         "nzp_zp": "ZP",
+        "order": 180,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено в срок"
     },
     {
@@ -1467,22 +1746,26 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-30-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-05-22",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-30-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 110,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-07-26",
@@ -1493,6 +1776,8 @@
         "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -1500,11 +1785,13 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-30-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-18",
@@ -1515,6 +1802,8 @@
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено не в срок"
     },
     {
@@ -1522,11 +1811,13 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-30-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-08-05",
@@ -1537,40 +1828,48 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-15",
         "nzp_zp": "ZP",
+        "order": 180,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-22",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-30-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-02",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 130,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-07-01",
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-31-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-05-22",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-31-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 110,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-07-24",
@@ -1581,6 +1880,8 @@
         "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -1588,66 +1889,78 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-31-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-18",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-17",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-31-0001",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
-        "status": "Выполнено не в срок"
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-04-28",
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-31-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-08-04",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-31-0001",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-14",
         "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
+        "order": 180,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-06-22",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-32-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-05-22",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-32-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 110,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-07-26",
@@ -1658,18 +1971,22 @@
         "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-01",
+        "actual_data": "2024-04-23",
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-32-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-06",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-16",
@@ -1680,6 +1997,8 @@
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено не в срок"
     },
     {
@@ -1687,14 +2006,16 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-32-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-08-04",
+        "actual_data": "2024-08-05",
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-32-0001",
@@ -1702,29 +2023,35 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-15",
         "nzp_zp": "ZP",
+        "order": 180,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-22",
+        "actual_data": "2024-05-01",
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-33-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-22",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-33-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 110,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-07-24",
@@ -1735,6 +2062,8 @@
         "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -1742,11 +2071,13 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-33-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-06",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-18",
@@ -1757,6 +2088,8 @@
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено не в срок"
     },
     {
@@ -1764,22 +2097,26 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-33-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-01",
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-33-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-06",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 30,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-08-04",
@@ -1790,29 +2127,35 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-14",
         "nzp_zp": "ZP",
+        "order": 180,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-22",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-33-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-05-22",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-33-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 110,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-07-24",
@@ -1823,6 +2166,8 @@
         "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -1830,11 +2175,13 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-33-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-06",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-16",
@@ -1845,6 +2192,8 @@
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено не в срок"
     },
     {
@@ -1852,22 +2201,26 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-33-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-05-03",
+        "actual_data": "2024-04-28",
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-33-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-08",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 30,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-08-03",
@@ -1878,6 +2231,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-13",
         "nzp_zp": "ZP",
+        "order": 180,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено в срок"
     },
     {
@@ -1885,22 +2240,26 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-33-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-05-22",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-33-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 110,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-07-24",
@@ -1911,18 +2270,22 @@
         "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-01",
+        "actual_data": "2024-04-20",
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-33-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-06",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-16",
@@ -1933,6 +2296,8 @@
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено не в срок"
     },
     {
@@ -1940,22 +2305,26 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-33-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-01",
+        "actual_data": "2024-04-28",
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-33-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-06",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 30,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-08-03",
@@ -1966,6 +2335,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-13",
         "nzp_zp": "ZP",
+        "order": 180,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено в срок"
     },
     {
@@ -1973,33 +2344,39 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-34-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-02",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 130,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-21",
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-34-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-05-22",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-34-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 110,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-07-24",
@@ -2010,18 +2387,22 @@
         "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-01",
+        "actual_data": "2024-04-24",
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-34-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-06",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-16",
@@ -2032,29 +2413,35 @@
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-04-29",
+        "actual_data": "2024-04-10",
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-34-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-28",
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-34-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-03",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 30,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-08-03",
@@ -2065,6 +2452,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-13",
         "nzp_zp": "ZP",
+        "order": 180,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено в срок"
     },
     {
@@ -2072,22 +2461,26 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-34-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-05-22",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-34-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 110,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-07-24",
@@ -2098,6 +2491,8 @@
         "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -2105,11 +2500,13 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-34-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-06",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-16",
@@ -2120,29 +2517,35 @@
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-04-29",
+        "actual_data": "2024-04-10",
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-34-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-01",
+        "actual_data": "2024-03-25",
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-34-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-06",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 30,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-08-03",
@@ -2153,6 +2556,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-13",
         "nzp_zp": "ZP",
+        "order": 180,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено в срок"
     },
     {
@@ -2160,33 +2565,39 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-35-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-02",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 130,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-22",
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-35-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-05-22",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-35-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 110,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-07-24",
@@ -2197,6 +2608,8 @@
         "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -2204,11 +2617,13 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-35-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-17",
@@ -2219,6 +2634,21 @@
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
+    },
+    {
+        "actual_data": "2024-05-03",
+        "business_dir": "Орел",
+        "culture": "Ячмень",
+        "higher_tm": "OR-01-03-35-0002",
+        "is_actual": "Актуально",
+        "material_order": "Посев с внесением удобрений (ГА)",
+        "minimal_date": "2024-04-05",
+        "nzp_zp": "ZP",
+        "order": 40,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено не в срок"
     },
     {
@@ -2226,22 +2656,13 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-35-0002",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-05-02",
-        "business_dir": "Орел",
-        "culture": "Ячмень",
-        "higher_tm": "OR-01-03-35-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-07",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 30,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-08-05",
@@ -2252,6 +2673,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-15",
         "nzp_zp": "ZP",
+        "order": 180,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено в срок"
     },
     {
@@ -2259,33 +2682,39 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-36-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-02",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 130,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-26",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-37-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-05-22",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-37-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 110,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-07-24",
@@ -2296,6 +2725,8 @@
         "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -2307,6 +2738,8 @@
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено не в срок"
     },
     {
@@ -2314,22 +2747,26 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-37-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-05-01",
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-37-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-06",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 30,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-08-04",
@@ -2340,6 +2777,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-14",
         "nzp_zp": "ZP",
+        "order": 180,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено в срок"
     },
     {
@@ -2347,22 +2786,26 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-38-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-05-22",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-38-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 110,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-07-24",
@@ -2373,6 +2816,8 @@
         "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -2384,6 +2829,8 @@
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено не в срок"
     },
     {
@@ -2391,25 +2838,29 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-38-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-01",
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-38-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-06",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 30,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-08-03",
+        "actual_data": "2024-08-02",
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-38-0001",
@@ -2417,6 +2868,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-13",
         "nzp_zp": "ZP",
+        "order": 180,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено в срок"
     },
     {
@@ -2424,22 +2877,26 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-39-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-05-22",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-39-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 110,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-07-24",
@@ -2450,10 +2907,12 @@
         "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-05-10",
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-39-0001",
@@ -2461,6 +2920,8 @@
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено не в срок"
     },
     {
@@ -2468,22 +2929,26 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-39-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-01",
+        "actual_data": "2024-04-29",
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-39-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-06",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 30,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-08-02",
@@ -2494,6 +2959,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-12",
         "nzp_zp": "ZP",
+        "order": 180,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено в срок"
     },
     {
@@ -2501,22 +2968,26 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-39-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-05-22",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-39-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 110,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-07-25",
@@ -2527,6 +2998,8 @@
         "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -2538,6 +3011,8 @@
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено не в срок"
     },
     {
@@ -2545,22 +3020,26 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-39-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-01",
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-39-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-06",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 30,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-08-02",
@@ -2571,6 +3050,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-12",
         "nzp_zp": "ZP",
+        "order": 180,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено в срок"
     },
     {
@@ -2578,22 +3059,26 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-39-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-05-22",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-39-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 110,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-07-24",
@@ -2604,6 +3089,8 @@
         "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -2611,11 +3098,13 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-39-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-30",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-16",
@@ -2626,6 +3115,8 @@
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено не в срок"
     },
     {
@@ -2633,22 +3124,26 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-39-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-01",
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-39-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-06",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 30,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-08-02",
@@ -2659,29 +3154,35 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-12",
         "nzp_zp": "ZP",
+        "order": 180,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-11",
+        "actual_data": "2024-05-01",
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-41-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 60,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-22",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-41-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 110,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-07-24",
@@ -2692,6 +3193,8 @@
         "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Операция не отслеживается"
     },
     {
@@ -2703,6 +3206,8 @@
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
+        "order": 90,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено не в срок"
     },
     {
@@ -2710,22 +3215,26 @@
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-41-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-30",
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-41-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 30,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-08-02",
@@ -2736,39 +3245,47 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-12",
         "nzp_zp": "ZP",
+        "order": 180,
+        "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-22",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-70-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-02",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 130,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-07-22",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-70-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-02",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 130,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-07-22",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Ячмень",
         "higher_tm": "OR-01-03-70-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-02",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 130,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
     }
 ]

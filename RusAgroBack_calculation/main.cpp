@@ -13,6 +13,8 @@
 #include <time.h>
 #include <fstream>
 #include <nlohmann/json.hpp>
+#include <boost/locale.hpp>
+
 
 //Культуры и регионы
 const int CULTURES_COUNT = 16;
@@ -53,6 +55,7 @@ int main()
         initial_data init_data[CULTURES_COUNT];
         read_table_initial_data(sql, init_data);
 
+        
         //считывание data
         data data_shbn[CULTURES_COUNT][REGIONS_COUNT];
         read_table_data(sql, data_shbn);
@@ -61,14 +64,15 @@ int main()
         unique_pairs uniq_pairs[CULTURES_COUNT][REGIONS_COUNT];
         read_table_unique_pairs(sql, uniq_pairs);
 
+        
         //data_shbn[10][0].print();
         clock_t start = clock();
         
         summarize(sql, init_data, data_shbn, uniq_pairs);
+        
         calc_minimal_planned_date(sql, init_data);
         calc_minimal_date(init_data, uniq_pairs);
 
-        
         clock_t end = clock();
         //uniq_pairs[10][1].print();
         //uniq_pairs.to_json_file("data.json");

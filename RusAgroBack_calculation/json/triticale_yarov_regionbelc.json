@@ -1,36 +1,42 @@
 [
     {
-        "actual_data": "2024-08-09",
+        "actual_data": null,
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-07-02-33-0008",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-02",
         "nzp_zp": "NZP",
-        "status": "Операция не отслеживается"
+        "order": 140,
+        "pu": "РАИ ПУ Белоколодезянский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-03-27",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-03-22-0009",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-01",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "РАИ ПУ Грушевский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-01",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-03-22-0009",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Грушевский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-19",
@@ -41,6 +47,8 @@
         "material_order": "Внесение СЗР 1-я инсектицидная обр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "РАИ ПУ Грушевский",
         "status": "Операция не отслеживается"
     },
     {
@@ -48,11 +56,13 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-03-22-0009",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-24",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "РАИ ПУ Грушевский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-21",
@@ -63,6 +73,8 @@
         "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "РАИ ПУ Грушевский",
         "status": "Операция не отслеживается"
     },
     {
@@ -74,6 +86,8 @@
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "РАИ ПУ Грушевский",
         "status": "Операция не отслеживается"
     },
     {
@@ -81,22 +95,26 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-03-22-0009",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Грушевский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-02",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-03-22-0009",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-07",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 30,
+        "pu": "РАИ ПУ Грушевский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-21",
@@ -107,6 +125,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-02",
         "nzp_zp": "ZP",
+        "order": 170,
+        "pu": "РАИ ПУ Грушевский",
         "status": "Выполнено в срок"
     },
     {
@@ -114,22 +134,26 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-03-22-0011",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-03",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "РАИ ПУ Грушевский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-01",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-03-22-0011",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Грушевский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-19",
@@ -140,6 +164,8 @@
         "material_order": "Внесение СЗР 1-я инсектицидная обр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "РАИ ПУ Грушевский",
         "status": "Операция не отслеживается"
     },
     {
@@ -147,11 +173,13 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-03-22-0011",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-24",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "РАИ ПУ Грушевский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-21",
@@ -162,6 +190,8 @@
         "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "РАИ ПУ Грушевский",
         "status": "Операция не отслеживается"
     },
     {
@@ -173,6 +203,8 @@
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "РАИ ПУ Грушевский",
         "status": "Операция не отслеживается"
     },
     {
@@ -180,55 +212,65 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-03-22-0011",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Грушевский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-01",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-03-22-0011",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-06",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 30,
+        "pu": "РАИ ПУ Грушевский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-22",
+        "actual_data": null,
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-03-22-0011",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-03",
         "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
+        "order": 170,
+        "pu": "РАИ ПУ Грушевский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-03-31",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-03-33-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "РАИ ПУ Грушевский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-30",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-03-33-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Грушевский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-20",
@@ -239,6 +281,8 @@
         "material_order": "Внесение СЗР 1-я инсектицидная обр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "РАИ ПУ Грушевский",
         "status": "Операция не отслеживается"
     },
     {
@@ -246,11 +290,13 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-03-33-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-25",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "РАИ ПУ Грушевский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-22",
@@ -261,6 +307,8 @@
         "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "РАИ ПУ Грушевский",
         "status": "Операция не отслеживается"
     },
     {
@@ -272,6 +320,8 @@
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "РАИ ПУ Грушевский",
         "status": "Операция не отслеживается"
     },
     {
@@ -279,22 +329,26 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-03-33-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Грушевский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-01",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-03-33-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-06",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 30,
+        "pu": "РАИ ПУ Грушевский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-22",
@@ -305,6 +359,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-03",
         "nzp_zp": "ZP",
+        "order": 170,
+        "pu": "РАИ ПУ Грушевский",
         "status": "Выполнено в срок"
     },
     {
@@ -312,22 +368,26 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-03-34-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-04",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "РАИ ПУ Грушевский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-30",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-03-34-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Грушевский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-20",
@@ -338,6 +398,8 @@
         "material_order": "Внесение СЗР 1-я инсектицидная обр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "РАИ ПУ Грушевский",
         "status": "Операция не отслеживается"
     },
     {
@@ -345,11 +407,13 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-03-34-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-25",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "РАИ ПУ Грушевский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-22",
@@ -360,6 +424,8 @@
         "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "РАИ ПУ Грушевский",
         "status": "Операция не отслеживается"
     },
     {
@@ -367,11 +433,13 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-03-34-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Противозлаковая обр. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 80,
+        "pu": "РАИ ПУ Грушевский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-21",
@@ -382,29 +450,35 @@
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "РАИ ПУ Грушевский",
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-09",
+        "actual_data": null,
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-03-34-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Грушевский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-04-02",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-03-34-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-07",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 30,
+        "pu": "РАИ ПУ Грушевский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-22",
@@ -415,6 +489,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-03",
         "nzp_zp": "ZP",
+        "order": 170,
+        "pu": "РАИ ПУ Грушевский",
         "status": "Выполнено в срок"
     },
     {
@@ -422,22 +498,26 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-03-38-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "РАИ ПУ Грушевский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-01",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-03-38-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Грушевский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-19",
@@ -448,6 +528,8 @@
         "material_order": "Внесение СЗР 1-я инсектицидная обр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "РАИ ПУ Грушевский",
         "status": "Операция не отслеживается"
     },
     {
@@ -455,11 +537,13 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-03-38-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-24",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "РАИ ПУ Грушевский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-21",
@@ -470,6 +554,8 @@
         "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "РАИ ПУ Грушевский",
         "status": "Операция не отслеживается"
     },
     {
@@ -481,6 +567,8 @@
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "РАИ ПУ Грушевский",
         "status": "Операция не отслеживается"
     },
     {
@@ -488,22 +576,26 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-03-38-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Грушевский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-02",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-03-38-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-07",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 30,
+        "pu": "РАИ ПУ Грушевский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-21",
@@ -514,6 +606,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-02",
         "nzp_zp": "ZP",
+        "order": 170,
+        "pu": "РАИ ПУ Грушевский",
         "status": "Выполнено в срок"
     },
     {
@@ -521,22 +615,26 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-03-38-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "РАИ ПУ Грушевский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-01",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-03-38-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Грушевский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-19",
@@ -547,6 +645,8 @@
         "material_order": "Внесение СЗР 1-я инсектицидная обр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "РАИ ПУ Грушевский",
         "status": "Операция не отслеживается"
     },
     {
@@ -554,11 +654,13 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-03-38-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-24",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "РАИ ПУ Грушевский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-21",
@@ -569,6 +671,8 @@
         "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "РАИ ПУ Грушевский",
         "status": "Операция не отслеживается"
     },
     {
@@ -580,6 +684,8 @@
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "РАИ ПУ Грушевский",
         "status": "Операция не отслеживается"
     },
     {
@@ -587,22 +693,26 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-03-38-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Грушевский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-02",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-03-38-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-07",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 30,
+        "pu": "РАИ ПУ Грушевский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-21",
@@ -613,6 +723,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-02",
         "nzp_zp": "ZP",
+        "order": 170,
+        "pu": "РАИ ПУ Грушевский",
         "status": "Выполнено в срок"
     },
     {
@@ -620,22 +732,26 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-06-32-0007",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-03",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "РАИ ПУ Грушевский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-02",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-06-32-0007",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Грушевский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-22",
@@ -646,6 +762,8 @@
         "material_order": "Внесение СЗР 1-я инсектицидная обр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "РАИ ПУ Грушевский",
         "status": "Операция не отслеживается"
     },
     {
@@ -653,11 +771,13 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-06-32-0007",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-23",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "РАИ ПУ Грушевский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-20",
@@ -668,6 +788,8 @@
         "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "РАИ ПУ Грушевский",
         "status": "Операция не отслеживается"
     },
     {
@@ -679,6 +801,8 @@
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "РАИ ПУ Грушевский",
         "status": "Операция не отслеживается"
     },
     {
@@ -686,22 +810,26 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-06-32-0007",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Грушевский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-03-31",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-06-32-0007",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 30,
+        "pu": "РАИ ПУ Грушевский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-21",
@@ -712,6 +840,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-02",
         "nzp_zp": "ZP",
+        "order": 170,
+        "pu": "РАИ ПУ Грушевский",
         "status": "Выполнено в срок"
     },
     {
@@ -719,22 +849,26 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-06-32-0009",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-03",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "РАИ ПУ Грушевский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-02",
+        "actual_data": "2024-04-24",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-06-32-0009",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Грушевский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-22",
@@ -745,6 +879,8 @@
         "material_order": "Внесение СЗР 1-я инсектицидная обр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "РАИ ПУ Грушевский",
         "status": "Операция не отслеживается"
     },
     {
@@ -752,11 +888,13 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-06-32-0009",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-23",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "РАИ ПУ Грушевский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-20",
@@ -767,6 +905,8 @@
         "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "РАИ ПУ Грушевский",
         "status": "Операция не отслеживается"
     },
     {
@@ -778,6 +918,8 @@
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "РАИ ПУ Грушевский",
         "status": "Операция не отслеживается"
     },
     {
@@ -785,22 +927,26 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-06-32-0009",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Грушевский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-03-31",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-06-32-0009",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 30,
+        "pu": "РАИ ПУ Грушевский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-21",
@@ -811,6 +957,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-02",
         "nzp_zp": "ZP",
+        "order": 170,
+        "pu": "РАИ ПУ Грушевский",
         "status": "Выполнено в срок"
     },
     {
@@ -818,55 +966,65 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-08-60-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-09",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-08-60-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-19",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-15",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-08-60-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-04-03",
+        "actual_data": null,
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-08-60-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-08",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-04-04",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-08-60-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-25",
@@ -877,6 +1035,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-06",
         "nzp_zp": "ZP",
+        "order": 170,
+        "pu": "РАИ ПУ Ютановский",
         "status": "Выполнено в срок"
     },
     {
@@ -884,55 +1044,65 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-08-60-0009",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-09",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-08-60-0009",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-19",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-14",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-08-60-0009",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-04",
+        "actual_data": null,
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-08-60-0009",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-04-04",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-08-60-0009",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-26",
@@ -943,10 +1113,12 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-07",
         "nzp_zp": "ZP",
+        "order": 170,
+        "pu": "РАИ ПУ Ютановский",
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-02",
+        "actual_data": "2024-04-02",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-08-61-0001",
@@ -954,6 +1126,8 @@
         "material_order": "Внесение основных ж/аммиачных удоб. (ГА)",
         "minimal_date": "2024-05-07",
         "nzp_zp": "ZP",
+        "order": 190,
+        "pu": "РАИ ПУ Ютановский",
         "status": "Выполнено в срок"
     },
     {
@@ -961,22 +1135,26 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-08-61-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-08",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-08-61-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-18",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-23",
@@ -987,6 +1165,8 @@
         "material_order": "Внесение СЗР 2-я фунгицидная обр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "РАИ ПУ Ютановский",
         "status": "Операция не отслеживается"
     },
     {
@@ -998,6 +1178,8 @@
         "material_order": "Внесение СЗР 3-я фунгицидная обр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "РАИ ПУ Ютановский",
         "status": "Операция не отслеживается"
     },
     {
@@ -1005,99 +1187,117 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-08-61-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-05",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-08-61-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-06",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-08-61-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-28",
+        "actual_data": null,
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-08-61-0001",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-09",
         "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
+        "order": 170,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-05-02",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-08-61-0013",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-09",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-08-61-0013",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-19",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-17",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-08-61-0013",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-04-06",
+        "actual_data": "2024-03-31",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-08-61-0013",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-11",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-06",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-08-61-0013",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-23",
@@ -1108,6 +1308,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-04",
         "nzp_zp": "ZP",
+        "order": 170,
+        "pu": "РАИ ПУ Ютановский",
         "status": "Выполнено в срок"
     },
     {
@@ -1115,55 +1317,65 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-08-62-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-09",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-08-62-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-19",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-18",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-08-62-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-02",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-08-62-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-07",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-03",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-08-62-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-22",
@@ -1174,6 +1386,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-03",
         "nzp_zp": "ZP",
+        "order": 170,
+        "pu": "РАИ ПУ Ютановский",
         "status": "Выполнено в срок"
     },
     {
@@ -1181,121 +1395,143 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-08-62-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-09",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-08-62-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-19",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-18",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-08-62-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-01",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-08-62-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-06",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-03",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-08-62-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-22",
+        "actual_data": null,
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-08-62-0005",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-03",
         "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
+        "order": 170,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-05-02",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-08-62-0006",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-09",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-08-62-0006",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-19",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-17",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-08-62-0006",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-03-31",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-08-62-0006",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-05",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-02",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-08-62-0006",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-20",
@@ -1306,6 +1542,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-01",
         "nzp_zp": "ZP",
+        "order": 170,
+        "pu": "РАИ ПУ Ютановский",
         "status": "Выполнено в срок"
     },
     {
@@ -1313,22 +1551,26 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-08-62-0007",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-09",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-08-62-0007",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-19",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-23",
@@ -1339,6 +1581,8 @@
         "material_order": "Внесение СЗР 2-я фунгицидная обр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "РАИ ПУ Ютановский",
         "status": "Операция не отслеживается"
     },
     {
@@ -1350,6 +1594,8 @@
         "material_order": "Внесение СЗР 3-я фунгицидная обр. (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "РАИ ПУ Ютановский",
         "status": "Операция не отслеживается"
     },
     {
@@ -1357,33 +1603,39 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-08-62-0007",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-01",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-08-62-0007",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-06",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-06",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-08-62-0007",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-21",
@@ -1394,6 +1646,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-02",
         "nzp_zp": "ZP",
+        "order": 170,
+        "pu": "РАИ ПУ Ютановский",
         "status": "Выполнено в срок"
     },
     {
@@ -1401,55 +1655,65 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-08-62-0010",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-09",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-08-62-0010",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-19",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-18",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-08-62-0010",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-02",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-08-62-0010",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-07",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-03",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-08-62-0010",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-22",
@@ -1460,6 +1724,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-03",
         "nzp_zp": "ZP",
+        "order": 170,
+        "pu": "РАИ ПУ Ютановский",
         "status": "Выполнено в срок"
     },
     {
@@ -1467,121 +1733,143 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-08-62-0011",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-09",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-08-62-0011",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-19",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-18",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-08-62-0011",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-02",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-08-08-62-0011",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-04-04",
-        "business_dir": "Белгород Центр",
-        "culture": "Тритикале",
-        "higher_tm": "BL-08-08-62-0011",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-07-24",
-        "business_dir": "Белгород Центр",
-        "culture": "Тритикале",
-        "higher_tm": "BL-08-08-62-0011",
         "is_actual": "Актуально",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": "2024-04-07",
+        "nzp_zp": "ZP",
+        "order": 0,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": null,
+        "business_dir": "Белгород Центр",
+        "culture": "Тритикале",
+        "higher_tm": "BL-08-08-62-0011",
+        "is_actual": "Ориентировочно",
+        "material_order": "Посев с внесением удобрений (ГА)",
+        "minimal_date": "2024-04-09",
+        "nzp_zp": "ZP",
+        "order": 40,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Просрочено"
+    },
+    {
+        "actual_data": null,
+        "business_dir": "Белгород Центр",
+        "culture": "Тритикале",
+        "higher_tm": "BL-08-08-62-0011",
+        "is_actual": "Ориентировочно",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-05",
         "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
+        "order": 170,
+        "pu": "РАИ ПУ Ютановский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-05-01",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-01-18-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-12",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-01-18-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-22",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-21",
+        "actual_data": "2024-05-10",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-01-18-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-03",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-01-18-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-08",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-04",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-01-18-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-26",
@@ -1592,6 +1880,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-07",
         "nzp_zp": "ZP",
+        "order": 170,
+        "pu": "РАИ ПУ Покровский",
         "status": "Выполнено в срок"
     },
     {
@@ -1599,121 +1889,143 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-01-18-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-12",
+        "actual_data": "2024-05-13",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-01-18-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-22",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-21",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-01-18-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-03",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-01-18-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-08",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-04",
-        "business_dir": "Белгород Центр",
-        "culture": "Тритикале",
-        "higher_tm": "BL-10-01-18-0004",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-07-26",
+        "actual_data": "2024-04-01",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-01-18-0004",
         "is_actual": "Актуально",
-        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": "2024-08-07",
+        "material_order": "Посев с внесением удобрений (ГА)",
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
+        "order": 40,
+        "pu": "РАИ ПУ Покровский",
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-17",
+        "actual_data": null,
+        "business_dir": "Белгород Центр",
+        "culture": "Тритикале",
+        "higher_tm": "BL-10-01-18-0004",
+        "is_actual": "Ориентировочно",
+        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
+        "minimal_date": "2024-08-07",
+        "nzp_zp": "ZP",
+        "order": 170,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Просрочено"
+    },
+    {
+        "actual_data": null,
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-16-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-06-03",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-16-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-13",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-22",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-16-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-03",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-16-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-08",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-05",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-16-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-25",
@@ -1724,62 +2036,74 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-06",
         "nzp_zp": "ZP",
+        "order": 170,
+        "pu": "РАИ ПУ Веселовский",
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-16",
+        "actual_data": "2024-04-24",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-16-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-04",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-16-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-22",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-16-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-03",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-16-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-07",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-03",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-16-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-26",
@@ -1790,73 +2114,87 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-07",
         "nzp_zp": "ZP",
+        "order": 170,
+        "pu": "РАИ ПУ Веселовский",
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-09",
+        "actual_data": "2024-03-29",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-16-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-08",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-18-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-04",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-18-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-19",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-18-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-05",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-18-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-06",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-18-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-27",
@@ -1867,128 +2205,152 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-08",
         "nzp_zp": "ZP",
+        "order": 170,
+        "pu": "РАИ ПУ Веселовский",
         "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-08",
-        "business_dir": "Белгород Центр",
-        "culture": "Тритикале",
-        "higher_tm": "BL-10-02-18-0010",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-06-04",
-        "business_dir": "Белгород Центр",
-        "culture": "Тритикале",
-        "higher_tm": "BL-10-02-18-0010",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-05-19",
-        "business_dir": "Белгород Центр",
-        "culture": "Тритикале",
-        "higher_tm": "BL-10-02-18-0010",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-04-05",
-        "business_dir": "Белгород Центр",
-        "culture": "Тритикале",
-        "higher_tm": "BL-10-02-18-0010",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-04-07",
-        "business_dir": "Белгород Центр",
-        "culture": "Тритикале",
-        "higher_tm": "BL-10-02-18-0010",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-07-27",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-18-0010",
         "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
+        "minimal_date": "2024-05-10",
+        "nzp_zp": "ZP",
+        "order": 70,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-05-13",
+        "business_dir": "Белгород Центр",
+        "culture": "Тритикале",
+        "higher_tm": "BL-10-02-18-0010",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
+        "minimal_date": "2024-06-14",
+        "nzp_zp": "ZP",
+        "order": 120,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-05-10",
+        "business_dir": "Белгород Центр",
+        "culture": "Тритикале",
+        "higher_tm": "BL-10-02-18-0010",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
+        "minimal_date": "2024-05-14",
+        "nzp_zp": "ZP",
+        "order": 90,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-04-05",
+        "business_dir": "Белгород Центр",
+        "culture": "Тритикале",
+        "higher_tm": "BL-10-02-18-0010",
+        "is_actual": "Актуально",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": "2024-04-10",
+        "nzp_zp": "ZP",
+        "order": 0,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": null,
+        "business_dir": "Белгород Центр",
+        "culture": "Тритикале",
+        "higher_tm": "BL-10-02-18-0010",
+        "is_actual": "Ориентировочно",
+        "material_order": "Посев с внесением удобрений (ГА)",
+        "minimal_date": "2024-04-09",
+        "nzp_zp": "ZP",
+        "order": 40,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Просрочено"
+    },
+    {
+        "actual_data": null,
+        "business_dir": "Белгород Центр",
+        "culture": "Тритикале",
+        "higher_tm": "BL-10-02-18-0010",
+        "is_actual": "Ориентировочно",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-08",
         "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
+        "order": 170,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-05-08",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-19-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-04",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-19-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-19",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-19-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-05",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-19-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-06",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-19-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-27",
@@ -1999,6 +2361,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-08",
         "nzp_zp": "ZP",
+        "order": 170,
+        "pu": "РАИ ПУ Веселовский",
         "status": "Выполнено в срок"
     },
     {
@@ -2006,55 +2370,65 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-19-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-04",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-19-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-19",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-19-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-04",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-19-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-05",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-19-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-27",
@@ -2065,6 +2439,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-08",
         "nzp_zp": "ZP",
+        "order": 170,
+        "pu": "РАИ ПУ Веселовский",
         "status": "Выполнено в срок"
     },
     {
@@ -2072,55 +2448,65 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-20-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-04",
+        "actual_data": "2024-05-13",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-20-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-18",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-20-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-04",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-20-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-05",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-20-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-28",
@@ -2131,62 +2517,74 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-09",
         "nzp_zp": "ZP",
+        "order": 170,
+        "pu": "РАИ ПУ Веселовский",
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-16",
+        "actual_data": null,
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-20-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-06-04",
+        "actual_data": "2024-05-13",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-20-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-22",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-20-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-04-04",
+        "actual_data": "2024-03-29",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-20-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-04",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-20-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-28",
@@ -2197,6 +2595,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-09",
         "nzp_zp": "ZP",
+        "order": 170,
+        "pu": "РАИ ПУ Веселовский",
         "status": "Выполнено в срок"
     },
     {
@@ -2204,55 +2604,65 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-20-0006",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-04",
+        "actual_data": "2024-05-13",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-20-0006",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-22",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-20-0006",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-04-04",
+        "actual_data": "2024-03-29",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-20-0006",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-04",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-20-0006",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-28",
@@ -2263,128 +2673,152 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-09",
         "nzp_zp": "ZP",
+        "order": 170,
+        "pu": "РАИ ПУ Веселовский",
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-15",
+        "actual_data": "2024-04-24",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-38-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-15",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-38-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-25",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-21",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-38-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-20",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-38-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-24",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-21",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-38-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-07-30",
+        "actual_data": null,
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-38-0001",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-11",
         "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
+        "order": 170,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-05-15",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-38-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-15",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-38-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-25",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-21",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-38-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-04-21",
+        "actual_data": null,
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-38-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-26",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-04-22",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-02-38-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-30",
@@ -2395,6 +2829,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-11",
         "nzp_zp": "ZP",
+        "order": 170,
+        "pu": "РАИ ПУ Веселовский",
         "status": "Выполнено в срок"
     },
     {
@@ -2402,33 +2838,39 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-03-32-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-11",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-03-32-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-21",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-03",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-03-32-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-08",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-19",
@@ -2439,6 +2881,8 @@
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "РАИ ПУ Покровский",
         "status": "Операция не отслеживается"
     },
     {
@@ -2446,11 +2890,13 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-03-32-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-27",
@@ -2461,6 +2907,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-08",
         "nzp_zp": "ZP",
+        "order": 170,
+        "pu": "РАИ ПУ Покровский",
         "status": "Выполнено в срок"
     },
     {
@@ -2468,33 +2916,39 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-03-35-0012",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-12",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-03-35-0012",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-11",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-03-35-0012",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-21",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-20",
@@ -2505,6 +2959,8 @@
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
         "minimal_date": null,
         "nzp_zp": "ZP",
+        "order": null,
+        "pu": "РАИ ПУ Покровский",
         "status": "Операция не отслеживается"
     },
     {
@@ -2512,11 +2968,13 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-03-35-0012",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-27",
@@ -2527,6 +2985,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-08",
         "nzp_zp": "ZP",
+        "order": 170,
+        "pu": "РАИ ПУ Покровский",
         "status": "Выполнено в срок"
     },
     {
@@ -2534,55 +2994,65 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-04-10-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-07",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-04-10-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-17",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-19",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-04-10-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-05",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-04-10-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-06",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-04-10-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-29",
@@ -2593,6 +3063,8 @@
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
         "minimal_date": "2024-08-10",
         "nzp_zp": "ZP",
+        "order": 160,
+        "pu": "РАИ ПУ Веселовский",
         "status": "Выполнено в срок"
     },
     {
@@ -2600,55 +3072,65 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-04-10-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-07",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-04-10-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-17",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-19",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-04-10-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-04-04",
+        "actual_data": "2024-03-29",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-04-10-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-05",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-04-10-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-29",
@@ -2659,6 +3141,8 @@
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
         "minimal_date": "2024-08-10",
         "nzp_zp": "ZP",
+        "order": 160,
+        "pu": "РАИ ПУ Веселовский",
         "status": "Выполнено в срок"
     },
     {
@@ -2666,55 +3150,65 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-04-13-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-07",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-04-13-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-17",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-19",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-04-13-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-05",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-04-13-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-07",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-04-13-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-29",
@@ -2725,6 +3219,8 @@
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
         "minimal_date": "2024-08-10",
         "nzp_zp": "ZP",
+        "order": 160,
+        "pu": "РАИ ПУ Веселовский",
         "status": "Выполнено в срок"
     },
     {
@@ -2732,55 +3228,65 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-04-14-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-08",
+        "actual_data": null,
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-04-14-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-18",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-05-19",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-04-14-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-06",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-04-14-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-11",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-07",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-04-14-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-24",
@@ -2791,6 +3297,8 @@
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
         "minimal_date": "2024-08-05",
         "nzp_zp": "ZP",
+        "order": 160,
+        "pu": "РАИ ПУ Веселовский",
         "status": "Выполнено в срок"
     },
     {
@@ -2798,55 +3306,65 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-04-25-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-07",
+        "actual_data": "2024-05-13",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-04-25-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-17",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-19",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-04-25-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-04-06",
+        "actual_data": null,
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-04-25-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-11",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-04-08",
+        "actual_data": "2024-04-01",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-04-25-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-30",
@@ -2857,6 +3375,8 @@
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
         "minimal_date": "2024-08-11",
         "nzp_zp": "ZP",
+        "order": 160,
+        "pu": "РАИ ПУ Веселовский",
         "status": "Выполнено в срок"
     },
     {
@@ -2864,55 +3384,65 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-04-28-0007",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-07",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-04-28-0007",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-17",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-18",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-04-28-0007",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-04-02",
+        "actual_data": null,
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-04-28-0007",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-07",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-04-03",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-04-28-0007",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-29",
@@ -2923,62 +3453,74 @@
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
         "minimal_date": "2024-08-10",
         "nzp_zp": "ZP",
+        "order": 160,
+        "pu": "РАИ ПУ Веселовский",
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-13",
+        "actual_data": "2024-04-24",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-04-29-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-07",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-04-29-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-17",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-18",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-04-29-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-02",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-04-29-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-07",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-03",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-04-29-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Веселовский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-30",
@@ -2989,6 +3531,8 @@
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
         "minimal_date": "2024-08-11",
         "nzp_zp": "ZP",
+        "order": 160,
+        "pu": "РАИ ПУ Веселовский",
         "status": "Выполнено в срок"
     },
     {
@@ -2996,121 +3540,143 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-06-0014",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-06",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-29",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-06-0014",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-13",
+        "actual_data": "2024-05-13",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-06-0014",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-23",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-05",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-06-0014",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-04",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-06-0014",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 30,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-26",
+        "actual_data": null,
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-06-0014",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-07",
         "nzp_zp": "ZP",
-        "status": "Выполнено в срок"
+        "order": 170,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-04-01",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-06-0024",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-06",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 20,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-29",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-06-0024",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-13",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-06-0024",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-23",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-05",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-06-0024",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-04",
+        "actual_data": "2024-03-29",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-06-0024",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 30,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-26",
@@ -3121,6 +3687,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-07",
         "nzp_zp": "ZP",
+        "order": 170,
+        "pu": "РАИ ПУ Покровский",
         "status": "Выполнено в срок"
     },
     {
@@ -3128,55 +3696,65 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-08-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-12",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-08-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-22",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-17",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-08-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-04",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-08-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-05",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-08-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-25",
@@ -3187,6 +3765,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-06",
         "nzp_zp": "ZP",
+        "order": 170,
+        "pu": "РАИ ПУ Покровский",
         "status": "Выполнено в срок"
     },
     {
@@ -3194,66 +3774,78 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-21-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-13",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-21-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-23",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-17",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-21-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-04",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-21-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-05",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-21-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-03",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-21-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-08",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 30,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-27",
@@ -3264,6 +3856,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-08",
         "nzp_zp": "ZP",
+        "order": 170,
+        "pu": "РАИ ПУ Покровский",
         "status": "Выполнено в срок"
     },
     {
@@ -3271,55 +3865,65 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-21-0010",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-13",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-21-0010",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-23",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-17",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-21-0010",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-04",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-21-0010",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-05",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-21-0010",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-27",
@@ -3330,6 +3934,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-08",
         "nzp_zp": "ZP",
+        "order": 170,
+        "pu": "РАИ ПУ Покровский",
         "status": "Выполнено в срок"
     },
     {
@@ -3337,44 +3943,52 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-38-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-12",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-38-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-22",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-06",
+        "actual_data": null,
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-38-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-11",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-04-07",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-38-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-27",
@@ -3385,6 +3999,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-08",
         "nzp_zp": "ZP",
+        "order": 170,
+        "pu": "РАИ ПУ Покровский",
         "status": "Выполнено в срок"
     },
     {
@@ -3392,58 +4008,68 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-38-0007",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-12",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-38-0007",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-22",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-18",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-38-0007",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-05",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-38-0007",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-06",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-38-0007",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-28",
+        "actual_data": "2024-07-27",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-38-0007",
@@ -3451,6 +4077,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-09",
         "nzp_zp": "ZP",
+        "order": 170,
+        "pu": "РАИ ПУ Покровский",
         "status": "Выполнено в срок"
     },
     {
@@ -3458,44 +4086,52 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-38-0008",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-13",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-38-0008",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-23",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-06",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-38-0008",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-11",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-07",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-38-0008",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-27",
@@ -3506,6 +4142,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-08",
         "nzp_zp": "ZP",
+        "order": 170,
+        "pu": "РАИ ПУ Покровский",
         "status": "Выполнено в срок"
     },
     {
@@ -3513,55 +4151,65 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-40-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-11",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-40-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-21",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-18",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-40-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-07",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-40-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-12",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-07",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-40-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-28",
@@ -3572,6 +4220,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-09",
         "nzp_zp": "ZP",
+        "order": 170,
+        "pu": "РАИ ПУ Покровский",
         "status": "Выполнено в срок"
     },
     {
@@ -3579,55 +4229,65 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-40-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-11",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-40-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-21",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-18",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-40-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-07",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-40-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-12",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-07",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-40-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-28",
@@ -3638,6 +4298,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-09",
         "nzp_zp": "ZP",
+        "order": 170,
+        "pu": "РАИ ПУ Покровский",
         "status": "Выполнено в срок"
     },
     {
@@ -3645,55 +4307,65 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-42-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-11",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-42-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-21",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-18",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-42-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-05",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-42-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-06",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-42-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-28",
@@ -3704,6 +4376,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-09",
         "nzp_zp": "ZP",
+        "order": 170,
+        "pu": "РАИ ПУ Покровский",
         "status": "Выполнено в срок"
     },
     {
@@ -3711,55 +4385,65 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-42-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-11",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-42-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-21",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-18",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-42-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-04",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-42-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-05",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-42-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-28",
@@ -3770,6 +4454,8 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-09",
         "nzp_zp": "ZP",
+        "order": 170,
+        "pu": "РАИ ПУ Покровский",
         "status": "Выполнено в срок"
     },
     {
@@ -3777,55 +4463,65 @@
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-42-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 70,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-11",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-42-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-21",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 120,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-18",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-42-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 90,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-04",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-42-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-05",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-42-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 40,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-27",
@@ -3836,17 +4532,21 @@
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-08",
         "nzp_zp": "ZP",
+        "order": 170,
+        "pu": "РАИ ПУ Покровский",
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-05",
+        "actual_data": null,
         "business_dir": "Белгород Центр",
         "culture": "Тритикале",
         "higher_tm": "BL-10-05-42-0011",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-10",
         "nzp_zp": "ZP",
-        "status": "Операция не отслеживается"
+        "order": 0,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Просрочено"
     }
 ]

@@ -16,6 +16,7 @@ public:
     std::vector<std::optional<int>> noinput_deadline;
     std::vector<std::optional<int>> alternative_input;
     std::vector<std::optional<int>> alternative_complete;
+    std::vector<std::optional<int>> order;
 
     // Поля для кратчайших дат
     std::vector<std::optional<std::tm>> planned_date[REGIONS_COUNT];
@@ -39,6 +40,7 @@ public:
             noinput_deadline.push_back(r.get_indicator(13) == soci::i_null ? std::optional<int>{} : r.get<int>(13));
             alternative_input.push_back(r.get_indicator(14) == soci::i_null ? std::optional<int>{} : r.get<int>(14));
             alternative_complete.push_back(r.get_indicator(15) == soci::i_null ? std::optional<int>{} : r.get<int>(15));
+            order.push_back(r.get_indicator(16) == soci::i_null ? std::optional<int>{} : r.get<int>(16));
 
             // Работа с std::tm и NULL
             regions[0].push_back(r.get_indicator(6) == soci::i_null ? std::optional<std::tm>{} : r.get<std::tm>(6));
@@ -104,6 +106,11 @@ public:
                 std::cout << "Alternative Complete: " << alternative_complete[i].value() << "\n";
             else
                 std::cout << "Alternative Complete: NULL\n";
+
+            if (order[i].has_value())
+                std::cout << "order: " << order[i].value() << "\n";
+            else
+                std::cout << "order: NULL\n";
 
             auto print_date = [](const std::optional<std::tm>& date, const std::string& label) 
                 {
