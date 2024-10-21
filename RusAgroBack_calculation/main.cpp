@@ -38,6 +38,9 @@ const std::string REGIONS_RUS[REGIONS_COUNT] = { u8"Белгород Юг",  u8"Белгород Ц
 #include "module_calc_actual_date_completion_entry_oper/functions.h"
 #include "module_calc_minimal_planned_date/functions.h"
 
+//Функции для дебага
+//#include "DEBUG_functions.h"
+
 int main()
 {
     SetConsoleOutputCP(65001);

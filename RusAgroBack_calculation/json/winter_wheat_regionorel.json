@@ -65,7 +65,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-04-25",
+        "actual_data": "2024-05-02",
         "business_dir": "Орел",
         "culture": "Пшеница озимая",
         "higher_tm": "OR-01-01-01-0002",
@@ -84,7 +84,7 @@
         "higher_tm": "OR-01-01-01-0002",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-05-16",
+        "minimal_date": "2024-05-23",
         "nzp_zp": "ZP",
         "order": 80,
         "pu": "ОтА ПУ Жилинский",
@@ -325,7 +325,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-25",
+        "actual_data": "2024-05-14",
         "business_dir": "Орел",
         "culture": "Пшеница озимая",
         "higher_tm": "OR-01-01-05-0001",
@@ -344,24 +344,24 @@
         "higher_tm": "OR-01-01-05-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-05-16",
+        "minimal_date": "2024-05-28",
         "nzp_zp": "ZP",
         "order": 80,
         "pu": "ОтА ПУ Жилинский",
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-06",
         "business_dir": "Орел",
         "culture": "Пшеница озимая",
         "higher_tm": "OR-01-01-05-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-04-18",
         "nzp_zp": "ZP",
         "order": 0,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-27",
@@ -370,27 +370,27 @@
         "higher_tm": "OR-01-01-05-0001",
         "is_actual": "Актуально",
         "material_order": "Подкормка азотная 2-я (ГА)",
-        "minimal_date": "2024-05-04",
+        "minimal_date": "2024-04-27",
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "ОтА ПУ Жилинский",
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-21",
         "business_dir": "Орел",
         "culture": "Пшеница озимая",
         "higher_tm": "OR-01-01-05-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-04",
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-25",
+        "actual_data": "2024-05-14",
         "business_dir": "Орел",
         "culture": "Пшеница озимая",
         "higher_tm": "OR-01-01-05-0002",
@@ -409,7 +409,7 @@
         "higher_tm": "OR-01-01-05-0002",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-05-16",
+        "minimal_date": "2024-05-28",
         "nzp_zp": "ZP",
         "order": 80,
         "pu": "ОтА ПУ Жилинский",
@@ -455,7 +455,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-14",
+        "actual_data": "2024-04-25",
         "business_dir": "Орел",
         "culture": "Пшеница озимая",
         "higher_tm": "OR-01-01-06-0001",
@@ -474,7 +474,7 @@
         "higher_tm": "OR-01-01-06-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-05-28",
+        "minimal_date": "2024-05-16",
         "nzp_zp": "ZP",
         "order": 80,
         "pu": "ОтА ПУ Жилинский",
@@ -520,17 +520,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-14",
         "business_dir": "Орел",
         "culture": "Пшеница озимая",
         "higher_tm": "OR-01-01-06-0002",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
         "minimal_date": "2024-05-24",
         "nzp_zp": "ZP",
         "order": 30,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-09",
@@ -741,7 +741,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-04-25",
+        "actual_data": "2024-05-02",
         "business_dir": "Орел",
         "culture": "Пшеница озимая",
         "higher_tm": "OR-01-01-10-0001",
@@ -760,7 +760,7 @@
         "higher_tm": "OR-01-01-10-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-05-16",
+        "minimal_date": "2024-05-23",
         "nzp_zp": "ZP",
         "order": 80,
         "pu": "ОтА ПУ Жилинский",
@@ -936,17 +936,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-25",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Пшеница озимая",
         "higher_tm": "OR-01-01-13-0001",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
         "minimal_date": "2024-05-25",
         "nzp_zp": "ZP",
         "order": 30,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-06-14",
@@ -955,7 +955,7 @@
         "higher_tm": "OR-01-01-13-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-05-16",
+        "minimal_date": "2024-05-28",
         "nzp_zp": "ZP",
         "order": 80,
         "pu": "ОтА ПУ Жилинский",
@@ -1196,7 +1196,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-25",
+        "actual_data": "2024-05-16",
         "business_dir": "Орел",
         "culture": "Пшеница озимая",
         "higher_tm": "OR-01-01-16-0001",
@@ -1215,7 +1215,7 @@
         "higher_tm": "OR-01-01-16-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-05-16",
+        "minimal_date": "2024-05-28",
         "nzp_zp": "ZP",
         "order": 80,
         "pu": "ОтА ПУ Жилинский",
@@ -1768,7 +1768,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-25",
+        "actual_data": "2024-05-18",
         "business_dir": "Орел",
         "culture": "Пшеница озимая",
         "higher_tm": "OR-01-01-28-0001",
@@ -1787,7 +1787,7 @@
         "higher_tm": "OR-01-01-28-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-05-16",
+        "minimal_date": "2024-05-28",
         "nzp_zp": "ZP",
         "order": 80,
         "pu": "ОтА ПУ Жилинский",
@@ -1833,7 +1833,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-25",
+        "actual_data": "2024-05-18",
         "business_dir": "Орел",
         "culture": "Пшеница озимая",
         "higher_tm": "OR-01-01-29-0001",
@@ -1852,7 +1852,7 @@
         "higher_tm": "OR-01-01-29-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-05-16",
+        "minimal_date": "2024-05-28",
         "nzp_zp": "ZP",
         "order": 80,
         "pu": "ОтА ПУ Жилинский",
@@ -1950,7 +1950,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-25",
+        "actual_data": "2024-05-06",
         "business_dir": "Орел",
         "culture": "Пшеница озимая",
         "higher_tm": "OR-01-01-30-0001",
@@ -1960,7 +1960,7 @@
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "ОтА ПУ Нечаево",
-        "status": "Выполнено в срок"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": null,
@@ -2054,7 +2054,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-25",
+        "actual_data": "2024-05-18",
         "business_dir": "Орел",
         "culture": "Пшеница озимая",
         "higher_tm": "OR-01-01-40-0002",
@@ -2073,7 +2073,7 @@
         "higher_tm": "OR-01-01-40-0002",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-05-16",
+        "minimal_date": "2024-05-28",
         "nzp_zp": "ZP",
         "order": 80,
         "pu": "ОтА ПУ Жилинский",
@@ -2249,7 +2249,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-18",
+        "actual_data": "2024-04-25",
         "business_dir": "Орел",
         "culture": "Пшеница озимая",
         "higher_tm": "OR-01-01-52-0004",
@@ -2268,7 +2268,7 @@
         "higher_tm": "OR-01-01-52-0004",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-05-28",
+        "minimal_date": "2024-05-16",
         "nzp_zp": "ZP",
         "order": 80,
         "pu": "ОтА ПУ Жилинский",
@@ -2821,17 +2821,17 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Пшеница озимая",
         "higher_tm": "OR-01-02-09-0001",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-08-02",
         "nzp_zp": "NZP",
         "order": 140,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-07-25",
@@ -2873,7 +2873,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-04-25",
+        "actual_data": "2024-05-19",
         "business_dir": "Орел",
         "culture": "Пшеница озимая",
         "higher_tm": "OR-01-02-14-0001",
@@ -2892,7 +2892,7 @@
         "higher_tm": "OR-01-02-14-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-05-16",
+        "minimal_date": "2024-05-28",
         "nzp_zp": "ZP",
         "order": 80,
         "pu": "ОтА ПУ Жилинский",
@@ -3003,17 +3003,17 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-04-25",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Пшеница озимая",
         "higher_tm": "OR-01-02-16-0001",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
         "minimal_date": "2024-05-29",
         "nzp_zp": "ZP",
         "order": 30,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-06-27",
@@ -3022,7 +3022,7 @@
         "higher_tm": "OR-01-02-16-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-05-16",
+        "minimal_date": "2024-05-28",
         "nzp_zp": "ZP",
         "order": 80,
         "pu": "ОтА ПУ Жилинский",
@@ -3380,7 +3380,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-08-03",
+        "actual_data": "2024-07-19",
         "business_dir": "Орел",
         "culture": "Пшеница озимая",
         "higher_tm": "OR-01-02-38-0001",
@@ -3390,7 +3390,7 @@
         "nzp_zp": "NZP",
         "order": 140,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-08-03",
@@ -3406,17 +3406,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-08-03",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Пшеница озимая",
         "higher_tm": "OR-01-02-39-0002",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-08-02",
         "nzp_zp": "NZP",
         "order": 140,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Выполнено не в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": null,
@@ -3510,17 +3510,17 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-08-06",
         "business_dir": "Орел",
         "culture": "Пшеница озимая",
         "higher_tm": "OR-01-02-51-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-08-02",
         "nzp_zp": "NZP",
         "order": 140,
         "pu": "ОтА ПУ Отрадинский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-08-01",
@@ -3536,17 +3536,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-08-11",
         "business_dir": "Орел",
         "culture": "Пшеница озимая",
         "higher_tm": "OR-01-02-53-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-08-02",
         "nzp_zp": "NZP",
         "order": 140,
         "pu": "ОтА ПУ Отрадинский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-05-15",
@@ -3599,97 +3599,97 @@
         "order": 70,
         "pu": "ОтА ПУ Отрадинский",
         "status": "Выполнено не в срок"
-    },
-    {
-        "actual_data": "2024-08-07",
-        "business_dir": "Орел",
-        "culture": "Пшеница озимая",
-        "higher_tm": "OR-01-03-11-0001",
-        "is_actual": "Актуально",
-        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": "2024-08-21",
-        "nzp_zp": "ZP",
-        "order": 120,
-        "pu": "ОтА ПУ Отрадинский",
-        "status": "Выполнено в срок"
-    },
-    {
-        "actual_data": "2024-05-15",
-        "business_dir": "Орел",
-        "culture": "Пшеница озимая",
-        "higher_tm": "OR-01-03-12-0001",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-05-25",
-        "nzp_zp": "ZP",
-        "order": 30,
-        "pu": "ОтА ПУ Отрадинский",
-        "status": "Выполнено в срок"
-    },
-    {
-        "actual_data": "2024-06-22",
-        "business_dir": "Орел",
-        "culture": "Пшеница озимая",
-        "higher_tm": "OR-01-03-12-0001",
-        "is_actual": "Актуально",
-        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-05-28",
-        "nzp_zp": "ZP",
-        "order": 80,
-        "pu": "ОтА ПУ Отрадинский",
-        "status": "Выполнено не в срок"
-    },
-    {
-        "actual_data": "2024-04-10",
-        "business_dir": "Орел",
-        "culture": "Пшеница озимая",
-        "higher_tm": "OR-01-03-12-0001",
-        "is_actual": "Актуально",
-        "material_order": "Подкормка азотная 1-я (ГА)",
-        "minimal_date": "2024-04-22",
-        "nzp_zp": "ZP",
-        "order": 0,
-        "pu": "ОтА ПУ Отрадинский",
-        "status": "Выполнено в срок"
-    },
-    {
-        "actual_data": "2024-05-11",
-        "business_dir": "Орел",
-        "culture": "Пшеница озимая",
-        "higher_tm": "OR-01-03-12-0001",
-        "is_actual": "Актуально",
-        "material_order": "Подкормка азотная 2-я (ГА)",
-        "minimal_date": "2024-05-01",
-        "nzp_zp": "ZP",
-        "order": 70,
-        "pu": "ОтА ПУ Отрадинский",
-        "status": "Выполнено не в срок"
-    },
-    {
-        "actual_data": "2024-08-07",
-        "business_dir": "Орел",
-        "culture": "Пшеница озимая",
-        "higher_tm": "OR-01-03-12-0001",
-        "is_actual": "Актуально",
-        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": "2024-08-21",
-        "nzp_zp": "ZP",
-        "order": 120,
-        "pu": "ОтА ПУ Отрадинский",
-        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
         "business_dir": "Орел",
         "culture": "Пшеница озимая",
-        "higher_tm": "OR-01-03-12-0002",
+        "higher_tm": "OR-01-03-11-0001",
         "is_actual": "Ориентировочно",
+        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
+        "minimal_date": "2024-08-21",
+        "nzp_zp": "ZP",
+        "order": 120,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Просрочено"
+    },
+    {
+        "actual_data": "2024-05-15",
+        "business_dir": "Орел",
+        "culture": "Пшеница озимая",
+        "higher_tm": "OR-01-03-12-0001",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
         "minimal_date": "2024-05-25",
         "nzp_zp": "ZP",
         "order": 30,
         "pu": "ОтА ПУ Отрадинский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-06-22",
+        "business_dir": "Орел",
+        "culture": "Пшеница озимая",
+        "higher_tm": "OR-01-03-12-0001",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
+        "minimal_date": "2024-05-28",
+        "nzp_zp": "ZP",
+        "order": 80,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
+    },
+    {
+        "actual_data": "2024-04-10",
+        "business_dir": "Орел",
+        "culture": "Пшеница озимая",
+        "higher_tm": "OR-01-03-12-0001",
+        "is_actual": "Актуально",
+        "material_order": "Подкормка азотная 1-я (ГА)",
+        "minimal_date": "2024-04-22",
+        "nzp_zp": "ZP",
+        "order": 0,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-05-11",
+        "business_dir": "Орел",
+        "culture": "Пшеница озимая",
+        "higher_tm": "OR-01-03-12-0001",
+        "is_actual": "Актуально",
+        "material_order": "Подкормка азотная 2-я (ГА)",
+        "minimal_date": "2024-05-01",
+        "nzp_zp": "ZP",
+        "order": 70,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено не в срок"
+    },
+    {
+        "actual_data": "2024-08-07",
+        "business_dir": "Орел",
+        "culture": "Пшеница озимая",
+        "higher_tm": "OR-01-03-12-0001",
+        "is_actual": "Актуально",
+        "material_order": "Прямое комбайн. с изм. соломы (ГА)",
+        "minimal_date": "2024-08-21",
+        "nzp_zp": "ZP",
+        "order": 120,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
+    },
+    {
+        "actual_data": "2024-05-15",
+        "business_dir": "Орел",
+        "culture": "Пшеница озимая",
+        "higher_tm": "OR-01-03-12-0002",
+        "is_actual": "Актуально",
+        "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
+        "minimal_date": "2024-05-25",
+        "nzp_zp": "ZP",
+        "order": 30,
+        "pu": "ОтА ПУ Отрадинский",
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-22",
@@ -3809,7 +3809,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-08-06",
+        "actual_data": "2024-08-05",
         "business_dir": "Орел",
         "culture": "Пшеница озимая",
         "higher_tm": "OR-01-03-21-0004",
@@ -3952,17 +3952,17 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-08-11",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Пшеница озимая",
         "higher_tm": "OR-01-03-32-0001",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-08-02",
         "nzp_zp": "NZP",
         "order": 140,
         "pu": "ОтА ПУ Отрадинский",
-        "status": "Выполнено не в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": null,
@@ -4186,7 +4186,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-07-22",
+        "actual_data": "2024-07-23",
         "business_dir": "Орел",
         "culture": "Пшеница озимая",
         "higher_tm": "OR-01-03-44-0001",
@@ -4225,7 +4225,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-04-12",
+        "actual_data": "2024-05-01",
         "business_dir": "Орел",
         "culture": "Пшеница озимая",
         "higher_tm": "OR-01-03-44-0003",
@@ -4238,17 +4238,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-14",
         "business_dir": "Орел",
         "culture": "Пшеница озимая",
         "higher_tm": "OR-01-03-44-0003",
         "is_actual": "Актуально",
         "material_order": "Подкормка азотная 2-я (ГА)",
-        "minimal_date": "2024-05-03",
+        "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "ОтА ПУ Отрадинский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-07",
@@ -5018,7 +5018,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-25",
         "business_dir": "Орел",
         "culture": "Пшеница озимая",
         "higher_tm": "OR-01-03-58-0001",
@@ -5629,7 +5629,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-25",
+        "actual_data": "2024-05-15",
         "business_dir": "Орел",
         "culture": "Пшеница озимая",
         "higher_tm": "OR-02-04-01-0001",
@@ -5639,7 +5639,7 @@
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "ОтА ПУ Нечаево",
-        "status": "Выполнено в срок"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-16",
@@ -5668,17 +5668,17 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-25",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Пшеница озимая",
         "higher_tm": "OR-02-04-02-0001",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
         "minimal_date": "2024-05-25",
         "nzp_zp": "ZP",
         "order": 30,
         "pu": "ОтА ПУ Нечаево",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-06-25",
@@ -5687,7 +5687,7 @@
         "higher_tm": "OR-02-04-02-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-05-16",
+        "minimal_date": "2024-05-28",
         "nzp_zp": "ZP",
         "order": 80,
         "pu": "ОтА ПУ Нечаево",
@@ -5746,7 +5746,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-25",
+        "actual_data": "2024-05-14",
         "business_dir": "Орел",
         "culture": "Пшеница озимая",
         "higher_tm": "OR-02-04-03-0001",
@@ -5765,7 +5765,7 @@
         "higher_tm": "OR-02-04-03-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-05-16",
+        "minimal_date": "2024-05-28",
         "nzp_zp": "ZP",
         "order": 80,
         "pu": "ОтА ПУ Нечаево",
@@ -5837,7 +5837,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-26",
+        "actual_data": "2024-05-20",
         "business_dir": "Орел",
         "culture": "Пшеница озимая",
         "higher_tm": "OR-02-04-06-0001",
@@ -5847,7 +5847,7 @@
         "nzp_zp": "ZP",
         "order": 80,
         "pu": "ОтА ПУ Нечаево",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-25",
@@ -5863,7 +5863,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-11",
+        "actual_data": "2024-04-12",
         "business_dir": "Орел",
         "culture": "Пшеница озимая",
         "higher_tm": "OR-02-04-06-0001",
@@ -5876,17 +5876,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-25",
+        "actual_data": "2024-05-17",
         "business_dir": "Орел",
         "culture": "Пшеница озимая",
         "higher_tm": "OR-02-04-06-0001",
         "is_actual": "Актуально",
         "material_order": "Подкормка азотная 2-я (ГА)",
-        "minimal_date": "2024-05-02",
+        "minimal_date": "2024-05-03",
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "ОтА ПУ Нечаево",
-        "status": "Выполнено в срок"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": null,
@@ -5902,7 +5902,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-25",
+        "actual_data": "2024-05-15",
         "business_dir": "Орел",
         "culture": "Пшеница озимая",
         "higher_tm": "OR-02-04-07-0001",
@@ -5921,7 +5921,7 @@
         "higher_tm": "OR-02-04-07-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-05-16",
+        "minimal_date": "2024-05-28",
         "nzp_zp": "ZP",
         "order": 80,
         "pu": "ОтА ПУ Нечаево",
@@ -5980,7 +5980,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-25",
+        "actual_data": "2024-04-30",
         "business_dir": "Орел",
         "culture": "Пшеница озимая",
         "higher_tm": "OR-02-04-09-0001",
@@ -5999,7 +5999,7 @@
         "higher_tm": "OR-02-04-09-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-05-16",
+        "minimal_date": "2024-05-21",
         "nzp_zp": "ZP",
         "order": 80,
         "pu": "ОтА ПУ Нечаево",
@@ -6149,17 +6149,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-08-10",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Пшеница озимая",
         "higher_tm": "OR-02-04-10-0001",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-24",
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "ОтА ПУ Нечаево",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-04-28",
@@ -6305,7 +6305,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-07",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Пшеница озимая",
         "higher_tm": "OR-02-04-12-0003",
@@ -6315,7 +6315,7 @@
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "ОтА ПУ Нечаево",
-        "status": "Выполнено не в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-07-15",
@@ -6422,17 +6422,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-08-09",
         "business_dir": "Орел",
         "culture": "Пшеница озимая",
         "higher_tm": "OR-02-04-13-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-23",
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "ОтА ПУ Нечаево",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-29",
@@ -6669,7 +6669,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-08",
+        "actual_data": "2024-04-25",
         "business_dir": "Орел",
         "culture": "Пшеница озимая",
         "higher_tm": "OR-02-04-37-0001",
@@ -6679,7 +6679,7 @@
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "ОтА ПУ Нечаево",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-16",
@@ -6708,7 +6708,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-04-25",
+        "actual_data": "2024-05-15",
         "business_dir": "Орел",
         "culture": "Пшеница озимая",
         "higher_tm": "OR-02-04-39-0001",
@@ -6727,7 +6727,7 @@
         "higher_tm": "OR-02-04-39-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-05-16",
+        "minimal_date": "2024-05-28",
         "nzp_zp": "ZP",
         "order": 80,
         "pu": "ОтА ПУ Нечаево",
@@ -6916,7 +6916,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-13",
+        "actual_data": "2024-04-25",
         "business_dir": "Орел",
         "culture": "Пшеница озимая",
         "higher_tm": "OR-02-04-55-0002",
@@ -6935,7 +6935,7 @@
         "higher_tm": "OR-02-04-55-0002",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-05-28",
+        "minimal_date": "2024-05-16",
         "nzp_zp": "ZP",
         "order": 80,
         "pu": "ОтА ПУ Нечаево",

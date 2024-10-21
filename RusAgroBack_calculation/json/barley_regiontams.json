@@ -195,17 +195,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-13",
         "business_dir": "Тамбов-Юг",
         "culture": "Ячмень",
         "higher_tm": "TM-01-13-11-0003",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
         "minimal_date": "2024-04-05",
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "АГТ ПУ Новорусановский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-12",
@@ -286,17 +286,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-01",
         "business_dir": "Тамбов-Юг",
         "culture": "Ячмень",
         "higher_tm": "TM-01-32-01-0003",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": "2024-04-14",
         "nzp_zp": "ZP",
         "order": 30,
         "pu": "АГТ ПУ Шпикуловский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-16",
@@ -338,7 +338,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-05-12",
+        "actual_data": "2024-05-01",
         "business_dir": "Тамбов-Юг",
         "culture": "Ячмень",
         "higher_tm": "TM-01-32-05-0001",
@@ -348,20 +348,20 @@
         "nzp_zp": "ZP",
         "order": 90,
         "pu": "АГТ ПУ Шпикуловский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-17",
         "business_dir": "Тамбов-Юг",
         "culture": "Ячмень",
         "higher_tm": "TM-01-32-05-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
         "minimal_date": "2024-04-05",
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "АГТ ПУ Шпикуловский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-10",
@@ -377,17 +377,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-14",
         "business_dir": "Тамбов-Юг",
         "culture": "Ячмень",
         "higher_tm": "TM-01-32-05-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
         "minimal_date": "2024-07-24",
         "nzp_zp": "ZP",
         "order": 170,
         "pu": "АГТ ПУ Шпикуловский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-18",
@@ -403,7 +403,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-01",
+        "actual_data": "2024-06-04",
         "business_dir": "Тамбов-Юг",
         "culture": "Ячмень",
         "higher_tm": "TM-01-32-05-0002",
@@ -416,7 +416,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-05-12",
+        "actual_data": "2024-05-01",
         "business_dir": "Тамбов-Юг",
         "culture": "Ячмень",
         "higher_tm": "TM-01-32-05-0002",
@@ -426,7 +426,7 @@
         "nzp_zp": "ZP",
         "order": 90,
         "pu": "АГТ ПУ Шпикуловский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-18",
@@ -442,17 +442,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-17",
         "business_dir": "Тамбов-Юг",
         "culture": "Ячмень",
         "higher_tm": "TM-01-32-05-0002",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": "2024-04-22",
         "nzp_zp": "ZP",
         "order": 30,
         "pu": "АГТ ПУ Шпикуловский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-16",
@@ -507,17 +507,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-08",
         "business_dir": "Тамбов-Юг",
         "culture": "Ячмень",
         "higher_tm": "TM-01-32-06-0002",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
         "minimal_date": "2024-04-05",
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "АГТ ПУ Шпикуловский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-08",
@@ -546,17 +546,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-19",
+        "actual_data": null,
         "business_dir": "Тамбов-Юг",
         "culture": "Ячмень",
         "higher_tm": "TM-01-32-08-0003",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
         "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
         "order": 60,
         "pu": "АГТ ПУ Шпикуловский",
-        "status": "Выполнено не в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-06-03",
@@ -572,7 +572,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-05-13",
+        "actual_data": "2024-05-01",
         "business_dir": "Тамбов-Юг",
         "culture": "Ячмень",
         "higher_tm": "TM-01-32-08-0003",
@@ -582,23 +582,23 @@
         "nzp_zp": "ZP",
         "order": 90,
         "pu": "АГТ ПУ Шпикуловский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-07",
         "business_dir": "Тамбов-Юг",
         "culture": "Ячмень",
         "higher_tm": "TM-01-32-08-0003",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
         "minimal_date": "2024-04-05",
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "АГТ ПУ Шпикуловский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-04-01",
+        "actual_data": "2024-04-09",
         "business_dir": "Тамбов-Юг",
         "culture": "Ячмень",
         "higher_tm": "TM-01-32-08-0003",
@@ -637,17 +637,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-09",
         "business_dir": "Тамбов-Юг",
         "culture": "Ячмень",
         "higher_tm": "TM-01-51-10-0002",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
         "minimal_date": "2024-04-05",
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "АГТ ПУ Шпикуловский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-07",
@@ -728,17 +728,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-21",
         "business_dir": "Тамбов-Юг",
         "culture": "Ячмень",
         "higher_tm": "TM-06-21-05-0002",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
         "minimal_date": "2024-07-31",
         "nzp_zp": "ZP",
         "order": 170,
         "pu": "АГТ ПУ Знаменский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-18",
@@ -845,7 +845,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-04-11",
+        "actual_data": "2024-04-12",
         "business_dir": "Тамбов-Юг",
         "culture": "Ячмень",
         "higher_tm": "TM-06-21-05-0004",
@@ -884,17 +884,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-21",
         "business_dir": "Тамбов-Юг",
         "culture": "Ячмень",
         "higher_tm": "TM-06-21-05-0004",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
         "minimal_date": "2024-07-31",
         "nzp_zp": "ZP",
         "order": 170,
         "pu": "АГТ ПУ Знаменский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-18",

@@ -234,17 +234,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-10",
         "business_dir": "Белгород Центр",
         "culture": "Горох",
         "higher_tm": "BL-07-06-04-0002",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-07-22",
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "РАИ ПУ Белоколодезянский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-08-12",
@@ -286,7 +286,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-14",
+        "actual_data": "2024-04-30",
         "business_dir": "Белгород Центр",
         "culture": "Горох",
         "higher_tm": "BL-07-06-15-0001",
@@ -442,17 +442,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-13",
         "business_dir": "Белгород Центр",
         "culture": "Горох",
         "higher_tm": "BL-07-06-17-0010",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-07-25",
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "РАИ ПУ Белоколодезянский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-03-28",
@@ -507,7 +507,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-04-14",
+        "actual_data": "2024-06-14",
         "business_dir": "Белгород Центр",
         "culture": "Горох",
         "higher_tm": "BL-07-06-18-0005",
@@ -923,7 +923,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-13",
+        "actual_data": "2024-04-24",
         "business_dir": "Белгород Центр",
         "culture": "Горох",
         "higher_tm": "BL-07-32-06-0002",
@@ -936,17 +936,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-04",
         "business_dir": "Белгород Центр",
         "culture": "Горох",
         "higher_tm": "BL-07-32-06-0002",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я инсектицидная обр. (ГА)",
         "minimal_date": "2024-05-21",
         "nzp_zp": "ZP",
         "order": 170,
         "pu": "РАИ ПУ Белоколодезянский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-05",
@@ -975,17 +975,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-03-31",
         "business_dir": "Белгород Центр",
         "culture": "Горох",
         "higher_tm": "BL-07-32-06-0002",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
         "minimal_date": "2024-04-11",
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Белоколодезянский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-03-30",
@@ -1053,7 +1053,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-13",
+        "actual_data": "2024-04-24",
         "business_dir": "Белгород Центр",
         "culture": "Горох",
         "higher_tm": "BL-07-32-06-0004",
@@ -1352,7 +1352,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-04-24",
+        "actual_data": "2024-06-03",
         "business_dir": "Белгород Центр",
         "culture": "Горох",
         "higher_tm": "BL-08-03-32-0004",
@@ -1404,7 +1404,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-03-30",
+        "actual_data": "2024-03-31",
         "business_dir": "Белгород Центр",
         "culture": "Горох",
         "higher_tm": "BL-08-03-32-0004",
@@ -1456,7 +1456,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-28",
+        "actual_data": "2024-04-14",
         "business_dir": "Белгород Центр",
         "culture": "Горох",
         "higher_tm": "BL-08-03-33-0001",
@@ -1482,17 +1482,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-03",
         "business_dir": "Белгород Центр",
         "culture": "Горох",
         "higher_tm": "BL-08-03-33-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
         "minimal_date": "2024-06-13",
         "nzp_zp": "ZP",
         "order": 90,
         "pu": "РАИ ПУ Грушевский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-13",
@@ -1521,7 +1521,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-01",
+        "actual_data": "2024-04-16",
         "business_dir": "Белгород Центр",
         "culture": "Горох",
         "higher_tm": "BL-08-03-33-0001",
@@ -1742,7 +1742,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-03",
+        "actual_data": "2024-04-24",
         "business_dir": "Белгород Центр",
         "culture": "Горох",
         "higher_tm": "BL-08-03-33-0005",
@@ -1937,7 +1937,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-03-29",
+        "actual_data": "2024-03-30",
         "business_dir": "Белгород Центр",
         "culture": "Горох",
         "higher_tm": "BL-08-03-34-0006",
@@ -2054,20 +2054,20 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-03-29",
         "business_dir": "Белгород Центр",
         "culture": "Горох",
         "higher_tm": "BL-08-03-34-0008",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
         "minimal_date": "2024-04-11",
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Грушевский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-03-29",
+        "actual_data": "2024-03-28",
         "business_dir": "Белгород Центр",
         "culture": "Горох",
         "higher_tm": "BL-08-03-34-0008",
@@ -2379,7 +2379,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-01",
+        "actual_data": "2024-04-16",
         "business_dir": "Белгород Центр",
         "culture": "Горох",
         "higher_tm": "BL-08-06-39-0009",
@@ -2665,7 +2665,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-03-25",
+        "actual_data": "2024-03-29",
         "business_dir": "Белгород Центр",
         "culture": "Горох",
         "higher_tm": "BL-08-08-03-0003",
@@ -2743,7 +2743,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-03-27",
+        "actual_data": "2024-04-01",
         "business_dir": "Белгород Центр",
         "culture": "Горох",
         "higher_tm": "BL-08-08-03-0003",
@@ -2782,7 +2782,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-03-28",
+        "actual_data": "2024-03-29",
         "business_dir": "Белгород Центр",
         "culture": "Горох",
         "higher_tm": "BL-08-08-03-0004",
@@ -3133,7 +3133,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-03-30",
+        "actual_data": "2024-03-29",
         "business_dir": "Белгород Центр",
         "culture": "Горох",
         "higher_tm": "BL-08-08-03-0007",
@@ -3276,7 +3276,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-06",
+        "actual_data": "2024-07-07",
         "business_dir": "Белгород Центр",
         "culture": "Горох",
         "higher_tm": "BL-08-08-03-0008",
@@ -3393,7 +3393,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-03-30",
+        "actual_data": "2024-03-29",
         "business_dir": "Белгород Центр",
         "culture": "Горох",
         "higher_tm": "BL-08-08-03-0010",
@@ -3601,7 +3601,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-01",
+        "actual_data": "2024-03-31",
         "business_dir": "Белгород Центр",
         "culture": "Горох",
         "higher_tm": "BL-08-08-04-0009",
@@ -3978,7 +3978,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-05-04",
+        "actual_data": "2024-04-16",
         "business_dir": "Белгород Центр",
         "culture": "Горох",
         "higher_tm": "BL-08-08-15-0001",
@@ -4095,7 +4095,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-14",
+        "actual_data": "2024-06-14",
         "business_dir": "Белгород Центр",
         "culture": "Горох",
         "higher_tm": "BL-10-02-04-0005",
@@ -4105,7 +4105,7 @@
         "nzp_zp": "ZP",
         "order": 170,
         "pu": "РАИ ПУ Веселовский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-08",
@@ -4407,30 +4407,30 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-03",
-        "business_dir": "Белгород Центр",
-        "culture": "Горох",
-        "higher_tm": "BL-10-03-28-0001",
-        "is_actual": "Актуально",
-        "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": "2024-04-11",
-        "nzp_zp": "ZP",
-        "order": 40,
-        "pu": "РАИ ПУ Покровский",
-        "status": "Выполнено в срок"
-    },
-    {
         "actual_data": null,
         "business_dir": "Белгород Центр",
         "culture": "Горох",
         "higher_tm": "BL-10-03-28-0001",
         "is_actual": "Ориентировочно",
+        "material_order": "Посев с внесением удобрений (ГА)",
+        "minimal_date": "2024-04-11",
+        "nzp_zp": "ZP",
+        "order": 40,
+        "pu": "РАИ ПУ Покровский",
+        "status": "Просрочено"
+    },
+    {
+        "actual_data": "2024-04-02",
+        "business_dir": "Белгород Центр",
+        "culture": "Горох",
+        "higher_tm": "BL-10-03-28-0001",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": "2024-04-12",
         "nzp_zp": "ZP",
         "order": 30,
         "pu": "РАИ ПУ Покровский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-14",
@@ -5239,17 +5239,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-11",
         "business_dir": "Белгород Центр",
         "culture": "Горох",
         "higher_tm": "BL-10-04-27-0002",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-07-23",
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "РАИ ПУ Веселовский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-01",
@@ -5265,17 +5265,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-30",
         "business_dir": "Белгород Центр",
         "culture": "Горох",
         "higher_tm": "BL-10-04-27-0003",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
         "minimal_date": "2024-05-06",
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "РАИ ПУ Веселовский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-06",

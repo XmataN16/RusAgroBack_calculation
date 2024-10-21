@@ -1,6 +1,6 @@
 [
     {
-        "actual_data": "2024-05-08",
+        "actual_data": null,
         "business_dir": "Белгород Центр",
         "culture": "Овес",
         "higher_tm": "BL-07-02-31-0014",
@@ -26,7 +26,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-10",
+        "actual_data": "2024-04-09",
         "business_dir": "Белгород Центр",
         "culture": "Овес",
         "higher_tm": "BL-07-02-31-0014",

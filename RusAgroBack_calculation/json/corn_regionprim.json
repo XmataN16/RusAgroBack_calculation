@@ -65,17 +65,17 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-05-18",
+        "actual_data": null,
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-01-02-01-0010",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": "2024-05-05",
         "nzp_zp": "ZP",
         "order": 290,
         "pu": "ПрА ПУ Ширяевский",
-        "status": "Выполнено не в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-05-18",
@@ -299,30 +299,30 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-19",
-        "business_dir": "Приморье",
-        "culture": "Кукуруза на зерно",
-        "higher_tm": "PR-01-02-01-0012",
-        "is_actual": "Актуально",
-        "material_order": "Посев без внесения удобрений (ГА)",
-        "minimal_date": "2024-05-05",
-        "nzp_zp": "ZP",
-        "order": 290,
-        "pu": "ПрА ПУ Ширяевский",
-        "status": "Выполнено не в срок"
-    },
-    {
         "actual_data": null,
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-01-02-01-0012",
         "is_actual": "Ориентировочно",
+        "material_order": "Посев без внесения удобрений (ГА)",
+        "minimal_date": "2024-05-05",
+        "nzp_zp": "ZP",
+        "order": 290,
+        "pu": "ПрА ПУ Ширяевский",
+        "status": "Просрочено"
+    },
+    {
+        "actual_data": "2024-05-05",
+        "business_dir": "Приморье",
+        "culture": "Кукуруза на зерно",
+        "higher_tm": "PR-01-02-01-0012",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": "2024-05-25",
         "nzp_zp": "ZP",
         "order": 280,
         "pu": "ПрА ПУ Ширяевский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -3016,17 +3016,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-11",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-01-02-09-0094",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": "2024-05-31",
         "nzp_zp": "ZP",
         "order": 280,
         "pu": "ПрА ПУ Ширяевский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -3276,17 +3276,17 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-05-18",
+        "actual_data": null,
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-01-02-10-0100",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение азот. удобр. перед севом (ГА)",
         "minimal_date": "2024-06-07",
         "nzp_zp": "ZP",
         "order": 260,
         "pu": "ПрА ПУ Ширяевский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-06-18",
@@ -3614,17 +3614,17 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-05-18",
+        "actual_data": null,
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-01-02-10-0103",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение азот. удобр. перед севом (ГА)",
         "minimal_date": "2024-06-07",
         "nzp_zp": "ZP",
         "order": 260,
         "pu": "ПрА ПУ Ширяевский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-06-19",
@@ -3666,17 +3666,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-20",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-01-02-10-0103",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Культивация (ГА)",
         "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
         "order": 250,
         "pu": "ПрА ПУ Ширяевский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-18",
@@ -3692,17 +3692,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-18",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-01-02-10-0103",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": "2024-06-07",
         "nzp_zp": "ZP",
         "order": 280,
         "pu": "ПрА ПУ Ширяевский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -4667,17 +4667,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-29",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-02-01-01-0002",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение азот. удобр. перед севом (ГА)",
         "minimal_date": "2024-05-19",
         "nzp_zp": "ZP",
         "order": 260,
         "pu": "ПрА ПУ Степное",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-10",
@@ -4758,17 +4758,17 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-29",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-02-01-01-0003",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
         "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
         "order": 270,
         "pu": "ПрА ПУ Степное",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-26",
@@ -4875,30 +4875,30 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-25",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-02-01-01-0004",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение азот. удобр. перед севом (ГА)",
         "minimal_date": "2024-05-15",
         "nzp_zp": "ZP",
         "order": 260,
         "pu": "ПрА ПУ Степное",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-29",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-02-01-01-0004",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
         "minimal_date": "2024-06-02",
         "nzp_zp": "ZP",
         "order": 310,
         "pu": "ПрА ПУ Степное",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-09",
@@ -5382,17 +5382,17 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-05",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-02-01-01-0009",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
         "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
         "order": 270,
         "pu": "ПрА ПУ Степное",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-21",
@@ -5447,17 +5447,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-23",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-02-01-01-0009",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": "2024-05-05",
         "nzp_zp": "ZP",
         "order": 290,
         "pu": "ПрА ПУ Степное",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-22",
@@ -5668,17 +5668,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-23",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-02-01-01-0013",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": "2024-05-13",
         "nzp_zp": "ZP",
         "order": 280,
         "pu": "ПрА ПУ Степное",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -5850,17 +5850,17 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-16",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-02-01-03-0038",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
         "minimal_date": "2024-05-09",
         "nzp_zp": "ZP",
         "order": 300,
         "pu": "ПрА ПУ Степное",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-05-05",
@@ -5902,30 +5902,30 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-01",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-02-01-03-0039",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение азот. удобр. перед севом (ГА)",
         "minimal_date": "2024-05-21",
         "nzp_zp": "ZP",
         "order": 260,
         "pu": "ПрА ПУ Степное",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-26",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-02-01-03-0039",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
         "minimal_date": "2024-06-02",
         "nzp_zp": "ZP",
         "order": 310,
         "pu": "ПрА ПУ Степное",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-10",
@@ -6084,17 +6084,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-21",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-02-01-08-0082",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение азот. удобр. перед севом (ГА)",
         "minimal_date": "2024-06-10",
         "nzp_zp": "ZP",
         "order": 260,
         "pu": "ПрА ПУ Степное",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-03-26",
@@ -6227,7 +6227,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-04-01",
+        "actual_data": "2024-05-21",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-02-01-08-0083",
@@ -7215,17 +7215,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-15",
+        "actual_data": null,
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-02-01-09-0095",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение азот. удобр. перед севом (ГА)",
         "minimal_date": "2024-06-04",
         "nzp_zp": "ZP",
         "order": 260,
         "pu": "ПрА ПУ Степное",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-06-20",
@@ -7280,17 +7280,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-16",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-02-01-09-0095",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": "2024-05-05",
         "nzp_zp": "ZP",
         "order": 290,
         "pu": "ПрА ПУ Степное",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-05-15",
@@ -8086,17 +8086,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-21",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-02-01-11-0110",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": "2024-05-05",
         "nzp_zp": "ZP",
         "order": 290,
         "pu": "ПрА ПУ Степное",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-05-21",
@@ -8281,17 +8281,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-21",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-02-01-11-0113",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
         "minimal_date": "2024-05-11",
         "nzp_zp": "ZP",
         "order": 240,
         "pu": "ПрА ПУ Степное",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -8489,17 +8489,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-04",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-02-01-13-0136",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
         "minimal_date": "2024-06-02",
         "nzp_zp": "ZP",
         "order": 310,
         "pu": "ПрА ПУ Степное",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-17",
@@ -8645,17 +8645,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-12",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-02-03-01-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Культивация (ГА)",
         "minimal_date": "2024-05-02",
         "nzp_zp": "ZP",
         "order": 250,
         "pu": "ПрА ПУ Воздвиженка",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-23",
@@ -8931,17 +8931,17 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-23",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-02-03-01-0004",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение азот. удобр. перед севом (ГА)",
         "minimal_date": "2024-05-13",
         "nzp_zp": "ZP",
         "order": 260,
         "pu": "ПрА ПУ Воздвиженка",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-11",
@@ -9035,17 +9035,17 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-01",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-02-03-01-0005",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение азот. удобр. перед севом (ГА)",
         "minimal_date": "2024-05-21",
         "nzp_zp": "ZP",
         "order": 260,
         "pu": "ПрА ПУ Воздвиженка",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-28",
@@ -9178,17 +9178,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-13",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-02-03-01-0007",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
         "minimal_date": "2024-05-09",
         "nzp_zp": "ZP",
         "order": 300,
         "pu": "ПрА ПУ Воздвиженка",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-05-24",
@@ -9217,17 +9217,17 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-28",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-02-03-01-0007",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": "2024-05-18",
         "nzp_zp": "ZP",
         "order": 280,
         "pu": "ПрА ПУ Воздвиженка",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -9243,56 +9243,56 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-01",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-02-03-01-0009",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение азот. удобр. перед севом (ГА)",
         "minimal_date": "2024-05-21",
         "nzp_zp": "ZP",
         "order": 260,
         "pu": "ПрА ПУ Воздвиженка",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-03-17",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-02-03-01-0009",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение основных калийных удобр. (ГА)",
         "minimal_date": "2024-04-06",
         "nzp_zp": "ZP",
         "order": 220,
         "pu": "ПрА ПУ Воздвиженка",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-03-17",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-02-03-01-0009",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение основных фосфорных удобр. (ГА)",
         "minimal_date": "2024-04-06",
         "nzp_zp": "ZP",
         "order": 230,
         "pu": "ПрА ПУ Воздвиженка",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-20",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-02-03-01-0009",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
         "minimal_date": "2024-06-02",
         "nzp_zp": "ZP",
         "order": 310,
         "pu": "ПрА ПУ Воздвиженка",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-11",
@@ -9321,17 +9321,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-02",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-02-03-01-0009",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Культивация (ГА)",
         "minimal_date": "2024-05-22",
         "nzp_zp": "ZP",
         "order": 250,
         "pu": "ПрА ПУ Воздвиженка",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-17",
@@ -9347,17 +9347,17 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-02",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-02-03-01-0009",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": "2024-05-05",
         "nzp_zp": "ZP",
         "order": 290,
         "pu": "ПрА ПУ Воздвиженка",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-01",
@@ -9698,17 +9698,17 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-04",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-02-03-02-0028",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": "2024-05-24",
         "nzp_zp": "ZP",
         "order": 280,
         "pu": "ПрА ПУ Воздвиженка",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -9802,17 +9802,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-22",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-02-03-02-0029",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": "2024-05-12",
         "nzp_zp": "ZP",
         "order": 280,
         "pu": "ПрА ПУ Воздвиженка",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -10361,17 +10361,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-14",
+        "actual_data": null,
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-02-03-03-0038",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": "2024-05-05",
         "nzp_zp": "ZP",
         "order": 290,
         "pu": "ПрА ПУ Воздвиженка",
-        "status": "Выполнено не в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": null,
@@ -10478,17 +10478,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-16",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-02-03-04-0044",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": "2024-05-05",
         "nzp_zp": "ZP",
         "order": 290,
         "pu": "ПрА ПУ Воздвиженка",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-05-13",
@@ -10556,17 +10556,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-28",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-02-03-04-0047",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
         "minimal_date": "2024-06-02",
         "nzp_zp": "ZP",
         "order": 310,
         "pu": "ПрА ПУ Воздвиженка",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-12",
@@ -10582,17 +10582,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-21",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-02-03-04-0047",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
         "minimal_date": "2024-05-09",
         "nzp_zp": "ZP",
         "order": 300,
         "pu": "ПрА ПУ Воздвиженка",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": null,
@@ -10634,17 +10634,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-07",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-02-03-04-0047",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": "2024-05-27",
         "nzp_zp": "ZP",
         "order": 280,
         "pu": "ПрА ПУ Воздвиженка",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -10907,17 +10907,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-05",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-02-03-05-0053",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение азот. удобр. перед севом (ГА)",
         "minimal_date": "2024-05-25",
         "nzp_zp": "ZP",
         "order": 260,
         "pu": "ПрА ПУ Воздвиженка",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-19",
@@ -10946,17 +10946,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-23",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-02-03-05-0053",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
         "minimal_date": "2024-05-09",
         "nzp_zp": "ZP",
         "order": 300,
         "pu": "ПрА ПУ Воздвиженка",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-05-08",
@@ -10985,17 +10985,17 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-09",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-02-03-05-0053",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": "2024-05-05",
         "nzp_zp": "ZP",
         "order": 290,
         "pu": "ПрА ПУ Воздвиженка",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": null,
@@ -11063,17 +11063,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-21",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-02-03-06-0066",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": "2024-05-05",
         "nzp_zp": "ZP",
         "order": 290,
         "pu": "ПрА ПУ Воздвиженка",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-05-20",
@@ -11219,7 +11219,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-05-21",
+        "actual_data": "2024-05-20",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-02-03-10-0105",
@@ -11232,17 +11232,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-27",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-02-03-10-0105",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
         "minimal_date": "2024-06-02",
         "nzp_zp": "ZP",
         "order": 310,
         "pu": "ПрА ПУ Воздвиженка",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-18",
@@ -11271,17 +11271,17 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-22",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-02-03-10-0105",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": "2024-05-05",
         "nzp_zp": "ZP",
         "order": 290,
         "pu": "ПрА ПУ Воздвиженка",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": null,
@@ -11310,7 +11310,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-05-23",
+        "actual_data": "2024-05-13",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-02-03-12-0120",
@@ -11453,7 +11453,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-23",
+        "actual_data": "2024-05-13",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-02-03-12-0123",
@@ -11791,30 +11791,30 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-31",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-02-03-23-0231",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
         "minimal_date": "2024-05-09",
         "nzp_zp": "ZP",
         "order": 300,
         "pu": "ПрА ПУ Воздвиженка",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-18",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-02-03-23-0231",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": "2024-05-05",
         "nzp_zp": "ZP",
         "order": 290,
         "pu": "ПрА ПУ Воздвиженка",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-05-17",
@@ -12779,17 +12779,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-14",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-03-02-01-0005",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение азот. удобр. перед севом (ГА)",
         "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
         "order": 260,
         "pu": "ПрА ПУ Турий Рог",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-04",
@@ -12818,17 +12818,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-11",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-03-02-01-0005",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
         "minimal_date": "2024-06-02",
         "nzp_zp": "ZP",
         "order": 310,
         "pu": "ПрА ПУ Турий Рог",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-15",
@@ -12909,17 +12909,17 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-15",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-03-02-01-0006",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение азот. удобр. перед севом (ГА)",
         "minimal_date": "2024-05-05",
         "nzp_zp": "ZP",
         "order": 260,
         "pu": "ПрА ПУ Турий Рог",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-04",
@@ -12948,17 +12948,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-16",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-03-02-01-0006",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
         "minimal_date": "2024-06-02",
         "nzp_zp": "ZP",
         "order": 310,
         "pu": "ПрА ПУ Турий Рог",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-15",
@@ -13663,43 +13663,43 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-20",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-03-02-01-0012",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение азот. удобр. перед севом (ГА)",
         "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
         "order": 260,
         "pu": "ПрА ПУ Турий Рог",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-03-19",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-03-02-01-0012",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение основных калийных удобр. (ГА)",
         "minimal_date": "2024-04-08",
         "nzp_zp": "ZP",
         "order": 220,
         "pu": "ПрА ПУ Турий Рог",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-03-19",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-03-02-01-0012",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение основных фосфорных удобр. (ГА)",
         "minimal_date": "2024-04-08",
         "nzp_zp": "ZP",
         "order": 230,
         "pu": "ПрА ПУ Турий Рог",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-21",
@@ -13715,17 +13715,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-24",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-03-02-01-0012",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
         "minimal_date": "2024-08-08",
         "nzp_zp": "ZP",
         "order": 320,
         "pu": "ПрА ПУ Турий Рог",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-07",
@@ -13741,17 +13741,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-22",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-03-02-01-0012",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Культивация (ГА)",
         "minimal_date": "2024-05-12",
         "nzp_zp": "ZP",
         "order": 250,
         "pu": "ПрА ПУ Турий Рог",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-28",
@@ -14482,17 +14482,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-11",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-03-02-01-0019",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
         "minimal_date": "2024-06-02",
         "nzp_zp": "ZP",
         "order": 310,
         "pu": "ПрА ПУ Турий Рог",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-16",
@@ -14547,17 +14547,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-24",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-03-02-01-0019",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
         "order": 280,
         "pu": "ПрА ПУ Турий Рог",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -14651,17 +14651,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-25",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-03-02-02-0020",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": "2024-05-15",
         "nzp_zp": "ZP",
         "order": 280,
         "pu": "ПрА ПУ Турий Рог",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -14716,17 +14716,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-23",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-03-02-02-0021",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
         "minimal_date": "2024-08-07",
         "nzp_zp": "ZP",
         "order": 320,
         "pu": "ПрА ПУ Турий Рог",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-10",
@@ -15041,56 +15041,56 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-29",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-03-02-03-0034",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
         "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
         "order": 270,
         "pu": "ПрА ПУ Турий Рог",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-24",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-03-02-03-0034",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение азот. удобр. перед севом (ГА)",
         "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
         "order": 260,
         "pu": "ПрА ПУ Турий Рог",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-03-26",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-03-02-03-0034",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение основных калийных удобр. (ГА)",
         "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
         "order": 220,
         "pu": "ПрА ПУ Турий Рог",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-03-26",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-03-02-03-0034",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение основных фосфорных удобр. (ГА)",
         "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
         "order": 230,
         "pu": "ПрА ПУ Турий Рог",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-28",
@@ -15132,17 +15132,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-24",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-03-02-03-0034",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Культивация (ГА)",
         "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
         "order": 250,
         "pu": "ПрА ПУ Турий Рог",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-15",
@@ -15184,7 +15184,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-17",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-03-02-03-0034",
@@ -15197,17 +15197,17 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-29",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-03-02-03-0034",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": "2024-05-05",
         "nzp_zp": "ZP",
         "order": 290,
         "pu": "ПрА ПУ Турий Рог",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -16029,17 +16029,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-02",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-03-02-09-0096",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение основных калийных удобр. (ГА)",
         "minimal_date": "2024-04-22",
         "nzp_zp": "ZP",
         "order": 220,
         "pu": "ПрА ПУ Турий Рог",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-02",
@@ -16705,17 +16705,17 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-20",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-04-01-01-0018",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение азот. удобр. перед севом (ГА)",
         "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
         "order": 260,
         "pu": "ПрА ПУ Жариково",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-01",
@@ -16744,17 +16744,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-04",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-04-01-01-0018",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
         "minimal_date": "2024-06-02",
         "nzp_zp": "ZP",
         "order": 310,
         "pu": "ПрА ПУ Жариково",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-12",
@@ -16822,7 +16822,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-25",
+        "actual_data": "2024-05-07",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-04-01-01-0019",
@@ -16848,17 +16848,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-13",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-04-01-01-0019",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
         "minimal_date": "2024-07-28",
         "nzp_zp": "ZP",
         "order": 320,
         "pu": "ПрА ПУ Жариково",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-14",
@@ -17615,17 +17615,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-19",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-04-01-03-0030",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
         "minimal_date": "2024-06-02",
         "nzp_zp": "ZP",
         "order": 310,
         "pu": "ПрА ПУ Жариково",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-29",
@@ -17823,17 +17823,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-09",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-04-01-03-0032",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
         "minimal_date": "2024-05-09",
         "nzp_zp": "ZP",
         "order": 300,
         "pu": "ПрА ПУ Жариково",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-08",
@@ -17849,17 +17849,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-02",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-04-01-03-0032",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": "2024-05-22",
         "nzp_zp": "ZP",
         "order": 280,
         "pu": "ПрА ПУ Жариково",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -17888,30 +17888,30 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-06",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-04-01-03-0034",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение азот. удобр. перед севом (ГА)",
         "minimal_date": "2024-04-26",
         "nzp_zp": "ZP",
         "order": 260,
         "pu": "ПрА ПУ Жариково",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-07",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-04-01-03-0034",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
         "minimal_date": "2024-06-02",
         "nzp_zp": "ZP",
         "order": 310,
         "pu": "ПрА ПУ Жариково",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-15",
@@ -17940,17 +17940,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-02",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-04-01-03-0034",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": "2024-05-05",
         "nzp_zp": "ZP",
         "order": 290,
         "pu": "ПрА ПУ Жариково",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -18174,17 +18174,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-19",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-04-01-04-0041",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-06-08",
         "nzp_zp": "ZP",
         "order": 370,
         "pu": "ПрА ПУ Жариково",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-19",
@@ -18252,17 +18252,17 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-01",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-04-01-04-0042",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение азот. удобр. перед севом (ГА)",
         "minimal_date": "2024-06-21",
         "nzp_zp": "ZP",
         "order": 260,
         "pu": "ПрА ПУ Жариково",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-03-26",
@@ -18317,7 +18317,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-20",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-04-01-04-0042",
@@ -18525,17 +18525,17 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-30",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-04-01-04-0048",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
         "minimal_date": "2024-08-14",
         "nzp_zp": "ZP",
         "order": 320,
         "pu": "ПрА ПУ Жариково",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-17",
@@ -18629,17 +18629,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-01",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-04-01-04-0049",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
         "minimal_date": "2024-06-02",
         "nzp_zp": "ZP",
         "order": 310,
         "pu": "ПрА ПУ Жариково",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-17",
@@ -18655,17 +18655,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-09",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-04-01-04-0049",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
         "minimal_date": "2024-05-09",
         "nzp_zp": "ZP",
         "order": 300,
         "pu": "ПрА ПУ Жариково",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-13",
@@ -18694,17 +18694,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-25",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-04-01-04-0049",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": "2024-05-15",
         "nzp_zp": "ZP",
         "order": 280,
         "pu": "ПрА ПУ Жариково",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -19136,7 +19136,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-05-10",
+        "actual_data": "2024-05-09",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-04-01-05-0054",
@@ -19292,17 +19292,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-03-19",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-04-01-05-0055",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение основных фосфорных удобр. (ГА)",
         "minimal_date": "2024-04-08",
         "nzp_zp": "ZP",
         "order": 230,
         "pu": "ПрА ПУ Жариково",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-01",
@@ -19331,17 +19331,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-23",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-04-01-05-0055",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
         "minimal_date": "2024-05-09",
         "nzp_zp": "ZP",
         "order": 300,
         "pu": "ПрА ПУ Жариково",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-27",
@@ -19357,20 +19357,20 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-16",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-04-01-05-0055",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": "2024-05-05",
         "nzp_zp": "ZP",
         "order": 290,
         "pu": "ПрА ПУ Жариково",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-05-15",
+        "actual_data": "2024-05-14",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-04-01-05-0055",
@@ -19448,17 +19448,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-24",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-04-01-05-0056",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
         "minimal_date": "2024-08-08",
         "nzp_zp": "ZP",
         "order": 320,
         "pu": "ПрА ПУ Жариково",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-24",
@@ -19773,7 +19773,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-01",
+        "actual_data": "2024-05-17",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-04-01-06-0060",
@@ -20540,17 +20540,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-24",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-04-01-14-0149",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
         "minimal_date": "2024-08-08",
         "nzp_zp": "ZP",
         "order": 320,
         "pu": "ПрА ПУ Жариково",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-18",
@@ -20631,17 +20631,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-02-22",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-04-01-16-0164",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение основных калийных удобр. (ГА)",
         "minimal_date": "2024-03-13",
         "nzp_zp": "ZP",
         "order": 220,
         "pu": "ПрА ПУ Жариково",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-03-24",
@@ -20709,17 +20709,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-18",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-04-01-16-0164",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
         "minimal_date": "2024-06-07",
         "nzp_zp": "ZP",
         "order": 240,
         "pu": "ПрА ПУ Жариково",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-30",
@@ -21242,17 +21242,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-18",
+        "actual_data": null,
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-04-02-02-0024",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
         "minimal_date": "2024-05-09",
         "nzp_zp": "ZP",
         "order": 300,
         "pu": "ПрА ПУ Пограничный",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-05-14",
@@ -21281,7 +21281,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-16",
+        "actual_data": "2024-05-17",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-04-02-02-0024",
@@ -21372,7 +21372,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-18",
+        "actual_data": "2024-05-25",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-04-02-02-0027",
@@ -21382,7 +21382,7 @@
         "nzp_zp": "ZP",
         "order": 300,
         "pu": "ПрА ПУ Пограничный",
-        "status": "Выполнено в срок"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-05-15",
@@ -21515,17 +21515,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-25",
+        "actual_data": null,
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-04-02-02-0028",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
         "minimal_date": "2024-05-09",
         "nzp_zp": "ZP",
         "order": 300,
         "pu": "ПрА ПУ Пограничный",
-        "status": "Выполнено не в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-05-15",
@@ -21762,17 +21762,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-25",
+        "actual_data": null,
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-04-02-03-0034",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
         "minimal_date": "2024-05-09",
         "nzp_zp": "ZP",
         "order": 300,
         "pu": "ПрА ПУ Пограничный",
-        "status": "Выполнено не в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-05-21",
@@ -22776,17 +22776,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-27",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-04-02-04-0049",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение азот. удобр. перед севом (ГА)",
         "minimal_date": "2024-07-17",
         "nzp_zp": "ZP",
         "order": 260,
         "pu": "ПрА ПУ Пограничный",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-08",
@@ -23023,7 +23023,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-05-02",
+        "actual_data": "2024-05-03",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-04-02-05-0051",
@@ -23751,17 +23751,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-03-14",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-04-02-07-0073",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение основных фосфорных удобр. (ГА)",
         "minimal_date": "2024-04-03",
         "nzp_zp": "ZP",
         "order": 230,
         "pu": "ПрА ПУ Пограничный",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-18",
@@ -24934,17 +24934,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-06",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-04-02-08-0086",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение азот. удобр. перед севом (ГА)",
         "minimal_date": "2024-04-26",
         "nzp_zp": "ZP",
         "order": 260,
         "pu": "ПрА ПУ Пограничный",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-01",
@@ -25610,17 +25610,17 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-01",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-04-02-10-0100",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": "2024-05-05",
         "nzp_zp": "ZP",
         "order": 290,
         "pu": "ПрА ПУ Пограничный",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -25857,17 +25857,17 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-05",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-04-02-10-0108",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение азот. удобр. перед севом (ГА)",
         "minimal_date": "2024-05-25",
         "nzp_zp": "ZP",
         "order": 260,
         "pu": "ПрА ПУ Пограничный",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-17",
@@ -25922,17 +25922,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-04",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-04-02-10-0108",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-04-24",
         "nzp_zp": "ZP",
         "order": 370,
         "pu": "ПрА ПУ Пограничный",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-13",
@@ -27339,7 +27339,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-05-09",
+        "actual_data": "2024-05-10",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-04-02-13-0133",
@@ -27352,17 +27352,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-09",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-04-02-13-0133",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-04-29",
         "nzp_zp": "ZP",
         "order": 370,
         "pu": "ПрА ПУ Пограничный",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-10",
@@ -28821,17 +28821,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-19",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-04-02-20-0209",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": "2024-05-05",
         "nzp_zp": "ZP",
         "order": 290,
         "pu": "ПрА ПУ Пограничный",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": null,
@@ -28912,17 +28912,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-25",
+        "actual_data": null,
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-04-02-21-0210",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
         "minimal_date": "2024-05-09",
         "nzp_zp": "ZP",
         "order": 300,
         "pu": "ПрА ПУ Пограничный",
-        "status": "Выполнено не в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-05-21",
@@ -28990,17 +28990,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-03-05",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-04-02-21-0217",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение основных фосфорных удобр. (ГА)",
         "minimal_date": "2024-03-25",
         "nzp_zp": "ZP",
         "order": 230,
         "pu": "ПрА ПУ Пограничный",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-19",
@@ -29029,17 +29029,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-15",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-04-02-21-0217",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Культивация (ГА)",
         "minimal_date": "2024-06-04",
         "nzp_zp": "ZP",
         "order": 250,
         "pu": "ПрА ПУ Пограничный",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-10",
@@ -29081,7 +29081,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-01",
+        "actual_data": "2024-06-01",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-04-02-21-0218",
@@ -29653,17 +29653,17 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-11",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-04-03-01-0006",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение азот. удобр. перед севом (ГА)",
         "minimal_date": "2024-05-01",
         "nzp_zp": "ZP",
         "order": 260,
         "pu": "ПрА ПУ Поповский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-29",
@@ -30459,17 +30459,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-16",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-04-03-03-0032",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
         "minimal_date": "2024-06-05",
         "nzp_zp": "ZP",
         "order": 240,
         "pu": "ПрА ПУ Поповский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-19",
@@ -30966,17 +30966,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-08",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-04-03-04-0044",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": "2024-05-05",
         "nzp_zp": "ZP",
         "order": 290,
         "pu": "ПрА ПУ Поповский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": null,
@@ -31629,17 +31629,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-03-27",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-04-03-11-0117",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение основных фосфорных удобр. (ГА)",
         "minimal_date": "2024-04-16",
         "nzp_zp": "ZP",
         "order": 230,
         "pu": "ПрА ПУ Поповский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-31",
@@ -31772,17 +31772,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-22",
         "business_dir": "Приморье",
         "culture": "Кукуруза на зерно",
         "higher_tm": "PR-04-03-12-0123",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
         "minimal_date": "2024-06-11",
         "nzp_zp": "ZP",
         "order": 240,
         "pu": "ПрА ПУ Поповский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-25",

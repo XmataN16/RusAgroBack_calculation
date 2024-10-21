@@ -26,7 +26,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-05",
+        "actual_data": "2024-06-06",
         "business_dir": "Белгород Юг",
         "culture": "Горох",
         "higher_tm": "BL-04-01-01-0004",
@@ -78,30 +78,30 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-01",
         "business_dir": "Белгород Юг",
         "culture": "Горох",
         "higher_tm": "BL-04-01-01-0004",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
         "minimal_date": "2024-04-11",
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-03-29",
         "business_dir": "Белгород Юг",
         "culture": "Горох",
         "higher_tm": "BL-04-01-01-0004",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": "2024-04-08",
         "nzp_zp": "ZP",
         "order": 30,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-13",
@@ -286,17 +286,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-01",
         "business_dir": "Белгород Юг",
         "culture": "Горох",
         "higher_tm": "BL-04-01-04-0007",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
         "minimal_date": "2024-04-11",
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-03-28",
@@ -416,17 +416,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-09",
         "business_dir": "Белгород Юг",
         "culture": "Горох",
         "higher_tm": "BL-04-01-05-0007",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": "2024-04-19",
         "nzp_zp": "ZP",
         "order": 30,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-12",
@@ -715,7 +715,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-01",
+        "actual_data": "2024-04-02",
         "business_dir": "Белгород Юг",
         "culture": "Горох",
         "higher_tm": "BL-04-01-07-0008",
@@ -741,17 +741,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-09",
         "business_dir": "Белгород Юг",
         "culture": "Горох",
         "higher_tm": "BL-04-01-07-0008",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-07-21",
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-03-26",
@@ -832,17 +832,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-01",
         "business_dir": "Белгород Юг",
         "culture": "Горох",
         "higher_tm": "BL-04-01-07-0009",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
         "minimal_date": "2024-04-11",
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-03-31",
@@ -949,17 +949,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-01",
         "business_dir": "Белгород Юг",
         "culture": "Горох",
         "higher_tm": "BL-04-01-07-0010",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
         "minimal_date": "2024-04-11",
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-03-28",
@@ -1222,7 +1222,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-03-26",
+        "actual_data": "2024-03-24",
         "business_dir": "Белгород Юг",
         "culture": "Горох",
         "higher_tm": "BL-04-01-22-0014",
@@ -1300,17 +1300,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-11",
         "business_dir": "Белгород Юг",
         "culture": "Горох",
         "higher_tm": "BL-04-01-22-0014",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
         "minimal_date": "2024-04-11",
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-16",
@@ -1417,7 +1417,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-15",
+        "actual_data": "2024-07-08",
         "business_dir": "Белгород Юг",
         "culture": "Горох",
         "higher_tm": "BL-04-01-25-0013",
@@ -1651,17 +1651,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-03-26",
         "business_dir": "Белгород Юг",
         "culture": "Горох",
         "higher_tm": "BL-04-01-28-0012",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
         "minimal_date": "2024-03-31",
         "nzp_zp": "ZP",
         "order": 20,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-25",
@@ -1768,7 +1768,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-03-26",
+        "actual_data": "2024-03-24",
         "business_dir": "Белгород Юг",
         "culture": "Горох",
         "higher_tm": "BL-04-01-29-0011",
@@ -1833,7 +1833,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-03-25",
+        "actual_data": "2024-04-02",
         "business_dir": "Белгород Юг",
         "culture": "Горох",
         "higher_tm": "BL-04-01-29-0011",
@@ -1898,17 +1898,17 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-08-04",
         "business_dir": "Белгород Юг",
         "culture": "Горох",
         "higher_tm": "BL-04-01-81-0041",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-07-23",
         "nzp_zp": "NZP",
         "order": 120,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": null,
@@ -2002,17 +2002,17 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-08-06",
         "business_dir": "Белгород Юг",
         "culture": "Горох",
         "higher_tm": "BL-04-01-81-0045",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-07-23",
         "nzp_zp": "NZP",
         "order": 120,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": null,
@@ -2054,17 +2054,17 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-08-08",
         "business_dir": "Белгород Юг",
         "culture": "Горох",
         "higher_tm": "BL-04-01-81-0049",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-07-23",
         "nzp_zp": "NZP",
         "order": 120,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": null,
@@ -2262,17 +2262,17 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": null,
         "business_dir": "Белгород Юг",
         "culture": "Горох",
         "higher_tm": "BL-04-01-81-0062",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-07-23",
         "nzp_zp": "NZP",
         "order": 120,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено не в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": null,
@@ -3250,17 +3250,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-03-29",
         "business_dir": "Белгород Юг",
         "culture": "Горох",
         "higher_tm": "BL-04-03-11-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
         "minimal_date": "2024-04-11",
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Викторопольский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-06",
@@ -3549,17 +3549,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-04",
         "business_dir": "Белгород Юг",
         "culture": "Горох",
         "higher_tm": "BL-04-03-11-0005",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я инсектицидная обр. (ГА)",
         "minimal_date": "2024-05-06",
         "nzp_zp": "ZP",
         "order": 50,
         "pu": "РАИ ПУ Викторопольский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-05-27",
@@ -3614,17 +3614,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-06",
         "business_dir": "Белгород Юг",
         "culture": "Горох",
         "higher_tm": "BL-04-03-11-0005",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-07-18",
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "РАИ ПУ Викторопольский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-03-27",
@@ -4277,17 +4277,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-08",
+        "actual_data": null,
         "business_dir": "Белгород Юг",
         "culture": "Горох",
         "higher_tm": "BL-04-04-09-0012",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Посев с внесением удобрений (ГА)",
         "minimal_date": "2024-04-11",
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-07-07",
@@ -4641,30 +4641,30 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-22",
         "business_dir": "Белгород Юг",
         "culture": "Горох",
         "higher_tm": "BL-06-01-10-0011",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
         "minimal_date": "2024-05-06",
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "РАИ ПУ Казинский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-04",
         "business_dir": "Белгород Юг",
         "culture": "Горох",
         "higher_tm": "BL-06-01-10-0011",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я инсектицидная обр. (ГА)",
         "minimal_date": "2024-05-06",
         "nzp_zp": "ZP",
         "order": 50,
         "pu": "РАИ ПУ Казинский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-05-29",
@@ -4706,17 +4706,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-03-27",
         "business_dir": "Белгород Юг",
         "culture": "Горох",
         "higher_tm": "BL-06-01-10-0011",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
         "minimal_date": "2024-04-11",
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Казинский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-06",
@@ -4836,17 +4836,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-08",
         "business_dir": "Белгород Юг",
         "culture": "Горох",
         "higher_tm": "BL-06-05-47-0002",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я инсектицидная обр. (ГА)",
         "minimal_date": "2024-05-06",
         "nzp_zp": "ZP",
         "order": 50,
         "pu": "РАИ ПУ Казинский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-01",
@@ -4927,7 +4927,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-03",
+        "actual_data": "2024-06-04",
         "business_dir": "Белгород Юг",
         "culture": "Горох",
         "higher_tm": "BL-06-05-47-0005",

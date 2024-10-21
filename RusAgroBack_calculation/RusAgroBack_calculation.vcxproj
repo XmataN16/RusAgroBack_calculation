@@ -137,6 +137,7 @@
   <ItemGroup>
     <ClInclude Include="class_DB\data_class.h" />
     <ClInclude Include="class_DB\initial_data_class.h" />
+    <ClInclude Include="DEBUG_functions.h" />
     <ClInclude Include="general_functions\dates_func.h" />
     <ClInclude Include="module_calc_actual_date_completion_entry_oper\functions.h" />
     <ClInclude Include="module_calc_actual_execution_oper\functions.h" />

@@ -13,7 +13,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-20",
+        "actual_data": "2024-07-12",
         "business_dir": "Тамбов-Юг",
         "culture": "Чечевица",
         "higher_tm": "TM-06-14-02-0001",
@@ -39,17 +39,17 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-22",
         "business_dir": "Тамбов-Юг",
         "culture": "Чечевица",
         "higher_tm": "TM-06-14-02-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": "2024-05-02",
         "nzp_zp": "ZP",
         "order": 10,
         "pu": "АГТ ПУ Знаменский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -78,7 +78,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-01",
+        "actual_data": "2024-04-14",
         "business_dir": "Тамбов-Юг",
         "culture": "Чечевица",
         "higher_tm": "TM-06-21-29-0005",
@@ -104,7 +104,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-19",
         "business_dir": "Тамбов-Юг",
         "culture": "Чечевица",
         "higher_tm": "TM-06-21-29-0006",

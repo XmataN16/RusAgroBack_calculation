@@ -572,7 +572,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-07",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-05-39-0004",
@@ -754,7 +754,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-26",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-08-06-50-0009",
@@ -1508,7 +1508,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-18",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-04-11-0004",
@@ -1820,7 +1820,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-20",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-02-32-0021",
@@ -2981,13 +2981,13 @@
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-07-01-02-0007",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-12",
         "nzp_zp": "NZP",
         "order": 560,
         "pu": "РАИ ПУ Белоколодезянский",
-        "status": "Операция не отслеживается"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-05-23",
@@ -3159,17 +3159,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-05",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-04-05-0003",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
         "minimal_date": "2024-04-20",
         "nzp_zp": "ZP",
         "order": 430,
         "pu": "РАИ ПУ Веселовский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-01",
@@ -4762,13 +4762,13 @@
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-08-03-27-0210",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев без внесения удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-02",
         "nzp_zp": "ZP",
         "order": 470,
         "pu": "РАИ ПУ Грушевский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-07",
@@ -5278,17 +5278,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-07",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-08-08-18-0004",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
         "minimal_date": "2024-04-22",
         "nzp_zp": "ZP",
         "order": 430,
         "pu": "РАИ ПУ Ютановский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-25",
@@ -6929,7 +6929,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-27",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-04-05-0003",
@@ -7550,7 +7550,7 @@
         "nzp_zp": "NZP",
         "order": 370,
         "pu": "РАИ ПУ Покровский",
-        "status": "Не завершено"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-07-11",
@@ -7888,7 +7888,7 @@
         "nzp_zp": "NZP",
         "order": 370,
         "pu": "РАИ ПУ Покровский",
-        "status": "Не завершено"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-05-13",
@@ -8788,30 +8788,30 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-03-31",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-05-21-0004",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
         "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
         "order": 430,
         "pu": "РАИ ПУ Покровский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-16",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-07-02-36-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-08",
         "nzp_zp": "ZP",
         "order": 500,
         "pu": "РАИ ПУ Белоколодезянский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-02",
@@ -9139,7 +9139,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-04",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-04-24-0002",
@@ -9880,17 +9880,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-04",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-08-09-42-0006",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
         "minimal_date": "2024-04-19",
         "nzp_zp": "ZP",
         "order": 430,
         "pu": "РАИ ПУ Ютановский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -9945,7 +9945,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-01",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-08-03-27-0210",
@@ -9971,7 +9971,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-09",
+        "actual_data": "2024-05-15",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-03-23-0008",
@@ -9981,7 +9981,7 @@
         "nzp_zp": "ZP",
         "order": 140,
         "pu": "РАИ ПУ Покровский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-24",
@@ -10140,7 +10140,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-28",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-08-06-50-0001",
@@ -10231,17 +10231,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-02",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-02-02-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
         "minimal_date": "2024-07-17",
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "РАИ ПУ Веселовский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-28",
@@ -10781,13 +10781,13 @@
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-08-09-38-0015",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-05",
         "nzp_zp": "NZP",
         "order": 560,
         "pu": "РАИ ПУ Ютановский",
-        "status": "Операция не отслеживается"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-05-03",
@@ -12978,13 +12978,13 @@
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-08-06-50-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-29",
         "nzp_zp": "ZP",
         "order": 480,
         "pu": "РАИ ПУ Грушевский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-01",
@@ -13481,17 +13481,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-30",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-02-34-0004",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-06-14",
         "nzp_zp": "ZP",
         "order": 440,
         "pu": "РАИ ПУ Веселовский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-10",
@@ -14339,7 +14339,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-12",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-04-11-0007",
@@ -14989,17 +14989,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-08-03",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-08-06-45-0002",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
         "minimal_date": "2024-11-04",
         "nzp_zp": "NZP",
         "order": 290,
         "pu": "РАИ ПУ Грушевский",
-        "status": "Не завершено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-22",
@@ -15067,7 +15067,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-09",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-04-31-0004",
@@ -15119,7 +15119,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-27",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-08-06-43-0003",
@@ -15262,7 +15262,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-24",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-03-35-0005",
@@ -15444,7 +15444,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-20",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-08-09-16-0003",
@@ -15454,7 +15454,7 @@
         "nzp_zp": "ZP",
         "order": 520,
         "pu": "РАИ ПУ Ютановский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-05-30",
@@ -17277,7 +17277,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-21",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-08-09-38-0015",
@@ -17381,7 +17381,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-28",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-04-23-0001",
@@ -17391,7 +17391,7 @@
         "nzp_zp": "ZP",
         "order": 190,
         "pu": "РАИ ПУ Веселовский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-04",
@@ -17472,17 +17472,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-14",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-08-09-02-0007",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
         "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
         "order": 400,
         "pu": "РАИ ПУ Ютановский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-19",
@@ -17905,13 +17905,13 @@
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-05-39-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-11",
         "nzp_zp": "ZP",
         "order": 490,
         "pu": "РАИ ПУ Покровский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-30",
@@ -19812,7 +19812,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-06",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-02-32-0028",
@@ -19822,7 +19822,7 @@
         "nzp_zp": "ZP",
         "order": 520,
         "pu": "РАИ ПУ Веселовский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-29",
@@ -19955,7 +19955,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-28",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-07-01-02-0007",
@@ -20150,17 +20150,17 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-06",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-08-09-42-0006",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
         "minimal_date": "2024-07-21",
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "РАИ ПУ Ютановский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-30",
@@ -21112,17 +21112,17 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-03-29",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-04-28-0003",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
         "minimal_date": "2024-04-13",
         "nzp_zp": "ZP",
         "order": 430,
         "pu": "РАИ ПУ Веселовский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-01",
@@ -22347,7 +22347,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-08-01",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-02-32-0002",
@@ -22357,7 +22357,7 @@
         "nzp_zp": "NZP",
         "order": 560,
         "pu": "РАИ ПУ Веселовский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -22919,7 +22919,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-25",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-08-08-61-0009",
@@ -23235,13 +23235,13 @@
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-07-01-30-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-13",
         "nzp_zp": "ZP",
         "order": 500,
         "pu": "РАИ ПУ Белоколодезянский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-18",
@@ -23807,13 +23807,13 @@
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-08-09-17-0007",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-03",
         "nzp_zp": "NZP",
         "order": 560,
         "pu": "РАИ ПУ Ютановский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-28",
@@ -23859,13 +23859,13 @@
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-04-11-0007",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-27",
         "nzp_zp": "NZP",
         "order": 560,
         "pu": "РАИ ПУ Веселовский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-16",
@@ -24466,7 +24466,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-09",
+        "actual_data": null,
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-03-23-0002",
@@ -24476,7 +24476,7 @@
         "nzp_zp": "ZP",
         "order": 140,
         "pu": "РАИ ПУ Покровский",
-        "status": "Выполнено не в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": null,
@@ -24808,13 +24808,13 @@
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-04-09-0007",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-10",
         "nzp_zp": "NZP",
         "order": 560,
         "pu": "РАИ ПУ Веселовский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-23",
@@ -25480,7 +25480,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-28",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-02-32-0019",
@@ -25490,7 +25490,7 @@
         "nzp_zp": "ZP",
         "order": 480,
         "pu": "РАИ ПУ Веселовский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": null,
@@ -25575,13 +25575,13 @@
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-04-05-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев без внесения удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-28",
         "nzp_zp": "ZP",
         "order": 470,
         "pu": "РАИ ПУ Веселовский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-28",
@@ -25805,7 +25805,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-26",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-04-09-0007",
@@ -27235,7 +27235,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-06",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-05-21-0008",
@@ -27245,7 +27245,7 @@
         "nzp_zp": "ZP",
         "order": 520,
         "pu": "РАИ ПУ Покровский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-05-11",
@@ -27430,7 +27430,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-28",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-08-09-42-0002",
@@ -27440,7 +27440,7 @@
         "nzp_zp": "ZP",
         "order": 530,
         "pu": "РАИ ПУ Ютановский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-09",
@@ -28015,7 +28015,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-28",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-07-01-01-0001",
@@ -28942,13 +28942,13 @@
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-08-06-43-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-28",
         "nzp_zp": "ZP",
         "order": 480,
         "pu": "РАИ ПУ Грушевский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-03",
@@ -28968,13 +28968,13 @@
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-02-36-0006",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-18",
         "nzp_zp": "NZP",
         "order": 560,
         "pu": "РАИ ПУ Веселовский",
-        "status": "Операция не отслеживается"
+        "status": "Просрочено"
     },
     {
         "actual_data": null,
@@ -31187,7 +31187,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-08-12",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-07-06-21-0001",
@@ -32201,7 +32201,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-01",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-02-33-0002",
@@ -32552,7 +32552,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-09",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-07-01-30-0002",
@@ -32562,7 +32562,7 @@
         "nzp_zp": "ZP",
         "order": 480,
         "pu": "РАИ ПУ Белоколодезянский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-19",
@@ -34229,7 +34229,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-08-03",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-02-36-0006",
@@ -34931,7 +34931,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-28",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-01-13-0002",
@@ -34941,7 +34941,7 @@
         "nzp_zp": "ZP",
         "order": 480,
         "pu": "РАИ ПУ Покровский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-29",
@@ -35065,13 +35065,13 @@
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-02-39-0013",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-07",
         "nzp_zp": "ZP",
         "order": 480,
         "pu": "РАИ ПУ Веселовский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -35338,13 +35338,13 @@
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-02-04-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-02",
         "nzp_zp": "ZP",
         "order": 480,
         "pu": "РАИ ПУ Веселовский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-18",
@@ -35767,13 +35767,13 @@
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-07-01-01-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев без внесения удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-29",
         "nzp_zp": "ZP",
         "order": 470,
         "pu": "РАИ ПУ Белоколодезянский",
-        "status": "Операция не отслеживается"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-07-05",
@@ -36053,13 +36053,13 @@
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-08-09-16-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-30",
         "nzp_zp": "ZP",
         "order": 530,
         "pu": "РАИ ПУ Ютановский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-02",
@@ -36781,13 +36781,13 @@
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-05-09-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-30",
         "nzp_zp": "ZP",
         "order": 480,
         "pu": "РАИ ПУ Покровский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-05-04",
@@ -37067,13 +37067,13 @@
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-08-03-29-0012",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-27",
         "nzp_zp": "NZP",
         "order": 560,
         "pu": "РАИ ПУ Грушевский",
-        "status": "Операция не отслеживается"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-07-03",
@@ -38545,7 +38545,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-19",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-08-09-17-0007",
@@ -39520,17 +39520,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-07",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-08-09-22-0006",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-05-22",
         "nzp_zp": "ZP",
         "order": 440,
         "pu": "РАИ ПУ Ютановский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-27",
@@ -39806,7 +39806,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-29",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-05-09-0002",
@@ -41415,7 +41415,7 @@
         "nzp_zp": "NZP",
         "order": 370,
         "pu": "РАИ ПУ Покровский",
-        "status": "Не завершено"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-05-10",
@@ -41431,7 +41431,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-19",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-04-24-0003",
@@ -41441,7 +41441,7 @@
         "nzp_zp": "ZP",
         "order": 520,
         "pu": "РАИ ПУ Веселовский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-20",
@@ -42003,17 +42003,17 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-08",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-02-37-0013",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-05-23",
         "nzp_zp": "ZP",
         "order": 440,
         "pu": "РАИ ПУ Веселовский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-03-28",
@@ -42094,17 +42094,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-26",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-08-06-50-0009",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-27",
         "nzp_zp": "ZP",
         "order": 480,
         "pu": "РАИ ПУ Грушевский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -42302,7 +42302,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-18",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-04-24-0002",
@@ -42312,7 +42312,7 @@
         "nzp_zp": "ZP",
         "order": 520,
         "pu": "РАИ ПУ Веселовский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": null,
@@ -44074,13 +44074,13 @@
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-02-32-0021",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-04",
         "nzp_zp": "NZP",
         "order": 560,
         "pu": "РАИ ПУ Веселовский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-29",
@@ -44590,7 +44590,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-28",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-08-08-07-0001",
@@ -44600,7 +44600,7 @@
         "nzp_zp": "ZP",
         "order": 490,
         "pu": "РАИ ПУ Ютановский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-26",
@@ -45110,17 +45110,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-16",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-07-01-30-0002",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-05-01",
         "nzp_zp": "ZP",
         "order": 440,
         "pu": "РАИ ПУ Белоколодезянский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-21",
@@ -45136,7 +45136,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-24",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-04-11-0001",
@@ -45146,7 +45146,7 @@
         "nzp_zp": "NZP",
         "order": 560,
         "pu": "РАИ ПУ Веселовский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-08-11",
@@ -45864,7 +45864,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-08-03",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-08-06-45-0002",
@@ -45929,7 +45929,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-04",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-07-02-36-0001",
@@ -45939,7 +45939,7 @@
         "nzp_zp": "ZP",
         "order": 480,
         "pu": "РАИ ПУ Белоколодезянский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-05-17",
@@ -48711,7 +48711,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-31",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-07-06-17-0003",
@@ -49365,13 +49365,13 @@
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-08-06-50-0006",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-28",
         "nzp_zp": "NZP",
         "order": 560,
         "pu": "РАИ ПУ Грушевский",
-        "status": "Операция не отслеживается"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-05-09",
@@ -50466,7 +50466,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-19",
+        "actual_data": "2024-07-12",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-01-14-0003",
@@ -52186,13 +52186,13 @@
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-04-31-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
         "order": 480,
         "pu": "РАИ ПУ Веселовский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-21",
@@ -52299,7 +52299,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-29",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-02-32-0028",
@@ -52309,7 +52309,7 @@
         "nzp_zp": "ZP",
         "order": 480,
         "pu": "РАИ ПУ Веселовский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-29",
@@ -52914,13 +52914,13 @@
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-02-32-0028",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-03",
         "nzp_zp": "ZP",
         "order": 500,
         "pu": "РАИ ПУ Веселовский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-05",
@@ -54058,13 +54058,13 @@
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-04-11-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-08-02",
         "nzp_zp": "NZP",
         "order": 560,
         "pu": "РАИ ПУ Веселовский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-18",
@@ -54812,13 +54812,13 @@
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-02-33-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-16",
         "nzp_zp": "ZP",
         "order": 510,
         "pu": "РАИ ПУ Веселовский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-05-12",
@@ -55605,7 +55605,7 @@
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-08-06-50-0009",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
         "minimal_date": "2024-07-20",
         "nzp_zp": "ZP",
@@ -55692,7 +55692,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-04",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-05-02-0001",
@@ -56368,7 +56368,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-08-03",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-02-16-0003",
@@ -56378,7 +56378,7 @@
         "nzp_zp": "NZP",
         "order": 560,
         "pu": "РАИ ПУ Веселовский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-08",
@@ -56420,7 +56420,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-18",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-04-26-0003",
@@ -56430,7 +56430,7 @@
         "nzp_zp": "NZP",
         "order": 560,
         "pu": "РАИ ПУ Веселовский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-03-31",
@@ -57018,7 +57018,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-08-03",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-08-08-12-0013",
@@ -57028,7 +57028,7 @@
         "nzp_zp": "NZP",
         "order": 560,
         "pu": "РАИ ПУ Ютановский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-05-29",
@@ -57919,13 +57919,13 @@
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-02-32-0019",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-02",
         "nzp_zp": "ZP",
         "order": 500,
         "pu": "РАИ ПУ Веселовский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-05-06",
@@ -58669,7 +58669,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-08",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-02-32-0012",
@@ -58679,7 +58679,7 @@
         "nzp_zp": "ZP",
         "order": 140,
         "pu": "РАИ ПУ Веселовский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-29",
@@ -59007,7 +59007,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-21",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-08-09-14-0006",
@@ -59017,7 +59017,7 @@
         "nzp_zp": "ZP",
         "order": 520,
         "pu": "РАИ ПУ Ютановский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-07",
@@ -59319,17 +59319,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-02",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-01-17-0006",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
         "minimal_date": "2024-04-22",
         "nzp_zp": "ZP",
         "order": 400,
         "pu": "РАИ ПУ Покровский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-06",
@@ -59384,7 +59384,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-08-07",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-02-32-0030",
@@ -59394,7 +59394,7 @@
         "nzp_zp": "NZP",
         "order": 560,
         "pu": "РАИ ПУ Веселовский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-08",
@@ -59423,17 +59423,17 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-19",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-04-11-0004",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Посев пожнивной (ГА)",
         "minimal_date": "2024-08-13",
         "nzp_zp": "NZP",
         "order": 230,
         "pu": "РАИ ПУ Веселовский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-26",
@@ -59462,7 +59462,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-26",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-04-08-0010",
@@ -59472,7 +59472,7 @@
         "nzp_zp": "NZP",
         "order": 560,
         "pu": "РАИ ПУ Веселовский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-08",
@@ -60281,7 +60281,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-08-12",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-08-03-29-0012",
@@ -60489,7 +60489,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-06",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-02-39-0013",
@@ -61325,13 +61325,13 @@
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-03-35-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев без внесения удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-25",
         "nzp_zp": "ZP",
         "order": 470,
         "pu": "РАИ ПУ Покровский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-19",
@@ -61663,13 +61663,13 @@
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-01-13-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-02",
         "nzp_zp": "ZP",
         "order": 490,
         "pu": "РАИ ПУ Покровский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-19",
@@ -61945,7 +61945,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-02",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-05-09-0001",
@@ -62270,7 +62270,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-13",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-08-06-50-0006",
@@ -62517,7 +62517,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-01",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-02-04-0002",
@@ -63132,13 +63132,13 @@
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-10-04-24-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-05",
         "nzp_zp": "ZP",
         "order": 480,
         "pu": "РАИ ПУ Веселовский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-01",
@@ -63336,7 +63336,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-12",
+        "actual_data": "2024-08-08",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-08-03-27-0007",
@@ -63778,7 +63778,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-28",
         "business_dir": "Белгород Центр",
         "culture": "Соя",
         "higher_tm": "BL-07-02-33-0006",
@@ -63788,7 +63788,7 @@
         "nzp_zp": "ZP",
         "order": 480,
         "pu": "РАИ ПУ Белоколодезянский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-06",

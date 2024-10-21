@@ -249,6 +249,8 @@ public:
         std::ofstream file(filename);
         file << j.dump(4);  // 4 is the indentation level
     }
+
+    
 };
 
 nlohmann::json to_json_all(unique_pairs uniq_pairs[CULTURES_COUNT][REGIONS_COUNT])
@@ -383,7 +385,7 @@ void get_unique_higher_tm_material_order(soci::session& sql, data data_shbn[CULT
                         }
                     }
                 }
-                temp_is_completed[pair] = ((sum_planned_volume * 1.0f) == sum_actual_volume && sum_planned_volume != 0);
+                temp_is_completed[pair] = ((sum_planned_volume * 1.0f) <= sum_actual_volume && sum_planned_volume != 0);
 
                 if (temp_is_completed[pair] == 0)
                 {

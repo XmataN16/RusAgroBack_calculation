@@ -26,7 +26,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-10",
+        "actual_data": "2024-05-21",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-12-04-0001",
@@ -36,7 +36,7 @@
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-22",
@@ -65,7 +65,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-04-15",
+        "actual_data": "2024-04-16",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-12-04-0001",
@@ -75,7 +75,7 @@
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-15",
@@ -117,7 +117,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-21",
+        "actual_data": "2024-05-10",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-12-04-0002",
@@ -127,7 +127,7 @@
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-21",
@@ -156,17 +156,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-29",
+        "actual_data": null,
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-12-04-0002",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР Противозлаковая обр. (ГА)",
         "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
         "order": 80,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Выполнено не в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-04-15",
@@ -533,7 +533,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-12",
+        "actual_data": "2024-04-01",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-72-01-0001",
@@ -559,7 +559,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-07-01",
+        "actual_data": "2024-06-28",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-72-01-0001",
@@ -585,17 +585,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-30",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-72-01-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Противозлаковая обр. (ГА)",
         "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
         "order": 80,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-18",
@@ -637,7 +637,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-10",
+        "actual_data": "2024-04-01",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-72-02-0001",
@@ -650,7 +650,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-21",
+        "actual_data": "2024-05-10",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-72-02-0001",
@@ -660,7 +660,7 @@
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-19",
@@ -689,17 +689,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-17",
+        "actual_data": null,
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-72-02-0001",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Посев с внесением удобрений (ГА)",
         "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Выполнено не в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-04-16",
@@ -728,17 +728,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-12",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-72-20-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
         "minimal_date": "2024-04-17",
         "nzp_zp": "ZP",
         "order": 20,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-15",
@@ -871,7 +871,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-30",
+        "actual_data": "2024-07-01",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-72-22-0001",
@@ -910,7 +910,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-04-18",
+        "actual_data": "2024-04-15",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-72-22-0001",
@@ -920,20 +920,20 @@
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-18",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-03-72-22-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": "2024-04-28",
         "nzp_zp": "ZP",
         "order": 30,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-31",
@@ -949,17 +949,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-08",
+        "actual_data": null,
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-13-10-0001",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Посев с внесением удобрений (ГА)",
         "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "АГТ ПУ Никифоровский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-04-08",
@@ -1079,17 +1079,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-22",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-13-24-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
         "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "АГТ ПУ Никифоровский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-20",
@@ -1170,7 +1170,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-04-19",
+        "actual_data": "2024-04-20",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-13-25-0001",
@@ -1391,7 +1391,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-08",
+        "actual_data": "2024-04-11",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-41-02-0002",
@@ -1430,7 +1430,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-21",
+        "actual_data": "2024-04-09",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-41-03-0002",
@@ -1440,7 +1440,7 @@
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -1482,17 +1482,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-04",
+        "actual_data": null,
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-41-20-0001",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР Противозлаковая обр. (ГА)",
         "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
         "order": 80,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено не в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-04-20",
@@ -1586,17 +1586,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-20",
+        "actual_data": null,
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-41-22-0001",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Посев с внесением удобрений (ГА)",
         "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено не в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-07-18",
@@ -1651,17 +1651,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-19",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-41-23-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-04-24",
         "nzp_zp": "ZP",
         "order": 0,
         "pu": "АГТ ПУ Богословский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-20",
@@ -1677,17 +1677,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-07-18",
+        "actual_data": null,
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-41-23-0001",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-07-30",
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-05-14",
@@ -1729,17 +1729,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-13",
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-41-24-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-04-18",
         "nzp_zp": "ZP",
         "order": 0,
         "pu": "АГТ ПУ Богословский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-13",
@@ -1807,17 +1807,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-04-12",
+        "actual_data": null,
         "business_dir": "Тамбов-Север",
         "culture": "Горох",
         "higher_tm": "TM-04-41-25-0001",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-04-17",
         "nzp_zp": "ZP",
         "order": 0,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-04-13",

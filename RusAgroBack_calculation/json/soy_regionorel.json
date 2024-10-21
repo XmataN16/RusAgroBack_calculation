@@ -195,7 +195,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-05-26",
+        "actual_data": "2024-06-01",
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-02-25-0001",
@@ -364,7 +364,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-05-24",
+        "actual_data": "2024-06-01",
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-02-23-0002",
@@ -374,7 +374,7 @@
         "nzp_zp": "ZP",
         "order": 470,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": null,
@@ -383,7 +383,7 @@
         "higher_tm": "OR-01-02-47-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-08-11",
+        "minimal_date": "2024-07-08",
         "nzp_zp": "ZP",
         "order": 520,
         "pu": "ОтА ПУ Отрадинский",
@@ -394,7 +394,7 @@
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-02-47-0002",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 2-я гербицидная обр. (ГА)",
         "minimal_date": "2024-07-02",
         "nzp_zp": "ZP",
@@ -446,13 +446,13 @@
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-02-19-0001",
-        "is_actual": "Актуально",
+        "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
-        "minimal_date": "2024-05-30",
+        "minimal_date": null,
         "nzp_zp": "ZP",
         "order": 500,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Выполнено в срок"
+        "status": "Операция не отслеживается"
     },
     {
         "actual_data": null,
@@ -1365,7 +1365,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-28",
+        "actual_data": "2024-05-25",
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-02-25-0001",
@@ -1375,10 +1375,10 @@
         "nzp_zp": "ZP",
         "order": 510,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-30",
+        "actual_data": "2024-06-01",
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-03-73-0005",
@@ -1397,7 +1397,7 @@
         "higher_tm": "OR-01-03-72-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я гербицидная обр. (ГА)",
-        "minimal_date": "2024-06-26",
+        "minimal_date": "2024-06-25",
         "nzp_zp": "ZP",
         "order": 380,
         "pu": "ОтА ПУ Отрадинский",
@@ -1579,7 +1579,7 @@
         "higher_tm": "OR-01-02-50-0002",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-07-07",
+        "minimal_date": "2024-08-11",
         "nzp_zp": "ZP",
         "order": 520,
         "pu": "ОтА ПУ Отрадинский",
@@ -1742,17 +1742,17 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-06-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-01-23-0004",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-06-16",
         "nzp_zp": "ZP",
         "order": 440,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": null,
@@ -1837,13 +1837,13 @@
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-01-23-0002",
-        "is_actual": "Актуально",
+        "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
-        "minimal_date": "2024-06-05",
+        "minimal_date": null,
         "nzp_zp": "ZP",
         "order": 490,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Просрочено"
+        "status": "Операция не отслеживается"
     },
     {
         "actual_data": "2024-06-01",
@@ -1989,7 +1989,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-06",
+        "actual_data": "2024-08-05",
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-01-23-0004",
@@ -1999,7 +1999,7 @@
         "nzp_zp": "ZP",
         "order": 520,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": null,
@@ -2041,7 +2041,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-01",
+        "actual_data": "2024-04-13",
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-01-23-0002",
@@ -2214,13 +2214,13 @@
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-02-19-0001",
-        "is_actual": "Актуально",
+        "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
-        "minimal_date": "2024-05-30",
+        "minimal_date": null,
         "nzp_zp": "ZP",
         "order": 490,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Просрочено"
+        "status": "Операция не отслеживается"
     },
     {
         "actual_data": null,
@@ -2236,7 +2236,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-05-25",
+        "actual_data": "2024-06-28",
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-02-20-0001",
@@ -2246,7 +2246,7 @@
         "nzp_zp": "ZP",
         "order": 510,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-01",
@@ -2736,7 +2736,7 @@
         "higher_tm": "OR-01-02-29-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я противозлак. обр. (ГА)",
-        "minimal_date": "2024-05-28",
+        "minimal_date": "2024-06-24",
         "nzp_zp": "ZP",
         "order": 140,
         "pu": "ОтА ПУ Жилинский",
@@ -3068,13 +3068,13 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-06-01",
+        "actual_data": "2024-05-30",
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-02-22-0002",
         "is_actual": "Актуально",
         "material_order": "Посев без внесения удобрений (ГА)",
-        "minimal_date": "2024-05-23",
+        "minimal_date": "2024-04-29",
         "nzp_zp": "ZP",
         "order": 470,
         "pu": "ОтА ПУ Жилинский",
@@ -3152,7 +3152,7 @@
         "higher_tm": "OR-01-02-44-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я противозлак. обр. (ГА)",
-        "minimal_date": "2024-06-25",
+        "minimal_date": "2024-05-28",
         "nzp_zp": "ZP",
         "order": 140,
         "pu": "ОтА ПУ Отрадинский",
@@ -3412,7 +3412,7 @@
         "higher_tm": "OR-01-02-49-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-07-06",
+        "minimal_date": "2024-07-07",
         "nzp_zp": "ZP",
         "order": 520,
         "pu": "ОтА ПУ Отрадинский",
@@ -3438,7 +3438,7 @@
         "higher_tm": "OR-01-02-24-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
-        "minimal_date": "2024-07-20",
+        "minimal_date": "2024-07-26",
         "nzp_zp": "ZP",
         "order": 190,
         "pu": "ОтА ПУ Жилинский",
@@ -3475,7 +3475,7 @@
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-02-47-0002",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 1-я противозлак. обр. (ГА)",
         "minimal_date": "2024-06-25",
         "nzp_zp": "ZP",
@@ -3731,7 +3731,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-01",
+        "actual_data": "2024-05-25",
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-01-09-0001",
@@ -3880,7 +3880,7 @@
         "higher_tm": "OR-01-03-65-0009",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
-        "minimal_date": "2024-05-26",
+        "minimal_date": "2024-06-05",
         "nzp_zp": "ZP",
         "order": 500,
         "pu": "ОтА ПУ Отрадинский",
@@ -4004,7 +4004,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-02",
+        "actual_data": "2024-06-01",
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-03-16-0001",
@@ -4030,7 +4030,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-05-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-02-22-0001",
@@ -4040,10 +4040,10 @@
         "nzp_zp": "ZP",
         "order": 500,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-06-03",
+        "actual_data": "2024-05-13",
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-02-39-0003",
@@ -4374,7 +4374,7 @@
         "higher_tm": "OR-01-01-32-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я противозлак. обр. (ГА)",
-        "minimal_date": "2024-05-28",
+        "minimal_date": "2024-06-14",
         "nzp_zp": "ZP",
         "order": 140,
         "pu": "ОтА ПУ Нечаево",
@@ -4498,7 +4498,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-02-47-0002",
@@ -4508,7 +4508,7 @@
         "nzp_zp": "ZP",
         "order": 510,
         "pu": "ОтА ПУ Отрадинский",
-        "status": "Выполнено не в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-07-06",
@@ -4621,7 +4621,7 @@
         "higher_tm": "OR-01-01-23-0004",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 3-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-16",
+        "minimal_date": "2024-08-15",
         "nzp_zp": "ZP",
         "order": 530,
         "pu": "ОтА ПУ Жилинский",
@@ -4725,7 +4725,7 @@
         "higher_tm": "OR-01-02-22-0002",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
-        "minimal_date": "2024-06-05",
+        "minimal_date": "2024-06-03",
         "nzp_zp": "ZP",
         "order": 490,
         "pu": "ОтА ПУ Жилинский",
@@ -4797,7 +4797,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-06-28",
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-02-47-0001",
@@ -4855,7 +4855,7 @@
         "higher_tm": "OR-01-03-83-0002",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
-        "minimal_date": "2024-07-20",
+        "minimal_date": "2024-07-30",
         "nzp_zp": "ZP",
         "order": 190,
         "pu": "ОтА ПУ Отрадинский",
@@ -5061,13 +5061,13 @@
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-02-21-0001",
-        "is_actual": "Актуально",
+        "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-07-05",
+        "minimal_date": null,
         "nzp_zp": "ZP",
         "order": 520,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Просрочено"
+        "status": "Операция не отслеживается"
     },
     {
         "actual_data": null,
@@ -5180,7 +5180,7 @@
         "higher_tm": "OR-01-02-20-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я гербицидная обр. (ГА)",
-        "minimal_date": "2024-06-04",
+        "minimal_date": "2024-07-02",
         "nzp_zp": "ZP",
         "order": 390,
         "pu": "ОтА ПУ Жилинский",
@@ -5269,13 +5269,13 @@
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-01-23-0002",
-        "is_actual": "Актуально",
+        "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-16",
+        "minimal_date": null,
         "nzp_zp": "ZP",
         "order": 510,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Выполнено не в срок"
+        "status": "Операция не отслеживается"
     },
     {
         "actual_data": null,
@@ -5388,7 +5388,7 @@
         "higher_tm": "OR-01-02-23-0002",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
-        "minimal_date": "2024-07-20",
+        "minimal_date": "2024-07-26",
         "nzp_zp": "ZP",
         "order": 190,
         "pu": "ОтА ПУ Жилинский",
@@ -5620,13 +5620,13 @@
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-01-23-0002",
-        "is_actual": "Актуально",
+        "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
-        "minimal_date": "2024-06-05",
+        "minimal_date": null,
         "nzp_zp": "ZP",
         "order": 500,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Просрочено"
+        "status": "Операция не отслеживается"
     },
     {
         "actual_data": null,
@@ -5707,7 +5707,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-06-27",
+        "actual_data": "2024-08-01",
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-02-50-0002",
@@ -5759,7 +5759,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-05-01",
+        "actual_data": "2024-05-26",
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-01-32-0002",
@@ -5776,7 +5776,7 @@
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-02-19-0001",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
         "minimal_date": "2024-07-20",
         "nzp_zp": "ZP",
@@ -5785,7 +5785,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-05-26",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-02-19-0001",
@@ -5795,7 +5795,7 @@
         "nzp_zp": "ZP",
         "order": 470,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": null,
@@ -5856,11 +5856,11 @@
         "higher_tm": "OR-01-03-41-0007",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
-        "minimal_date": "2024-05-05",
+        "minimal_date": "2024-06-08",
         "nzp_zp": "ZP",
         "order": 500,
         "pu": "ОтА ПУ Отрадинский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-09",
@@ -5934,7 +5934,7 @@
         "higher_tm": "OR-01-02-44-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-07-06",
+        "minimal_date": "2024-06-04",
         "nzp_zp": "ZP",
         "order": 520,
         "pu": "ОтА ПУ Отрадинский",
@@ -6617,7 +6617,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-05-28",
+        "actual_data": "2024-05-29",
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-01-40-0001",
@@ -7059,7 +7059,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-03",
+        "actual_data": "2024-06-02",
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-03-72-0001",
@@ -7150,7 +7150,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-05",
+        "actual_data": "2024-05-01",
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-03-83-0001",
@@ -7202,7 +7202,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-05-23",
+        "actual_data": "2024-04-28",
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-02-47-0002",
@@ -7286,7 +7286,7 @@
         "higher_tm": "OR-01-02-20-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-04",
+        "minimal_date": "2024-07-08",
         "nzp_zp": "ZP",
         "order": 520,
         "pu": "ОтА ПУ Жилинский",
@@ -7312,7 +7312,7 @@
         "higher_tm": "OR-01-02-22-0002",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
-        "minimal_date": "2024-06-05",
+        "minimal_date": "2024-06-03",
         "nzp_zp": "ZP",
         "order": 500,
         "pu": "ОтА ПУ Жилинский",
@@ -7455,7 +7455,7 @@
         "higher_tm": "OR-01-02-25-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я противозлак. обр. (ГА)",
-        "minimal_date": "2024-06-25",
+        "minimal_date": "2024-05-28",
         "nzp_zp": "ZP",
         "order": 140,
         "pu": "ОтА ПУ Жилинский",
@@ -7592,17 +7592,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-01",
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-02-04-31-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Выравнивание почвы (ГА)",
         "minimal_date": "2024-04-21",
         "nzp_zp": "ZP",
         "order": 20,
         "pu": "ОтА ПУ Нечаево",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": null,
@@ -7674,9 +7674,9 @@
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-01-23-0002",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
-        "minimal_date": "2024-07-26",
+        "minimal_date": "2024-07-20",
         "nzp_zp": "ZP",
         "order": 190,
         "pu": "ОтА ПУ Жилинский",
@@ -7787,7 +7787,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-01",
+        "actual_data": "2024-05-12",
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-03-65-0002",
@@ -8001,7 +8001,7 @@
         "higher_tm": "OR-01-02-29-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я гербицидная обр. (ГА)",
-        "minimal_date": "2024-06-04",
+        "minimal_date": "2024-07-01",
         "nzp_zp": "ZP",
         "order": 390,
         "pu": "ОтА ПУ Жилинский",
@@ -8053,7 +8053,7 @@
         "higher_tm": "OR-01-02-20-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я противозлак. обр. (ГА)",
-        "minimal_date": "2024-05-28",
+        "minimal_date": "2024-06-25",
         "nzp_zp": "ZP",
         "order": 140,
         "pu": "ОтА ПУ Жилинский",
@@ -8079,11 +8079,11 @@
         "higher_tm": "OR-02-04-27-0008",
         "is_actual": "Актуально",
         "material_order": "Посев без внесения удобрений (ГА)",
-        "minimal_date": "2024-04-29",
+        "minimal_date": "2024-06-01",
         "nzp_zp": "ZP",
         "order": 470,
         "pu": "ОтА ПУ Нечаево",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -8294,7 +8294,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-28",
+        "actual_data": "2024-05-31",
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-02-04-27-0008",
@@ -8437,13 +8437,13 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-26",
+        "actual_data": "2024-06-27",
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-02-49-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-16",
+        "minimal_date": "2024-06-21",
         "nzp_zp": "ZP",
         "order": 510,
         "pu": "ОтА ПУ Отрадинский",
@@ -8645,17 +8645,17 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-14",
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-02-22-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
         "minimal_date": "2024-07-29",
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-01",
@@ -9113,7 +9113,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-05-13",
+        "actual_data": "2024-05-27",
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-02-22-0002",
@@ -9451,20 +9451,20 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-08",
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-01-32-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-05-23",
         "nzp_zp": "ZP",
         "order": 440,
         "pu": "ОтА ПУ Нечаево",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-22",
+        "actual_data": "2024-06-01",
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-03-65-0009",
@@ -9613,7 +9613,7 @@
         "higher_tm": "OR-01-02-34-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я противозлак. обр. (ГА)",
-        "minimal_date": "2024-05-28",
+        "minimal_date": "2024-06-25",
         "nzp_zp": "ZP",
         "order": 140,
         "pu": "ОтА ПУ Жилинский",
@@ -9828,7 +9828,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-05-25",
+        "actual_data": "2024-06-21",
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-02-29-0001",
@@ -9873,7 +9873,7 @@
         "higher_tm": "OR-01-03-83-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
-        "minimal_date": "2024-07-30",
+        "minimal_date": "2024-07-20",
         "nzp_zp": "ZP",
         "order": 190,
         "pu": "ОтА ПУ Отрадинский",
@@ -9962,7 +9962,7 @@
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-02-29-0002",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я противозлак. обр. (ГА)",
         "minimal_date": "2024-06-25",
         "nzp_zp": "ZP",
@@ -10101,7 +10101,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-05-25",
+        "actual_data": "2024-06-29",
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-02-34-0001",
@@ -10111,7 +10111,7 @@
         "nzp_zp": "ZP",
         "order": 510,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": null,
@@ -10406,7 +10406,7 @@
         "higher_tm": "OR-01-03-16-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
-        "minimal_date": "2024-06-06",
+        "minimal_date": "2024-06-05",
         "nzp_zp": "ZP",
         "order": 490,
         "pu": "ОтА ПУ Отрадинский",
@@ -10458,7 +10458,7 @@
         "higher_tm": "OR-01-03-72-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-26",
+        "minimal_date": "2024-06-25",
         "nzp_zp": "ZP",
         "order": 510,
         "pu": "ОтА ПУ Отрадинский",
@@ -10478,7 +10478,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-25",
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-02-11-0001",
@@ -10488,7 +10488,7 @@
         "nzp_zp": "ZP",
         "order": 510,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-08-01",
@@ -10530,7 +10530,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-05-01",
+        "actual_data": "2024-06-05",
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-03-41-0008",
@@ -10764,7 +10764,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-22",
+        "actual_data": "2024-04-28",
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-02-22-0002",
@@ -10861,7 +10861,7 @@
         "higher_tm": "OR-01-03-65-0002",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
-        "minimal_date": "2024-07-26",
+        "minimal_date": "2024-07-20",
         "nzp_zp": "ZP",
         "order": 190,
         "pu": "ОтА ПУ Отрадинский",
@@ -10881,7 +10881,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-02-26-0001",
@@ -10891,7 +10891,7 @@
         "nzp_zp": "ZP",
         "order": 470,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Выполнено не в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": null,
@@ -11414,7 +11414,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-05-26",
+        "actual_data": "2024-06-01",
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-02-24-0001",
@@ -11472,7 +11472,7 @@
         "higher_tm": "OR-01-03-83-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
-        "minimal_date": "2024-06-09",
+        "minimal_date": "2024-05-05",
         "nzp_zp": "ZP",
         "order": 490,
         "pu": "ОтА ПУ Отрадинский",
@@ -11648,7 +11648,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-25",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-02-21-0001",
@@ -11658,7 +11658,7 @@
         "nzp_zp": "ZP",
         "order": 510,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Выполнено не в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": null,
@@ -12135,11 +12135,11 @@
         "higher_tm": "OR-01-03-41-0008",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
-        "minimal_date": "2024-05-05",
+        "minimal_date": "2024-06-09",
         "nzp_zp": "ZP",
         "order": 500,
         "pu": "ОтА ПУ Отрадинский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -12220,7 +12220,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-05-30",
+        "actual_data": "2024-05-01",
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-02-04-54-0001",
@@ -12356,7 +12356,7 @@
         "higher_tm": "OR-01-02-24-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
-        "minimal_date": "2024-05-30",
+        "minimal_date": "2024-06-05",
         "nzp_zp": "ZP",
         "order": 490,
         "pu": "ОтА ПУ Жилинский",
@@ -12421,7 +12421,7 @@
         "higher_tm": "OR-01-03-41-0007",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
-        "minimal_date": "2024-07-20",
+        "minimal_date": "2024-07-29",
         "nzp_zp": "ZP",
         "order": 190,
         "pu": "ОтА ПУ Отрадинский",
@@ -12549,13 +12549,13 @@
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-02-47-0002",
-        "is_actual": "Актуально",
+        "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-08-11",
+        "minimal_date": null,
         "nzp_zp": "ZP",
         "order": 520,
         "pu": "ОтА ПУ Отрадинский",
-        "status": "Просрочено"
+        "status": "Операция не отслеживается"
     },
     {
         "actual_data": null,
@@ -12588,9 +12588,9 @@
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-02-26-0001",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
-        "minimal_date": "2024-07-26",
+        "minimal_date": "2024-07-20",
         "nzp_zp": "ZP",
         "order": 190,
         "pu": "ОтА ПУ Жилинский",
@@ -12727,7 +12727,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-05-01",
+        "actual_data": "2024-05-26",
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-01-32-0001",
@@ -12811,7 +12811,7 @@
         "higher_tm": "OR-01-02-23-0002",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
-        "minimal_date": "2024-05-28",
+        "minimal_date": "2024-06-05",
         "nzp_zp": "ZP",
         "order": 500,
         "pu": "ОтА ПУ Жилинский",
@@ -12993,11 +12993,11 @@
         "higher_tm": "OR-01-01-09-0001",
         "is_actual": "Актуально",
         "material_order": "Посев без внесения удобрений (ГА)",
-        "minimal_date": "2024-06-02",
+        "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
         "order": 470,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": null,
@@ -13123,7 +13123,7 @@
         "higher_tm": "OR-01-02-34-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я гербицидная обр. (ГА)",
-        "minimal_date": "2024-06-04",
+        "minimal_date": "2024-07-02",
         "nzp_zp": "ZP",
         "order": 390,
         "pu": "ОтА ПУ Жилинский",
@@ -13396,11 +13396,11 @@
         "higher_tm": "OR-01-03-83-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
-        "minimal_date": "2024-06-09",
+        "minimal_date": "2024-05-05",
         "nzp_zp": "ZP",
         "order": 500,
         "pu": "ОтА ПУ Отрадинский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": null,
@@ -13459,7 +13459,7 @@
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-02-21-0001",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 2-я гербицидная обр. (ГА)",
         "minimal_date": "2024-07-02",
         "nzp_zp": "ZP",
@@ -13643,7 +13643,7 @@
         "higher_tm": "OR-01-02-32-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я противозлак. обр. (ГА)",
-        "minimal_date": "2024-05-28",
+        "minimal_date": "2024-06-25",
         "nzp_zp": "ZP",
         "order": 140,
         "pu": "ОтА ПУ Жилинский",
@@ -13780,7 +13780,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-05-26",
+        "actual_data": "2024-06-01",
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-01-09-0002",
@@ -14020,7 +14020,7 @@
         "higher_tm": "OR-01-02-46-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-07-06",
+        "minimal_date": "2024-07-07",
         "nzp_zp": "ZP",
         "order": 520,
         "pu": "ОтА ПУ Отрадинский",
@@ -14859,7 +14859,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-13",
+        "actual_data": "2024-05-27",
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-02-29-0001",
@@ -14891,7 +14891,7 @@
         "higher_tm": "OR-01-03-65-0009",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
-        "minimal_date": "2024-05-26",
+        "minimal_date": "2024-06-05",
         "nzp_zp": "ZP",
         "order": 490,
         "pu": "ОтА ПУ Отрадинский",
@@ -15138,7 +15138,7 @@
         "higher_tm": "OR-01-02-46-0002",
         "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": "2024-04-29",
+        "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
         "order": 480,
         "pu": "ОтА ПУ Отрадинский",
@@ -15216,7 +15216,7 @@
         "higher_tm": "OR-01-03-65-0002",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
-        "minimal_date": "2024-06-05",
+        "minimal_date": "2024-05-16",
         "nzp_zp": "ZP",
         "order": 490,
         "pu": "ОтА ПУ Отрадинский",
@@ -15327,7 +15327,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-05-01",
+        "actual_data": "2024-06-05",
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-03-83-0002",
@@ -15398,11 +15398,11 @@
         "higher_tm": "OR-01-03-83-0002",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
-        "minimal_date": "2024-05-05",
+        "minimal_date": "2024-06-09",
         "nzp_zp": "ZP",
         "order": 500,
         "pu": "ОтА ПУ Отрадинский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-26",
@@ -15422,7 +15422,7 @@
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-02-29-0002",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я гербицидная обр. (ГА)",
         "minimal_date": "2024-07-02",
         "nzp_zp": "ZP",
@@ -15567,7 +15567,7 @@
         "higher_tm": "OR-01-02-25-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-07-08",
+        "minimal_date": "2024-06-04",
         "nzp_zp": "ZP",
         "order": 520,
         "pu": "ОтА ПУ Жилинский",
@@ -15697,7 +15697,7 @@
         "higher_tm": "OR-01-03-65-0002",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-16",
+        "minimal_date": "2024-06-05",
         "nzp_zp": "ZP",
         "order": 510,
         "pu": "ОтА ПУ Отрадинский",
@@ -15710,7 +15710,7 @@
         "higher_tm": "OR-01-03-83-0002",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
-        "minimal_date": "2024-05-05",
+        "minimal_date": "2024-06-09",
         "nzp_zp": "ZP",
         "order": 490,
         "pu": "ОтА ПУ Отрадинский",
@@ -15747,7 +15747,7 @@
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-01-23-0002",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 1-я гербицидная обр. (ГА)",
         "minimal_date": "2024-06-22",
         "nzp_zp": "ZP",
@@ -15775,7 +15775,7 @@
         "higher_tm": "OR-01-02-22-0002",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
-        "minimal_date": "2024-07-26",
+        "minimal_date": "2024-07-24",
         "nzp_zp": "ZP",
         "order": 190,
         "pu": "ОтА ПУ Жилинский",
@@ -15788,7 +15788,7 @@
         "higher_tm": "OR-01-03-41-0007",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
-        "minimal_date": "2024-05-05",
+        "minimal_date": "2024-06-08",
         "nzp_zp": "ZP",
         "order": 490,
         "pu": "ОтА ПУ Отрадинский",
@@ -16046,13 +16046,13 @@
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-02-29-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-08",
         "nzp_zp": "ZP",
         "order": 520,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Операция не отслеживается"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-05-04",
@@ -16094,7 +16094,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-20",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-02-45-0001",
@@ -16191,7 +16191,7 @@
         "higher_tm": "OR-01-02-47-0002",
         "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": "2024-05-24",
+        "minimal_date": "2024-04-29",
         "nzp_zp": "ZP",
         "order": 480,
         "pu": "ОтА ПУ Отрадинский",
@@ -16705,7 +16705,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-28",
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-02-29-0002",
@@ -16715,7 +16715,7 @@
         "nzp_zp": "ZP",
         "order": 510,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": null,
@@ -17073,13 +17073,13 @@
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-02-26-0001",
-        "is_actual": "Актуально",
+        "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
-        "minimal_date": "2024-06-05",
+        "minimal_date": null,
         "nzp_zp": "ZP",
         "order": 490,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Просрочено"
+        "status": "Операция не отслеживается"
     },
     {
         "actual_data": null,
@@ -17088,7 +17088,7 @@
         "higher_tm": "OR-01-03-16-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
-        "minimal_date": "2024-06-06",
+        "minimal_date": "2024-06-05",
         "nzp_zp": "ZP",
         "order": 500,
         "pu": "ОтА ПУ Отрадинский",
@@ -17173,7 +17173,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-05-01",
+        "actual_data": "2024-06-04",
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-03-41-0007",
@@ -17322,7 +17322,7 @@
         "higher_tm": "OR-01-03-41-0008",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
-        "minimal_date": "2024-07-20",
+        "minimal_date": "2024-07-30",
         "nzp_zp": "ZP",
         "order": 190,
         "pu": "ОтА ПУ Отрадинский",
@@ -17515,9 +17515,9 @@
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-02-11-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я гербицидная обр. (ГА)",
-        "minimal_date": "2024-07-02",
+        "minimal_date": "2024-06-04",
         "nzp_zp": "ZP",
         "order": 390,
         "pu": "ОтА ПУ Жилинский",
@@ -17615,17 +17615,17 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-02",
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-03-41-0007",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-06-17",
         "nzp_zp": "ZP",
         "order": 440,
         "pu": "ОтА ПУ Отрадинский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -17927,17 +17927,17 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-22",
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-01-09-0002",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение основных ж/аммиачных удоб. (ГА)",
         "minimal_date": "2024-06-11",
         "nzp_zp": "ZP",
         "order": 340,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-07",
@@ -17957,13 +17957,13 @@
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-02-11-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-04",
         "nzp_zp": "ZP",
         "order": 520,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Операция не отслеживается"
+        "status": "Просрочено"
     },
     {
         "actual_data": null,
@@ -17979,7 +17979,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-05-24",
+        "actual_data": "2024-06-01",
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-01-09-0001",
@@ -18115,7 +18115,7 @@
         "higher_tm": "OR-01-03-65-0002",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
-        "minimal_date": "2024-06-05",
+        "minimal_date": "2024-05-16",
         "nzp_zp": "ZP",
         "order": 500,
         "pu": "ОтА ПУ Отрадинский",
@@ -18135,7 +18135,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-01-23-0002",
@@ -18145,7 +18145,7 @@
         "nzp_zp": "ZP",
         "order": 470,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": null,
@@ -18635,7 +18635,7 @@
         "higher_tm": "OR-01-01-32-0002",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-16",
+        "minimal_date": "2024-06-18",
         "nzp_zp": "ZP",
         "order": 510,
         "pu": "ОтА ПУ Нечаево",
@@ -18811,7 +18811,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-05-25",
+        "actual_data": "2024-06-26",
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-02-32-0001",
@@ -18821,7 +18821,7 @@
         "nzp_zp": "ZP",
         "order": 510,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": null,
@@ -19279,7 +19279,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-04-28",
+        "actual_data": "2024-05-25",
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-02-46-0002",
@@ -19389,11 +19389,11 @@
         "higher_tm": "OR-02-04-54-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-22",
+        "minimal_date": "2024-06-16",
         "nzp_zp": "ZP",
         "order": 510,
         "pu": "ОтА ПУ Нечаево",
-        "status": "Выполнено в срок"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": null,
@@ -19688,7 +19688,7 @@
         "higher_tm": "OR-01-02-29-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-04",
+        "minimal_date": "2024-07-01",
         "nzp_zp": "ZP",
         "order": 520,
         "pu": "ОтА ПУ Жилинский",
@@ -19747,17 +19747,17 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-01",
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-03-72-0002",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-06-16",
         "nzp_zp": "ZP",
         "order": 440,
         "pu": "ОтА ПУ Отрадинский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-23",
@@ -20169,7 +20169,7 @@
         "higher_tm": "OR-01-02-32-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я гербицидная обр. (ГА)",
-        "minimal_date": "2024-06-04",
+        "minimal_date": "2024-07-02",
         "nzp_zp": "ZP",
         "order": 390,
         "pu": "ОтА ПУ Жилинский",
@@ -20410,13 +20410,13 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-05-25",
+        "actual_data": "2024-06-11",
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-01-32-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-16",
+        "minimal_date": "2024-06-18",
         "nzp_zp": "ZP",
         "order": 510,
         "pu": "ОтА ПУ Нечаево",
@@ -20579,7 +20579,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-29",
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-02-49-0001",
@@ -20589,14 +20589,14 @@
         "nzp_zp": "ZP",
         "order": 500,
         "pu": "ОтА ПУ Отрадинский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-02-21-0001",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 1-я противозлак. обр. (ГА)",
         "minimal_date": "2024-06-25",
         "nzp_zp": "ZP",
@@ -20715,7 +20715,7 @@
         "higher_tm": "OR-01-02-24-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-10",
+        "minimal_date": "2024-06-16",
         "nzp_zp": "ZP",
         "order": 510,
         "pu": "ОтА ПУ Жилинский",
@@ -20923,7 +20923,7 @@
         "higher_tm": "OR-01-02-23-0002",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
-        "minimal_date": "2024-05-28",
+        "minimal_date": "2024-06-05",
         "nzp_zp": "ZP",
         "order": 490,
         "pu": "ОтА ПУ Жилинский",
@@ -21131,7 +21131,7 @@
         "higher_tm": "OR-01-01-32-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я гербицидная обр. (ГА)",
-        "minimal_date": "2024-06-04",
+        "minimal_date": "2024-06-21",
         "nzp_zp": "ZP",
         "order": 390,
         "pu": "ОтА ПУ Нечаево",
@@ -21352,7 +21352,7 @@
         "higher_tm": "OR-01-03-65-0009",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
-        "minimal_date": "2024-07-20",
+        "minimal_date": "2024-07-26",
         "nzp_zp": "ZP",
         "order": 190,
         "pu": "ОтА ПУ Отрадинский",
@@ -21469,7 +21469,7 @@
         "higher_tm": "OR-01-02-32-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-04",
+        "minimal_date": "2024-07-06",
         "nzp_zp": "ZP",
         "order": 520,
         "pu": "ОтА ПУ Жилинский",
@@ -21690,7 +21690,7 @@
         "higher_tm": "OR-01-01-32-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-04",
+        "minimal_date": "2024-06-21",
         "nzp_zp": "ZP",
         "order": 520,
         "pu": "ОтА ПУ Нечаево",
@@ -21781,7 +21781,7 @@
         "higher_tm": "OR-01-02-24-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
-        "minimal_date": "2024-05-30",
+        "minimal_date": "2024-06-05",
         "nzp_zp": "ZP",
         "order": 500,
         "pu": "ОтА ПУ Жилинский",
@@ -21792,13 +21792,13 @@
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-02-26-0001",
-        "is_actual": "Актуально",
+        "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
-        "minimal_date": "2024-06-05",
+        "minimal_date": null,
         "nzp_zp": "ZP",
         "order": 500,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Выполнено в срок"
+        "status": "Операция не отслеживается"
     },
     {
         "actual_data": "2024-06-01",
@@ -21820,7 +21820,7 @@
         "higher_tm": "OR-01-02-25-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я гербицидная обр. (ГА)",
-        "minimal_date": "2024-07-02",
+        "minimal_date": "2024-06-04",
         "nzp_zp": "ZP",
         "order": 390,
         "pu": "ОтА ПУ Жилинский",
@@ -21879,7 +21879,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-26",
+        "actual_data": "2024-05-25",
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-02-44-0001",
@@ -21889,7 +21889,7 @@
         "nzp_zp": "ZP",
         "order": 510,
         "pu": "ОтА ПУ Отрадинский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -21911,7 +21911,7 @@
         "higher_tm": "OR-01-03-16-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-17",
+        "minimal_date": "2024-06-16",
         "nzp_zp": "ZP",
         "order": 510,
         "pu": "ОтА ПУ Отрадинский",
@@ -21963,7 +21963,7 @@
         "higher_tm": "OR-01-02-44-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я гербицидная обр. (ГА)",
-        "minimal_date": "2024-07-02",
+        "minimal_date": "2024-06-04",
         "nzp_zp": "ZP",
         "order": 390,
         "pu": "ОтА ПУ Отрадинский",
@@ -22249,14 +22249,14 @@
         "higher_tm": "OR-01-02-34-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-04",
+        "minimal_date": "2024-07-09",
         "nzp_zp": "ZP",
         "order": 520,
         "pu": "ОтА ПУ Жилинский",
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-06-26",
+        "actual_data": "2024-06-27",
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-02-46-0001",
@@ -22301,7 +22301,7 @@
         "higher_tm": "OR-01-03-41-0008",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
-        "minimal_date": "2024-05-05",
+        "minimal_date": "2024-06-09",
         "nzp_zp": "ZP",
         "order": 490,
         "pu": "ОтА ПУ Отрадинский",
@@ -22626,7 +22626,7 @@
         "higher_tm": "OR-01-03-16-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
-        "minimal_date": "2024-07-27",
+        "minimal_date": "2024-07-26",
         "nzp_zp": "ZP",
         "order": 190,
         "pu": "ОтА ПУ Отрадинский",
@@ -22815,7 +22815,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-05-19",
+        "actual_data": "2024-06-01",
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-02-04-34-0001",
@@ -22910,9 +22910,9 @@
         "business_dir": "Орел",
         "culture": "Соя",
         "higher_tm": "OR-01-02-11-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я противозлак. обр. (ГА)",
-        "minimal_date": "2024-06-25",
+        "minimal_date": "2024-05-28",
         "nzp_zp": "ZP",
         "order": 140,
         "pu": "ОтА ПУ Жилинский",

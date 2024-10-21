@@ -299,17 +299,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-22",
         "business_dir": "Тамбов-Юг",
         "culture": "Пшеница озимая",
         "higher_tm": "TM-01-32-08-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
         "minimal_date": "2024-08-05",
         "nzp_zp": "ZP",
         "order": 230,
         "pu": "АГТ ПУ Шпикуловский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-22",
@@ -364,7 +364,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-23",
+        "actual_data": "2024-05-18",
         "business_dir": "Тамбов-Юг",
         "culture": "Пшеница озимая",
         "higher_tm": "TM-01-51-23-0007",
@@ -728,7 +728,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-30",
+        "actual_data": "2024-04-27",
         "business_dir": "Тамбов-Юг",
         "culture": "Пшеница озимая",
         "higher_tm": "TM-06-12-04-0001",
@@ -1118,7 +1118,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-04",
+        "actual_data": "2024-04-23",
         "business_dir": "Тамбов-Юг",
         "culture": "Пшеница озимая",
         "higher_tm": "TM-06-14-03-0001",
@@ -1170,17 +1170,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-26",
         "business_dir": "Тамбов-Юг",
         "culture": "Пшеница озимая",
         "higher_tm": "TM-01-41-04-0003",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
         "minimal_date": "2024-08-09",
         "nzp_zp": "ZP",
         "order": 230,
         "pu": "АГТ ПУ Новорусановский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-26",
@@ -1482,20 +1482,20 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-26",
         "business_dir": "Тамбов-Юг",
         "culture": "Пшеница озимая",
         "higher_tm": "TM-06-12-06-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-05-08",
         "nzp_zp": "ZP",
         "order": 0,
         "pu": "АГТ ПУ Знаменский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-21",
+        "actual_data": "2024-07-24",
         "business_dir": "Тамбов-Юг",
         "culture": "Пшеница озимая",
         "higher_tm": "TM-01-51-14-0007",
@@ -1547,7 +1547,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-04-23",
+        "actual_data": "2024-05-10",
         "business_dir": "Тамбов-Юг",
         "culture": "Пшеница озимая",
         "higher_tm": "TM-06-14-02-0003",
@@ -2210,17 +2210,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-02",
         "business_dir": "Тамбов-Юг",
         "culture": "Пшеница озимая",
         "higher_tm": "TM-06-14-03-0002",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
         "order": 0,
         "pu": "АГТ ПУ Знаменский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-17",
@@ -2301,7 +2301,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-28",
+        "actual_data": "2024-04-30",
         "business_dir": "Тамбов-Юг",
         "culture": "Пшеница озимая",
         "higher_tm": "TM-06-21-13-0002",
@@ -2398,7 +2398,7 @@
         "higher_tm": "TM-01-51-23-0007",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-05-14",
+        "minimal_date": "2024-05-28",
         "nzp_zp": "ZP",
         "order": 80,
         "pu": "АГТ ПУ Шпикуловский",
@@ -2600,17 +2600,17 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-08-03",
         "business_dir": "Тамбов-Юг",
         "culture": "Пшеница озимая",
         "higher_tm": "TM-01-12-11-0002",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
         "minimal_date": "2024-08-17",
         "nzp_zp": "ZP",
         "order": 230,
         "pu": "АГТ ПУ Новорусановский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-13",
@@ -3146,7 +3146,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-04-23",
+        "actual_data": "2024-05-06",
         "business_dir": "Тамбов-Юг",
         "culture": "Пшеница озимая",
         "higher_tm": "TM-06-12-04-0001",
@@ -3198,17 +3198,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-29",
         "business_dir": "Тамбов-Юг",
         "culture": "Пшеница озимая",
         "higher_tm": "TM-01-41-12-0003",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
         "minimal_date": "2024-08-12",
         "nzp_zp": "ZP",
         "order": 230,
         "pu": "АГТ ПУ Новорусановский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-09",
@@ -3302,17 +3302,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-16",
         "business_dir": "Тамбов-Юг",
         "culture": "Пшеница озимая",
         "higher_tm": "TM-01-51-23-0007",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
         "minimal_date": "2024-07-30",
         "nzp_zp": "ZP",
         "order": 230,
         "pu": "АГТ ПУ Шпикуловский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-01",
@@ -3536,17 +3536,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-13",
         "business_dir": "Тамбов-Юг",
         "culture": "Пшеница озимая",
         "higher_tm": "TM-06-21-17-0008",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
         "minimal_date": "2024-07-27",
         "nzp_zp": "ZP",
         "order": 230,
         "pu": "АГТ ПУ Знаменский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-16",
@@ -4043,17 +4043,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-13",
         "business_dir": "Тамбов-Юг",
         "culture": "Пшеница озимая",
         "higher_tm": "TM-01-32-08-0004",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-04-25",
         "nzp_zp": "ZP",
         "order": 0,
         "pu": "АГТ ПУ Шпикуловский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-12",
@@ -4134,17 +4134,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-24",
         "business_dir": "Тамбов-Юг",
         "culture": "Пшеница озимая",
         "higher_tm": "TM-01-41-11-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
         "minimal_date": "2024-08-07",
         "nzp_zp": "ZP",
         "order": 230,
         "pu": "АГТ ПУ Новорусановский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-26",
@@ -4173,17 +4173,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-23",
+        "actual_data": null,
         "business_dir": "Тамбов-Юг",
         "culture": "Пшеница озимая",
         "higher_tm": "TM-06-12-05-0002",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
         "minimal_date": "2024-05-20",
         "nzp_zp": "ZP",
         "order": 30,
         "pu": "АГТ ПУ Знаменский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-05-02",
@@ -4641,17 +4641,17 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-20",
         "business_dir": "Тамбов-Юг",
         "culture": "Пшеница озимая",
         "higher_tm": "TM-06-15-01-0013",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
         "minimal_date": "2024-08-03",
         "nzp_zp": "ZP",
         "order": 230,
         "pu": "АГТ ПУ Ивановский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-08-07",
@@ -4745,7 +4745,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-05-10",
+        "actual_data": "2024-05-05",
         "business_dir": "Тамбов-Юг",
         "culture": "Пшеница озимая",
         "higher_tm": "TM-06-32-12-0003",
@@ -4940,17 +4940,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-23",
         "business_dir": "Тамбов-Юг",
         "culture": "Пшеница озимая",
         "higher_tm": "TM-01-41-05-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
         "minimal_date": "2024-06-02",
         "nzp_zp": "ZP",
         "order": 30,
         "pu": "АГТ ПУ Новорусановский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-03-28",
@@ -5018,17 +5018,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-22",
         "business_dir": "Тамбов-Юг",
         "culture": "Пшеница озимая",
         "higher_tm": "TM-06-32-06-0004",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
         "minimal_date": "2024-08-05",
         "nzp_zp": "ZP",
         "order": 230,
         "pu": "АГТ ПУ Ивановский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-04",
@@ -5109,7 +5109,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-05-08",
+        "actual_data": "2024-05-10",
         "business_dir": "Тамбов-Юг",
         "culture": "Пшеница озимая",
         "higher_tm": "TM-06-11-06-0005",
@@ -5460,17 +5460,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-27",
+        "actual_data": null,
         "business_dir": "Тамбов-Юг",
         "culture": "Пшеница озимая",
         "higher_tm": "TM-01-12-11-0002",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
         "minimal_date": "2024-06-06",
         "nzp_zp": "ZP",
         "order": 30,
         "pu": "АГТ ПУ Новорусановский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-05-15",
@@ -5694,17 +5694,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-23",
         "business_dir": "Тамбов-Юг",
         "culture": "Пшеница озимая",
         "higher_tm": "TM-01-41-01-0003",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
         "minimal_date": "2024-06-02",
         "nzp_zp": "ZP",
         "order": 30,
         "pu": "АГТ ПУ Новорусановский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-27",
@@ -5850,17 +5850,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-20",
         "business_dir": "Тамбов-Юг",
         "culture": "Пшеница озимая",
         "higher_tm": "TM-01-31-11-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
         "minimal_date": "2024-08-03",
         "nzp_zp": "ZP",
         "order": 230,
         "pu": "АГТ ПУ Шпикуловский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-26",
@@ -5876,17 +5876,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-16",
         "business_dir": "Тамбов-Юг",
         "culture": "Пшеница озимая",
         "higher_tm": "TM-01-13-11-0002",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
         "minimal_date": "2024-07-30",
         "nzp_zp": "ZP",
         "order": 230,
         "pu": "АГТ ПУ Новорусановский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-03",
@@ -6240,17 +6240,17 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-30",
+        "actual_data": null,
         "business_dir": "Тамбов-Юг",
         "culture": "Пшеница озимая",
         "higher_tm": "TM-06-14-02-0004",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-05-12",
         "nzp_zp": "ZP",
         "order": 0,
         "pu": "АГТ ПУ Знаменский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-07-23",
@@ -6500,17 +6500,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": null,
         "business_dir": "Тамбов-Юг",
         "culture": "Пшеница озимая",
         "higher_tm": "TM-06-21-05-0002",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-08-02",
         "nzp_zp": "NZP",
         "order": 140,
         "pu": "АГТ ПУ Знаменский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-05-02",
@@ -6701,7 +6701,7 @@
         "higher_tm": "TM-06-14-02-0003",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-05-14",
+        "minimal_date": "2024-05-28",
         "nzp_zp": "ZP",
         "order": 80,
         "pu": "АГТ ПУ Знаменский",
@@ -6773,17 +6773,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-24",
         "business_dir": "Тамбов-Юг",
         "culture": "Пшеница озимая",
         "higher_tm": "TM-06-21-04-0002",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
         "minimal_date": "2024-08-07",
         "nzp_zp": "ZP",
         "order": 230,
         "pu": "АГТ ПУ Знаменский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-29",
@@ -7059,7 +7059,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-01",
+        "actual_data": null,
         "business_dir": "Тамбов-Юг",
         "culture": "Пшеница озимая",
         "higher_tm": "TM-06-12-04-0001",
@@ -7247,7 +7247,7 @@
         "higher_tm": "TM-06-12-05-0002",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-05-14",
+        "minimal_date": "2024-05-28",
         "nzp_zp": "ZP",
         "order": 80,
         "pu": "АГТ ПУ Знаменский",
@@ -7267,17 +7267,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": null,
         "business_dir": "Тамбов-Юг",
         "culture": "Пшеница озимая",
         "higher_tm": "TM-01-32-03-0001",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
         "minimal_date": "2024-08-07",
         "nzp_zp": "ZP",
         "order": 230,
         "pu": "АГТ ПУ Шпикуловский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-06-27",
@@ -7397,17 +7397,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-26",
         "business_dir": "Тамбов-Юг",
         "culture": "Пшеница озимая",
         "higher_tm": "TM-01-32-03-0003",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
         "minimal_date": "2024-08-09",
         "nzp_zp": "ZP",
         "order": 230,
         "pu": "АГТ ПУ Шпикуловский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-02",
@@ -7514,7 +7514,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-29",
+        "actual_data": "2024-05-20",
         "business_dir": "Тамбов-Юг",
         "culture": "Пшеница озимая",
         "higher_tm": "TM-01-31-11-0001",
@@ -7533,7 +7533,7 @@
         "higher_tm": "TM-06-14-03-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-05-25",
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
         "order": 80,
         "pu": "АГТ ПУ Знаменский",
@@ -7839,17 +7839,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-13",
         "business_dir": "Тамбов-Юг",
         "culture": "Пшеница озимая",
         "higher_tm": "TM-01-51-24-0004",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
         "minimal_date": "2024-07-27",
         "nzp_zp": "ZP",
         "order": 230,
         "pu": "АГТ ПУ Шпикуловский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-27",
@@ -8346,17 +8346,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-05-14",
+        "actual_data": null,
         "business_dir": "Тамбов-Юг",
         "culture": "Пшеница озимая",
         "higher_tm": "TM-06-32-01-0004",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
         "minimal_date": "2024-05-24",
         "nzp_zp": "ZP",
         "order": 30,
         "pu": "АГТ ПУ Ивановский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-06-28",
@@ -8489,7 +8489,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-23",
+        "actual_data": "2024-05-27",
         "business_dir": "Тамбов-Юг",
         "culture": "Пшеница озимая",
         "higher_tm": "TM-01-11-12-0001",
@@ -9080,7 +9080,7 @@
         "higher_tm": "TM-06-21-13-0002",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-05-19",
+        "minimal_date": "2024-05-21",
         "nzp_zp": "ZP",
         "order": 80,
         "pu": "АГТ ПУ Знаменский",
@@ -9392,7 +9392,7 @@
         "higher_tm": "TM-06-12-04-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-05-14",
+        "minimal_date": "2024-05-27",
         "nzp_zp": "ZP",
         "order": 80,
         "pu": "АГТ ПУ Знаменский",

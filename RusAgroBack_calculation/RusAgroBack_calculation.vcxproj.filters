@@ -38,5 +38,8 @@
     <ClInclude Include="module_calc_actual_date_completion_entry_oper\functions.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
+    <ClInclude Include="DEBUG_functions.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -1,19 +1,19 @@
 [
     {
-        "actual_data": null,
+        "actual_data": "2024-04-12",
         "business_dir": "Тамбов-Юг",
         "culture": "Горох",
         "higher_tm": "TM-01-11-10-0003",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
         "minimal_date": "2024-04-18",
         "nzp_zp": "ZP",
         "order": 220,
         "pu": "АГТ ПУ Новорусановский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-17",
+        "actual_data": "2024-04-16",
         "business_dir": "Тамбов-Юг",
         "culture": "Горох",
         "higher_tm": "TM-01-11-10-0003",
@@ -26,7 +26,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-15",
+        "actual_data": "2024-04-08",
         "business_dir": "Тамбов-Юг",
         "culture": "Горох",
         "higher_tm": "TM-01-11-10-0003",
@@ -39,7 +39,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-01",
+        "actual_data": "2024-04-08",
         "business_dir": "Тамбов-Юг",
         "culture": "Горох",
         "higher_tm": "TM-01-12-02-0001",
@@ -91,7 +91,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-08",
+        "actual_data": "2024-04-15",
         "business_dir": "Тамбов-Юг",
         "culture": "Горох",
         "higher_tm": "TM-01-12-02-0002",
@@ -117,7 +117,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-21",
         "business_dir": "Тамбов-Юг",
         "culture": "Горох",
         "higher_tm": "TM-01-12-02-0003",
@@ -143,7 +143,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-04-07",
+        "actual_data": "2024-04-08",
         "business_dir": "Тамбов-Юг",
         "culture": "Горох",
         "higher_tm": "TM-01-12-02-0004",
@@ -195,7 +195,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-01",
+        "actual_data": "2024-04-08",
         "business_dir": "Тамбов-Юг",
         "culture": "Горох",
         "higher_tm": "TM-01-12-03-0003",
@@ -299,7 +299,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-08",
+        "actual_data": "2024-04-06",
         "business_dir": "Тамбов-Юг",
         "culture": "Горох",
         "higher_tm": "TM-01-41-11-0003",
@@ -351,7 +351,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-04-06",
+        "actual_data": "2024-04-08",
         "business_dir": "Тамбов-Юг",
         "culture": "Горох",
         "higher_tm": "TM-01-41-12-0002",
@@ -416,7 +416,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-28",
+        "actual_data": "2024-07-29",
         "business_dir": "Тамбов-Юг",
         "culture": "Горох",
         "higher_tm": "TM-01-51-16-0003",
@@ -429,7 +429,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-08-02",
         "business_dir": "Тамбов-Юг",
         "culture": "Горох",
         "higher_tm": "TM-01-51-16-0003",
@@ -481,7 +481,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-11",
+        "actual_data": "2024-04-12",
         "business_dir": "Тамбов-Юг",
         "culture": "Горох",
         "higher_tm": "TM-06-22-02-0003",
@@ -494,7 +494,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-12",
         "business_dir": "Тамбов-Юг",
         "culture": "Горох",
         "higher_tm": "TM-06-22-02-0005",
@@ -520,7 +520,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-10",
         "business_dir": "Тамбов-Юг",
         "culture": "Горох",
         "higher_tm": "TM-06-22-02-0006",

@@ -1,19 +1,19 @@
 [
     {
-        "actual_data": null,
+        "actual_data": "2024-07-09",
         "business_dir": "Тамбов-Север",
         "culture": "Кукуруза на зерно",
         "higher_tm": "TM-04-61-64-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение азот. удобр. перед севом (ГА)",
         "minimal_date": "2024-07-29",
         "nzp_zp": "ZP",
         "order": 260,
         "pu": "АГТ ПУ Богословский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-06",
         "business_dir": "Тамбов-Север",
         "culture": "Кукуруза на зерно",
         "higher_tm": "TM-04-61-64-0001",
@@ -26,7 +26,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-05-20",
+        "actual_data": "2024-07-03",
         "business_dir": "Тамбов-Север",
         "culture": "Кукуруза на зерно",
         "higher_tm": "TM-04-61-64-0001",
@@ -39,7 +39,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-30",
+        "actual_data": null,
         "business_dir": "Тамбов-Север",
         "culture": "Кукуруза на зерно",
         "higher_tm": "TM-04-61-64-0001",
@@ -52,7 +52,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-27",
         "business_dir": "Тамбов-Север",
         "culture": "Кукуруза на зерно",
         "higher_tm": "TM-04-61-64-0001",
@@ -78,17 +78,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-24",
         "business_dir": "Тамбов-Север",
         "culture": "Кукуруза на зерно",
         "higher_tm": "TM-04-61-64-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
         "order": 280,
         "pu": "АГТ ПУ Богословский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,

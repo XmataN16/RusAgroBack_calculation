@@ -117,17 +117,17 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-20",
+        "actual_data": null,
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-01-02-03-0035",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Культивация (ГА)",
         "minimal_date": "2024-07-10",
         "nzp_zp": "ZP",
         "order": 420,
         "pu": "ПрА ПУ Ширяевский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-07-07",
@@ -299,17 +299,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-17",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-04-01-01-0013",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
         "minimal_date": "2024-08-06",
         "nzp_zp": "ZP",
         "order": 400,
         "pu": "ПрА ПУ Жариково",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -546,17 +546,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-09",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-04-01-01-0006",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
         "minimal_date": "2024-05-29",
         "nzp_zp": "ZP",
         "order": 400,
         "pu": "ПрА ПУ Жариково",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-09",
@@ -624,17 +624,17 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-28",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-01-02-01-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
         "minimal_date": "2024-07-18",
         "nzp_zp": "ZP",
         "order": 400,
         "pu": "ПрА ПУ Ширяевский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -793,17 +793,17 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-23",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-03-02-02-0029",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": "2024-05-16",
         "nzp_zp": "ZP",
         "order": 460,
         "pu": "ПрА ПУ Турий Рог",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": null,
@@ -988,17 +988,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-11",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-01-02-01-0008",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Культивация (ГА)",
         "minimal_date": "2024-07-01",
         "nzp_zp": "ZP",
         "order": 420,
         "pu": "ПрА ПУ Ширяевский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-08-06",
@@ -1027,7 +1027,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-14",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-02-03-06-0069",
@@ -1037,7 +1037,7 @@
         "nzp_zp": "ZP",
         "order": 460,
         "pu": "ПрА ПУ Воздвиженка",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-05-07",
@@ -1339,7 +1339,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-07-13",
+        "actual_data": "2024-05-07",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-04-01-13-0131",
@@ -1349,7 +1349,7 @@
         "nzp_zp": "ZP",
         "order": 460,
         "pu": "ПрА ПУ Жариково",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-11",
@@ -1482,17 +1482,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-15",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-04-02-12-0128",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
         "order": 440,
         "pu": "ПрА ПУ Пограничный",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -1547,7 +1547,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-23",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-02-01-03-0035",
@@ -2275,17 +2275,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-16",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-01-02-04-0044",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Культивация (ГА)",
         "minimal_date": "2024-08-05",
         "nzp_zp": "ZP",
         "order": 420,
         "pu": "ПрА ПУ Ширяевский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-25",
@@ -2515,11 +2515,11 @@
         "higher_tm": "PR-01-02-03-0031",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-07",
+        "minimal_date": "2024-07-13",
         "nzp_zp": "ZP",
         "order": 510,
         "pu": "ПрА ПУ Ширяевский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-25",
@@ -2574,17 +2574,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-19",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-02-03-07-0076",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
         "minimal_date": "2024-07-04",
         "nzp_zp": "ZP",
         "order": 430,
         "pu": "ПрА ПУ Воздвиженка",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -2639,7 +2639,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-04-12",
+        "actual_data": "2024-04-05",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-04-02-01-0010",
@@ -2652,7 +2652,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-08",
+        "actual_data": "2024-07-20",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-04-01-01-0009",
@@ -2662,7 +2662,7 @@
         "nzp_zp": "ZP",
         "order": 470,
         "pu": "ПрА ПУ Жариково",
-        "status": "Выполнено в срок"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": null,
@@ -2769,17 +2769,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-01",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-02-03-07-0073",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение основных комплекс. удобр. (ГА)",
         "minimal_date": "2024-07-16",
         "nzp_zp": "ZP",
         "order": 450,
         "pu": "ПрА ПУ Воздвиженка",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -2847,17 +2847,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-19",
+        "actual_data": null,
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-01-02-03-0031",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение основных комплекс. удобр. (ГА)",
         "minimal_date": "2024-07-04",
         "nzp_zp": "ZP",
         "order": 450,
         "pu": "ПрА ПУ Ширяевский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-06-21",
@@ -3016,17 +3016,17 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-03",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-04-01-16-0161",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-07-18",
         "nzp_zp": "ZP",
         "order": 440,
         "pu": "ПрА ПУ Жариково",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-24",
@@ -3243,11 +3243,11 @@
         "higher_tm": "PR-03-02-02-0028",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-07",
+        "minimal_date": "2024-08-01",
         "nzp_zp": "ZP",
         "order": 510,
         "pu": "ПрА ПУ Турий Рог",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-08",
@@ -3332,9 +3332,9 @@
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-02-03-21-0214",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-07",
+        "minimal_date": "2024-07-27",
         "nzp_zp": "ZP",
         "order": 510,
         "pu": "ПрА ПУ Воздвиженка",
@@ -3419,17 +3419,17 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-08",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-02-01-03-0037",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
         "minimal_date": "2024-06-28",
         "nzp_zp": "ZP",
         "order": 400,
         "pu": "ПрА ПУ Степное",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-22",
@@ -3562,7 +3562,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-08",
+        "actual_data": "2024-07-01",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-01-02-04-0040",
@@ -3601,7 +3601,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-11",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-03-02-03-0032",
@@ -3744,17 +3744,17 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-16",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-03-02-04-0047",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
         "minimal_date": "2024-06-05",
         "nzp_zp": "ZP",
         "order": 400,
         "pu": "ПрА ПУ Турий Рог",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-31",
@@ -4069,17 +4069,17 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-04",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-02-03-07-0074",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": "2024-05-16",
         "nzp_zp": "ZP",
         "order": 460,
         "pu": "ПрА ПУ Воздвиженка",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-18",
@@ -4420,7 +4420,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-17",
+        "actual_data": "2024-07-17",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-04-01-01-0010",
@@ -4537,17 +4537,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-11",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-01-02-03-0031",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-06-26",
         "nzp_zp": "ZP",
         "order": 440,
         "pu": "ПрА ПУ Ширяевский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -4576,17 +4576,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-05",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-03-02-04-0046",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-05-20",
         "nzp_zp": "ZP",
         "order": 440,
         "pu": "ПрА ПУ Турий Рог",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-19",
@@ -4732,7 +4732,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-08-06",
+        "actual_data": "2024-06-19",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-01-02-01-0003",
@@ -4742,7 +4742,7 @@
         "nzp_zp": "ZP",
         "order": 510,
         "pu": "ПрА ПУ Ширяевский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -4758,7 +4758,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-04",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-01-02-07-0079",
@@ -4768,7 +4768,7 @@
         "nzp_zp": "ZP",
         "order": 460,
         "pu": "ПрА ПУ Ширяевский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-19",
@@ -4927,7 +4927,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-07",
+        "actual_data": "2024-07-17",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-04-01-01-0008",
@@ -4937,7 +4937,7 @@
         "nzp_zp": "ZP",
         "order": 460,
         "pu": "ПрА ПУ Жариково",
-        "status": "Выполнено в срок"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": null,
@@ -4953,7 +4953,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-04-17",
+        "actual_data": "2024-05-21",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-01-02-09-0091",
@@ -5018,20 +5018,20 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-05-08",
+        "actual_data": null,
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-01-02-04-0043",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": "2024-05-16",
         "nzp_zp": "ZP",
         "order": 470,
         "pu": "ПрА ПУ Ширяевский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-06-29",
+        "actual_data": "2024-07-02",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-02-03-06-0062",
@@ -5375,7 +5375,7 @@
         "higher_tm": "PR-03-02-08-0089",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
-        "minimal_date": "2024-05-20",
+        "minimal_date": "2024-05-22",
         "nzp_zp": "ZP",
         "order": 500,
         "pu": "ПрА ПУ Турий Рог",
@@ -5538,17 +5538,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-12",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-02-03-21-0214",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение основных комплекс. удобр. (ГА)",
         "minimal_date": "2024-07-27",
         "nzp_zp": "ZP",
         "order": 450,
         "pu": "ПрА ПУ Воздвиженка",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-24",
@@ -5564,7 +5564,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-15",
+        "actual_data": "2024-07-17",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-04-02-12-0127",
@@ -5642,30 +5642,30 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-04",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-02-01-02-0023",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение основных комплекс. удобр. (ГА)",
         "minimal_date": "2024-07-19",
         "nzp_zp": "ZP",
         "order": 450,
         "pu": "ПрА ПУ Степное",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-05",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-02-01-01-0019",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение основных комплекс. удобр. (ГА)",
         "minimal_date": "2024-07-20",
         "nzp_zp": "ZP",
         "order": 450,
         "pu": "ПрА ПУ Степное",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -5694,7 +5694,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-01",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-01-02-01-0007",
@@ -5704,7 +5704,7 @@
         "nzp_zp": "ZP",
         "order": 460,
         "pu": "ПрА ПУ Ширяевский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-16",
@@ -5759,7 +5759,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-05-07",
+        "actual_data": "2024-05-16",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-03-02-08-0086",
@@ -5769,7 +5769,7 @@
         "nzp_zp": "ZP",
         "order": 460,
         "pu": "ПрА ПУ Турий Рог",
-        "status": "Выполнено в срок"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-20",
@@ -5993,7 +5993,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-07-12",
+        "actual_data": "2024-07-11",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-01-02-08-0087",
@@ -6032,17 +6032,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-17",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-04-01-05-0050",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Культивация (ГА)",
         "minimal_date": "2024-08-06",
         "nzp_zp": "ZP",
         "order": 420,
         "pu": "ПрА ПУ Жариково",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-08-12",
@@ -6058,17 +6058,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-18",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-02-01-03-0037",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-08-02",
         "nzp_zp": "ZP",
         "order": 440,
         "pu": "ПрА ПУ Степное",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-13",
@@ -6123,17 +6123,17 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-13",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-01-02-01-0004",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
         "minimal_date": "2024-08-02",
         "nzp_zp": "ZP",
         "order": 400,
         "pu": "ПрА ПУ Ширяевский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-02",
@@ -6246,7 +6246,7 @@
         "higher_tm": "PR-01-02-03-0038",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-07",
+        "minimal_date": "2024-07-13",
         "nzp_zp": "ZP",
         "order": 510,
         "pu": "ПрА ПУ Ширяевский",
@@ -6331,7 +6331,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-12",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-02-03-21-0214",
@@ -6341,7 +6341,7 @@
         "nzp_zp": "ZP",
         "order": 470,
         "pu": "ПрА ПУ Воздвиженка",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-05-21",
@@ -6357,13 +6357,13 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-08",
+        "actual_data": "2024-06-20",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-01-02-03-0031",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
-        "minimal_date": "2024-05-20",
+        "minimal_date": "2024-06-24",
         "nzp_zp": "ZP",
         "order": 500,
         "pu": "ПрА ПУ Ширяевский",
@@ -6448,7 +6448,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-05-24",
+        "actual_data": "2024-05-25",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-03-02-02-0029",
@@ -6506,14 +6506,14 @@
         "higher_tm": "PR-04-01-01-0009",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-07",
+        "minimal_date": "2024-08-04",
         "nzp_zp": "ZP",
         "order": 510,
         "pu": "ПрА ПУ Жариково",
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-05-21",
+        "actual_data": "2024-05-22",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-03-02-03-0035",
@@ -6604,7 +6604,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-16",
+        "actual_data": "2024-07-17",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-01-02-04-0044",
@@ -6955,17 +6955,17 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-11",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-02-03-07-0073",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": "2024-05-16",
         "nzp_zp": "ZP",
         "order": 460,
         "pu": "ПрА ПУ Воздвиженка",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-25",
@@ -7468,14 +7468,14 @@
         "higher_tm": "PR-01-02-04-0044",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-07-31",
+        "minimal_date": "2024-08-01",
         "nzp_zp": "ZP",
         "order": 510,
         "pu": "ПрА ПУ Ширяевский",
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-07-01",
+        "actual_data": null,
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-01-02-04-0042",
@@ -7485,7 +7485,7 @@
         "nzp_zp": "ZP",
         "order": 500,
         "pu": "ПрА ПУ Ширяевский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-07-01",
@@ -7514,17 +7514,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-17",
+        "actual_data": null,
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-01-02-03-0038",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Культивация (ГА)",
         "minimal_date": "2024-07-07",
         "nzp_zp": "ZP",
         "order": 420,
         "pu": "ПрА ПУ Ширяевский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-05-25",
@@ -7605,17 +7605,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-20",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-04-01-01-0014",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-08-04",
         "nzp_zp": "ZP",
         "order": 440,
         "pu": "ПрА ПУ Жариково",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-04",
@@ -7852,17 +7852,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-22",
+        "actual_data": null,
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-03-02-05-0053",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
         "minimal_date": "2024-06-11",
         "nzp_zp": "ZP",
         "order": 400,
         "pu": "ПрА ПУ Турий Рог",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": null,
@@ -7943,7 +7943,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-08-08",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-02-03-07-0074",
@@ -8612,7 +8612,7 @@
         "higher_tm": "PR-01-02-04-0044",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
-        "minimal_date": "2024-07-20",
+        "minimal_date": "2024-07-21",
         "nzp_zp": "ZP",
         "order": 500,
         "pu": "ПрА ПУ Ширяевский",
@@ -8866,7 +8866,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-16",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-02-01-01-0016",
@@ -8876,7 +8876,7 @@
         "nzp_zp": "ZP",
         "order": 460,
         "pu": "ПрА ПУ Степное",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-05-18",
@@ -9061,17 +9061,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-08",
+        "actual_data": null,
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-04-01-01-0009",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение основных комплекс. удобр. (ГА)",
         "minimal_date": "2024-08-05",
         "nzp_zp": "ZP",
         "order": 450,
         "pu": "ПрА ПУ Жариково",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-06-08",
@@ -9308,17 +9308,17 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-08",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-03-02-04-0046",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
         "minimal_date": "2024-05-28",
         "nzp_zp": "ZP",
         "order": 400,
         "pu": "ПрА ПУ Турий Рог",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-25",
@@ -9373,7 +9373,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-05-17",
+        "actual_data": "2024-05-18",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-03-02-09-0092",
@@ -9496,7 +9496,7 @@
         "higher_tm": "PR-04-01-13-0131",
         "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": "2024-05-16",
+        "minimal_date": "2024-05-08",
         "nzp_zp": "ZP",
         "order": 480,
         "pu": "ПрА ПУ Жариково",
@@ -9685,7 +9685,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-01",
+        "actual_data": null,
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-02-03-05-0059",
@@ -9695,7 +9695,7 @@
         "nzp_zp": "ZP",
         "order": 460,
         "pu": "ПрА ПУ Воздвиженка",
-        "status": "Выполнено не в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-04-20",
@@ -9971,17 +9971,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-05",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-03-02-05-0054",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-06-20",
         "nzp_zp": "ZP",
         "order": 440,
         "pu": "ПрА ПУ Турий Рог",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-30",
@@ -10101,17 +10101,17 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-19",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-02-03-07-0074",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
         "minimal_date": "2024-07-09",
         "nzp_zp": "ZP",
         "order": 400,
         "pu": "ПрА ПУ Воздвиженка",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-11",
@@ -10153,17 +10153,17 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-21",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-02-03-08-0081",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
         "minimal_date": "2024-07-11",
         "nzp_zp": "ZP",
         "order": 400,
         "pu": "ПрА ПУ Воздвиженка",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-08-09",
@@ -10257,7 +10257,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-17",
+        "actual_data": "2024-07-13",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-04-01-13-0137",
@@ -10309,17 +10309,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-15",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-04-02-12-0127",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-04-30",
         "nzp_zp": "ZP",
         "order": 440,
         "pu": "ПрА ПУ Пограничный",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-22",
@@ -10452,7 +10452,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-17",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-04-01-05-0050",
@@ -10462,7 +10462,7 @@
         "nzp_zp": "ZP",
         "order": 480,
         "pu": "ПрА ПУ Жариково",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": null,
@@ -10738,17 +10738,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-03",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-02-03-12-0121",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-05-18",
         "nzp_zp": "ZP",
         "order": 440,
         "pu": "ПрА ПУ Воздвиженка",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-18",
@@ -11063,17 +11063,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-15",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-04-03-01-0012",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-07-30",
         "nzp_zp": "ZP",
         "order": 440,
         "pu": "ПрА ПУ Поповский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-11",
@@ -11115,17 +11115,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-12",
+        "actual_data": null,
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-04-02-12-0126",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
         "order": 440,
         "pu": "ПрА ПУ Пограничный",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-07-04",
@@ -11310,17 +11310,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-13",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-04-01-13-0139",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
         "minimal_date": "2024-05-16",
         "nzp_zp": "ZP",
         "order": 480,
         "pu": "ПрА ПУ Жариково",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-11",
@@ -11511,7 +11511,7 @@
         "higher_tm": "PR-02-03-06-0062",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-07-14",
+        "minimal_date": "2024-07-17",
         "nzp_zp": "ZP",
         "order": 510,
         "pu": "ПрА ПУ Воздвиженка",
@@ -11674,17 +11674,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-13",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-04-01-01-0013",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-08-01",
         "nzp_zp": "ZP",
         "order": 440,
         "pu": "ПрА ПУ Жариково",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-08-04",
@@ -11895,17 +11895,17 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-01",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-02-03-12-0121",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
-        "minimal_date": "2024-05-20",
+        "minimal_date": "2024-05-29",
         "nzp_zp": "ZP",
         "order": 490,
         "pu": "ПрА ПУ Воздвиженка",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": null,
@@ -11938,7 +11938,7 @@
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-03-02-02-0027",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
         "minimal_date": "2024-06-28",
         "nzp_zp": "ZP",
@@ -11960,7 +11960,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-05-07",
+        "actual_data": "2024-06-30",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-02-03-06-0061",
@@ -12129,17 +12129,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-14",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-04-01-05-0050",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
         "minimal_date": "2024-08-03",
         "nzp_zp": "ZP",
         "order": 400,
         "pu": "ПрА ПУ Жариково",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-16",
@@ -12272,17 +12272,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-10",
+        "actual_data": null,
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-04-02-01-0007",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Боронование (ГА)",
         "minimal_date": "2024-04-20",
         "nzp_zp": "ZP",
         "order": 430,
         "pu": "ПрА ПУ Пограничный",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": null,
@@ -12766,7 +12766,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-26",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-03-02-02-0029",
@@ -13052,7 +13052,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-30",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-02-03-06-0062",
@@ -13062,7 +13062,7 @@
         "nzp_zp": "ZP",
         "order": 460,
         "pu": "ПрА ПУ Воздвиженка",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": null,
@@ -13097,7 +13097,7 @@
         "higher_tm": "PR-03-02-08-0086",
         "is_actual": "Актуально",
         "material_order": "Посев без внесения удобрений (ГА)",
-        "minimal_date": "2024-05-08",
+        "minimal_date": "2024-05-16",
         "nzp_zp": "ZP",
         "order": 470,
         "pu": "ПрА ПУ Турий Рог",
@@ -13130,17 +13130,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-18",
+        "actual_data": null,
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-01-02-03-0031",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
         "minimal_date": "2024-07-08",
         "nzp_zp": "ZP",
         "order": 400,
         "pu": "ПрА ПУ Ширяевский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": null,
@@ -13182,17 +13182,17 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-17",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-03-02-02-0028",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": "2024-05-16",
         "nzp_zp": "ZP",
         "order": 470,
         "pu": "ПрА ПУ Турий Рог",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": null,
@@ -13299,7 +13299,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-17",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-03-02-05-0054",
@@ -13572,17 +13572,17 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-10",
+        "actual_data": null,
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-01-02-04-0041",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Культивация (ГА)",
         "minimal_date": "2024-06-30",
         "nzp_zp": "ZP",
         "order": 420,
         "pu": "ПрА ПУ Ширяевский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-05-22",
@@ -13656,7 +13656,7 @@
         "higher_tm": "PR-04-01-01-0009",
         "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": "2024-05-09",
+        "minimal_date": "2024-05-16",
         "nzp_zp": "ZP",
         "order": 460,
         "pu": "ПрА ПУ Жариково",
@@ -13806,17 +13806,17 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-10",
+        "actual_data": null,
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-01-02-04-0042",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
         "minimal_date": "2024-06-30",
         "nzp_zp": "ZP",
         "order": 400,
         "pu": "ПрА ПУ Ширяевский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": null,
@@ -13975,17 +13975,17 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-20",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-02-03-21-0214",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
         "minimal_date": "2024-06-09",
         "nzp_zp": "ZP",
         "order": 400,
         "pu": "ПрА ПУ Воздвиженка",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-17",
@@ -14053,17 +14053,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-23",
+        "actual_data": null,
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-03-02-03-0032",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение основных комплекс. удобр. (ГА)",
         "minimal_date": "2024-08-07",
         "nzp_zp": "ZP",
         "order": 450,
         "pu": "ПрА ПУ Турий Рог",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": null,
@@ -14235,17 +14235,17 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-19",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-04-01-01-0015",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-08-03",
         "nzp_zp": "ZP",
         "order": 440,
         "pu": "ПрА ПУ Жариково",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-10",
@@ -14365,17 +14365,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-19",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-03-02-03-0032",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
         "minimal_date": "2024-07-09",
         "nzp_zp": "ZP",
         "order": 400,
         "pu": "ПрА ПУ Турий Рог",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-22",
@@ -14495,7 +14495,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-08-10",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-02-03-07-0075",
@@ -15015,7 +15015,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-24",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-01-02-08-0088",
@@ -15025,7 +15025,7 @@
         "nzp_zp": "ZP",
         "order": 460,
         "pu": "ПрА ПУ Ширяевский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-05-21",
@@ -15041,7 +15041,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-25",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-02-03-12-0121",
@@ -15051,20 +15051,20 @@
         "nzp_zp": "ZP",
         "order": 470,
         "pu": "ПрА ПУ Воздвиженка",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-20",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-01-02-03-0031",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": "2024-05-16",
         "nzp_zp": "ZP",
         "order": 470,
         "pu": "ПрА ПУ Ширяевский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": null,
@@ -15080,17 +15080,17 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-22",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-03-02-02-0029",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение основных комплекс. удобр. (ГА)",
         "minimal_date": "2024-06-07",
         "nzp_zp": "ZP",
         "order": 450,
         "pu": "ПрА ПУ Турий Рог",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -15184,17 +15184,17 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-23",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-02-03-21-0210",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
         "minimal_date": "2024-06-12",
         "nzp_zp": "ZP",
         "order": 400,
         "pu": "ПрА ПУ Воздвиженка",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -15288,17 +15288,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-25",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-02-03-06-0062",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
         "minimal_date": "2024-06-14",
         "nzp_zp": "ZP",
         "order": 400,
         "pu": "ПрА ПУ Воздвиженка",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -15509,7 +15509,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-17",
+        "actual_data": "2024-05-18",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-03-02-05-0055",
@@ -15769,30 +15769,30 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-25",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-01-02-04-0042",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-07-24",
+        "minimal_date": "2024-07-14",
         "nzp_zp": "ZP",
         "order": 510,
         "pu": "ПрА ПУ Ширяевский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-04",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-02-03-07-0074",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": "2024-05-16",
         "nzp_zp": "ZP",
         "order": 470,
         "pu": "ПрА ПУ Воздвиженка",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": null,
@@ -16159,7 +16159,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-08-12",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-01-02-04-0042",
@@ -16178,7 +16178,7 @@
         "higher_tm": "PR-03-02-02-0029",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-08",
+        "minimal_date": "2024-06-09",
         "nzp_zp": "ZP",
         "order": 510,
         "pu": "ПрА ПУ Турий Рог",
@@ -16198,7 +16198,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-19",
+        "actual_data": "2024-08-07",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-01-02-03-0037",
@@ -16208,7 +16208,7 @@
         "nzp_zp": "ZP",
         "order": 510,
         "pu": "ПрА ПУ Ширяевский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-08-13",
@@ -16360,11 +16360,11 @@
         "higher_tm": "PR-03-02-02-0024",
         "is_actual": "Актуально",
         "material_order": "Посев без внесения удобрений (ГА)",
-        "minimal_date": "2024-05-16",
+        "minimal_date": "2024-05-15",
         "nzp_zp": "ZP",
         "order": 470,
         "pu": "ПрА ПУ Турий Рог",
-        "status": "Выполнено в срок"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-05-21",
@@ -16601,7 +16601,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-05-08",
+        "actual_data": "2024-06-20",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-01-02-03-0038",
@@ -16611,7 +16611,7 @@
         "nzp_zp": "ZP",
         "order": 500,
         "pu": "ПрА ПУ Ширяевский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-11",
@@ -16841,7 +16841,7 @@
         "higher_tm": "PR-04-01-01-0008",
         "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": "2024-05-08",
+        "minimal_date": "2024-05-16",
         "nzp_zp": "ZP",
         "order": 480,
         "pu": "ПрА ПУ Жариково",
@@ -16861,17 +16861,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-17",
+        "actual_data": null,
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-01-02-07-0079",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
         "minimal_date": "2024-07-07",
         "nzp_zp": "ZP",
         "order": 400,
         "pu": "ПрА ПУ Ширяевский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-07-03",
@@ -16939,7 +16939,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-08-09",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-02-03-10-0103",
@@ -16949,7 +16949,7 @@
         "nzp_zp": "ZP",
         "order": 510,
         "pu": "ПрА ПУ Воздвиженка",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": null,
@@ -17010,7 +17010,7 @@
         "higher_tm": "PR-02-03-07-0074",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-07",
+        "minimal_date": "2024-07-19",
         "nzp_zp": "ZP",
         "order": 510,
         "pu": "ПрА ПУ Воздвиженка",
@@ -17112,7 +17112,7 @@
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-01-02-04-0042",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
         "minimal_date": "2024-06-28",
         "nzp_zp": "ZP",
@@ -17147,7 +17147,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-08",
+        "actual_data": "2024-07-02",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-02-03-06-0060",
@@ -17157,7 +17157,7 @@
         "nzp_zp": "ZP",
         "order": 470,
         "pu": "ПрА ПУ Воздвиженка",
-        "status": "Выполнено в срок"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": null,
@@ -17173,7 +17173,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-16",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-03-02-05-0054",
@@ -17190,7 +17190,7 @@
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-02-03-05-0054",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": "2024-05-16",
         "nzp_zp": "ZP",
@@ -17563,7 +17563,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-07",
+        "actual_data": "2024-06-19",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-01-02-03-0036",
@@ -17580,7 +17580,7 @@
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-02-03-10-0103",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
         "minimal_date": "2024-06-28",
         "nzp_zp": "ZP",
@@ -17693,17 +17693,17 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-08",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-04-02-12-0127",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение основных комплекс. удобр. (ГА)",
         "minimal_date": "2024-06-23",
         "nzp_zp": "ZP",
         "order": 450,
         "pu": "ПрА ПУ Пограничный",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -17894,14 +17894,14 @@
         "higher_tm": "PR-02-03-06-0061",
         "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": "2024-05-08",
+        "minimal_date": "2024-05-16",
         "nzp_zp": "ZP",
         "order": 460,
         "pu": "ПрА ПУ Воздвиженка",
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-18",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-02-03-05-0054",
@@ -17911,7 +17911,7 @@
         "nzp_zp": "ZP",
         "order": 460,
         "pu": "ПрА ПУ Воздвиженка",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-05",
@@ -18109,7 +18109,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-11",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-03-02-02-0027",
@@ -18119,7 +18119,7 @@
         "nzp_zp": "ZP",
         "order": 510,
         "pu": "ПрА ПУ Турий Рог",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-21",
@@ -18252,7 +18252,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-18",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-03-02-08-0089",
@@ -18262,20 +18262,20 @@
         "nzp_zp": "ZP",
         "order": 470,
         "pu": "ПрА ПУ Турий Рог",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-04",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-02-03-07-0074",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение основных комплекс. удобр. (ГА)",
         "minimal_date": "2024-07-19",
         "nzp_zp": "ZP",
         "order": 450,
         "pu": "ПрА ПУ Воздвиженка",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -18486,17 +18486,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-19",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-01-02-03-0031",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Культивация (ГА)",
         "minimal_date": "2024-07-09",
         "nzp_zp": "ZP",
         "order": 420,
         "pu": "ПрА ПУ Ширяевский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-02",
@@ -18733,17 +18733,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-07-25",
+        "actual_data": "2024-06-19",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-01-02-04-0040",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-07-16",
+        "minimal_date": "2024-07-24",
         "nzp_zp": "ZP",
         "order": 510,
         "pu": "ПрА ПУ Ширяевский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-31",
@@ -18785,17 +18785,17 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-05",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-01-02-01-0007",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
         "minimal_date": "2024-05-25",
         "nzp_zp": "ZP",
         "order": 400,
         "pu": "ПрА ПУ Ширяевский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-04",
@@ -18830,11 +18830,11 @@
         "higher_tm": "PR-02-03-06-0060",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-07",
+        "minimal_date": "2024-07-17",
         "nzp_zp": "ZP",
         "order": 510,
         "pu": "ПрА ПУ Воздвиженка",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-12",
@@ -18876,17 +18876,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-07-14",
+        "actual_data": null,
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-04-01-01-0007",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-07-29",
         "nzp_zp": "ZP",
         "order": 440,
         "pu": "ПрА ПУ Жариково",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-07-04",
@@ -19071,7 +19071,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-04-11",
+        "actual_data": "2024-04-05",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-04-02-01-0012",
@@ -19214,7 +19214,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-15",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-03-02-05-0050",
@@ -19474,7 +19474,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-14",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-03-02-02-0024",
@@ -19484,7 +19484,7 @@
         "nzp_zp": "ZP",
         "order": 460,
         "pu": "ПрА ПУ Турий Рог",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-07",
@@ -19968,17 +19968,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-13",
         "business_dir": "Приморье",
         "culture": "Соя",
         "higher_tm": "PR-03-02-04-0046",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Культивация (ГА)",
         "minimal_date": "2024-05-30",
         "nzp_zp": "ZP",
         "order": 420,
         "pu": "ПрА ПУ Турий Рог",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,

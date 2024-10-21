@@ -182,7 +182,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-15",
+        "actual_data": "2024-07-16",
         "business_dir": "Орел",
         "culture": "Горох",
         "higher_tm": "OR-01-01-18-0001",
@@ -260,7 +260,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-15",
+        "actual_data": "2024-07-16",
         "business_dir": "Орел",
         "culture": "Горох",
         "higher_tm": "OR-01-01-18-0002",
@@ -338,7 +338,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-15",
+        "actual_data": "2024-07-16",
         "business_dir": "Орел",
         "culture": "Горох",
         "higher_tm": "OR-01-01-18-0003",
@@ -429,7 +429,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-16",
+        "actual_data": "2024-04-10",
         "business_dir": "Орел",
         "culture": "Горох",
         "higher_tm": "OR-01-01-22-0005",
@@ -439,10 +439,10 @@
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-15",
+        "actual_data": "2024-07-16",
         "business_dir": "Орел",
         "culture": "Горох",
         "higher_tm": "OR-01-01-22-0005",
@@ -494,7 +494,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-13",
+        "actual_data": "2024-04-14",
         "business_dir": "Орел",
         "culture": "Горох",
         "higher_tm": "OR-01-01-53-0001",
@@ -507,17 +507,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-07",
         "business_dir": "Орел",
         "culture": "Горох",
         "higher_tm": "OR-01-01-53-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": "2024-04-17",
         "nzp_zp": "ZP",
         "order": 30,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-17",
@@ -832,7 +832,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-13",
+        "actual_data": "2024-04-11",
         "business_dir": "Орел",
         "culture": "Горох",
         "higher_tm": "OR-01-02-36-0005",
@@ -871,7 +871,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-12",
+        "actual_data": "2024-07-21",
         "business_dir": "Орел",
         "culture": "Горох",
         "higher_tm": "OR-01-02-36-0009",
@@ -949,17 +949,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-21",
         "business_dir": "Орел",
         "culture": "Горох",
         "higher_tm": "OR-01-02-36-0010",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": "2024-07-24",
         "nzp_zp": "ZP",
         "order": 100,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-21",
@@ -1157,30 +1157,30 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-15",
         "business_dir": "Орел",
         "culture": "Горох",
         "higher_tm": "OR-01-02-39-0002",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
         "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-27",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Горох",
         "higher_tm": "OR-01-02-39-0002",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-08",
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-05-20",
@@ -1326,17 +1326,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-26",
         "business_dir": "Орел",
         "culture": "Горох",
         "higher_tm": "OR-01-02-41-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-07",
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "ОтА ПУ Отрадинский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-22",
@@ -1378,7 +1378,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-21",
+        "actual_data": "2024-04-10",
         "business_dir": "Орел",
         "culture": "Горох",
         "higher_tm": "OR-01-02-42-0001",
@@ -1388,10 +1388,10 @@
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-13",
+        "actual_data": "2024-04-11",
         "business_dir": "Орел",
         "culture": "Горох",
         "higher_tm": "OR-01-02-42-0001",
@@ -1534,7 +1534,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-23",
+        "actual_data": "2024-07-12",
         "business_dir": "Орел",
         "culture": "Горох",
         "higher_tm": "OR-01-02-43-0002",
@@ -1560,7 +1560,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-04-16",
+        "actual_data": "2024-04-11",
         "business_dir": "Орел",
         "culture": "Горох",
         "higher_tm": "OR-01-02-43-0002",
@@ -1651,17 +1651,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-28",
         "business_dir": "Орел",
         "culture": "Горох",
         "higher_tm": "OR-01-02-51-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-09",
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "ОтА ПУ Отрадинский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-20",
@@ -1716,7 +1716,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-10",
+        "actual_data": "2024-04-09",
         "business_dir": "Орел",
         "culture": "Горох",
         "higher_tm": "OR-01-02-52-0001",
@@ -1989,17 +1989,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-25",
         "business_dir": "Орел",
         "culture": "Горох",
         "higher_tm": "OR-01-03-50-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-07-30",
         "nzp_zp": "NZP",
         "order": 120,
         "pu": "ОтА ПУ Отрадинский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-30",

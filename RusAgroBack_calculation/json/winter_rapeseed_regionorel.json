@@ -52,17 +52,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-20",
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-02-03-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-07-30",
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-24",
@@ -91,7 +91,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-07-10",
+        "actual_data": "2024-07-13",
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-02-04-0001",
@@ -247,7 +247,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-18",
+        "actual_data": "2024-07-19",
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-02-06-0001",
@@ -702,17 +702,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-28",
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-02-36-0006",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
         "minimal_date": "2024-05-05",
         "nzp_zp": "ZP",
         "order": 20,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-07",
@@ -728,7 +728,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-26",
+        "actual_data": "2024-04-28",
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-02-36-0007",
@@ -1339,7 +1339,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-13",
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-37-0001",
@@ -1625,7 +1625,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-11",
+        "actual_data": "2024-06-18",
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-52-0001",
@@ -2431,7 +2431,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-08-07",
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-60-0001",
@@ -2457,7 +2457,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-08-10",
+        "actual_data": "2024-08-11",
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-60-0001",
@@ -2470,7 +2470,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-10",
+        "actual_data": "2024-08-11",
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-60-0001",
@@ -2522,7 +2522,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-08-01",
+        "actual_data": "2024-08-10",
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-61-0001",
@@ -2574,7 +2574,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-08-13",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-61-0001",
@@ -2587,17 +2587,17 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-08-12",
         "business_dir": "Орел",
         "culture": "Рапс озимый",
         "higher_tm": "OR-01-03-61-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": "2024-08-22",
         "nzp_zp": "NZP",
         "order": 100,
         "pu": "ОтА ПУ Отрадинский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
