@@ -182,6 +182,130 @@ public:
             }
     }
 
+    void print_index(int i)
+    {
+        if (higher_tm[i].has_value())
+            std::cout << "higher_tm: " << higher_tm[i].value() << "\n";
+        else
+            std::cout << "higher_tm: NULL\n";
+
+        if (material_order[i].has_value())
+            std::cout << "material_order: " << material_order[i].value() << "\n";
+        else
+            std::cout << "material_order: NULL\n";
+
+        if (culture[i].has_value())
+            std::cout << "culture: " << culture[i].value() << "\n";
+        else
+            std::cout << "culture: NULL\n";
+
+        if (business_dir[i].has_value())
+            std::cout << "business_dir: " << business_dir[i].value() << "\n";
+        else
+            std::cout << "business_dir: NULL\n";
+
+        if (nzp_zp[i].has_value())
+            std::cout << "nzp_zp: " << nzp_zp[i].value() << "\n";
+        else
+            std::cout << "nzp_zp: NULL\n";
+
+        if (pu[i].has_value())
+            std::cout << "PU: " << pu[i].value() << "\n";
+        else
+            std::cout << "PU: NULL\n";
+
+        if (order[i].has_value())
+            std::cout << "order: " << order[i].value() << "\n";
+        else
+            std::cout << "order: NULL\n";
+
+        if (is_completed[i].has_value())
+        {
+            if (is_completed[i].value())
+            {
+                std::cout << "is_completed: true\n";
+            }
+            else
+            {
+                std::cout << "is_completed: false\n";
+            }
+        }
+        else
+            std::cout << "is_completed: NULL\n";
+
+        if (actual_data[i].has_value())
+        {
+            std::tm tm_date = actual_data[i].value();
+            char buffer[80];
+            strftime(buffer, 80, "%Y-%m-%d", &tm_date);
+            std::cout << "actual_data: " << buffer << "\n";
+        }
+        else
+            std::cout << "actual_data: NULL\n";
+
+        if (minimal_planned_date[i].has_value())
+        {
+            std::tm tm_date = minimal_planned_date[i].value();
+            char buffer[80];
+            strftime(buffer, 80, "%Y-%m-%d", &tm_date);
+            std::cout << "minimal_planned_date: " << buffer << "\n";
+        }
+        else
+            std::cout << "minimal_planned_date: NULL\n";
+
+        if (actual_input_data[i].has_value())
+        {
+            std::tm tm_date = actual_input_data[i].value();
+            char buffer[80];
+            strftime(buffer, 80, "%Y-%m-%d", &tm_date);
+            std::cout << "actual_input_data: " << buffer << "\n";
+        }
+        else
+            std::cout << "actual_input_data: NULL\n";
+
+        if (actual_alternative_data[i].has_value())
+        {
+            std::tm tm_date = actual_alternative_data[i].value();
+            char buffer[80];
+            strftime(buffer, 80, "%Y-%m-%d", &tm_date);
+            std::cout << "actual_alternative_data: " << buffer << "\n";
+        }
+        else
+            std::cout << "actual_alternative_data: NULL\n";
+
+        if (ten_percent[i].has_value())
+        {
+            std::tm tm_date = ten_percent[i].value();
+            char buffer[80];
+            strftime(buffer, 80, "%Y-%m-%d", &tm_date);
+            std::cout << "ten_percent: " << buffer << "\n";
+        }
+        else
+            std::cout << "ten_percent: NULL\n";
+
+        if (minimal_date[i].has_value())
+        {
+            std::tm tm_date = minimal_date[i].value();
+            char buffer[80];
+            strftime(buffer, 80, "%Y-%m-%d", &tm_date);
+            std::cout << "minimal_date: " << buffer << "\n";
+        }
+        else
+            std::cout << "minimal_date: NULL\n";
+
+        if (status[i].has_value())
+            std::cout << "status: " << status[i].value() << "\n";
+        else
+            std::cout << "status: NULL\n";
+
+        if (is_actual[i].has_value())
+            std::cout << "is_actual: " << is_actual[i].value() << "\n";
+        else
+            std::cout << "is_actual: NULL\n";
+
+        std::cout << "-----------------------------\n";
+    }
+
     nlohmann::json to_json() const 
     {
         nlohmann::json j;
@@ -385,7 +509,7 @@ void get_unique_higher_tm_material_order(soci::session& sql, data data_shbn[CULT
                         }
                     }
                 }
-                temp_is_completed[pair] = ((sum_planned_volume * 1.0f) <= sum_actual_volume && sum_planned_volume != 0);
+                temp_is_completed[pair] = ((sum_planned_volume * 0.8f) <= sum_actual_volume && sum_planned_volume != 0);
 
                 if (temp_is_completed[pair] == 0)
                 {

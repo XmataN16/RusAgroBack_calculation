@@ -182,7 +182,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-04-21",
+        "actual_data": "2024-04-02",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-02-04-27-0007",
@@ -227,7 +227,7 @@
         "higher_tm": "OR-01-03-01-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
-        "minimal_date": "2024-05-20",
+        "minimal_date": "2024-05-19",
         "nzp_zp": "ZP",
         "order": 130,
         "pu": "ОтА ПУ Отрадинский",
@@ -383,7 +383,7 @@
         "higher_tm": "OR-01-03-71-0001",
         "is_actual": "Актуально",
         "material_order": "Внес. СЗР 4-я бетан. обр. бак.смесь (ГА)",
-        "minimal_date": "2024-05-24",
+        "minimal_date": "2024-06-14",
         "nzp_zp": "ZP",
         "order": 240,
         "pu": "ОтА ПУ Отрадинский",
@@ -702,17 +702,17 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-27",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-03-68-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Междурядная обработка первая (ГА)",
         "minimal_date": "2024-05-24",
         "nzp_zp": "ZP",
         "order": 230,
         "pu": "ОтА ПУ Отрадинский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": null,
@@ -812,7 +812,7 @@
         "higher_tm": "OR-02-04-27-0007",
         "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": "2024-04-22",
+        "minimal_date": "2024-04-03",
         "nzp_zp": "ZP",
         "order": 90,
         "pu": "ОтА ПУ Нечаево",
@@ -864,7 +864,7 @@
         "higher_tm": "OR-01-03-48-0002",
         "is_actual": "Актуально",
         "material_order": "Внес. СЗР 4-я бетан. обр. бак.смесь (ГА)",
-        "minimal_date": "2024-06-14",
+        "minimal_date": "2024-05-24",
         "nzp_zp": "ZP",
         "order": 240,
         "pu": "ОтА ПУ Отрадинский",
@@ -994,7 +994,7 @@
         "higher_tm": "OR-01-01-60-0006",
         "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": "2024-04-03",
+        "minimal_date": "2024-04-22",
         "nzp_zp": "ZP",
         "order": 90,
         "pu": "ОтА ПУ Жилинский",
@@ -1105,17 +1105,17 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-05",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-02-04-27-0013",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
         "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "ОтА ПУ Нечаево",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -1443,17 +1443,17 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-06-25",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-02-04-36-0001",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-07-05",
         "nzp_zp": "ZP",
         "order": 410,
         "pu": "ОтА ПУ Нечаево",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-06-22",
@@ -1924,17 +1924,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-26",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-02-04-63-0002",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
         "minimal_date": "2024-05-06",
         "nzp_zp": "ZP",
         "order": 30,
         "pu": "ОтА ПУ Нечаево",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-03-29",
@@ -2184,7 +2184,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-18",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-03-04-0001",
@@ -2194,7 +2194,7 @@
         "nzp_zp": "ZP",
         "order": 90,
         "pu": "ОтА ПУ Отрадинский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": null,
@@ -2476,7 +2476,7 @@
         "higher_tm": "OR-01-03-01-0001",
         "is_actual": "Актуально",
         "material_order": "Внес. СЗР 1-я бетан. обр. бак.смесь (ГА)",
-        "minimal_date": "2024-05-27",
+        "minimal_date": "2024-05-26",
         "nzp_zp": "ZP",
         "order": 140,
         "pu": "ОтА ПУ Отрадинский",
@@ -2509,7 +2509,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-05-06",
+        "actual_data": "2024-05-04",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-02-04-23-0005",
@@ -2665,7 +2665,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-07",
+        "actual_data": "2024-05-15",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-02-02-0001",
@@ -2710,7 +2710,7 @@
         "higher_tm": "OR-02-04-42-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
-        "minimal_date": "2024-05-13",
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "ОтА ПУ Нечаево",
@@ -3020,9 +3020,9 @@
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-02-04-17-0001",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
-        "minimal_date": "2024-05-05",
+        "minimal_date": "2024-04-26",
         "nzp_zp": "ZP",
         "order": 130,
         "pu": "ОтА ПУ Нечаево",
@@ -3432,17 +3432,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-01",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-01-45-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
         "minimal_date": "2024-07-11",
         "nzp_zp": "ZP",
         "order": 180,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -3952,17 +3952,17 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-27",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-02-04-47-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-07-07",
         "nzp_zp": "ZP",
         "order": 410,
         "pu": "ОтА ПУ Нечаево",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-29",
@@ -4498,7 +4498,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-07",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-02-08-0002",
@@ -4508,7 +4508,7 @@
         "nzp_zp": "ZP",
         "order": 140,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -4732,17 +4732,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-15",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-02-04-63-0006",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
         "minimal_date": "2024-04-25",
         "nzp_zp": "ZP",
         "order": 30,
         "pu": "ОтА ПУ Нечаево",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-01",
@@ -4764,7 +4764,7 @@
         "higher_tm": "OR-01-03-01-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
-        "minimal_date": "2024-08-10",
+        "minimal_date": "2024-08-09",
         "nzp_zp": "ZP",
         "order": 250,
         "pu": "ОтА ПУ Отрадинский",
@@ -4823,7 +4823,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-06",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-03-41-0001",
@@ -4833,7 +4833,7 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "ОтА ПУ Отрадинский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-07",
@@ -5005,17 +5005,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-01",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-02-04-26-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": "2024-05-11",
         "nzp_zp": "ZP",
         "order": 100,
         "pu": "ОтА ПУ Нечаево",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -5395,17 +5395,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-20",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-02-04-40-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-06-30",
         "nzp_zp": "ZP",
         "order": 410,
         "pu": "ОтА ПУ Нечаево",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-11",
@@ -5414,7 +5414,7 @@
         "higher_tm": "OR-01-03-06-0002",
         "is_actual": "Актуально",
         "material_order": "Внес. СЗР 4-я бетан. обр. бак.смесь (ГА)",
-        "minimal_date": "2024-05-24",
+        "minimal_date": "2024-06-14",
         "nzp_zp": "ZP",
         "order": 240,
         "pu": "ОтА ПУ Отрадинский",
@@ -5486,7 +5486,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-24",
+        "actual_data": "2024-04-23",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-03-49-0001",
@@ -5837,7 +5837,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-06-27",
+        "actual_data": "2024-05-03",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-01-60-0011",
@@ -5847,7 +5847,7 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-14",
@@ -6309,9 +6309,9 @@
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-02-04-66-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
-        "minimal_date": "2024-04-26",
+        "minimal_date": "2024-05-03",
         "nzp_zp": "ZP",
         "order": 130,
         "pu": "ОтА ПУ Нечаево",
@@ -6335,9 +6335,9 @@
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-02-04-26-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
-        "minimal_date": "2024-07-17",
+        "minimal_date": "2024-07-26",
         "nzp_zp": "ZP",
         "order": 250,
         "pu": "ОтА ПУ Нечаево",
@@ -6799,17 +6799,17 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-23",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-03-57-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-08-07",
         "nzp_zp": "NZP",
         "order": 320,
         "pu": "ОтА ПУ Отрадинский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-01",
@@ -6818,7 +6818,7 @@
         "higher_tm": "OR-02-04-63-0007",
         "is_actual": "Актуально",
         "material_order": "Выравнивание почвы (ГА)",
-        "minimal_date": "2024-04-13",
+        "minimal_date": "2024-04-12",
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "ОтА ПУ Нечаево",
@@ -6994,17 +6994,17 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-10",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-02-04-47-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": "2024-05-20",
         "nzp_zp": "ZP",
         "order": 100,
         "pu": "ОтА ПУ Нечаево",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -7559,7 +7559,7 @@
         "higher_tm": "OR-02-04-69-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
-        "minimal_date": "2024-08-03",
+        "minimal_date": "2024-08-26",
         "nzp_zp": "ZP",
         "order": 250,
         "pu": "ОтА ПУ Нечаево",
@@ -7709,7 +7709,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-05-13",
+        "actual_data": "2024-06-25",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-03-06-0002",
@@ -7719,7 +7719,7 @@
         "nzp_zp": "ZP",
         "order": 190,
         "pu": "ОтА ПУ Отрадинский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": null,
@@ -7728,7 +7728,7 @@
         "higher_tm": "OR-01-03-49-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я противозлак. обр. (ГА)",
-        "minimal_date": "2024-05-17",
+        "minimal_date": "2024-04-28",
         "nzp_zp": "ZP",
         "order": 150,
         "pu": "ОтА ПУ Отрадинский",
@@ -7813,17 +7813,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-19",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-02-04-17-0001",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-06-29",
         "nzp_zp": "ZP",
         "order": 410,
         "pu": "ОтА ПУ Нечаево",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": null,
@@ -7917,7 +7917,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-05-13",
+        "actual_data": "2024-07-01",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-03-71-0001",
@@ -7927,7 +7927,7 @@
         "nzp_zp": "ZP",
         "order": 190,
         "pu": "ОтА ПУ Отрадинский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": null,
@@ -8034,7 +8034,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-04",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-03-39-0002",
@@ -8044,7 +8044,7 @@
         "nzp_zp": "ZP",
         "order": 190,
         "pu": "ОтА ПУ Отрадинский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-05-04",
@@ -8391,7 +8391,7 @@
         "higher_tm": "OR-02-04-17-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
-        "minimal_date": "2024-05-05",
+        "minimal_date": "2024-04-26",
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "ОтА ПУ Нечаево",
@@ -8467,9 +8467,9 @@
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-02-04-47-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
-        "minimal_date": "2024-04-26",
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
         "order": 130,
         "pu": "ОтА ПУ Нечаево",
@@ -8623,7 +8623,7 @@
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-03-62-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
         "minimal_date": "2024-04-26",
         "nzp_zp": "ZP",
@@ -8671,7 +8671,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-16",
+        "actual_data": "2024-05-15",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-03-01-0001",
@@ -9002,7 +9002,7 @@
         "higher_tm": "OR-01-02-17-0005",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
-        "minimal_date": "2024-05-24",
+        "minimal_date": "2024-05-25",
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "ОтА ПУ Жилинский",
@@ -9377,7 +9377,7 @@
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-03-40-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я противозлак. обр. (ГА)",
         "minimal_date": "2024-05-17",
         "nzp_zp": "ZP",
@@ -9477,7 +9477,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-27",
+        "actual_data": "2024-05-13",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-03-55-0001",
@@ -9487,7 +9487,7 @@
         "nzp_zp": "ZP",
         "order": 190,
         "pu": "ОтА ПУ Отрадинский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -9548,11 +9548,11 @@
         "higher_tm": "OR-02-04-69-0001",
         "is_actual": "Актуально",
         "material_order": "Внес. СЗР 1-я бетан. обр. бак.смесь (ГА)",
-        "minimal_date": "2024-06-01",
+        "minimal_date": "2024-06-12",
         "nzp_zp": "ZP",
         "order": 140,
         "pu": "ОтА ПУ Нечаево",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -9568,7 +9568,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-05-31",
+        "actual_data": "2024-06-01",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-01-03-0007",
@@ -9932,17 +9932,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-15",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-03-71-0001",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": "2024-05-25",
         "nzp_zp": "ZP",
         "order": 100,
         "pu": "ОтА ПУ Отрадинский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": null,
@@ -9958,17 +9958,17 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-07",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-02-13-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Междурядная обработка первая (ГА)",
         "minimal_date": "2024-05-24",
         "nzp_zp": "ZP",
         "order": 230,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": null,
@@ -9988,7 +9988,7 @@
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-02-08-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я противозлак. обр. (ГА)",
         "minimal_date": "2024-05-17",
         "nzp_zp": "ZP",
@@ -10302,7 +10302,7 @@
         "higher_tm": "OR-01-01-41-0001",
         "is_actual": "Актуально",
         "material_order": "Внес. СЗР 3-я бетан. обр. бак.смесь (ГА)",
-        "minimal_date": "2024-05-14",
+        "minimal_date": "2024-06-03",
         "nzp_zp": "ZP",
         "order": 190,
         "pu": "ОтА ПУ Жилинский",
@@ -10634,17 +10634,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-20",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-01-45-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внес. СЗР 3-я бетан. обр. бак.смесь (ГА)",
         "minimal_date": "2024-06-03",
         "nzp_zp": "ZP",
         "order": 190,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": null,
@@ -10666,7 +10666,7 @@
         "higher_tm": "OR-02-04-23-0004",
         "is_actual": "Актуально",
         "material_order": "Внес. СЗР 1-я бетан. обр. бак.смесь (ГА)",
-        "minimal_date": "2024-06-12",
+        "minimal_date": "2024-05-29",
         "nzp_zp": "ZP",
         "order": 140,
         "pu": "ОтА ПУ Нечаево",
@@ -10933,7 +10933,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-02",
+        "actual_data": "2024-05-16",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-01-60-0006",
@@ -11011,7 +11011,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-01",
+        "actual_data": "2024-04-28",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-03-69-0001",
@@ -11303,11 +11303,11 @@
         "higher_tm": "OR-02-04-23-0004",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
-        "minimal_date": "2024-06-05",
+        "minimal_date": "2024-04-26",
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "ОтА ПУ Нечаево",
-        "status": "Выполнено в срок"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": null,
@@ -11992,7 +11992,7 @@
         "higher_tm": "OR-01-03-62-0001",
         "is_actual": "Актуально",
         "material_order": "Внес. СЗР 3-я бетан. обр. бак.смесь (ГА)",
-        "minimal_date": "2024-06-03",
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
         "order": 190,
         "pu": "ОтА ПУ Отрадинский",
@@ -12025,17 +12025,17 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-30",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-01-43-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Междурядная обработка первая (ГА)",
         "minimal_date": "2024-05-24",
         "nzp_zp": "ZP",
         "order": 230,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-25",
@@ -12473,7 +12473,7 @@
         "higher_tm": "OR-01-03-49-0001",
         "is_actual": "Актуально",
         "material_order": "Внес. СЗР 2-я бетан. обр. бак.смесь (ГА)",
-        "minimal_date": "2024-05-23",
+        "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "ОтА ПУ Отрадинский",
@@ -12870,7 +12870,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-27",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-03-68-0001",
@@ -12880,7 +12880,7 @@
         "nzp_zp": "ZP",
         "order": 140,
         "pu": "ОтА ПУ Отрадинский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-05-21",
@@ -12926,9 +12926,9 @@
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-02-04-23-0004",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
-        "minimal_date": "2024-08-26",
+        "minimal_date": "2024-07-17",
         "nzp_zp": "ZP",
         "order": 250,
         "pu": "ОтА ПУ Нечаево",
@@ -13212,7 +13212,7 @@
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-02-08-0002",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я противозлак. обр. (ГА)",
         "minimal_date": "2024-05-17",
         "nzp_zp": "ZP",
@@ -13221,17 +13221,17 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-06-27",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-02-04-51-0001",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-07-07",
         "nzp_zp": "ZP",
         "order": 410,
         "pu": "ОтА ПУ Нечаево",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-04-24",
@@ -13338,7 +13338,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-06-01",
+        "actual_data": "2024-04-28",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-02-04-22-0001",
@@ -13637,17 +13637,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-02-04-17-0001",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": "2024-05-11",
         "nzp_zp": "ZP",
         "order": 100,
         "pu": "ОтА ПУ Нечаево",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-05-09",
@@ -13758,9 +13758,9 @@
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-02-04-66-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
-        "minimal_date": "2024-07-17",
+        "minimal_date": "2024-07-24",
         "nzp_zp": "ZP",
         "order": 250,
         "pu": "ОтА ПУ Нечаево",
@@ -14066,7 +14066,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-05-03",
+        "actual_data": "2024-06-18",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-01-41-0001",
@@ -14076,7 +14076,7 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-06",
@@ -14092,7 +14092,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-16",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-03-06-0002",
@@ -14102,7 +14102,7 @@
         "nzp_zp": "ZP",
         "order": 90,
         "pu": "ОтА ПУ Отрадинский",
-        "status": "Выполнено не в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-05-24",
@@ -14135,16 +14135,16 @@
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-02-04-26-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
-        "minimal_date": "2024-04-26",
+        "minimal_date": "2024-05-05",
         "nzp_zp": "ZP",
         "order": 130,
         "pu": "ОтА ПУ Нечаево",
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-06-01",
+        "actual_data": "2024-04-26",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-03-08-0001",
@@ -14209,7 +14209,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-25",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-03-06-0001",
@@ -14219,7 +14219,7 @@
         "nzp_zp": "ZP",
         "order": 190,
         "pu": "ОтА ПУ Отрадинский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-10",
@@ -14378,17 +14378,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-18",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-01-60-0011",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение азот. удобр. перед севом (ГА)",
         "minimal_date": "2024-06-17",
         "nzp_zp": "ZP",
         "order": 50,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-15",
@@ -14495,17 +14495,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-01-03-0006",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
         "minimal_date": "2024-07-11",
         "nzp_zp": "ZP",
         "order": 180,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": null,
@@ -15847,17 +15847,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-07-27",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-02-07-0002",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение микроудобрений 2-я обр. (ГА)",
         "minimal_date": "2024-08-06",
         "nzp_zp": "ZP",
         "order": 200,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": null,
@@ -16315,7 +16315,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-02",
+        "actual_data": "2024-05-16",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-01-60-0005",
@@ -16384,9 +16384,9 @@
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-02-04-23-0004",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
-        "minimal_date": "2024-06-05",
+        "minimal_date": "2024-04-26",
         "nzp_zp": "ZP",
         "order": 130,
         "pu": "ОтА ПУ Нечаево",
@@ -16815,7 +16815,7 @@
         "higher_tm": "OR-02-04-69-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
-        "minimal_date": "2024-05-13",
+        "minimal_date": "2024-06-05",
         "nzp_zp": "ZP",
         "order": 130,
         "pu": "ОтА ПУ Нечаево",
@@ -16965,7 +16965,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-07-02",
+        "actual_data": "2024-05-13",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-03-49-0002",
@@ -16975,7 +16975,7 @@
         "nzp_zp": "ZP",
         "order": 190,
         "pu": "ОтА ПУ Отрадинский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-11",
@@ -17056,7 +17056,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-15",
+        "actual_data": "2024-06-27",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-02-04-63-0002",
@@ -17177,9 +17177,9 @@
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-02-04-26-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
-        "minimal_date": "2024-04-26",
+        "minimal_date": "2024-05-05",
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "ОтА ПУ Нечаево",
@@ -17329,7 +17329,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-05-20",
+        "actual_data": "2024-05-21",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-02-17-0005",
@@ -17706,7 +17706,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-06-25",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-01-52-0003",
@@ -17764,7 +17764,7 @@
         "higher_tm": "OR-01-03-55-0001",
         "is_actual": "Актуально",
         "material_order": "Внес. СЗР 4-я бетан. обр. бак.смесь (ГА)",
-        "minimal_date": "2024-06-14",
+        "minimal_date": "2024-05-24",
         "nzp_zp": "ZP",
         "order": 240,
         "pu": "ОтА ПУ Отрадинский",
@@ -18005,7 +18005,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-05-09",
+        "actual_data": "2024-06-01",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-02-04-69-0001",
@@ -18544,7 +18544,7 @@
         "higher_tm": "OR-02-04-23-0005",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
-        "minimal_date": "2024-05-10",
+        "minimal_date": "2024-05-08",
         "nzp_zp": "ZP",
         "order": 130,
         "pu": "ОтА ПУ Нечаево",
@@ -18616,17 +18616,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-29",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-02-04-66-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": "2024-05-09",
         "nzp_zp": "ZP",
         "order": 100,
         "pu": "ОтА ПУ Нечаево",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -19259,7 +19259,7 @@
         "higher_tm": "OR-01-02-17-0005",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
-        "minimal_date": "2024-08-14",
+        "minimal_date": "2024-08-15",
         "nzp_zp": "ZP",
         "order": 250,
         "pu": "ОтА ПУ Жилинский",
@@ -19344,17 +19344,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-20",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-03-62-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": "2024-05-25",
         "nzp_zp": "ZP",
         "order": 100,
         "pu": "ОтА ПУ Отрадинский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -19604,7 +19604,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-05-13",
+        "actual_data": "2024-07-16",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-02-23-0003",
@@ -19614,7 +19614,7 @@
         "nzp_zp": "ZP",
         "order": 190,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-07-30",
@@ -19929,7 +19929,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-06",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-02-04-47-0001",
@@ -19939,7 +19939,7 @@
         "nzp_zp": "ZP",
         "order": 90,
         "pu": "ОтА ПУ Нечаево",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-04-10",
@@ -20117,7 +20117,7 @@
         "higher_tm": "OR-02-04-47-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
-        "minimal_date": "2024-04-26",
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "ОтА ПУ Нечаево",
@@ -20143,7 +20143,7 @@
         "higher_tm": "OR-02-04-23-0005",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
-        "minimal_date": "2024-07-31",
+        "minimal_date": "2024-07-29",
         "nzp_zp": "ZP",
         "order": 250,
         "pu": "ОтА ПУ Нечаево",
@@ -20696,17 +20696,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-20",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-02-18-0003",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-05-30",
         "nzp_zp": "ZP",
         "order": 430,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": null,
@@ -20910,7 +20910,7 @@
         "higher_tm": "OR-02-04-63-0006",
         "is_actual": "Актуально",
         "material_order": "Выравнивание почвы (ГА)",
-        "minimal_date": "2024-04-22",
+        "minimal_date": "2024-04-17",
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "ОтА ПУ Нечаево",
@@ -21216,17 +21216,17 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-11",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-02-04-17-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Междурядная обработка первая (ГА)",
         "minimal_date": "2024-05-24",
         "nzp_zp": "ZP",
         "order": 230,
         "pu": "ОтА ПУ Нечаево",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": null,
@@ -21281,7 +21281,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-01",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-01-30-0008",
@@ -21291,7 +21291,7 @@
         "nzp_zp": "ZP",
         "order": 90,
         "pu": "ОтА ПУ Нечаево",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-22",
@@ -21723,7 +21723,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-01",
+        "actual_data": "2024-04-24",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-03-01-0001",
@@ -21853,7 +21853,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-06-15",
+        "actual_data": "2024-05-15",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-02-04-27-0002",
@@ -22152,7 +22152,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-04-29",
+        "actual_data": "2024-04-18",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-02-04-17-0003",
@@ -22162,7 +22162,7 @@
         "nzp_zp": "ZP",
         "order": 90,
         "pu": "ОтА ПУ Нечаево",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-08-02",
@@ -22373,7 +22373,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-21",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-01-45-0001",
@@ -22383,7 +22383,7 @@
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -22834,7 +22834,7 @@
         "higher_tm": "OR-01-03-43-0001",
         "is_actual": "Актуально",
         "material_order": "Внес. СЗР 3-я бетан. обр. бак.смесь (ГА)",
-        "minimal_date": "2024-06-03",
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
         "order": 190,
         "pu": "ОтА ПУ Отрадинский",
@@ -22977,7 +22977,7 @@
         "higher_tm": "OR-01-03-01-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
-        "minimal_date": "2024-05-20",
+        "minimal_date": "2024-05-19",
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "ОтА ПУ Отрадинский",
@@ -23016,7 +23016,7 @@
         "higher_tm": "OR-01-03-08-0002",
         "is_actual": "Актуально",
         "material_order": "Внес. СЗР 4-я бетан. обр. бак.смесь (ГА)",
-        "minimal_date": "2024-06-14",
+        "minimal_date": "2024-05-24",
         "nzp_zp": "ZP",
         "order": 240,
         "pu": "ОтА ПУ Отрадинский",
@@ -23029,7 +23029,7 @@
         "higher_tm": "OR-01-02-17-0005",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
-        "minimal_date": "2024-05-24",
+        "minimal_date": "2024-05-25",
         "nzp_zp": "ZP",
         "order": 130,
         "pu": "ОтА ПУ Жилинский",
@@ -23354,7 +23354,7 @@
         "higher_tm": "OR-01-01-60-0011",
         "is_actual": "Актуально",
         "material_order": "Внес. СЗР 3-я бетан. обр. бак.смесь (ГА)",
-        "minimal_date": "2024-06-03",
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
         "order": 190,
         "pu": "ОтА ПУ Жилинский",
@@ -23439,7 +23439,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-19",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-03-04-0003",
@@ -23449,7 +23449,7 @@
         "nzp_zp": "ZP",
         "order": 90,
         "pu": "ОтА ПУ Отрадинский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": null,
@@ -23634,7 +23634,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-30",
+        "actual_data": "2024-05-15",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-02-04-63-0008",
@@ -24108,7 +24108,7 @@
         "higher_tm": "OR-02-04-42-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
-        "minimal_date": "2024-05-13",
+        "minimal_date": "2024-05-14",
         "nzp_zp": "ZP",
         "order": 130,
         "pu": "ОтА ПУ Нечаево",
@@ -24173,7 +24173,7 @@
         "higher_tm": "OR-01-01-60-0005",
         "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": "2024-04-03",
+        "minimal_date": "2024-04-22",
         "nzp_zp": "ZP",
         "order": 90,
         "pu": "ОтА ПУ Жилинский",
@@ -24414,7 +24414,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-09",
+        "actual_data": "2024-05-10",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-02-04-42-0001",
@@ -25116,7 +25116,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-04-29",
+        "actual_data": "2024-04-18",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-02-04-23-0007",
@@ -25126,7 +25126,7 @@
         "nzp_zp": "ZP",
         "order": 90,
         "pu": "ОтА ПУ Нечаево",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-23",
@@ -25480,17 +25480,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-25",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-02-04-35-0001",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-07-05",
         "nzp_zp": "ZP",
         "order": 410,
         "pu": "ОтА ПУ Нечаево",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": null,
@@ -25889,7 +25889,7 @@
         "higher_tm": "OR-01-02-23-0003",
         "is_actual": "Актуально",
         "material_order": "Внес. СЗР 4-я бетан. обр. бак.смесь (ГА)",
-        "minimal_date": "2024-05-24",
+        "minimal_date": "2024-06-14",
         "nzp_zp": "ZP",
         "order": 240,
         "pu": "ОтА ПУ Жилинский",
@@ -26585,7 +26585,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-27",
+        "actual_data": "2024-05-13",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-03-48-0002",
@@ -26595,7 +26595,7 @@
         "nzp_zp": "ZP",
         "order": 190,
         "pu": "ОтА ПУ Отрадинский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-19",
@@ -26715,17 +26715,17 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-05-18",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-01-60-0016",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение азот. удобр. перед севом (ГА)",
         "minimal_date": "2024-06-17",
         "nzp_zp": "ZP",
         "order": 50,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-06-25",
@@ -26754,7 +26754,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-06-01",
+        "actual_data": "2024-05-01",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-03-44-0002",
@@ -26936,7 +26936,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-05-02",
+        "actual_data": "2024-06-01",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-03-44-0004",
@@ -27157,7 +27157,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-23",
+        "actual_data": "2024-05-15",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-02-04-42-0001",
@@ -27417,17 +27417,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-30",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-01-46-0003",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
         "minimal_date": "2024-07-10",
         "nzp_zp": "ZP",
         "order": 180,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -27824,9 +27824,9 @@
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-03-71-0001",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
-        "minimal_date": "2024-08-09",
+        "minimal_date": "2024-07-17",
         "nzp_zp": "ZP",
         "order": 250,
         "pu": "ОтА ПУ Отрадинский",
@@ -28045,7 +28045,7 @@
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-03-41-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внес. СЗР 3-я бетан. обр. бак.смесь (ГА)",
         "minimal_date": "2024-06-03",
         "nzp_zp": "ZP",
@@ -28197,7 +28197,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-09",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-03-51-0001",
@@ -28207,7 +28207,7 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "ОтА ПУ Отрадинский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-05-06",
@@ -28535,7 +28535,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-01",
+        "actual_data": "2024-05-15",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-01-60-0003",
@@ -29854,7 +29854,7 @@
         "higher_tm": "OR-01-03-49-0002",
         "is_actual": "Актуально",
         "material_order": "Внес. СЗР 4-я бетан. обр. бак.смесь (ГА)",
-        "minimal_date": "2024-06-14",
+        "minimal_date": "2024-05-24",
         "nzp_zp": "ZP",
         "order": 240,
         "pu": "ОтА ПУ Отрадинский",
@@ -29965,17 +29965,17 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-14",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-02-04-12-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Междурядная обработка первая (ГА)",
         "minimal_date": "2024-05-24",
         "nzp_zp": "ZP",
         "order": 230,
         "pu": "ОтА ПУ Нечаево",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-05-27",
@@ -29997,7 +29997,7 @@
         "higher_tm": "OR-01-01-45-0001",
         "is_actual": "Актуально",
         "material_order": "Внес. СЗР 1-я бетан. обр. бак.смесь (ГА)",
-        "minimal_date": "2024-05-30",
+        "minimal_date": "2024-06-06",
         "nzp_zp": "ZP",
         "order": 140,
         "pu": "ОтА ПУ Жилинский",
@@ -30134,7 +30134,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-01",
+        "actual_data": "2024-05-01",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-03-42-0001",
@@ -30485,7 +30485,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-02-04-63-0008",
@@ -30495,7 +30495,7 @@
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "ОтА ПУ Нечаево",
-        "status": "Выполнено не в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": null,
@@ -31187,7 +31187,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-07",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-02-08-0001",
@@ -31197,7 +31197,7 @@
         "nzp_zp": "ZP",
         "order": 140,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -31304,17 +31304,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-12",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-02-04-14-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Междурядная обработка первая (ГА)",
         "minimal_date": "2024-05-24",
         "nzp_zp": "ZP",
         "order": 230,
         "pu": "ОтА ПУ Нечаево",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-05-01",
@@ -31473,17 +31473,17 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-01",
+        "actual_data": null,
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-02-04-23-0004",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": "2024-06-11",
         "nzp_zp": "ZP",
         "order": 100,
         "pu": "ОтА ПУ Нечаево",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": null,
@@ -32084,17 +32084,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-25",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-03-42-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Междурядная обработка первая (ГА)",
         "minimal_date": "2024-05-24",
         "nzp_zp": "ZP",
         "order": 230,
         "pu": "ОтА ПУ Отрадинский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-06-15",
@@ -32309,7 +32309,7 @@
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-03-62-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
         "minimal_date": "2024-07-17",
         "nzp_zp": "ZP",
@@ -32318,20 +32318,20 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-26",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-01-45-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Междурядная обработка первая (ГА)",
         "minimal_date": "2024-05-24",
         "nzp_zp": "ZP",
         "order": 230,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-04-22",
+        "actual_data": "2024-06-01",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-02-04-64-0001",
@@ -32868,9 +32868,9 @@
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-03-71-0001",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
-        "minimal_date": "2024-05-19",
+        "minimal_date": "2024-04-26",
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "ОтА ПУ Отрадинский",
@@ -33611,7 +33611,7 @@
         "higher_tm": "OR-01-03-44-0004",
         "is_actual": "Актуально",
         "material_order": "Внес. СЗР 4-я бетан. обр. бак.смесь (ГА)",
-        "minimal_date": "2024-06-14",
+        "minimal_date": "2024-05-24",
         "nzp_zp": "ZP",
         "order": 240,
         "pu": "ОтА ПУ Отрадинский",
@@ -33748,17 +33748,17 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-27",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-01-45-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я (ГА)",
         "minimal_date": "2024-07-07",
         "nzp_zp": "ZP",
         "order": 410,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-03",
@@ -34866,7 +34866,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-30",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-02-04-16-0001",
@@ -34876,7 +34876,7 @@
         "nzp_zp": "ZP",
         "order": 90,
         "pu": "ОтА ПУ Нечаево",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": "2024-05-27",
@@ -34885,7 +34885,7 @@
         "higher_tm": "OR-01-03-71-0001",
         "is_actual": "Актуально",
         "material_order": "Внес. СЗР 1-я бетан. обр. бак.смесь (ГА)",
-        "minimal_date": "2024-05-26",
+        "minimal_date": "2024-05-12",
         "nzp_zp": "ZP",
         "order": 140,
         "pu": "ОтА ПУ Отрадинский",
@@ -34983,7 +34983,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-25",
+        "actual_data": "2024-05-13",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-03-08-0002",
@@ -34993,7 +34993,7 @@
         "nzp_zp": "ZP",
         "order": 190,
         "pu": "ОтА ПУ Отрадинский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-05",
@@ -35470,11 +35470,11 @@
         "higher_tm": "OR-02-04-69-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
-        "minimal_date": "2024-05-13",
+        "minimal_date": "2024-06-05",
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "ОтА ПУ Нечаево",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -35542,17 +35542,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-24",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-01-60-0015",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение азот. удобр. перед севом (ГА)",
         "minimal_date": "2024-06-23",
         "nzp_zp": "ZP",
         "order": 50,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-03",
@@ -35737,17 +35737,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-13",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-02-04-66-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
         "minimal_date": "2024-04-23",
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "ОтА ПУ Нечаево",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -36014,9 +36014,9 @@
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-02-04-47-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
-        "minimal_date": "2024-07-17",
+        "minimal_date": "2024-08-04",
         "nzp_zp": "ZP",
         "order": 250,
         "pu": "ОтА ПУ Нечаево",
@@ -36276,7 +36276,7 @@
         "higher_tm": "OR-01-03-52-0003",
         "is_actual": "Актуально",
         "material_order": "Внес. СЗР 4-я бетан. обр. бак.смесь (ГА)",
-        "minimal_date": "2024-05-24",
+        "minimal_date": "2024-06-14",
         "nzp_zp": "ZP",
         "order": 240,
         "pu": "ОтА ПУ Отрадинский",
@@ -36660,7 +36660,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-03",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-03-43-0001",
@@ -36670,7 +36670,7 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "ОтА ПУ Отрадинский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-14",
@@ -36959,7 +36959,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-06-25",
+        "actual_data": "2024-05-13",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-03-07-0001",
@@ -36969,7 +36969,7 @@
         "nzp_zp": "ZP",
         "order": 190,
         "pu": "ОтА ПУ Отрадинский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-07",
@@ -37466,7 +37466,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-04-11",
+        "actual_data": "2024-04-10",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-02-04-63-0007",
@@ -37509,7 +37509,7 @@
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-03-68-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я противозлак. обр. (ГА)",
         "minimal_date": "2024-05-17",
         "nzp_zp": "ZP",
@@ -37704,9 +37704,9 @@
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-02-04-17-0001",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
-        "minimal_date": "2024-07-26",
+        "minimal_date": "2024-07-17",
         "nzp_zp": "ZP",
         "order": 250,
         "pu": "ОтА ПУ Нечаево",
@@ -38148,7 +38148,7 @@
         "higher_tm": "OR-02-04-42-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я фунгицидная обр. (ГА)",
-        "minimal_date": "2024-08-03",
+        "minimal_date": "2024-08-04",
         "nzp_zp": "ZP",
         "order": 250,
         "pu": "ОтА ПУ Нечаево",
@@ -38870,7 +38870,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-04",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-03-40-0001",
@@ -38880,7 +38880,7 @@
         "nzp_zp": "ZP",
         "order": 140,
         "pu": "ОтА ПУ Отрадинский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-19",
@@ -39026,17 +39026,17 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-07",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-03-41-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение микроудобрений 1-я обр. (ГА)",
         "minimal_date": "2024-07-17",
         "nzp_zp": "ZP",
         "order": 180,
         "pu": "ОтА ПУ Отрадинский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -39273,17 +39273,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-31",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-01-22-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-08-15",
         "nzp_zp": "NZP",
         "order": 320,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -39312,17 +39312,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-08-01",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-01-45-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внес. СЗР 4-я бетан. обр. бак.смесь (ГА)",
         "minimal_date": "2024-06-14",
         "nzp_zp": "ZP",
         "order": 240,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": null,
@@ -39442,7 +39442,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-08",
+        "actual_data": "2024-05-09",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-01-30-0008",
@@ -39650,20 +39650,20 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-01",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-02-07-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Междурядная обработка первая (ГА)",
         "minimal_date": "2024-05-24",
         "nzp_zp": "ZP",
         "order": 230,
         "pu": "ОтА ПУ Жилинский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-05-13",
+        "actual_data": "2024-05-14",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-03-44-0002",
@@ -40798,9 +40798,9 @@
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-03-71-0001",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
-        "minimal_date": "2024-05-19",
+        "minimal_date": "2024-04-26",
         "nzp_zp": "ZP",
         "order": 130,
         "pu": "ОтА ПУ Отрадинский",
@@ -40872,7 +40872,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-01",
+        "actual_data": "2024-05-13",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-03-44-0004",
@@ -40882,7 +40882,7 @@
         "nzp_zp": "ZP",
         "order": 190,
         "pu": "ОтА ПУ Отрадинский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-08-01",
@@ -40950,7 +40950,7 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-05-13",
+        "actual_data": "2024-07-01",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-03-52-0003",
@@ -40960,7 +40960,7 @@
         "nzp_zp": "ZP",
         "order": 190,
         "pu": "ОтА ПУ Отрадинский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено не в срок"
     },
     {
         "actual_data": null,
@@ -40995,7 +40995,7 @@
         "higher_tm": "OR-01-03-07-0001",
         "is_actual": "Актуально",
         "material_order": "Внес. СЗР 4-я бетан. обр. бак.смесь (ГА)",
-        "minimal_date": "2024-06-14",
+        "minimal_date": "2024-05-24",
         "nzp_zp": "ZP",
         "order": 240,
         "pu": "ОтА ПУ Отрадинский",
@@ -41190,7 +41190,7 @@
         "higher_tm": "OR-02-04-23-0005",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
-        "minimal_date": "2024-05-10",
+        "minimal_date": "2024-05-08",
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "ОтА ПУ Нечаево",
@@ -41717,7 +41717,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-07-01",
+        "actual_data": "2024-05-13",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-03-44-0005",
@@ -41727,7 +41727,7 @@
         "nzp_zp": "ZP",
         "order": 190,
         "pu": "ОтА ПУ Отрадинский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-07-16",
@@ -41873,7 +41873,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-05-15",
+        "actual_data": "2024-07-28",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-02-17-0001",
@@ -41918,11 +41918,11 @@
         "higher_tm": "OR-02-04-66-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Почвенные гербициды (ГА)",
-        "minimal_date": "2024-04-26",
+        "minimal_date": "2024-05-03",
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "ОтА ПУ Нечаево",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,
@@ -42009,14 +42009,14 @@
         "higher_tm": "OR-02-04-42-0001",
         "is_actual": "Актуально",
         "material_order": "Внес. СЗР 1-я бетан. обр. бак.смесь (ГА)",
-        "minimal_date": "2024-05-20",
+        "minimal_date": "2024-05-21",
         "nzp_zp": "ZP",
         "order": 140,
         "pu": "ОтА ПУ Нечаево",
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-06-14",
+        "actual_data": "2024-05-03",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-03-62-0001",
@@ -42026,7 +42026,7 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "ОтА ПУ Отрадинский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-18",
@@ -42074,7 +42074,7 @@
         "higher_tm": "OR-01-03-44-0005",
         "is_actual": "Актуально",
         "material_order": "Внес. СЗР 4-я бетан. обр. бак.смесь (ГА)",
-        "minimal_date": "2024-06-14",
+        "minimal_date": "2024-05-24",
         "nzp_zp": "ZP",
         "order": 240,
         "pu": "ОтА ПУ Отрадинский",
@@ -42315,17 +42315,17 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-08-05",
         "business_dir": "Орел",
         "culture": "Сахарная свекла",
         "higher_tm": "OR-01-03-58-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-08-20",
         "nzp_zp": "NZP",
         "order": 320,
         "pu": "ОтА ПУ Отрадинский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-06-19",

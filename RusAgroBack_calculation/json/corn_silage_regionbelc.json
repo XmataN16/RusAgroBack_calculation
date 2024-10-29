@@ -1,6 +1,6 @@
 [
     {
-        "actual_data": "2024-05-25",
+        "actual_data": "2024-05-16",
         "business_dir": "Белгород Центр",
         "culture": "Кукуруза на силос",
         "higher_tm": "BL-07-02-31-0003",
@@ -13,7 +13,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-15",
+        "actual_data": "2024-04-20",
         "business_dir": "Белгород Центр",
         "culture": "Кукуруза на силос",
         "higher_tm": "BL-07-02-31-0003",
@@ -117,7 +117,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-20",
+        "actual_data": "2024-04-17",
         "business_dir": "Белгород Центр",
         "culture": "Кукуруза на силос",
         "higher_tm": "BL-07-02-31-0018",
@@ -143,56 +143,56 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-05-25",
+        "actual_data": null,
         "business_dir": "Белгород Центр",
         "culture": "Кукуруза на силос",
         "higher_tm": "BL-07-02-31-0019",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 1-я гербицидная обр. (ГА)",
         "minimal_date": "2024-05-25",
         "nzp_zp": "ZP",
         "order": 100,
         "pu": "РАИ ПУ Белоколодезянский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-04-20",
+        "actual_data": null,
         "business_dir": "Белгород Центр",
         "culture": "Кукуруза на силос",
         "higher_tm": "BL-07-02-31-0019",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-04-25",
         "nzp_zp": "ZP",
         "order": 0,
         "pu": "РАИ ПУ Белоколодезянский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-04-18",
+        "actual_data": null,
         "business_dir": "Белгород Центр",
         "culture": "Кукуруза на силос",
         "higher_tm": "BL-07-02-31-0019",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Посев с внесением удобрений (ГА)",
         "minimal_date": "2024-04-30",
         "nzp_zp": "ZP",
         "order": 50,
         "pu": "РАИ ПУ Белоколодезянский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-04-20",
+        "actual_data": null,
         "business_dir": "Белгород Центр",
         "culture": "Кукуруза на силос",
         "higher_tm": "BL-07-02-31-0019",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": "2024-04-30",
         "nzp_zp": "ZP",
         "order": 30,
         "pu": "РАИ ПУ Белоколодезянский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": null,
@@ -221,30 +221,30 @@
         "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-04-20",
+        "actual_data": null,
         "business_dir": "Белгород Центр",
         "culture": "Кукуруза на силос",
         "higher_tm": "BL-07-02-31-0020",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Посев с внесением удобрений (ГА)",
         "minimal_date": "2024-04-30",
         "nzp_zp": "ZP",
         "order": 50,
         "pu": "РАИ ПУ Белоколодезянский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-04-20",
+        "actual_data": null,
         "business_dir": "Белгород Центр",
         "culture": "Кукуруза на силос",
         "higher_tm": "BL-07-02-31-0020",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": "2024-04-30",
         "nzp_zp": "ZP",
         "order": 30,
         "pu": "РАИ ПУ Белоколодезянский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": null,
@@ -260,7 +260,7 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": "2024-08-08",
+        "actual_data": "2024-08-01",
         "business_dir": "Белгород Центр",
         "culture": "Кукуруза на силос",
         "higher_tm": "BL-07-02-32-0014",

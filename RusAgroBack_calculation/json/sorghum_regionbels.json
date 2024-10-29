@@ -52,7 +52,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-24",
+        "actual_data": "2024-04-23",
         "business_dir": "Белгород Юг",
         "culture": "Сорго",
         "higher_tm": "BL-06-01-06-0015",
@@ -78,17 +78,17 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-05-06",
+        "actual_data": null,
         "business_dir": "Белгород Юг",
         "culture": "Сорго",
         "higher_tm": "BL-06-01-06-0015",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": "2024-05-03",
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Казинский",
-        "status": "Выполнено не в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": null,
@@ -143,7 +143,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-09",
+        "actual_data": "2024-04-29",
         "business_dir": "Белгород Юг",
         "culture": "Сорго",
         "higher_tm": "BL-06-01-08-0008",
@@ -156,17 +156,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-25",
+        "actual_data": null,
         "business_dir": "Белгород Юг",
         "culture": "Сорго",
         "higher_tm": "BL-06-01-08-0008",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-04-30",
         "nzp_zp": "ZP",
         "order": 0,
         "pu": "РАИ ПУ Казинский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-06-10",
@@ -182,7 +182,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-19",
         "business_dir": "Белгород Юг",
         "culture": "Сорго",
         "higher_tm": "BL-06-01-08-0008",
@@ -221,17 +221,17 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-25",
         "business_dir": "Белгород Юг",
         "culture": "Сорго",
         "higher_tm": "BL-06-01-23-0003",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение азот. удобр. перед севом (ГА)",
         "minimal_date": "2024-05-05",
         "nzp_zp": "ZP",
         "order": 20,
         "pu": "РАИ ПУ Казинский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-22",
@@ -260,7 +260,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-09",
+        "actual_data": "2024-04-30",
         "business_dir": "Белгород Юг",
         "culture": "Сорго",
         "higher_tm": "BL-06-01-23-0003",
@@ -273,7 +273,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-26",
+        "actual_data": "2024-04-27",
         "business_dir": "Белгород Юг",
         "culture": "Сорго",
         "higher_tm": "BL-06-01-23-0003",
@@ -390,30 +390,30 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-01-24",
         "business_dir": "Белгород Юг",
         "culture": "Сорго",
         "higher_tm": "BL-06-05-80-0140",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-02-03",
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "РАИ ПУ Казинский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-01-24",
         "business_dir": "Белгород Юг",
         "culture": "Сорго",
         "higher_tm": "BL-06-05-80-0141",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-02-03",
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "РАИ ПУ Казинский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": null,

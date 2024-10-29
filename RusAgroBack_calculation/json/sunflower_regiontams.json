@@ -1,6 +1,6 @@
 [
     {
-        "actual_data": "2024-06-19",
+        "actual_data": null,
         "business_dir": "Тамбов-Юг",
         "culture": "Подсолнечник",
         "higher_tm": "TM-01-31-22-0003",
@@ -43,13 +43,13 @@
         "business_dir": "Тамбов-Юг",
         "culture": "Подсолнечник",
         "higher_tm": "TM-01-31-22-0003",
-        "is_actual": "Актуально",
+        "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
-        "minimal_date": "2024-04-23",
+        "minimal_date": null,
         "nzp_zp": "ZP",
         "order": 110,
         "pu": "АГТ ПУ Шпикуловский",
-        "status": "Выполнено не в срок"
+        "status": "Операция не отслеживается"
     },
     {
         "actual_data": "2024-07-10",
@@ -78,7 +78,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-19",
+        "actual_data": null,
         "business_dir": "Тамбов-Юг",
         "culture": "Подсолнечник",
         "higher_tm": "TM-01-31-22-0003",
@@ -88,7 +88,7 @@
         "nzp_zp": "ZP",
         "order": 90,
         "pu": "АГТ ПУ Шпикуловский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
         "actual_data": "2024-04-19",
@@ -212,16 +212,16 @@
         "business_dir": "Тамбов-Юг",
         "culture": "Подсолнечник",
         "higher_tm": "TM-01-31-22-0004",
-        "is_actual": "Актуально",
+        "is_actual": "Статус отсутствует",
         "material_order": "Посев без внесения удобрений (ГА)",
-        "minimal_date": "2024-04-20",
+        "minimal_date": null,
         "nzp_zp": "ZP",
         "order": 90,
         "pu": "АГТ ПУ Шпикуловский",
-        "status": "Выполнено в срок"
+        "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-19",
+        "actual_data": null,
         "business_dir": "Тамбов-Юг",
         "culture": "Подсолнечник",
         "higher_tm": "TM-01-31-22-0004",
@@ -247,7 +247,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-05-12",
+        "actual_data": null,
         "business_dir": "Тамбов-Юг",
         "culture": "Подсолнечник",
         "higher_tm": "TM-01-31-22-0005",
@@ -286,17 +286,17 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-27",
         "business_dir": "Тамбов-Юг",
         "culture": "Подсолнечник",
         "higher_tm": "TM-01-31-22-0005",
-        "is_actual": "Актуально",
+        "is_actual": "Статус отсутствует",
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
-        "minimal_date": "2024-04-23",
+        "minimal_date": null,
         "nzp_zp": "ZP",
         "order": 110,
         "pu": "АГТ ПУ Шпикуловский",
-        "status": "Просрочено"
+        "status": "Операция не отслеживается"
     },
     {
         "actual_data": "2024-07-10",
@@ -325,20 +325,20 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-19",
+        "actual_data": null,
         "business_dir": "Тамбов-Юг",
         "culture": "Подсолнечник",
         "higher_tm": "TM-01-31-22-0005",
         "is_actual": "Актуально",
         "material_order": "Посев без внесения удобрений (ГА)",
-        "minimal_date": "2024-04-20",
+        "minimal_date": "2024-04-16",
         "nzp_zp": "ZP",
         "order": 90,
         "pu": "АГТ ПУ Шпикуловский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено"
     },
     {
-        "actual_data": "2024-04-19",
+        "actual_data": "2024-04-15",
         "business_dir": "Тамбов-Юг",
         "culture": "Подсолнечник",
         "higher_tm": "TM-01-31-22-0005",
@@ -377,7 +377,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-30",
+        "actual_data": "2024-05-12",
         "business_dir": "Тамбов-Юг",
         "culture": "Подсолнечник",
         "higher_tm": "TM-01-32-09-0004",
@@ -416,7 +416,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-30",
+        "actual_data": "2024-06-12",
         "business_dir": "Тамбов-Юг",
         "culture": "Подсолнечник",
         "higher_tm": "TM-01-32-09-0004",
@@ -572,7 +572,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-05-30",
+        "actual_data": "2024-05-12",
         "business_dir": "Тамбов-Юг",
         "culture": "Подсолнечник",
         "higher_tm": "TM-01-32-09-0009",
@@ -611,7 +611,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-06-17",
+        "actual_data": "2024-06-24",
         "business_dir": "Тамбов-Юг",
         "culture": "Подсолнечник",
         "higher_tm": "TM-01-32-09-0009",
@@ -624,7 +624,7 @@
         "status": "Операция не отслеживается"
     },
     {
-        "actual_data": "2024-04-19",
+        "actual_data": "2024-04-15",
         "business_dir": "Тамбов-Юг",
         "culture": "Подсолнечник",
         "higher_tm": "TM-01-32-09-0009",
@@ -634,7 +634,7 @@
         "nzp_zp": "ZP",
         "order": 90,
         "pu": "АГТ ПУ Шпикуловский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-15",
@@ -689,17 +689,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-03-05",
         "business_dir": "Тамбов-Юг",
         "culture": "Подсолнечник",
         "higher_tm": "TM-01-41-07-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. корзинок (ГА)",
         "minimal_date": "2024-03-26",
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "АГТ ПУ Новорусановский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-03-04",
@@ -975,69 +975,69 @@
         "status": "Просрочено"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-03-12",
         "business_dir": "Тамбов-Юг",
         "culture": "Подсолнечник",
         "higher_tm": "TM-06-31-05-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. корзинок (ГА)",
         "minimal_date": "2024-04-01",
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "АГТ ПУ Ивановский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-01-01",
         "business_dir": "Тамбов-Юг",
         "culture": "Подсолнечник",
         "higher_tm": "TM-06-31-05-0002",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. корзинок (ГА)",
         "minimal_date": "2024-04-01",
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "АГТ ПУ Ивановский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-03-12",
         "business_dir": "Тамбов-Юг",
         "culture": "Подсолнечник",
         "higher_tm": "TM-06-31-05-0003",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. корзинок (ГА)",
         "minimal_date": "2024-04-01",
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "АГТ ПУ Ивановский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-03-07",
         "business_dir": "Тамбов-Юг",
         "culture": "Подсолнечник",
         "higher_tm": "TM-06-31-06-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. корзинок (ГА)",
         "minimal_date": "2024-03-27",
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "АГТ ПУ Ивановский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-03-10",
         "business_dir": "Тамбов-Юг",
         "culture": "Подсолнечник",
         "higher_tm": "TM-06-31-06-0002",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. корзинок (ГА)",
         "minimal_date": "2024-03-30",
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "АГТ ПУ Ивановский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-03-10",

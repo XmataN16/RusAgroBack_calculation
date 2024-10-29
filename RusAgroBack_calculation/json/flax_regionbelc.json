@@ -1,6 +1,6 @@
 [
     {
-        "actual_data": "2024-04-03",
+        "actual_data": "2024-04-02",
         "business_dir": "Белгород Центр",
         "culture": "Лен",
         "higher_tm": "BL-08-03-34-0002",
@@ -91,17 +91,17 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-31",
         "business_dir": "Белгород Центр",
         "culture": "Лен",
         "higher_tm": "BL-08-03-34-0002",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
         "minimal_date": "2024-08-13",
         "nzp_zp": "ZP",
         "order": 80,
         "pu": "РАИ ПУ Грушевский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-04-02",
@@ -123,14 +123,14 @@
         "higher_tm": "BL-08-03-34-0011",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я гербицидная обр. (ГА)",
-        "minimal_date": "2024-04-28",
+        "minimal_date": "2024-05-01",
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Грушевский",
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-05-02",
+        "actual_data": "2024-05-03",
         "business_dir": "Белгород Центр",
         "culture": "Лен",
         "higher_tm": "BL-08-03-34-0011",
@@ -169,20 +169,20 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-04-03",
+        "actual_data": "2024-04-06",
         "business_dir": "Белгород Центр",
         "culture": "Лен",
         "higher_tm": "BL-08-03-34-0011",
         "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": "2024-04-05",
+        "minimal_date": "2024-04-04",
         "nzp_zp": "ZP",
         "order": 20,
         "pu": "РАИ ПУ Грушевский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено не в срок"
     },
     {
-        "actual_data": "2024-04-04",
+        "actual_data": "2024-04-03",
         "business_dir": "Белгород Центр",
         "culture": "Лен",
         "higher_tm": "BL-08-03-34-0011",
@@ -195,7 +195,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": "2024-07-24",
+        "actual_data": "2024-07-29",
         "business_dir": "Белгород Центр",
         "culture": "Лен",
         "higher_tm": "BL-08-03-34-0011",

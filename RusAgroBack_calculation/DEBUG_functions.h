@@ -60,7 +60,7 @@ void DEBUG_get_status_count_rows_on_material_order_and_higher_tm(unique_pairs un
 }
 
 // ¬ывод записей по заданному операции и полю из DATA
-void DEBUG_get_count_rows_on_material_order_and_higher_tm(data data_shbn[CULTURES_COUNT][REGIONS_COUNT], std::string material_order, std::string higher_tm)
+void DEBUG_data_get_count_rows_on_material_order_and_higher_tm(data data_shbn[CULTURES_COUNT][REGIONS_COUNT], std::string material_order, std::string higher_tm)
 {
     for (int culture = 0; culture < CULTURES_COUNT; culture++)
     {
@@ -71,6 +71,24 @@ void DEBUG_get_count_rows_on_material_order_and_higher_tm(data data_shbn[CULTURE
                 if (data_shbn[culture][region].material_order[row].value() == material_order and data_shbn[culture][region].higher_tm[row].value() == higher_tm)
                 {
                     data_shbn[culture][region].print_index(row);
+                }
+            }
+        }
+    }
+}
+
+// ¬ывод записей по заданному операции и полю из uniq_pairs
+void DEBUG_uniq_pairs_get_count_rows_on_material_order_and_higher_tm(unique_pairs uniq_pairs[CULTURES_COUNT][REGIONS_COUNT], std::string material_order, std::string higher_tm)
+{
+    for (int culture = 0; culture < CULTURES_COUNT; culture++)
+    {
+        for (int region = 0; region < REGIONS_COUNT; region++)
+        {
+            for (int row = 0; row < uniq_pairs[culture][region].row_count; row++)
+            {
+                if (uniq_pairs[culture][region].material_order[row].value() == material_order and uniq_pairs[culture][region].higher_tm[row].value() == higher_tm)
+                {
+                    uniq_pairs[culture][region].print_index(row);
                 }
             }
         }

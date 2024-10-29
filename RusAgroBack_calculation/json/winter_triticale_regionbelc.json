@@ -1,16 +1,16 @@
 [
     {
-        "actual_data": null,
+        "actual_data": "2024-04-19",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале озимая",
         "higher_tm": "BL-08-06-25-0202",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
         "minimal_date": "2024-04-30",
         "nzp_zp": "ZP",
         "order": 10,
         "pu": "РАИ ПУ Грушевский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок"
     },
     {
         "actual_data": "2024-05-06",
@@ -39,7 +39,7 @@
         "status": "Выполнено в срок"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-23",
         "business_dir": "Белгород Центр",
         "culture": "Тритикале озимая",
         "higher_tm": "BL-08-06-25-0202",

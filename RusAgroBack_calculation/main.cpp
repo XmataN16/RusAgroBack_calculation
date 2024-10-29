@@ -83,6 +83,10 @@ int main()
         save_jsons_uniq_pairs(uniq_pairs);
         to_json_all_file(uniq_pairs, "json/all.json");
         printf("The time: %f seconds\n", seconds);
+        //DEBUG_get_status_count_rows_on_material_order_and_higher_tm(uniq_pairs, u8"Предпосевная культивация (ГА)", u8"BL-10-01-13-0002");
+        //DEBUG_data_get_count_rows_on_material_order_and_higher_tm(data_shbn, u8"Предпосевная культивация (ГА)", u8"BL-10-01-13-0002");
+        //DEBUG_uniq_pairs_get_count_rows_on_material_order_and_higher_tm(uniq_pairs, u8"Предпосевная культивация (ГА)", u8"BL-10-01-13-0002");
+        //DEBUG_get_count_rows_on_status(uniq_pairs);
     }
     catch (const soci::soci_error& e)
     {
