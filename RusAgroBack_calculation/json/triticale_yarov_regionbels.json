@@ -1,6 +1,104 @@
 [
     {
-        "actual_data": "2024-04-26",
+        "actual_data": "2024-09-24",
+        "business_dir": "Белгород Юг",
+        "culture": "Тритикале",
+        "higher_tm": "BL-04-01-22-0002",
+        "is_actual": "Актуально",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": "2024-08-02",
+        "nzp_zp": "NZP",
+        "order": 140,
+        "pu": "РАИ ПУ Закутчанский",
+        "status": "Выполнено не в срок",
+        "t_material": "T02301402101"
+    },
+    {
+        "actual_data": "2024-10-15",
+        "business_dir": "Белгород Юг",
+        "culture": "Тритикале",
+        "higher_tm": "BL-04-01-22-0002",
+        "is_actual": "Актуально",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": "2024-08-17",
+        "nzp_zp": "NZP",
+        "order": 150,
+        "pu": "РАИ ПУ Закутчанский",
+        "status": "Выполнено не в срок",
+        "t_material": "T02307300001"
+    },
+    {
+        "actual_data": "2024-09-23",
+        "business_dir": "Белгород Юг",
+        "culture": "Тритикале",
+        "higher_tm": "BL-04-01-22-0005",
+        "is_actual": "Актуально",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": "2024-08-02",
+        "nzp_zp": "NZP",
+        "order": 140,
+        "pu": "РАИ ПУ Закутчанский",
+        "status": "Выполнено не в срок",
+        "t_material": "T02301402101"
+    },
+    {
+        "actual_data": "2024-10-11",
+        "business_dir": "Белгород Юг",
+        "culture": "Тритикале",
+        "higher_tm": "BL-04-01-22-0005",
+        "is_actual": "Актуально",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": "2024-08-17",
+        "nzp_zp": "NZP",
+        "order": 150,
+        "pu": "РАИ ПУ Закутчанский",
+        "status": "Выполнено не в срок",
+        "t_material": "T02307300001"
+    },
+    {
+        "actual_data": null,
+        "business_dir": "Белгород Юг",
+        "culture": "Тритикале",
+        "higher_tm": "BL-04-01-24-0002",
+        "is_actual": "Ориентировочно",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": "2024-08-17",
+        "nzp_zp": "NZP",
+        "order": 150,
+        "pu": "РАИ ПУ Закутчанский",
+        "status": "Просрочено",
+        "t_material": "T02307300001"
+    },
+    {
+        "actual_data": null,
+        "business_dir": "Белгород Юг",
+        "culture": "Тритикале",
+        "higher_tm": "BL-04-01-24-0003",
+        "is_actual": "Ориентировочно",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": "2024-08-17",
+        "nzp_zp": "NZP",
+        "order": 150,
+        "pu": "РАИ ПУ Закутчанский",
+        "status": "Просрочено",
+        "t_material": "T02307300001"
+    },
+    {
+        "actual_data": null,
+        "business_dir": "Белгород Юг",
+        "culture": "Тритикале",
+        "higher_tm": "BL-04-01-24-0006",
+        "is_actual": "Ориентировочно",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": "2024-08-17",
+        "nzp_zp": "NZP",
+        "order": 150,
+        "pu": "РАИ ПУ Закутчанский",
+        "status": "Просрочено",
+        "t_material": "T02307300001"
+    },
+    {
+        "actual_data": null,
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-25-0008",
@@ -10,20 +108,22 @@
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено",
+        "t_material": "T02300800602"
     },
     {
-        "actual_data": "2024-06-01",
+        "actual_data": null,
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-25-0008",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
         "minimal_date": "2024-06-11",
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено",
+        "t_material": "T02300800603"
     },
     {
         "actual_data": "2024-01-05",
@@ -36,20 +136,22 @@
         "nzp_zp": "ZP",
         "order": 180,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02307300001"
     },
     {
-        "actual_data": "2024-05-01",
+        "actual_data": "2024-05-11",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-25-0008",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-10",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 110,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600301"
     },
     {
         "actual_data": "2024-04-02",
@@ -62,7 +164,8 @@
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02303504001"
     },
     {
         "actual_data": null,
@@ -75,20 +178,64 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Просрочено"
+        "status": "Просрочено",
+        "t_material": "T02307905001"
     },
     {
         "actual_data": null,
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
-        "higher_tm": "BL-04-01-26-0005",
+        "higher_tm": "BL-04-01-26-0002",
         "is_actual": "Ориентировочно",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": "2024-08-17",
+        "nzp_zp": "NZP",
+        "order": 150,
+        "pu": "РАИ ПУ Закутчанский",
+        "status": "Просрочено",
+        "t_material": "T02307300001"
+    },
+    {
+        "actual_data": null,
+        "business_dir": "Белгород Юг",
+        "culture": "Тритикале",
+        "higher_tm": "BL-04-01-26-0003",
+        "is_actual": "Ориентировочно",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": "2024-08-17",
+        "nzp_zp": "NZP",
+        "order": 150,
+        "pu": "РАИ ПУ Закутчанский",
+        "status": "Просрочено",
+        "t_material": "T02307300001"
+    },
+    {
+        "actual_data": null,
+        "business_dir": "Белгород Юг",
+        "culture": "Тритикале",
+        "higher_tm": "BL-04-01-26-0004",
+        "is_actual": "Ориентировочно",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": "2024-08-17",
+        "nzp_zp": "NZP",
+        "order": 150,
+        "pu": "РАИ ПУ Закутчанский",
+        "status": "Просрочено",
+        "t_material": "T02307300001"
+    },
+    {
+        "actual_data": "2024-03-28",
+        "business_dir": "Белгород Юг",
+        "culture": "Тритикале",
+        "higher_tm": "BL-04-01-26-0005",
+        "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
         "minimal_date": "2024-04-02",
         "nzp_zp": "ZP",
         "order": 20,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок",
+        "t_material": "T02300200001"
     },
     {
         "actual_data": "2024-05-03",
@@ -101,7 +248,8 @@
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
         "actual_data": "2024-06-04",
@@ -114,20 +262,22 @@
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800603"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-11",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-26-0005",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-10",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 110,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600301"
     },
     {
         "actual_data": "2024-04-01",
@@ -140,7 +290,8 @@
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02303504001"
     },
     {
         "actual_data": "2024-07-24",
@@ -153,10 +304,25 @@
         "nzp_zp": "ZP",
         "order": 170,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02307902001"
     },
     {
-        "actual_data": "2024-04-26",
+        "actual_data": null,
+        "business_dir": "Белгород Юг",
+        "culture": "Тритикале",
+        "higher_tm": "BL-04-01-26-0006",
+        "is_actual": "Ориентировочно",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": "2024-08-17",
+        "nzp_zp": "NZP",
+        "order": 150,
+        "pu": "РАИ ПУ Закутчанский",
+        "status": "Просрочено",
+        "t_material": "T02307300001"
+    },
+    {
+        "actual_data": "2024-05-03",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-27-0001",
@@ -166,10 +332,11 @@
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
-        "actual_data": "2024-05-30",
+        "actual_data": "2024-05-25",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-27-0001",
@@ -179,7 +346,8 @@
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800603"
     },
     {
         "actual_data": "2024-04-06",
@@ -192,20 +360,22 @@
         "nzp_zp": "ZP",
         "order": 0,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02301402101"
     },
     {
         "actual_data": "2024-05-10",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-27-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-10",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 110,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600301"
     },
     {
         "actual_data": "2024-04-06",
@@ -218,7 +388,8 @@
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02303504001"
     },
     {
         "actual_data": "2024-07-24",
@@ -231,7 +402,36 @@
         "nzp_zp": "ZP",
         "order": 170,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02307902001"
+    },
+    {
+        "actual_data": null,
+        "business_dir": "Белгород Юг",
+        "culture": "Тритикале",
+        "higher_tm": "BL-04-01-27-0005",
+        "is_actual": "Ориентировочно",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": "2024-08-17",
+        "nzp_zp": "NZP",
+        "order": 150,
+        "pu": "РАИ ПУ Закутчанский",
+        "status": "Просрочено",
+        "t_material": "T02307300001"
+    },
+    {
+        "actual_data": null,
+        "business_dir": "Белгород Юг",
+        "culture": "Тритикале",
+        "higher_tm": "BL-04-01-27-0006",
+        "is_actual": "Ориентировочно",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": "2024-08-17",
+        "nzp_zp": "NZP",
+        "order": 150,
+        "pu": "РАИ ПУ Закутчанский",
+        "status": "Просрочено",
+        "t_material": "T02307300001"
     },
     {
         "actual_data": "2024-03-28",
@@ -244,7 +444,8 @@
         "nzp_zp": "ZP",
         "order": 20,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300200001"
     },
     {
         "actual_data": "2024-05-03",
@@ -257,7 +458,8 @@
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
         "actual_data": "2024-06-04",
@@ -270,7 +472,8 @@
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800603"
     },
     {
         "actual_data": "2024-01-04",
@@ -283,20 +486,22 @@
         "nzp_zp": "ZP",
         "order": 180,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02307300001"
     },
     {
         "actual_data": "2024-05-10",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-28-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-10",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 110,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600301"
     },
     {
         "actual_data": "2024-04-01",
@@ -309,7 +514,8 @@
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02303504001"
     },
     {
         "actual_data": "2024-07-25",
@@ -322,7 +528,8 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02307905001"
     },
     {
         "actual_data": "2024-03-27",
@@ -335,10 +542,11 @@
         "nzp_zp": "ZP",
         "order": 20,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300200001"
     },
     {
-        "actual_data": "2024-05-03",
+        "actual_data": "2024-04-26",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-28-0011",
@@ -348,7 +556,8 @@
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
         "actual_data": "2024-05-30",
@@ -361,7 +570,8 @@
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800603"
     },
     {
         "actual_data": "2024-05-25",
@@ -370,24 +580,26 @@
         "higher_tm": "BL-04-01-28-0011",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": "2024-05-14",
+        "minimal_date": "2024-04-30",
         "nzp_zp": "ZP",
         "order": 90,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T02300800010"
     },
     {
         "actual_data": "2024-05-01",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-28-0011",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-10",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 110,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600301"
     },
     {
         "actual_data": "2024-04-02",
@@ -400,20 +612,50 @@
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02303504001"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-25",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-28-0011",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
         "minimal_date": "2024-08-06",
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок",
+        "t_material": "T02307905001"
+    },
+    {
+        "actual_data": null,
+        "business_dir": "Белгород Юг",
+        "culture": "Тритикале",
+        "higher_tm": "BL-04-01-29-0001",
+        "is_actual": "Ориентировочно",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": "2024-08-17",
+        "nzp_zp": "NZP",
+        "order": 150,
+        "pu": "РАИ ПУ Закутчанский",
+        "status": "Просрочено",
+        "t_material": "T02307300001"
+    },
+    {
+        "actual_data": null,
+        "business_dir": "Белгород Юг",
+        "culture": "Тритикале",
+        "higher_tm": "BL-04-01-29-0002",
+        "is_actual": "Ориентировочно",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": "2024-08-17",
+        "nzp_zp": "NZP",
+        "order": 150,
+        "pu": "РАИ ПУ Закутчанский",
+        "status": "Просрочено",
+        "t_material": "T02307300001"
     },
     {
         "actual_data": "2024-03-27",
@@ -426,7 +668,8 @@
         "nzp_zp": "ZP",
         "order": 20,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300200001"
     },
     {
         "actual_data": "2024-05-03",
@@ -439,10 +682,11 @@
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
-        "actual_data": "2024-05-25",
+        "actual_data": "2024-06-04",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-29-0003",
@@ -452,20 +696,22 @@
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800603"
     },
     {
         "actual_data": "2024-05-11",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-29-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-10",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 110,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600301"
     },
     {
         "actual_data": "2024-04-01",
@@ -478,7 +724,8 @@
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02303504001"
     },
     {
         "actual_data": "2024-07-25",
@@ -491,7 +738,50 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02307905001"
+    },
+    {
+        "actual_data": null,
+        "business_dir": "Белгород Юг",
+        "culture": "Тритикале",
+        "higher_tm": "BL-04-01-29-0009",
+        "is_actual": "Ориентировочно",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": "2024-08-17",
+        "nzp_zp": "NZP",
+        "order": 150,
+        "pu": "РАИ ПУ Закутчанский",
+        "status": "Просрочено",
+        "t_material": "T02307300001"
+    },
+    {
+        "actual_data": "2024-09-16",
+        "business_dir": "Белгород Юг",
+        "culture": "Тритикале",
+        "higher_tm": "BL-04-01-29-0012",
+        "is_actual": "Актуально",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": "2024-08-02",
+        "nzp_zp": "NZP",
+        "order": 140,
+        "pu": "РАИ ПУ Закутчанский",
+        "status": "Выполнено не в срок",
+        "t_material": "T02301402101"
+    },
+    {
+        "actual_data": "2024-10-27",
+        "business_dir": "Белгород Юг",
+        "culture": "Тритикале",
+        "higher_tm": "BL-04-01-29-0012",
+        "is_actual": "Актуально",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": "2024-08-17",
+        "nzp_zp": "NZP",
+        "order": 150,
+        "pu": "РАИ ПУ Закутчанский",
+        "status": "Выполнено не в срок",
+        "t_material": "T02307300001"
     },
     {
         "actual_data": "2024-03-26",
@@ -504,23 +794,25 @@
         "nzp_zp": "ZP",
         "order": 20,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300200001"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-30",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0003",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
         "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
-        "actual_data": "2024-05-25",
+        "actual_data": "2024-05-30",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0003",
@@ -530,7 +822,8 @@
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800603"
     },
     {
         "actual_data": "2024-05-24",
@@ -539,24 +832,26 @@
         "higher_tm": "BL-04-01-81-0003",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Противозлаковая обр. (ГА)",
-        "minimal_date": "2024-05-14",
+        "minimal_date": "2024-05-04",
         "nzp_zp": "ZP",
         "order": 80,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T02300800604"
     },
     {
-        "actual_data": "2024-05-06",
+        "actual_data": "2024-05-01",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-10",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 110,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600301"
     },
     {
         "actual_data": "2024-04-05",
@@ -569,7 +864,8 @@
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02303504001"
     },
     {
         "actual_data": "2024-07-25",
@@ -582,7 +878,8 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02307905001"
     },
     {
         "actual_data": "2024-03-27",
@@ -595,10 +892,11 @@
         "nzp_zp": "ZP",
         "order": 20,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300200001"
     },
     {
-        "actual_data": "2024-04-26",
+        "actual_data": "2024-04-29",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0004",
@@ -608,7 +906,8 @@
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
         "actual_data": "2024-05-29",
@@ -621,33 +920,36 @@
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800603"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-24",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0004",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": "2024-05-14",
+        "minimal_date": "2024-05-03",
         "nzp_zp": "ZP",
         "order": 90,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок",
+        "t_material": "T02300800010"
     },
     {
         "actual_data": "2024-05-07",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-10",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 110,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600301"
     },
     {
         "actual_data": "2024-04-05",
@@ -660,7 +962,8 @@
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02303504001"
     },
     {
         "actual_data": "2024-07-27",
@@ -673,7 +976,8 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02307905001"
     },
     {
         "actual_data": "2024-04-28",
@@ -686,10 +990,11 @@
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
-        "actual_data": "2024-05-25",
+        "actual_data": "2024-05-29",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0012",
@@ -699,59 +1004,64 @@
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800603"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-03-28",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0012",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-04-02",
         "nzp_zp": "ZP",
         "order": 0,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок",
+        "t_material": "T02301402101"
     },
     {
         "actual_data": "2024-05-06",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0012",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-10",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 110,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600301"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-03",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0012",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
         "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок",
+        "t_material": "T02303504001"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-27",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0012",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
         "minimal_date": "2024-08-09",
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок",
+        "t_material": "T02307905001"
     },
     {
         "actual_data": "2024-03-26",
@@ -764,7 +1074,8 @@
         "nzp_zp": "ZP",
         "order": 20,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300200001"
     },
     {
         "actual_data": "2024-04-27",
@@ -777,7 +1088,8 @@
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
         "actual_data": "2024-05-29",
@@ -790,7 +1102,8 @@
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800603"
     },
     {
         "actual_data": "2024-05-23",
@@ -799,24 +1112,26 @@
         "higher_tm": "BL-04-01-81-0013",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Противозлаковая обр. (ГА)",
-        "minimal_date": "2024-05-14",
+        "minimal_date": "2024-05-01",
         "nzp_zp": "ZP",
         "order": 80,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T02300800604"
     },
     {
-        "actual_data": "2024-05-01",
+        "actual_data": "2024-05-06",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0013",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-10",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 110,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600301"
     },
     {
         "actual_data": "2024-04-06",
@@ -829,20 +1144,22 @@
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02303504001"
     },
     {
-        "actual_data": "2024-07-26",
+        "actual_data": null,
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0013",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
         "minimal_date": "2024-08-08",
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено",
+        "t_material": "T02307905001"
     },
     {
         "actual_data": "2024-04-29",
@@ -855,7 +1172,8 @@
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
         "actual_data": "2024-05-30",
@@ -868,7 +1186,8 @@
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800603"
     },
     {
         "actual_data": "2024-05-27",
@@ -877,11 +1196,12 @@
         "higher_tm": "BL-04-01-81-0015",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": "2024-05-14",
+        "minimal_date": "2024-05-03",
         "nzp_zp": "ZP",
         "order": 90,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T02300800010"
     },
     {
         "actual_data": "2024-03-28",
@@ -894,33 +1214,36 @@
         "nzp_zp": "ZP",
         "order": 0,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02301402101"
     },
     {
         "actual_data": "2024-05-07",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0015",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-10",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 110,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600301"
     },
     {
-        "actual_data": "2024-04-03",
+        "actual_data": null,
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0015",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Посев с внесением удобрений (ГА)",
         "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено",
+        "t_material": "T02303504001"
     },
     {
         "actual_data": "2024-07-28",
@@ -933,10 +1256,11 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02307905001"
     },
     {
-        "actual_data": "2024-04-26",
+        "actual_data": "2024-04-30",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0023",
@@ -946,20 +1270,22 @@
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-01",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0023",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
         "minimal_date": "2024-06-11",
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800603"
     },
     {
         "actual_data": null,
@@ -972,23 +1298,25 @@
         "nzp_zp": "ZP",
         "order": 0,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Просрочено"
+        "status": "Просрочено",
+        "t_material": "T02301402101"
     },
     {
-        "actual_data": "2024-05-01",
+        "actual_data": "2024-05-07",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0023",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-10",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 110,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600301"
     },
     {
-        "actual_data": "2024-04-11",
+        "actual_data": "2024-04-05",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0023",
@@ -998,10 +1326,11 @@
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02303504001"
     },
     {
-        "actual_data": "2024-07-29",
+        "actual_data": "2024-07-28",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0023",
@@ -1011,7 +1340,8 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02307905001"
     },
     {
         "actual_data": "2024-05-04",
@@ -1024,7 +1354,8 @@
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
         "actual_data": "2024-06-07",
@@ -1037,20 +1368,22 @@
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800603"
     },
     {
-        "actual_data": "2024-05-25",
+        "actual_data": "2024-05-27",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0024",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": "2024-05-14",
+        "minimal_date": "2024-05-08",
         "nzp_zp": "ZP",
         "order": 90,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T02300800010"
     },
     {
         "actual_data": "2024-03-30",
@@ -1063,20 +1396,22 @@
         "nzp_zp": "ZP",
         "order": 0,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02301402101"
     },
     {
         "actual_data": "2024-05-01",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0024",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-10",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 110,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600301"
     },
     {
         "actual_data": "2024-04-03",
@@ -1089,7 +1424,8 @@
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02303504001"
     },
     {
         "actual_data": "2024-07-25",
@@ -1102,10 +1438,11 @@
         "nzp_zp": "ZP",
         "order": 170,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02307902001"
     },
     {
-        "actual_data": "2024-04-26",
+        "actual_data": "2024-04-30",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0025",
@@ -1115,7 +1452,8 @@
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
         "actual_data": "2024-06-01",
@@ -1128,7 +1466,8 @@
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800603"
     },
     {
         "actual_data": "2024-04-04",
@@ -1141,23 +1480,25 @@
         "nzp_zp": "ZP",
         "order": 0,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02301402101"
     },
     {
-        "actual_data": "2024-05-01",
+        "actual_data": "2024-05-06",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0025",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-10",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 110,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600301"
     },
     {
-        "actual_data": "2024-04-01",
+        "actual_data": "2024-04-05",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0025",
@@ -1167,7 +1508,8 @@
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02303504001"
     },
     {
         "actual_data": "2024-07-25",
@@ -1180,10 +1522,11 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02307905001"
     },
     {
-        "actual_data": "2024-03-25",
+        "actual_data": "2024-03-27",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0036",
@@ -1193,7 +1536,8 @@
         "nzp_zp": "ZP",
         "order": 20,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300200001"
     },
     {
         "actual_data": "2024-04-26",
@@ -1206,7 +1550,8 @@
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
         "actual_data": "2024-05-30",
@@ -1219,7 +1564,8 @@
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800603"
     },
     {
         "actual_data": "2024-05-22",
@@ -1228,24 +1574,26 @@
         "higher_tm": "BL-04-01-81-0036",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Противозлаковая обр. (ГА)",
-        "minimal_date": "2024-05-14",
+        "minimal_date": "2024-04-30",
         "nzp_zp": "ZP",
         "order": 80,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T02300800604"
     },
     {
         "actual_data": "2024-05-06",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0036",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-10",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 110,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600301"
     },
     {
         "actual_data": "2024-04-03",
@@ -1258,20 +1606,22 @@
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02303504001"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-29",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0036",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
         "minimal_date": "2024-08-10",
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок",
+        "t_material": "T02307905001"
     },
     {
         "actual_data": "2024-03-26",
@@ -1284,7 +1634,8 @@
         "nzp_zp": "ZP",
         "order": 20,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300200001"
     },
     {
         "actual_data": "2024-04-26",
@@ -1297,7 +1648,8 @@
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
         "actual_data": "2024-05-30",
@@ -1310,7 +1662,8 @@
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800603"
     },
     {
         "actual_data": "2024-05-24",
@@ -1319,50 +1672,54 @@
         "higher_tm": "BL-04-01-81-0037",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Противозлаковая обр. (ГА)",
-        "minimal_date": "2024-05-14",
+        "minimal_date": "2024-04-30",
         "nzp_zp": "ZP",
         "order": 80,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T02300800604"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-06",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0037",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-10",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 110,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600301"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-04",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0037",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
         "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок",
+        "t_material": "T02303504001"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-27",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0037",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
         "minimal_date": "2024-08-08",
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок",
+        "t_material": "T02307905001"
     },
     {
         "actual_data": "2024-03-26",
@@ -1375,7 +1732,8 @@
         "nzp_zp": "ZP",
         "order": 20,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300200001"
     },
     {
         "actual_data": "2024-04-27",
@@ -1388,7 +1746,8 @@
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
         "actual_data": "2024-06-01",
@@ -1401,7 +1760,8 @@
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800603"
     },
     {
         "actual_data": "2024-05-23",
@@ -1410,24 +1770,26 @@
         "higher_tm": "BL-04-01-81-0038",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Противозлаковая обр. (ГА)",
-        "minimal_date": "2024-05-14",
+        "minimal_date": "2024-05-01",
         "nzp_zp": "ZP",
         "order": 80,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T02300800604"
     },
     {
         "actual_data": "2024-05-06",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0038",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-10",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 110,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600301"
     },
     {
         "actual_data": "2024-04-05",
@@ -1440,7 +1802,8 @@
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02303504001"
     },
     {
         "actual_data": "2024-07-27",
@@ -1453,7 +1816,8 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02307905001"
     },
     {
         "actual_data": "2024-03-27",
@@ -1466,7 +1830,8 @@
         "nzp_zp": "ZP",
         "order": 20,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300200001"
     },
     {
         "actual_data": "2024-04-28",
@@ -1479,33 +1844,36 @@
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
-        "actual_data": "2024-06-03",
+        "actual_data": null,
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0039",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
         "minimal_date": "2024-06-13",
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено",
+        "t_material": "T02300800603"
     },
     {
         "actual_data": "2024-05-07",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0039",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-10",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 110,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600301"
     },
     {
         "actual_data": "2024-04-06",
@@ -1518,7 +1886,8 @@
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02303504001"
     },
     {
         "actual_data": "2024-07-30",
@@ -1531,7 +1900,8 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02307905001"
     },
     {
         "actual_data": "2024-03-26",
@@ -1544,7 +1914,8 @@
         "nzp_zp": "ZP",
         "order": 20,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300200001"
     },
     {
         "actual_data": "2024-04-27",
@@ -1557,7 +1928,8 @@
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
         "actual_data": "2024-06-01",
@@ -1570,7 +1942,8 @@
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800603"
     },
     {
         "actual_data": "2024-05-23",
@@ -1579,24 +1952,26 @@
         "higher_tm": "BL-04-01-81-0040",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Противозлаковая обр. (ГА)",
-        "minimal_date": "2024-05-14",
+        "minimal_date": "2024-05-01",
         "nzp_zp": "ZP",
         "order": 80,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T02300800604"
     },
     {
         "actual_data": "2024-05-07",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0040",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-10",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 110,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600301"
     },
     {
         "actual_data": "2024-04-04",
@@ -1609,33 +1984,36 @@
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
-    },
-    {
-        "actual_data": "2024-07-28",
-        "business_dir": "Белгород Юг",
-        "culture": "Тритикале",
-        "higher_tm": "BL-04-01-81-0040",
-        "is_actual": "Актуально",
-        "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": "2024-08-09",
-        "nzp_zp": "ZP",
-        "order": 160,
-        "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02303504001"
     },
     {
         "actual_data": null,
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
-        "higher_tm": "BL-04-01-81-0041",
+        "higher_tm": "BL-04-01-81-0040",
         "is_actual": "Ориентировочно",
+        "material_order": "Прямое комбайн. без перегруз. (ГА)",
+        "minimal_date": "2024-08-09",
+        "nzp_zp": "ZP",
+        "order": 160,
+        "pu": "РАИ ПУ Закутчанский",
+        "status": "Просрочено",
+        "t_material": "T02307905001"
+    },
+    {
+        "actual_data": "2024-03-27",
+        "business_dir": "Белгород Юг",
+        "culture": "Тритикале",
+        "higher_tm": "BL-04-01-81-0041",
+        "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
         "minimal_date": "2024-04-01",
         "nzp_zp": "ZP",
         "order": 20,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок",
+        "t_material": "T02300200001"
     },
     {
         "actual_data": "2024-04-29",
@@ -1648,7 +2026,8 @@
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
         "actual_data": "2024-06-02",
@@ -1661,7 +2040,8 @@
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800603"
     },
     {
         "actual_data": "2024-05-23",
@@ -1670,24 +2050,26 @@
         "higher_tm": "BL-04-01-81-0041",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Противозлаковая обр. (ГА)",
-        "minimal_date": "2024-05-14",
+        "minimal_date": "2024-05-03",
         "nzp_zp": "ZP",
         "order": 80,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T02300800604"
     },
     {
         "actual_data": "2024-05-08",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0041",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-10",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 110,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600301"
     },
     {
         "actual_data": "2024-04-03",
@@ -1700,7 +2082,8 @@
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02303504001"
     },
     {
         "actual_data": "2024-07-27",
@@ -1713,7 +2096,8 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02307905001"
     },
     {
         "actual_data": "2024-04-29",
@@ -1726,20 +2110,22 @@
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
-        "actual_data": "2024-06-02",
+        "actual_data": null,
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0042",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
         "minimal_date": "2024-06-12",
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено",
+        "t_material": "T02300800603"
     },
     {
         "actual_data": "2024-05-28",
@@ -1748,11 +2134,12 @@
         "higher_tm": "BL-04-01-81-0042",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": "2024-05-14",
+        "minimal_date": "2024-05-03",
         "nzp_zp": "ZP",
         "order": 90,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T02300800010"
     },
     {
         "actual_data": "2024-04-03",
@@ -1765,20 +2152,22 @@
         "nzp_zp": "ZP",
         "order": 0,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02301402101"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-07",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0042",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-10",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 110,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600301"
     },
     {
         "actual_data": "2024-04-04",
@@ -1791,7 +2180,8 @@
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02303504001"
     },
     {
         "actual_data": "2024-07-31",
@@ -1804,10 +2194,11 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02307905001"
     },
     {
-        "actual_data": "2024-04-30",
+        "actual_data": "2024-04-29",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0043",
@@ -1817,10 +2208,11 @@
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
-        "actual_data": "2024-06-02",
+        "actual_data": "2024-05-25",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0043",
@@ -1830,20 +2222,22 @@
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800603"
     },
     {
-        "actual_data": "2024-05-24",
+        "actual_data": "2024-05-28",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0043",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": "2024-05-14",
+        "minimal_date": "2024-05-03",
         "nzp_zp": "ZP",
         "order": 90,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T02300800010"
     },
     {
         "actual_data": "2024-04-03",
@@ -1856,33 +2250,36 @@
         "nzp_zp": "ZP",
         "order": 0,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02301402101"
     },
     {
         "actual_data": "2024-05-10",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0043",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-10",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 110,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600301"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-04",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0043",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
         "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок",
+        "t_material": "T02303504001"
     },
     {
         "actual_data": "2024-07-30",
@@ -1895,20 +2292,22 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02307905001"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-26",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0044",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
         "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
         "actual_data": "2024-06-03",
@@ -1921,7 +2320,8 @@
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800603"
     },
     {
         "actual_data": "2024-04-04",
@@ -1934,20 +2334,22 @@
         "nzp_zp": "ZP",
         "order": 0,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02301402101"
     },
     {
-        "actual_data": "2024-05-08",
+        "actual_data": "2024-05-01",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0044",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-10",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 110,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600301"
     },
     {
         "actual_data": "2024-04-05",
@@ -1960,7 +2362,8 @@
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02303504001"
     },
     {
         "actual_data": "2024-08-02",
@@ -1973,20 +2376,22 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02307905001"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-26",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0045",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
         "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
         "actual_data": "2024-06-05",
@@ -1999,10 +2404,11 @@
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800603"
     },
     {
-        "actual_data": "2024-03-25",
+        "actual_data": "2024-04-05",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0045",
@@ -2012,20 +2418,22 @@
         "nzp_zp": "ZP",
         "order": 0,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02301402101"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-07",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0045",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-10",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 110,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600301"
     },
     {
         "actual_data": "2024-04-05",
@@ -2038,7 +2446,8 @@
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02303504001"
     },
     {
         "actual_data": "2024-08-01",
@@ -2051,20 +2460,22 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02307905001"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-01",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0047",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
         "minimal_date": "2024-05-10",
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
         "actual_data": "2024-06-04",
@@ -2077,7 +2488,8 @@
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800603"
     },
     {
         "actual_data": "2024-04-02",
@@ -2090,20 +2502,22 @@
         "nzp_zp": "ZP",
         "order": 0,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02301402101"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-08",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0047",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-10",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 110,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600301"
     },
     {
         "actual_data": "2024-04-03",
@@ -2116,20 +2530,22 @@
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02303504001"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-25",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0047",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
         "minimal_date": "2024-08-13",
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок",
+        "t_material": "T02307905001"
     },
     {
         "actual_data": "2024-05-02",
@@ -2142,7 +2558,8 @@
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
         "actual_data": "2024-06-03",
@@ -2155,7 +2572,8 @@
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800603"
     },
     {
         "actual_data": "2024-07-26",
@@ -2168,7 +2586,8 @@
         "nzp_zp": "ZP",
         "order": null,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Операция не отслеживается"
+        "status": "Операция не отслеживается",
+        "t_material": "T02300802001"
     },
     {
         "actual_data": "2024-04-02",
@@ -2181,20 +2600,22 @@
         "nzp_zp": "ZP",
         "order": 0,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02301402101"
     },
     {
         "actual_data": "2024-05-08",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0049",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-10",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 110,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600301"
     },
     {
         "actual_data": "2024-04-04",
@@ -2207,10 +2628,11 @@
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02303504001"
     },
     {
-        "actual_data": "2024-08-02",
+        "actual_data": "2024-07-25",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0049",
@@ -2220,7 +2642,8 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02307905001"
     },
     {
         "actual_data": "2024-04-30",
@@ -2233,10 +2656,11 @@
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
-        "actual_data": "2024-06-06",
+        "actual_data": "2024-05-25",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0050",
@@ -2246,7 +2670,8 @@
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800603"
     },
     {
         "actual_data": "2024-03-29",
@@ -2259,20 +2684,22 @@
         "nzp_zp": "ZP",
         "order": 0,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02301402101"
     },
     {
-        "actual_data": "2024-05-08",
+        "actual_data": "2024-05-01",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0050",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-10",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 110,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600301"
     },
     {
         "actual_data": "2024-04-04",
@@ -2285,7 +2712,8 @@
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02303504001"
     },
     {
         "actual_data": "2024-07-30",
@@ -2298,7 +2726,8 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02307905001"
     },
     {
         "actual_data": "2024-05-02",
@@ -2311,10 +2740,11 @@
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
-        "actual_data": "2024-06-03",
+        "actual_data": "2024-05-25",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0051",
@@ -2324,36 +2754,39 @@
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800603"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-03-25",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0051",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-04-03",
         "nzp_zp": "ZP",
         "order": 0,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок",
+        "t_material": "T02301402101"
     },
     {
-        "actual_data": "2024-05-08",
+        "actual_data": "2024-05-01",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0051",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-10",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 110,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600301"
     },
     {
-        "actual_data": "2024-04-04",
+        "actual_data": "2024-04-01",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0051",
@@ -2363,7 +2796,8 @@
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02303504001"
     },
     {
         "actual_data": "2024-07-25",
@@ -2376,7 +2810,8 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02307905001"
     },
     {
         "actual_data": "2024-05-01",
@@ -2389,7 +2824,8 @@
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
         "actual_data": "2024-06-03",
@@ -2402,7 +2838,8 @@
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800603"
     },
     {
         "actual_data": "2024-04-01",
@@ -2415,33 +2852,36 @@
         "nzp_zp": "ZP",
         "order": 0,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02301402101"
     },
     {
-        "actual_data": "2024-05-01",
+        "actual_data": "2024-05-08",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0053",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-10",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 110,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600301"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-05",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0053",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
         "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок",
+        "t_material": "T02303504001"
     },
     {
         "actual_data": "2024-07-31",
@@ -2454,7 +2894,8 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02307905001"
     },
     {
         "actual_data": "2024-04-30",
@@ -2467,7 +2908,8 @@
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
         "actual_data": "2024-06-03",
@@ -2480,7 +2922,8 @@
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800603"
     },
     {
         "actual_data": "2024-04-01",
@@ -2493,20 +2936,22 @@
         "nzp_zp": "ZP",
         "order": 0,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02301402101"
     },
     {
         "actual_data": "2024-05-08",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0055",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-10",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 110,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600301"
     },
     {
         "actual_data": "2024-04-03",
@@ -2519,7 +2964,8 @@
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02303504001"
     },
     {
         "actual_data": "2024-08-01",
@@ -2532,7 +2978,8 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02307905001"
     },
     {
         "actual_data": "2024-04-30",
@@ -2545,10 +2992,11 @@
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
-        "actual_data": "2024-06-03",
+        "actual_data": "2024-05-25",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0056",
@@ -2558,10 +3006,11 @@
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800603"
     },
     {
-        "actual_data": "2024-03-25",
+        "actual_data": "2024-04-01",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0056",
@@ -2571,20 +3020,22 @@
         "nzp_zp": "ZP",
         "order": 0,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02301402101"
     },
     {
-        "actual_data": "2024-05-01",
+        "actual_data": "2024-05-10",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0056",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-10",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 110,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600301"
     },
     {
         "actual_data": "2024-04-03",
@@ -2597,7 +3048,8 @@
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02303504001"
     },
     {
         "actual_data": "2024-08-01",
@@ -2610,7 +3062,8 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02307905001"
     },
     {
         "actual_data": "2024-04-30",
@@ -2623,7 +3076,8 @@
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
         "actual_data": "2024-06-03",
@@ -2636,7 +3090,8 @@
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800603"
     },
     {
         "actual_data": "2024-04-01",
@@ -2649,23 +3104,25 @@
         "nzp_zp": "ZP",
         "order": 0,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02301402101"
     },
     {
         "actual_data": "2024-05-10",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0057",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-10",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 110,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600301"
     },
     {
-        "actual_data": "2024-04-01",
+        "actual_data": "2024-04-04",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0057",
@@ -2675,7 +3132,8 @@
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02303504001"
     },
     {
         "actual_data": "2024-08-01",
@@ -2688,7 +3146,8 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02307905001"
     },
     {
         "actual_data": "2024-04-29",
@@ -2701,7 +3160,8 @@
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
         "actual_data": "2024-06-02",
@@ -2714,20 +3174,50 @@
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800603"
     },
     {
-        "actual_data": "2024-05-24",
+        "actual_data": "2024-05-28",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0060",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": "2024-05-14",
+        "minimal_date": "2024-05-03",
         "nzp_zp": "ZP",
         "order": 90,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T02300800010"
+    },
+    {
+        "actual_data": "2024-04-02",
+        "business_dir": "Белгород Юг",
+        "culture": "Тритикале",
+        "higher_tm": "BL-04-01-81-0060",
+        "is_actual": "Актуально",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": "2024-04-07",
+        "nzp_zp": "ZP",
+        "order": 0,
+        "pu": "РАИ ПУ Закутчанский",
+        "status": "Выполнено в срок",
+        "t_material": "T02301402101"
+    },
+    {
+        "actual_data": "2024-05-11",
+        "business_dir": "Белгород Юг",
+        "culture": "Тритикале",
+        "higher_tm": "BL-04-01-81-0060",
+        "is_actual": "Актуально",
+        "material_order": "Подкормка азотная 1-я КАС (ГА)",
+        "minimal_date": "2024-06-10",
+        "nzp_zp": "ZP",
+        "order": 110,
+        "pu": "РАИ ПУ Закутчанский",
+        "status": "Выполнено в срок",
+        "t_material": "T02300600301"
     },
     {
         "actual_data": null,
@@ -2735,51 +3225,27 @@
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0060",
         "is_actual": "Ориентировочно",
-        "material_order": "Лущение стерни (ГА)",
-        "minimal_date": "2024-04-07",
-        "nzp_zp": "ZP",
-        "order": 0,
-        "pu": "РАИ ПУ Закутчанский",
-        "status": "Просрочено"
-    },
-    {
-        "actual_data": "2024-05-11",
-        "business_dir": "Белгород Юг",
-        "culture": "Тритикале",
-        "higher_tm": "BL-04-01-81-0060",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Подкормка азотная 1-я КАС (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "order": null,
-        "pu": "РАИ ПУ Закутчанский",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-04-11",
-        "business_dir": "Белгород Юг",
-        "culture": "Тритикале",
-        "higher_tm": "BL-04-01-81-0060",
-        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
         "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено не в срок"
+        "status": "Просрочено",
+        "t_material": "T02303504001"
     },
     {
-        "actual_data": "2024-07-31",
+        "actual_data": null,
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0060",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
         "minimal_date": "2024-08-12",
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено",
+        "t_material": "T02307905001"
     },
     {
         "actual_data": "2024-05-01",
@@ -2792,10 +3258,11 @@
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
-        "actual_data": "2024-05-25",
+        "actual_data": "2024-06-03",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0062",
@@ -2805,7 +3272,8 @@
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800603"
     },
     {
         "actual_data": "2024-05-21",
@@ -2814,11 +3282,12 @@
         "higher_tm": "BL-04-01-81-0062",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": "2024-05-14",
+        "minimal_date": "2024-05-05",
         "nzp_zp": "ZP",
         "order": 90,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T02300800010"
     },
     {
         "actual_data": "2024-05-08",
@@ -2827,37 +3296,40 @@
         "higher_tm": "BL-04-01-81-0062",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Противозлаковая обр. (ГА)",
-        "minimal_date": "2024-05-14",
+        "minimal_date": "2024-05-05",
         "nzp_zp": "ZP",
         "order": 80,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T02300800604"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-01",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0062",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-04-06",
         "nzp_zp": "ZP",
         "order": 0,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок",
+        "t_material": "T02301402101"
     },
     {
         "actual_data": "2024-05-09",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0062",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-10",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 110,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600301"
     },
     {
         "actual_data": "2024-04-04",
@@ -2870,7 +3342,8 @@
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02303504001"
     },
     {
         "actual_data": "2024-08-01",
@@ -2883,7 +3356,8 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02307905001"
     },
     {
         "actual_data": "2024-04-29",
@@ -2896,7 +3370,8 @@
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
         "actual_data": "2024-05-30",
@@ -2909,7 +3384,8 @@
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800603"
     },
     {
         "actual_data": "2024-05-23",
@@ -2918,11 +3394,12 @@
         "higher_tm": "BL-04-01-81-0073",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Противозлаковая обр. (ГА)",
-        "minimal_date": "2024-05-14",
+        "minimal_date": "2024-05-03",
         "nzp_zp": "ZP",
         "order": 80,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T02300800604"
     },
     {
         "actual_data": "2024-04-04",
@@ -2935,23 +3412,25 @@
         "nzp_zp": "ZP",
         "order": 0,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02301402101"
     },
     {
         "actual_data": "2024-05-06",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0073",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-10",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 110,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600301"
     },
     {
-        "actual_data": "2024-04-05",
+        "actual_data": "2024-04-01",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0073",
@@ -2961,10 +3440,11 @@
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02303504001"
     },
     {
-        "actual_data": "2024-07-20",
+        "actual_data": "2024-08-01",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0073",
@@ -2974,7 +3454,8 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02307905001"
     },
     {
         "actual_data": "2024-04-29",
@@ -2987,7 +3468,8 @@
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
         "actual_data": "2024-05-29",
@@ -3000,23 +3482,25 @@
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800603"
     },
     {
-        "actual_data": "2024-05-27",
+        "actual_data": "2024-05-24",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0074",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": "2024-05-14",
+        "minimal_date": "2024-05-03",
         "nzp_zp": "ZP",
         "order": 90,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T02300800010"
     },
     {
-        "actual_data": "2024-03-25",
+        "actual_data": "2024-04-04",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0074",
@@ -3026,33 +3510,36 @@
         "nzp_zp": "ZP",
         "order": 0,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02301402101"
     },
     {
         "actual_data": "2024-05-07",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0074",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-10",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 110,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600301"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-01",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0074",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
         "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок",
+        "t_material": "T02303504001"
     },
     {
         "actual_data": "2024-08-01",
@@ -3065,7 +3552,8 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02307905001"
     },
     {
         "actual_data": "2024-05-02",
@@ -3074,11 +3562,12 @@
         "higher_tm": "BL-04-01-81-0523",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-05-10",
+        "minimal_date": "2024-05-12",
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
         "actual_data": "2024-06-01",
@@ -3091,7 +3580,8 @@
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800603"
     },
     {
         "actual_data": "2024-05-25",
@@ -3100,11 +3590,12 @@
         "higher_tm": "BL-04-01-81-0523",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": "2024-05-14",
+        "minimal_date": "2024-05-06",
         "nzp_zp": "ZP",
         "order": 90,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T02300800010"
     },
     {
         "actual_data": "2024-04-04",
@@ -3117,20 +3608,22 @@
         "nzp_zp": "ZP",
         "order": 0,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02301402101"
     },
     {
-        "actual_data": "2024-05-01",
+        "actual_data": "2024-05-07",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0523",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-10",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 110,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600301"
     },
     {
         "actual_data": "2024-04-11",
@@ -3143,7 +3636,8 @@
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T02303504001"
     },
     {
         "actual_data": "2024-08-02",
@@ -3156,7 +3650,8 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02307905001"
     },
     {
         "actual_data": "2024-03-27",
@@ -3169,7 +3664,8 @@
         "nzp_zp": "ZP",
         "order": 20,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300200001"
     },
     {
         "actual_data": "2024-05-02",
@@ -3182,7 +3678,8 @@
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
         "actual_data": "2024-06-01",
@@ -3195,33 +3692,36 @@
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800603"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-25",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0525",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": "2024-05-14",
+        "minimal_date": "2024-05-06",
         "nzp_zp": "ZP",
         "order": 90,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок",
+        "t_material": "T02300800010"
     },
     {
         "actual_data": "2024-05-07",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0525",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-10",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 110,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600301"
     },
     {
         "actual_data": "2024-04-05",
@@ -3234,7 +3734,8 @@
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02303504001"
     },
     {
         "actual_data": "2024-08-02",
@@ -3247,7 +3748,8 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02307905001"
     },
     {
         "actual_data": "2024-03-28",
@@ -3260,7 +3762,8 @@
         "nzp_zp": "ZP",
         "order": 20,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300200001"
     },
     {
         "actual_data": "2024-05-03",
@@ -3269,11 +3772,12 @@
         "higher_tm": "BL-04-01-81-0535",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-05-10",
+        "minimal_date": "2024-05-12",
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
         "actual_data": "2024-06-02",
@@ -3286,7 +3790,8 @@
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800603"
     },
     {
         "actual_data": "2024-05-29",
@@ -3295,11 +3800,12 @@
         "higher_tm": "BL-04-01-81-0535",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": "2024-05-14",
+        "minimal_date": "2024-05-07",
         "nzp_zp": "ZP",
         "order": 90,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T02300800010"
     },
     {
         "actual_data": "2024-05-23",
@@ -3308,37 +3814,40 @@
         "higher_tm": "BL-04-01-81-0535",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Противозлаковая обр. (ГА)",
-        "minimal_date": "2024-05-14",
+        "minimal_date": "2024-05-07",
         "nzp_zp": "ZP",
         "order": 80,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T02300800604"
     },
     {
         "actual_data": "2024-05-11",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0535",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-10",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 110,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600301"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-11",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0535",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
         "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок",
+        "t_material": "T02303504001"
     },
     {
         "actual_data": "2024-04-09",
@@ -3351,7 +3860,8 @@
         "nzp_zp": "ZP",
         "order": 30,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02301904001"
     },
     {
         "actual_data": "2024-07-26",
@@ -3364,7 +3874,8 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02307905001"
     },
     {
         "actual_data": "2024-04-28",
@@ -3377,7 +3888,8 @@
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
         "actual_data": "2024-06-02",
@@ -3390,20 +3902,22 @@
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800603"
     },
     {
-        "actual_data": "2024-05-28",
+        "actual_data": null,
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0540",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Клопиралиды 1-е (ГА)",
-        "minimal_date": "2024-05-14",
+        "minimal_date": "2024-05-02",
         "nzp_zp": "ZP",
         "order": 90,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено не в срок"
+        "status": "Просрочено",
+        "t_material": "T02300800010"
     },
     {
         "actual_data": "2024-05-24",
@@ -3412,63 +3926,68 @@
         "higher_tm": "BL-04-01-81-0540",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Противозлаковая обр. (ГА)",
-        "minimal_date": "2024-05-14",
+        "minimal_date": "2024-05-02",
         "nzp_zp": "ZP",
         "order": 80,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T02300800604"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-03-31",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0540",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Лущение стерни (ГА)",
         "minimal_date": "2024-04-05",
         "nzp_zp": "ZP",
         "order": 0,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок",
+        "t_material": "T02301402101"
     },
     {
         "actual_data": "2024-05-07",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0540",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-10",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 110,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600301"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-04",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0540",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
         "minimal_date": "2024-04-09",
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок",
+        "t_material": "T02303504001"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-28",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0540",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
         "minimal_date": "2024-08-09",
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок",
+        "t_material": "T02307905001"
     },
     {
         "actual_data": "2024-05-01",
@@ -3481,10 +4000,11 @@
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
-        "actual_data": "2024-05-25",
+        "actual_data": "2024-06-05",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0553",
@@ -3494,7 +4014,8 @@
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800603"
     },
     {
         "actual_data": "2024-03-31",
@@ -3507,20 +4028,22 @@
         "nzp_zp": "ZP",
         "order": 0,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02301402101"
     },
     {
         "actual_data": "2024-05-09",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-01-81-0553",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-10",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 110,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600301"
     },
     {
         "actual_data": "2024-04-05",
@@ -3533,7 +4056,8 @@
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02303504001"
     },
     {
         "actual_data": "2024-08-01",
@@ -3546,7 +4070,8 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02307905001"
     },
     {
         "actual_data": "2024-03-27",
@@ -3559,7 +4084,8 @@
         "nzp_zp": "ZP",
         "order": 20,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300200001"
     },
     {
         "actual_data": "2024-05-01",
@@ -3572,7 +4098,8 @@
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
         "actual_data": "2024-06-04",
@@ -3585,7 +4112,8 @@
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800603"
     },
     {
         "actual_data": "2024-05-11",
@@ -3594,24 +4122,26 @@
         "higher_tm": "BL-04-04-10-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР Противозлаковая обр. (ГА)",
-        "minimal_date": "2024-05-14",
+        "minimal_date": "2024-05-05",
         "nzp_zp": "ZP",
         "order": 80,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T02300800604"
     },
     {
         "actual_data": "2024-05-11",
         "business_dir": "Белгород Юг",
         "culture": "Тритикале",
         "higher_tm": "BL-04-04-10-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-10",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 110,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600301"
     },
     {
         "actual_data": "2024-04-02",
@@ -3624,7 +4154,8 @@
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02303504001"
     },
     {
         "actual_data": "2024-08-03",
@@ -3637,6 +4168,231 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "РАИ ПУ Закутчанский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02307905001"
+    },
+    {
+        "actual_data": null,
+        "business_dir": "Белгород Юг",
+        "culture": "Тритикале",
+        "higher_tm": "BL-04-04-34-0006",
+        "is_actual": "Ориентировочно",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": "2024-08-17",
+        "nzp_zp": "NZP",
+        "order": 150,
+        "pu": "РАИ ПУ Закутчанский",
+        "status": "Просрочено",
+        "t_material": "T02307300001"
+    },
+    {
+        "actual_data": null,
+        "business_dir": "Белгород Юг",
+        "culture": "Тритикале",
+        "higher_tm": "BL-04-04-35-0002",
+        "is_actual": "Ориентировочно",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": "2024-08-17",
+        "nzp_zp": "NZP",
+        "order": 150,
+        "pu": "РАИ ПУ Закутчанский",
+        "status": "Просрочено",
+        "t_material": "T02307300001"
+    },
+    {
+        "actual_data": null,
+        "business_dir": "Белгород Юг",
+        "culture": "Тритикале",
+        "higher_tm": "BL-04-04-35-0003",
+        "is_actual": "Ориентировочно",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": "2024-08-17",
+        "nzp_zp": "NZP",
+        "order": 150,
+        "pu": "РАИ ПУ Закутчанский",
+        "status": "Просрочено",
+        "t_material": "T02307300001"
+    },
+    {
+        "actual_data": null,
+        "business_dir": "Белгород Юг",
+        "culture": "Тритикале",
+        "higher_tm": "BL-04-04-35-0004",
+        "is_actual": "Ориентировочно",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": "2024-08-17",
+        "nzp_zp": "NZP",
+        "order": 150,
+        "pu": "РАИ ПУ Закутчанский",
+        "status": "Просрочено",
+        "t_material": "T02307300001"
+    },
+    {
+        "actual_data": "2024-10-11",
+        "business_dir": "Белгород Юг",
+        "culture": "Тритикале",
+        "higher_tm": "BL-06-01-08-0008",
+        "is_actual": "Актуально",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": "2024-08-02",
+        "nzp_zp": "NZP",
+        "order": 140,
+        "pu": "РАИ ПУ Казинский",
+        "status": "Выполнено не в срок",
+        "t_material": "T02301402101"
+    },
+    {
+        "actual_data": "2024-08-31",
+        "business_dir": "Белгород Юг",
+        "culture": "Тритикале",
+        "higher_tm": "BL-06-01-11-3002",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "order": null,
+        "pu": "РАИ ПУ Казинский",
+        "status": "Операция не отслеживается",
+        "t_material": "T02300800605"
+    },
+    {
+        "actual_data": "2024-09-14",
+        "business_dir": "Белгород Юг",
+        "culture": "Тритикале",
+        "higher_tm": "BL-06-01-11-3002",
+        "is_actual": "Актуально",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": "2024-08-02",
+        "nzp_zp": "NZP",
+        "order": 140,
+        "pu": "РАИ ПУ Казинский",
+        "status": "Выполнено не в срок",
+        "t_material": "T02301402101"
+    },
+    {
+        "actual_data": "2024-09-20",
+        "business_dir": "Белгород Юг",
+        "culture": "Тритикале",
+        "higher_tm": "BL-06-01-11-3002",
+        "is_actual": "Актуально",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": "2024-08-17",
+        "nzp_zp": "NZP",
+        "order": 150,
+        "pu": "РАИ ПУ Казинский",
+        "status": "Выполнено не в срок",
+        "t_material": "T02307300001"
+    },
+    {
+        "actual_data": "2024-08-31",
+        "business_dir": "Белгород Юг",
+        "culture": "Тритикале",
+        "higher_tm": "BL-06-01-11-3014",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "order": null,
+        "pu": "РАИ ПУ Казинский",
+        "status": "Операция не отслеживается",
+        "t_material": "T02300800605"
+    },
+    {
+        "actual_data": "2024-09-11",
+        "business_dir": "Белгород Юг",
+        "culture": "Тритикале",
+        "higher_tm": "BL-06-01-12-3113",
+        "is_actual": "Актуально",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": "2024-08-02",
+        "nzp_zp": "NZP",
+        "order": 140,
+        "pu": "РАИ ПУ Казинский",
+        "status": "Выполнено не в срок",
+        "t_material": "T02301402101"
+    },
+    {
+        "actual_data": "2024-08-28",
+        "business_dir": "Белгород Юг",
+        "culture": "Тритикале",
+        "higher_tm": "BL-06-01-20-2007",
+        "is_actual": "Актуально",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": "2024-08-02",
+        "nzp_zp": "NZP",
+        "order": 140,
+        "pu": "РАИ ПУ Казинский",
+        "status": "Выполнено не в срок",
+        "t_material": "T02301402101"
+    },
+    {
+        "actual_data": "2024-09-13",
+        "business_dir": "Белгород Юг",
+        "culture": "Тритикале",
+        "higher_tm": "BL-06-01-20-2007",
+        "is_actual": "Актуально",
+        "material_order": "Осн.обработка почвы глубокорыхление (ГА)",
+        "minimal_date": "2024-08-17",
+        "nzp_zp": "NZP",
+        "order": 150,
+        "pu": "РАИ ПУ Казинский",
+        "status": "Выполнено не в срок",
+        "t_material": "T02307300001"
+    },
+    {
+        "actual_data": "2024-08-28",
+        "business_dir": "Белгород Юг",
+        "culture": "Тритикале",
+        "higher_tm": "BL-06-01-20-2008",
+        "is_actual": "Актуально",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": "2024-08-02",
+        "nzp_zp": "NZP",
+        "order": 140,
+        "pu": "РАИ ПУ Казинский",
+        "status": "Выполнено не в срок",
+        "t_material": "T02301402101"
+    },
+    {
+        "actual_data": "2024-10-07",
+        "business_dir": "Белгород Юг",
+        "culture": "Тритикале",
+        "higher_tm": "BL-06-01-23-0003",
+        "is_actual": "Актуально",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": "2024-08-02",
+        "nzp_zp": "NZP",
+        "order": 140,
+        "pu": "РАИ ПУ Казинский",
+        "status": "Выполнено не в срок",
+        "t_material": "T02301402101"
+    },
+    {
+        "actual_data": "2024-09-24",
+        "business_dir": "Белгород Юг",
+        "culture": "Тритикале",
+        "higher_tm": "BL-06-01-25-0004",
+        "is_actual": "Статус отсутствует",
+        "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
+        "minimal_date": null,
+        "nzp_zp": "NZP",
+        "order": null,
+        "pu": "РАИ ПУ Казинский",
+        "status": "Операция не отслеживается",
+        "t_material": "T02300800605"
+    },
+    {
+        "actual_data": "2024-09-30",
+        "business_dir": "Белгород Юг",
+        "culture": "Тритикале",
+        "higher_tm": "BL-06-01-25-0004",
+        "is_actual": "Актуально",
+        "material_order": "Лущение стерни (ГА)",
+        "minimal_date": "2024-08-02",
+        "nzp_zp": "NZP",
+        "order": 140,
+        "pu": "РАИ ПУ Казинский",
+        "status": "Выполнено не в срок",
+        "t_material": "T02301402101"
     }
 ]

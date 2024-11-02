@@ -151,19 +151,19 @@ void calc_minimal_date(initial_data init_data[], unique_pairs uniq_pairs[CULTURE
     boost::locale::generator gen;
     std::locale loc = gen.generate("ru_RU.UTF-8");
 
-    //#pragma omp parallel for collapse(2)
+    #pragma omp parallel for collapse(2)
     for (int culture = 0; culture < CULTURES_COUNT; culture++)
     {
         for (int region = 0; region < REGIONS_COUNT; region++)
         {
-            //#pragma omp parallel for 
+            #pragma omp parallel for 
             for (int i = 0; i < uniq_pairs[culture][region].row_count; i++)
             {
                 for (int j = 0; j < init_data[culture].row_count; j++)
                 {
                     // Преобразование строк с использованием локали, созданной заранее
-                    if (boost::locale::to_lower(uniq_pairs[culture][region].material_order[i].value(), loc) ==
-                        boost::locale::to_lower(init_data[culture].operation[j].value(), loc) and
+                    if (boost::locale::to_lower(uniq_pairs[culture][region].t_material[i].value(), loc) ==
+                        boost::locale::to_lower(init_data[culture].t_material[j].value(), loc) and
                         uniq_pairs[culture][region].nzp_zp[i].value() == init_data[culture].season[j].value() and uniq_pairs[culture][region].culture[i].value() == CULTURES_RUS[culture])
                     {
                         //очередь операций

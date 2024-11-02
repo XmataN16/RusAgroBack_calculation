@@ -15,6 +15,7 @@ public:
     std::vector<std::optional<float>> planned_volume;
     std::vector<std::optional<float>> actual_volume;
     std::vector<std::optional<std::string>> pu;
+    std::vector<std::optional<std::string>> t_material;
 
     data(soci::rowset<soci::row> data)
     {
@@ -31,6 +32,7 @@ public:
             planned_volume.push_back(r.get_indicator(7) == soci::i_null ? std::optional<double>{} : r.get<double>(7));
             actual_volume.push_back(r.get_indicator(8) == soci::i_null ? std::optional<double>{} : r.get<double>(8));
             pu.push_back(r.get_indicator(9) == soci::i_null ? std::optional<std::string>{} : r.get<std::string>(9));
+            t_material.push_back(r.get_indicator(10) == soci::i_null ? std::optional<std::string>{} : r.get<std::string>(10));
         }
         this->row_count = this->id.size();
     }
@@ -76,6 +78,11 @@ public:
                 std::cout << "Higher TM: " << higher_tm[i].value() << "\n";
             else
                 std::cout << "Higher TM: NULL\n";
+
+            if (t_material[i].has_value())
+                std::cout << "t_material: " << t_material[i].value() << "\n";
+            else
+                std::cout << "t_material: NULL\n";
 
             if (material_order[i].has_value())
                 std::cout << "Material Order: " << material_order[i].value() << "\n";
@@ -133,6 +140,11 @@ public:
                 std::cout << "Higher TM: " << higher_tm[i].value() << "\n";
             else
                 std::cout << "Higher TM: NULL\n";
+
+            if (t_material[i].has_value())
+                std::cout << "t_material: " << t_material[i].value() << "\n";
+            else
+                std::cout << "t_material: NULL\n";
 
             if (material_order[i].has_value())
                 std::cout << "Material Order: " << material_order[i].value() << "\n";

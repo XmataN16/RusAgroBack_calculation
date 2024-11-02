@@ -4,39 +4,42 @@
         "business_dir": "Тамбов-Юг",
         "culture": "Чечевица",
         "higher_tm": "TM-06-14-02-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Гербиц. сплош. действ. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-27",
         "nzp_zp": "ZP",
         "order": 90,
         "pu": "АГТ ПУ Знаменский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T03800800610"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-20",
         "business_dir": "Тамбов-Юг",
         "culture": "Чечевица",
         "higher_tm": "TM-06-14-02-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР Десикация (ГА)",
         "minimal_date": "2024-07-30",
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "АГТ ПУ Знаменский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок",
+        "t_material": "T03800802001"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-22",
         "business_dir": "Тамбов-Юг",
         "culture": "Чечевица",
         "higher_tm": "TM-06-14-02-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-04-23",
         "nzp_zp": "ZP",
         "order": 20,
         "pu": "АГТ ПУ Знаменский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T03803504001"
     },
     {
         "actual_data": "2024-04-22",
@@ -49,7 +52,8 @@
         "nzp_zp": "ZP",
         "order": 10,
         "pu": "АГТ ПУ Знаменский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T03801904001"
     },
     {
         "actual_data": null,
@@ -58,14 +62,15 @@
         "higher_tm": "TM-06-14-02-0001",
         "is_actual": "Ориентировочно",
         "material_order": "Прямое комбайн. с изм. соломы (ГА)",
-        "minimal_date": "2024-08-23",
+        "minimal_date": "2024-08-27",
         "nzp_zp": "ZP",
         "order": 50,
         "pu": "АГТ ПУ Знаменский",
-        "status": "Просрочено"
+        "status": "Просрочено",
+        "t_material": "T03807902001"
     },
     {
-        "actual_data": "2024-04-01",
+        "actual_data": "2024-04-13",
         "business_dir": "Тамбов-Юг",
         "culture": "Чечевица",
         "higher_tm": "TM-06-21-29-0003",
@@ -75,7 +80,8 @@
         "nzp_zp": "ZP",
         "order": 0,
         "pu": "АГТ ПУ Знаменский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T03800200001"
     },
     {
         "actual_data": "2024-04-14",
@@ -88,23 +94,25 @@
         "nzp_zp": "ZP",
         "order": 0,
         "pu": "АГТ ПУ Знаменский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T03800200001"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-16",
         "business_dir": "Тамбов-Юг",
         "culture": "Чечевица",
         "higher_tm": "TM-06-21-29-0006",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Боронование (ГА)",
         "minimal_date": "2024-04-21",
         "nzp_zp": "ZP",
         "order": 0,
         "pu": "АГТ ПУ Знаменский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок",
+        "t_material": "T03800200001"
     },
     {
-        "actual_data": "2024-04-17",
+        "actual_data": "2024-04-19",
         "business_dir": "Тамбов-Юг",
         "culture": "Чечевица",
         "higher_tm": "TM-06-21-29-0006",
@@ -114,10 +122,11 @@
         "nzp_zp": "ZP",
         "order": 90,
         "pu": "АГТ ПУ Знаменский",
-        "status": "Операция не отслеживается"
+        "status": "Операция не отслеживается",
+        "t_material": "T03800800610"
     },
     {
-        "actual_data": "2024-04-01",
+        "actual_data": "2024-04-16",
         "business_dir": "Тамбов-Юг",
         "culture": "Чечевица",
         "higher_tm": "TM-06-21-29-0007",
@@ -127,6 +136,7 @@
         "nzp_zp": "ZP",
         "order": 0,
         "pu": "АГТ ПУ Знаменский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T03800200001"
     }
 ]

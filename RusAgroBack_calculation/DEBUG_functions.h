@@ -2,7 +2,7 @@
 // Вывод числа объектов по каждому статусу
 void DEBUG_get_count_rows_on_status(unique_pairs uniq_pairs[CULTURES_COUNT][REGIONS_COUNT])
 {
-    float sum1 = 0, sum2 = 0, sum3 = 0, sum4 = 0, sum5 = 0;
+    float sum1 = 0, sum2 = 0, sum3 = 0, sum4 = 0, sum5 = 0, sum6 = 0;
     for (int culture = 0; culture < CULTURES_COUNT; culture++)
     {
         for (int region = 0; region < REGIONS_COUNT; region++)
@@ -29,6 +29,10 @@ void DEBUG_get_count_rows_on_status(unique_pairs uniq_pairs[CULTURES_COUNT][REGI
                 {
                     sum5++;
                 }
+                else if (uniq_pairs[culture][region].status[row].value() == u8"Выполнено частично")
+                {
+                    sum6++;
+                }
             }
         }
     }
@@ -39,6 +43,7 @@ void DEBUG_get_count_rows_on_status(unique_pairs uniq_pairs[CULTURES_COUNT][REGI
     std::cout << u8"Просрочено: " << sum3 << u8" или " << float(sum3 / all_count) * 100.0 << "%" << std::endl;
     std::cout << u8"Выполнено в срок: " << sum4 << u8" или " << float(sum4 / all_count) * 100.0 << "%" << std::endl;
     std::cout << u8"Выполнено не в срок: " << sum5 << u8" или " << float(sum5 / all_count) * 100.0 << "%" << std::endl;
+    std::cout << u8"Выполнено частично: " << sum6 << u8" или " << float(sum6 / all_count) * 100.0 << "%" << std::endl;
 }
 
 // Вывод статуса по заданным операции и полю

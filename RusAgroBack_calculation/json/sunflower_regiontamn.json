@@ -1,6 +1,6 @@
 [
     {
-        "actual_data": "2024-04-22",
+        "actual_data": "2024-02-09",
         "business_dir": "Тамбов-Север",
         "culture": "Подсолнечник",
         "higher_tm": "TM-03-21-01-0002",
@@ -10,7 +10,8 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T01107901001"
     },
     {
         "actual_data": "2024-05-02",
@@ -23,7 +24,8 @@
         "nzp_zp": "ZP",
         "order": 60,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T01100600104"
     },
     {
         "actual_data": "2024-06-02",
@@ -32,24 +34,26 @@
         "higher_tm": "TM-03-41-17-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-05-31",
+        "minimal_date": "2024-06-02",
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T01100800603"
     },
     {
         "actual_data": "2024-06-09",
         "business_dir": "Тамбов-Север",
         "culture": "Подсолнечник",
         "higher_tm": "TM-03-41-17-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я противозлак. обр. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-04",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 130,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено не в срок",
+        "t_material": "T01100800005"
     },
     {
         "actual_data": "2024-07-14",
@@ -58,11 +62,12 @@
         "higher_tm": "TM-03-41-17-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-24",
+        "minimal_date": "2024-06-26",
         "nzp_zp": "ZP",
         "order": 140,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T01100800604"
     },
     {
         "actual_data": "2024-06-27",
@@ -75,20 +80,8 @@
         "nzp_zp": "ZP",
         "order": null,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": null,
-        "business_dir": "Тамбов-Север",
-        "culture": "Подсолнечник",
-        "higher_tm": "TM-03-41-17-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР Десикация (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "order": 260,
-        "pu": "АГТ ПУ Первомайский",
-        "status": "Операция не отслеживается"
+        "status": "Операция не отслеживается",
+        "t_material": "T01100800011"
     },
     {
         "actual_data": "2024-05-02",
@@ -97,11 +90,12 @@
         "higher_tm": "TM-03-41-17-0001",
         "is_actual": "Актуально",
         "material_order": "Посев без внесения удобрений (ГА)",
-        "minimal_date": "2024-04-22",
+        "minimal_date": "2024-04-30",
         "nzp_zp": "ZP",
         "order": 90,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T01103501001"
     },
     {
         "actual_data": "2024-05-01",
@@ -110,14 +104,15 @@
         "higher_tm": "TM-03-41-17-0001",
         "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": "2024-04-22",
+        "minimal_date": "2024-04-30",
         "nzp_zp": "ZP",
         "order": 100,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T01103504001"
     },
     {
-        "actual_data": "2024-04-21",
+        "actual_data": null,
         "business_dir": "Тамбов-Север",
         "culture": "Подсолнечник",
         "higher_tm": "TM-03-41-17-0001",
@@ -127,20 +122,22 @@
         "nzp_zp": "ZP",
         "order": 80,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено",
+        "t_material": "T01101904001"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-10-28",
         "business_dir": "Тамбов-Север",
         "culture": "Подсолнечник",
         "higher_tm": "TM-03-41-17-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. корзинок (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-11-17",
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T01107901001"
     },
     {
         "actual_data": "2024-05-02",
@@ -153,10 +150,11 @@
         "nzp_zp": "ZP",
         "order": 60,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T01100600104"
     },
     {
-        "actual_data": "2024-05-12",
+        "actual_data": "2024-06-01",
         "business_dir": "Тамбов-Север",
         "culture": "Подсолнечник",
         "higher_tm": "TM-03-41-17-0002",
@@ -166,20 +164,22 @@
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T01100800603"
     },
     {
         "actual_data": null,
         "business_dir": "Тамбов-Север",
         "culture": "Подсолнечник",
         "higher_tm": "TM-03-41-17-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я противозлак. обр. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-04",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 130,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Операция не отслеживается"
+        "status": "Просрочено",
+        "t_material": "T01100800005"
     },
     {
         "actual_data": "2024-07-13",
@@ -192,7 +192,8 @@
         "nzp_zp": "ZP",
         "order": 140,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T01100800604"
     },
     {
         "actual_data": "2024-06-25",
@@ -205,20 +206,8 @@
         "nzp_zp": "ZP",
         "order": null,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": null,
-        "business_dir": "Тамбов-Север",
-        "culture": "Подсолнечник",
-        "higher_tm": "TM-03-41-17-0002",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР Десикация (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "order": 260,
-        "pu": "АГТ ПУ Первомайский",
-        "status": "Операция не отслеживается"
+        "status": "Операция не отслеживается",
+        "t_material": "T01100800011"
     },
     {
         "actual_data": "2024-04-25",
@@ -231,10 +220,11 @@
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T01101402101"
     },
     {
-        "actual_data": "2024-05-08",
+        "actual_data": null,
         "business_dir": "Тамбов-Север",
         "culture": "Подсолнечник",
         "higher_tm": "TM-03-41-17-0002",
@@ -244,10 +234,11 @@
         "nzp_zp": "ZP",
         "order": 90,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Выполнено не в срок"
+        "status": "Просрочено",
+        "t_material": "T01103501001"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-02",
         "business_dir": "Тамбов-Север",
         "culture": "Подсолнечник",
         "higher_tm": "TM-03-41-17-0002",
@@ -257,20 +248,22 @@
         "nzp_zp": "ZP",
         "order": 80,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок",
+        "t_material": "T01101904001"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-10-29",
         "business_dir": "Тамбов-Север",
         "culture": "Подсолнечник",
         "higher_tm": "TM-03-41-17-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. корзинок (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-11-18",
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T01107901001"
     },
     {
         "actual_data": "2024-05-02",
@@ -283,46 +276,50 @@
         "nzp_zp": "ZP",
         "order": 60,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T01100600104"
     },
     {
-        "actual_data": "2024-06-01",
+        "actual_data": "2024-05-12",
         "business_dir": "Тамбов-Север",
         "culture": "Подсолнечник",
         "higher_tm": "TM-03-41-17-0003",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-05-31",
+        "minimal_date": "2024-06-08",
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T01100800603"
     },
     {
         "actual_data": "2024-06-08",
         "business_dir": "Тамбов-Север",
         "culture": "Подсолнечник",
         "higher_tm": "TM-03-41-17-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я противозлак. обр. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-16",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 130,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено не в срок",
+        "t_material": "T01100800005"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-13",
         "business_dir": "Тамбов-Север",
         "culture": "Подсолнечник",
         "higher_tm": "TM-03-41-17-0003",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-24",
+        "minimal_date": "2024-07-02",
         "nzp_zp": "ZP",
         "order": 140,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок",
+        "t_material": "T01100800604"
     },
     {
         "actual_data": "2024-06-26",
@@ -335,20 +332,8 @@
         "nzp_zp": "ZP",
         "order": null,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": null,
-        "business_dir": "Тамбов-Север",
-        "culture": "Подсолнечник",
-        "higher_tm": "TM-03-41-17-0003",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР Десикация (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "order": 260,
-        "pu": "АГТ ПУ Первомайский",
-        "status": "Операция не отслеживается"
+        "status": "Операция не отслеживается",
+        "t_material": "T01100800011"
     },
     {
         "actual_data": "2024-04-26",
@@ -361,7 +346,8 @@
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T01101402101"
     },
     {
         "actual_data": "2024-05-08",
@@ -370,14 +356,15 @@
         "higher_tm": "TM-03-41-17-0003",
         "is_actual": "Актуально",
         "material_order": "Посев без внесения удобрений (ГА)",
-        "minimal_date": "2024-04-16",
+        "minimal_date": "2024-04-30",
         "nzp_zp": "ZP",
         "order": 90,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T01103501001"
     },
     {
-        "actual_data": "2024-04-15",
+        "actual_data": "2024-05-03",
         "business_dir": "Тамбов-Север",
         "culture": "Подсолнечник",
         "higher_tm": "TM-03-41-17-0003",
@@ -387,23 +374,25 @@
         "nzp_zp": "ZP",
         "order": 80,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T01101904001"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-10-29",
         "business_dir": "Тамбов-Север",
         "culture": "Подсолнечник",
         "higher_tm": "TM-03-41-17-0003",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. корзинок (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-11-18",
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T01107901001"
     },
     {
-        "actual_data": "2024-05-06",
+        "actual_data": "2024-05-02",
         "business_dir": "Тамбов-Север",
         "culture": "Подсолнечник",
         "higher_tm": "TM-03-41-17-0004",
@@ -413,46 +402,50 @@
         "nzp_zp": "ZP",
         "order": 60,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T01100600104"
     },
     {
-        "actual_data": "2024-06-02",
+        "actual_data": "2024-05-12",
         "business_dir": "Тамбов-Север",
         "culture": "Подсолнечник",
         "higher_tm": "TM-03-41-17-0004",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-05-31",
+        "minimal_date": "2024-06-06",
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T01100800603"
     },
     {
         "actual_data": "2024-06-09",
         "business_dir": "Тамбов-Север",
         "culture": "Подсолнечник",
         "higher_tm": "TM-03-41-17-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я противозлак. обр. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-05-16",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 130,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено не в срок",
+        "t_material": "T01100800005"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-16",
         "business_dir": "Тамбов-Север",
         "culture": "Подсолнечник",
         "higher_tm": "TM-03-41-17-0004",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-24",
+        "minimal_date": "2024-06-30",
         "nzp_zp": "ZP",
         "order": 140,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок",
+        "t_material": "T01100800604"
     },
     {
         "actual_data": "2024-06-28",
@@ -465,59 +458,50 @@
         "nzp_zp": "ZP",
         "order": null,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Операция не отслеживается"
+        "status": "Операция не отслеживается",
+        "t_material": "T01100800011"
     },
     {
-        "actual_data": null,
-        "business_dir": "Тамбов-Север",
-        "culture": "Подсолнечник",
-        "higher_tm": "TM-03-41-17-0004",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР Десикация (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "order": 260,
-        "pu": "АГТ ПУ Первомайский",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-05-01",
+        "actual_data": "2024-05-06",
         "business_dir": "Тамбов-Север",
         "culture": "Подсолнечник",
         "higher_tm": "TM-03-41-17-0004",
         "is_actual": "Актуально",
         "material_order": "Посев без внесения удобрений (ГА)",
-        "minimal_date": "2024-04-30",
+        "minimal_date": "2024-04-25",
         "nzp_zp": "ZP",
         "order": 90,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T01103501001"
     },
     {
-        "actual_data": "2024-05-03",
+        "actual_data": "2024-04-24",
         "business_dir": "Тамбов-Север",
         "culture": "Подсолнечник",
         "higher_tm": "TM-03-41-17-0004",
         "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": "2024-05-07",
+        "minimal_date": "2024-05-03",
         "nzp_zp": "ZP",
         "order": 80,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T01101904001"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-10-27",
         "business_dir": "Тамбов-Север",
         "culture": "Подсолнечник",
         "higher_tm": "TM-03-41-17-0004",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. с изм. корзинок (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-11-16",
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T01107901001"
     },
     {
         "actual_data": "2024-04-26",
@@ -530,10 +514,11 @@
         "nzp_zp": "ZP",
         "order": 50,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T01100200001"
     },
     {
-        "actual_data": "2024-05-03",
+        "actual_data": "2024-04-29",
         "business_dir": "Тамбов-Север",
         "culture": "Подсолнечник",
         "higher_tm": "TM-03-42-02-0001",
@@ -543,20 +528,22 @@
         "nzp_zp": "ZP",
         "order": 60,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T01100600104"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-10",
         "business_dir": "Тамбов-Север",
         "culture": "Подсолнечник",
         "higher_tm": "TM-03-42-02-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-05-31",
+        "minimal_date": "2024-06-25",
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок",
+        "t_material": "T01100800603"
     },
     {
         "actual_data": "2024-06-23",
@@ -565,50 +552,40 @@
         "higher_tm": "TM-03-42-02-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-24",
+        "minimal_date": "2024-07-19",
         "nzp_zp": "ZP",
         "order": 140,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T01100800604"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-25",
         "business_dir": "Тамбов-Север",
         "culture": "Подсолнечник",
         "higher_tm": "TM-03-42-02-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР Десикация (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "order": 260,
-        "pu": "АГТ ПУ Первомайский",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": null,
-        "business_dir": "Тамбов-Север",
-        "culture": "Подсолнечник",
-        "higher_tm": "TM-03-42-02-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": "2024-04-30",
         "nzp_zp": "ZP",
         "order": 90,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок",
+        "t_material": "T01103501001"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-08",
         "business_dir": "Тамбов-Север",
         "culture": "Подсолнечник",
         "higher_tm": "TM-03-42-02-0001",
         "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": "2024-05-04",
+        "minimal_date": "2024-05-01",
         "nzp_zp": "ZP",
         "order": 80,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок",
+        "t_material": "T01101904001"
     },
     {
         "actual_data": null,
@@ -621,7 +598,8 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Операция не отслеживается"
+        "status": "Операция не отслеживается",
+        "t_material": "T01107901001"
     },
     {
         "actual_data": "2024-04-18",
@@ -634,7 +612,8 @@
         "nzp_zp": "ZP",
         "order": 50,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T01100200001"
     },
     {
         "actual_data": "2024-05-02",
@@ -647,7 +626,8 @@
         "nzp_zp": "ZP",
         "order": 60,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T01100600104"
     },
     {
         "actual_data": "2024-06-11",
@@ -656,11 +636,12 @@
         "higher_tm": "TM-03-42-02-0002",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-05-31",
+        "minimal_date": "2024-06-09",
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T01100800603"
     },
     {
         "actual_data": "2024-06-20",
@@ -669,40 +650,29 @@
         "higher_tm": "TM-03-42-02-0002",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-24",
+        "minimal_date": "2024-07-03",
         "nzp_zp": "ZP",
         "order": 140,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T01100800604"
     },
     {
-        "actual_data": null,
-        "business_dir": "Тамбов-Север",
-        "culture": "Подсолнечник",
-        "higher_tm": "TM-03-42-02-0002",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР Десикация (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "order": 260,
-        "pu": "АГТ ПУ Первомайский",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": "2024-05-08",
+        "actual_data": "2024-05-09",
         "business_dir": "Тамбов-Север",
         "culture": "Подсолнечник",
         "higher_tm": "TM-03-42-02-0002",
         "is_actual": "Актуально",
         "material_order": "Посев без внесения удобрений (ГА)",
-        "minimal_date": "2024-04-30",
+        "minimal_date": "2024-04-16",
         "nzp_zp": "ZP",
         "order": 90,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T01103501001"
     },
     {
-        "actual_data": "2024-05-03",
+        "actual_data": "2024-04-15",
         "business_dir": "Тамбов-Север",
         "culture": "Подсолнечник",
         "higher_tm": "TM-03-42-02-0002",
@@ -712,7 +682,8 @@
         "nzp_zp": "ZP",
         "order": 80,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T01101904001"
     },
     {
         "actual_data": null,
@@ -725,7 +696,8 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Операция не отслеживается"
+        "status": "Операция не отслеживается",
+        "t_material": "T01107901001"
     },
     {
         "actual_data": "2024-04-01",
@@ -738,20 +710,22 @@
         "nzp_zp": "ZP",
         "order": 50,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T01100200001"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-08",
         "business_dir": "Тамбов-Север",
         "culture": "Подсолнечник",
         "higher_tm": "TM-03-42-05-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение азот. удобр. перед севом (ГА)",
         "minimal_date": "2024-05-18",
         "nzp_zp": "ZP",
         "order": 60,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок",
+        "t_material": "T01100600104"
     },
     {
         "actual_data": "2024-06-09",
@@ -760,11 +734,12 @@
         "higher_tm": "TM-03-42-05-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-05-31",
+        "minimal_date": "2024-06-25",
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T01100800603"
     },
     {
         "actual_data": "2024-06-12",
@@ -773,24 +748,12 @@
         "higher_tm": "TM-03-42-05-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-24",
+        "minimal_date": "2024-07-19",
         "nzp_zp": "ZP",
         "order": 140,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Выполнено в срок"
-    },
-    {
-        "actual_data": null,
-        "business_dir": "Тамбов-Север",
-        "culture": "Подсолнечник",
-        "higher_tm": "TM-03-42-05-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР Десикация (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "order": 260,
-        "pu": "АГТ ПУ Первомайский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T01100800604"
     },
     {
         "actual_data": "2024-05-25",
@@ -803,7 +766,22 @@
         "nzp_zp": "ZP",
         "order": 90,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T01103501001"
+    },
+    {
+        "actual_data": "2024-05-08",
+        "business_dir": "Тамбов-Север",
+        "culture": "Подсолнечник",
+        "higher_tm": "TM-03-42-05-0001",
+        "is_actual": "Актуально",
+        "material_order": "Предпосевная культивация (ГА)",
+        "minimal_date": "2024-05-09",
+        "nzp_zp": "ZP",
+        "order": 80,
+        "pu": "АГТ ПУ Первомайский",
+        "status": "Выполнено в срок",
+        "t_material": "T01101904001"
     },
     {
         "actual_data": null,
@@ -811,25 +789,13 @@
         "culture": "Подсолнечник",
         "higher_tm": "TM-03-42-05-0001",
         "is_actual": "Ориентировочно",
-        "material_order": "Предпосевная культивация (ГА)",
-        "minimal_date": "2024-05-01",
-        "nzp_zp": "ZP",
-        "order": 80,
-        "pu": "АГТ ПУ Первомайский",
-        "status": "Просрочено"
-    },
-    {
-        "actual_data": null,
-        "business_dir": "Тамбов-Север",
-        "culture": "Подсолнечник",
-        "higher_tm": "TM-03-42-05-0001",
-        "is_actual": "Статус отсутствует",
         "material_order": "Прямое комбайн. с изм. корзинок (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-11-19",
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Операция не отслеживается"
+        "status": "Не завершено",
+        "t_material": "T01107901001"
     },
     {
         "actual_data": "2024-03-19",
@@ -842,7 +808,8 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T01107901001"
     },
     {
         "actual_data": "2024-04-28",
@@ -855,10 +822,11 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T01107901001"
     },
     {
-        "actual_data": "2024-04-28",
+        "actual_data": "2024-03-23",
         "business_dir": "Тамбов-Север",
         "culture": "Подсолнечник",
         "higher_tm": "TM-03-42-07-0001",
@@ -868,7 +836,8 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T01107901001"
     },
     {
         "actual_data": "2024-04-23",
@@ -881,7 +850,8 @@
         "nzp_zp": "ZP",
         "order": 50,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T01100200001"
     },
     {
         "actual_data": "2024-04-29",
@@ -894,7 +864,8 @@
         "nzp_zp": "ZP",
         "order": 60,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T01100600104"
     },
     {
         "actual_data": "2024-06-11",
@@ -903,11 +874,12 @@
         "higher_tm": "TM-03-42-15-0002",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-05-31",
+        "minimal_date": "2024-06-09",
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T01100800603"
     },
     {
         "actual_data": "2024-06-21",
@@ -916,24 +888,12 @@
         "higher_tm": "TM-03-42-15-0002",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 2-я баковая смесь (ГА)",
-        "minimal_date": "2024-06-24",
+        "minimal_date": "2024-07-03",
         "nzp_zp": "ZP",
         "order": 140,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Выполнено в срок"
-    },
-    {
-        "actual_data": null,
-        "business_dir": "Тамбов-Север",
-        "culture": "Подсолнечник",
-        "higher_tm": "TM-03-42-15-0002",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР Десикация (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "order": 260,
-        "pu": "АГТ ПУ Первомайский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T01100800604"
     },
     {
         "actual_data": "2024-05-09",
@@ -946,7 +906,8 @@
         "nzp_zp": "ZP",
         "order": 90,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T01103501001"
     },
     {
         "actual_data": "2024-05-06",
@@ -959,20 +920,22 @@
         "nzp_zp": "ZP",
         "order": 80,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T01101904001"
     },
     {
         "actual_data": null,
         "business_dir": "Тамбов-Север",
         "culture": "Подсолнечник",
         "higher_tm": "TM-03-42-15-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Прямое комбайн. с изм. корзинок (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-11-19",
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "АГТ ПУ Первомайский",
-        "status": "Операция не отслеживается"
+        "status": "Не завершено",
+        "t_material": "T01107901001"
     },
     {
         "actual_data": "2024-05-12",
@@ -985,46 +948,36 @@
         "nzp_zp": "ZP",
         "order": 60,
         "pu": "АГТ ПУ Кочетовский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T01100600104"
     },
     {
-        "actual_data": "2024-05-12",
+        "actual_data": "2024-06-14",
         "business_dir": "Тамбов-Север",
         "culture": "Подсолнечник",
         "higher_tm": "TM-03-51-21-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-05-31",
+        "minimal_date": "2024-06-19",
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "АГТ ПУ Кочетовский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T01100800603"
     },
     {
         "actual_data": "2024-06-11",
         "business_dir": "Тамбов-Север",
         "culture": "Подсолнечник",
         "higher_tm": "TM-03-51-21-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я противозлак. обр. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-04",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 130,
         "pu": "АГТ ПУ Кочетовский",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": null,
-        "business_dir": "Тамбов-Север",
-        "culture": "Подсолнечник",
-        "higher_tm": "TM-03-51-21-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР Десикация (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "order": 260,
-        "pu": "АГТ ПУ Кочетовский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено не в срок",
+        "t_material": "T01100800005"
     },
     {
         "actual_data": "2024-05-21",
@@ -1037,7 +990,8 @@
         "nzp_zp": "ZP",
         "order": null,
         "pu": "АГТ ПУ Кочетовский",
-        "status": "Операция не отслеживается"
+        "status": "Операция не отслеживается",
+        "t_material": "T01100800607"
     },
     {
         "actual_data": "2024-05-18",
@@ -1050,7 +1004,8 @@
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "АГТ ПУ Кочетовский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T01101402101"
     },
     {
         "actual_data": "2024-05-19",
@@ -1063,72 +1018,64 @@
         "nzp_zp": "ZP",
         "order": 90,
         "pu": "АГТ ПУ Кочетовский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T01103501001"
     },
     {
         "actual_data": null,
         "business_dir": "Тамбов-Север",
         "culture": "Подсолнечник",
         "higher_tm": "TM-03-51-21-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Прямое комбайн. с изм. корзинок (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-11-12",
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "АГТ ПУ Кочетовский",
-        "status": "Операция не отслеживается"
+        "status": "Не завершено",
+        "t_material": "T01107901001"
     },
     {
-        "actual_data": "2024-05-12",
+        "actual_data": "2024-06-14",
         "business_dir": "Тамбов-Север",
         "culture": "Подсолнечник",
         "higher_tm": "TM-03-51-22-0002",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-05-31",
+        "minimal_date": "2024-06-19",
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "АГТ ПУ Кочетовский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T01100800603"
     },
     {
-        "actual_data": "2024-05-20",
+        "actual_data": "2024-06-11",
         "business_dir": "Тамбов-Север",
         "culture": "Подсолнечник",
         "higher_tm": "TM-03-51-22-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я противозлак. обр. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-04",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 130,
         "pu": "АГТ ПУ Кочетовский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено не в срок",
+        "t_material": "T01100800005"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-19",
         "business_dir": "Тамбов-Север",
         "culture": "Подсолнечник",
         "higher_tm": "TM-03-51-22-0002",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР Десикация (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "order": 260,
-        "pu": "АГТ ПУ Кочетовский",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": null,
-        "business_dir": "Тамбов-Север",
-        "culture": "Подсолнечник",
-        "higher_tm": "TM-03-51-22-0002",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Посев без внесения удобрений (ГА)",
         "minimal_date": "2024-04-30",
         "nzp_zp": "ZP",
         "order": 90,
         "pu": "АГТ ПУ Кочетовский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок",
+        "t_material": "T01103501001"
     },
     {
         "actual_data": null,
@@ -1141,10 +1088,11 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "АГТ ПУ Кочетовский",
-        "status": "Операция не отслеживается"
+        "status": "Операция не отслеживается",
+        "t_material": "T01107901001"
     },
     {
-        "actual_data": "2024-04-26",
+        "actual_data": "2024-05-12",
         "business_dir": "Тамбов-Север",
         "culture": "Подсолнечник",
         "higher_tm": "TM-03-51-24-0001",
@@ -1154,7 +1102,8 @@
         "nzp_zp": "ZP",
         "order": 60,
         "pu": "АГТ ПУ Кочетовский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T01100600104"
     },
     {
         "actual_data": "2024-06-14",
@@ -1167,33 +1116,22 @@
         "nzp_zp": "ZP",
         "order": 120,
         "pu": "АГТ ПУ Кочетовский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T01100800603"
     },
     {
         "actual_data": "2024-06-13",
         "business_dir": "Тамбов-Север",
         "culture": "Подсолнечник",
         "higher_tm": "TM-03-51-24-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я противозлак. обр. (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-04",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 130,
         "pu": "АГТ ПУ Кочетовский",
-        "status": "Операция не отслеживается"
-    },
-    {
-        "actual_data": null,
-        "business_dir": "Тамбов-Север",
-        "culture": "Подсолнечник",
-        "higher_tm": "TM-03-51-24-0001",
-        "is_actual": "Статус отсутствует",
-        "material_order": "Внесение СЗР Десикация (ГА)",
-        "minimal_date": null,
-        "nzp_zp": "ZP",
-        "order": 260,
-        "pu": "АГТ ПУ Кочетовский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено не в срок",
+        "t_material": "T01100800005"
     },
     {
         "actual_data": "2024-05-12",
@@ -1206,7 +1144,8 @@
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "АГТ ПУ Кочетовский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T01101402101"
     },
     {
         "actual_data": null,
@@ -1219,19 +1158,21 @@
         "nzp_zp": "ZP",
         "order": 90,
         "pu": "АГТ ПУ Кочетовский",
-        "status": "Просрочено"
+        "status": "Просрочено",
+        "t_material": "T01103501001"
     },
     {
         "actual_data": null,
         "business_dir": "Тамбов-Север",
         "culture": "Подсолнечник",
         "higher_tm": "TM-03-51-24-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Ориентировочно",
         "material_order": "Прямое комбайн. с изм. корзинок (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-11-19",
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "АГТ ПУ Кочетовский",
-        "status": "Операция не отслеживается"
+        "status": "Не завершено",
+        "t_material": "T01107901001"
     }
 ]

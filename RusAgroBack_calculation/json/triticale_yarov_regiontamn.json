@@ -6,24 +6,26 @@
         "higher_tm": "TM-04-61-05-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-05-17",
+        "minimal_date": "2024-08-01",
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
         "actual_data": "2024-06-02",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-05-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-27",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 100,
         "pu": "АГТ ПУ Богословский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600101"
     },
     {
         "actual_data": "2024-07-01",
@@ -36,7 +38,8 @@
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T02303504001"
     },
     {
         "actual_data": "2024-04-20",
@@ -49,7 +52,8 @@
         "nzp_zp": "ZP",
         "order": 30,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02301904001"
     },
     {
         "actual_data": "2024-08-13",
@@ -62,46 +66,50 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02307905001"
     },
     {
-        "actual_data": "2024-05-18",
+        "actual_data": "2024-05-10",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-08-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-05-17",
+        "minimal_date": "2024-08-01",
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
-        "actual_data": "2024-05-29",
+        "actual_data": "2024-05-30",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-08-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-17",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 100,
         "pu": "АГТ ПУ Богословский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600101"
     },
     {
-        "actual_data": "2024-04-16",
+        "actual_data": "2024-07-01",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-08-0001",
         "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": "2024-04-16",
+        "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T02303504001"
     },
     {
         "actual_data": "2024-04-14",
@@ -114,10 +122,11 @@
         "nzp_zp": "ZP",
         "order": 30,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02301904001"
     },
     {
-        "actual_data": "2024-08-07",
+        "actual_data": "2024-08-02",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-08-0001",
@@ -127,46 +136,50 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02307905001"
     },
     {
-        "actual_data": "2024-05-10",
+        "actual_data": "2024-05-19",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-12-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-05-17",
+        "minimal_date": "2024-08-01",
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
         "actual_data": "2024-05-30",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-12-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-19",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 100,
         "pu": "АГТ ПУ Богословский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600101"
     },
     {
-        "actual_data": "2024-04-16",
+        "actual_data": "2024-07-01",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-12-0001",
         "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": "2024-04-16",
+        "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T02303504001"
     },
     {
         "actual_data": "2024-04-14",
@@ -179,7 +192,8 @@
         "nzp_zp": "ZP",
         "order": 30,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02301904001"
     },
     {
         "actual_data": "2024-08-09",
@@ -192,7 +206,8 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02307905001"
     },
     {
         "actual_data": "2024-05-19",
@@ -205,33 +220,36 @@
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T02300800602"
     },
     {
         "actual_data": "2024-05-30",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-14-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-19",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 100,
         "pu": "АГТ ПУ Богословский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600101"
     },
     {
-        "actual_data": "2024-07-01",
+        "actual_data": "2024-04-16",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-14-0001",
         "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": "2024-04-16",
+        "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T02303504001"
     },
     {
         "actual_data": "2024-04-14",
@@ -244,10 +262,11 @@
         "nzp_zp": "ZP",
         "order": 30,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02301904001"
     },
     {
-        "actual_data": "2024-08-09",
+        "actual_data": "2024-08-08",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-14-0001",
@@ -257,33 +276,36 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02307905001"
     },
     {
-        "actual_data": "2024-05-10",
+        "actual_data": "2024-06-01",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-15-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-05-17",
+        "minimal_date": "2024-08-01",
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
-        "actual_data": "2024-05-27",
+        "actual_data": null,
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-15-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-07-02",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 110,
         "pu": "АГТ ПУ Богословский",
-        "status": "Операция не отслеживается"
+        "status": "Просрочено",
+        "t_material": "T02300600301"
     },
     {
         "actual_data": "2024-07-01",
@@ -292,11 +314,12 @@
         "higher_tm": "TM-04-61-15-0001",
         "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": "2024-04-16",
+        "minimal_date": "2024-04-15",
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T02303504001"
     },
     {
         "actual_data": "2024-04-14",
@@ -309,59 +332,64 @@
         "nzp_zp": "ZP",
         "order": 30,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02301904001"
     },
     {
-        "actual_data": "2024-08-13",
+        "actual_data": null,
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-15-0001",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
         "minimal_date": "2024-08-25",
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено",
+        "t_material": "T02307905001"
     },
     {
-        "actual_data": "2024-05-10",
+        "actual_data": "2024-05-17",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-16-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-05-17",
+        "minimal_date": "2024-08-01",
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
         "actual_data": "2024-05-29",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-16-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-17",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 100,
         "pu": "АГТ ПУ Богословский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600101"
     },
     {
-        "actual_data": "2024-04-16",
+        "actual_data": "2024-07-01",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-16-0001",
         "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": "2024-04-16",
+        "minimal_date": "2024-04-14",
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T02303504001"
     },
     {
         "actual_data": "2024-04-13",
@@ -374,7 +402,8 @@
         "nzp_zp": "ZP",
         "order": 30,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02301904001"
     },
     {
         "actual_data": "2024-08-13",
@@ -387,36 +416,39 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02307905001"
     },
     {
-        "actual_data": "2024-05-26",
+        "actual_data": null,
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-19-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-05-17",
+        "minimal_date": "2024-08-01",
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено не в срок"
+        "status": "Просрочено",
+        "t_material": "T02300800602"
     },
     {
         "actual_data": "2024-06-01",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-19-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-17",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 100,
         "pu": "АГТ ПУ Богословский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600101"
     },
     {
-        "actual_data": "2024-04-25",
+        "actual_data": "2024-07-01",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-19-0001",
@@ -426,20 +458,22 @@
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T02303504001"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-04-17",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-19-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": "2024-04-22",
         "nzp_zp": "ZP",
         "order": 30,
         "pu": "АГТ ПУ Богословский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок",
+        "t_material": "T02301904001"
     },
     {
         "actual_data": "2024-08-06",
@@ -452,7 +486,8 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02307905001"
     },
     {
         "actual_data": "2024-05-23",
@@ -461,24 +496,26 @@
         "higher_tm": "TM-04-61-20-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-05-17",
+        "minimal_date": "2024-08-01",
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
         "actual_data": "2024-06-01",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-20-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-23",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 100,
         "pu": "АГТ ПУ Богословский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600101"
     },
     {
         "actual_data": "2024-07-01",
@@ -491,7 +528,8 @@
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T02303504001"
     },
     {
         "actual_data": "2024-04-17",
@@ -504,7 +542,8 @@
         "nzp_zp": "ZP",
         "order": 30,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02301904001"
     },
     {
         "actual_data": "2024-08-03",
@@ -517,33 +556,36 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02307905001"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-05-23",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-21-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-05-17",
+        "minimal_date": "2024-08-01",
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "АГТ ПУ Богословский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
         "actual_data": "2024-05-30",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-21-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-23",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 100,
         "pu": "АГТ ПУ Богословский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600101"
     },
     {
         "actual_data": "2024-07-01",
@@ -556,10 +598,11 @@
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T02303504001"
     },
     {
-        "actual_data": "2024-04-10",
+        "actual_data": "2024-04-17",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-21-0001",
@@ -569,7 +612,8 @@
         "nzp_zp": "ZP",
         "order": 30,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02301904001"
     },
     {
         "actual_data": "2024-08-07",
@@ -582,46 +626,50 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02307905001"
     },
     {
-        "actual_data": "2024-05-20",
+        "actual_data": "2024-05-28",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-31-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-05-17",
+        "minimal_date": "2024-08-01",
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
         "actual_data": "2024-06-02",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-31-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-28",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 100,
         "pu": "АГТ ПУ Богословский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600101"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-07-01",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-31-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
         "minimal_date": "2024-04-16",
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "АГТ ПУ Богословский",
-        "status": "Просрочено"
+        "status": "Выполнено не в срок",
+        "t_material": "T02303504001"
     },
     {
         "actual_data": "2024-04-19",
@@ -634,10 +682,11 @@
         "nzp_zp": "ZP",
         "order": 30,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02301904001"
     },
     {
-        "actual_data": "2024-08-10",
+        "actual_data": "2024-08-07",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-31-0001",
@@ -647,33 +696,36 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02307905001"
     },
     {
-        "actual_data": "2024-05-20",
+        "actual_data": "2024-05-27",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-31-0002",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-05-17",
+        "minimal_date": "2024-08-01",
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-06-02",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-31-0002",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-27",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 100,
         "pu": "АГТ ПУ Богословский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600101"
     },
     {
         "actual_data": "2024-07-01",
@@ -686,7 +738,8 @@
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T02303504001"
     },
     {
         "actual_data": "2024-04-18",
@@ -699,10 +752,11 @@
         "nzp_zp": "ZP",
         "order": 30,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02301904001"
     },
     {
-        "actual_data": "2024-08-07",
+        "actual_data": "2024-08-01",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-31-0002",
@@ -712,7 +766,8 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02307905001"
     },
     {
         "actual_data": "2024-05-28",
@@ -721,24 +776,26 @@
         "higher_tm": "TM-04-61-32-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-05-17",
+        "minimal_date": "2024-08-01",
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
-        "actual_data": "2024-05-30",
+        "actual_data": "2024-06-02",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-32-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-28",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 100,
         "pu": "АГТ ПУ Богословский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600101"
     },
     {
         "actual_data": "2024-07-01",
@@ -751,7 +808,8 @@
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T02303504001"
     },
     {
         "actual_data": "2024-04-18",
@@ -764,20 +822,22 @@
         "nzp_zp": "ZP",
         "order": 30,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02301904001"
     },
     {
-        "actual_data": null,
+        "actual_data": "2024-08-15",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-32-0001",
-        "is_actual": "Ориентировочно",
+        "is_actual": "Актуально",
         "material_order": "Прямое комбайн. без перегруз. (ГА)",
-        "minimal_date": "2024-08-25",
+        "minimal_date": "2024-08-27",
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "АГТ ПУ Богословский",
-        "status": "Просрочено"
+        "status": "Выполнено в срок",
+        "t_material": "T02307905001"
     },
     {
         "actual_data": "2024-05-10",
@@ -786,37 +846,40 @@
         "higher_tm": "TM-04-61-49-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-05-17",
+        "minimal_date": "2024-08-01",
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
         "actual_data": "2024-05-27",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-49-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я КАС (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-17",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 110,
         "pu": "АГТ ПУ Богословский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600301"
     },
     {
-        "actual_data": "2024-04-16",
+        "actual_data": "2024-07-01",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-49-0001",
         "is_actual": "Актуально",
         "material_order": "Посев с внесением удобрений (ГА)",
-        "minimal_date": "2024-04-16",
+        "minimal_date": "2024-04-14",
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T02303504001"
     },
     {
         "actual_data": "2024-04-13",
@@ -829,7 +892,8 @@
         "nzp_zp": "ZP",
         "order": 30,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02301904001"
     },
     {
         "actual_data": "2024-07-31",
@@ -842,33 +906,36 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02307905001"
     },
     {
-        "actual_data": "2024-05-10",
+        "actual_data": "2024-05-24",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-51-0001",
         "is_actual": "Актуально",
         "material_order": "Внесение СЗР 1-я баковая смесь (ГА)",
-        "minimal_date": "2024-05-17",
+        "minimal_date": "2024-08-01",
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02300800602"
     },
     {
         "actual_data": "2024-05-30",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-51-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-24",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 100,
         "pu": "АГТ ПУ Богословский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600101"
     },
     {
         "actual_data": "2024-07-01",
@@ -881,20 +948,22 @@
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T02303504001"
     },
     {
-        "actual_data": "2024-04-10",
+        "actual_data": null,
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-51-0001",
-        "is_actual": "Актуально",
+        "is_actual": "Ориентировочно",
         "material_order": "Предпосевная культивация (ГА)",
         "minimal_date": "2024-04-23",
         "nzp_zp": "ZP",
         "order": 30,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено в срок"
+        "status": "Просрочено",
+        "t_material": "T02301904001"
     },
     {
         "actual_data": "2024-08-02",
@@ -907,7 +976,8 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02307905001"
     },
     {
         "actual_data": "2024-05-23",
@@ -920,23 +990,25 @@
         "nzp_zp": "ZP",
         "order": 70,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено не в срок"
+        "status": "Выполнено не в срок",
+        "t_material": "T02300800602"
     },
     {
-        "actual_data": "2024-05-29",
+        "actual_data": "2024-05-30",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-62-0001",
-        "is_actual": "Статус отсутствует",
+        "is_actual": "Актуально",
         "material_order": "Подкормка азотная 1-я (ГА)",
-        "minimal_date": null,
+        "minimal_date": "2024-06-23",
         "nzp_zp": "ZP",
-        "order": null,
+        "order": 100,
         "pu": "АГТ ПУ Богословский",
-        "status": "Операция не отслеживается"
+        "status": "Выполнено в срок",
+        "t_material": "T02300600101"
     },
     {
-        "actual_data": "2024-04-25",
+        "actual_data": null,
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-62-0001",
@@ -946,10 +1018,11 @@
         "nzp_zp": "ZP",
         "order": 40,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено не в срок"
+        "status": "Просрочено",
+        "t_material": "T02303504001"
     },
     {
-        "actual_data": "2024-04-10",
+        "actual_data": "2024-04-21",
         "business_dir": "Тамбов-Север",
         "culture": "Тритикале",
         "higher_tm": "TM-04-61-62-0001",
@@ -959,7 +1032,8 @@
         "nzp_zp": "ZP",
         "order": 30,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02301904001"
     },
     {
         "actual_data": "2024-08-13",
@@ -972,6 +1046,7 @@
         "nzp_zp": "ZP",
         "order": 160,
         "pu": "АГТ ПУ Богословский",
-        "status": "Выполнено в срок"
+        "status": "Выполнено в срок",
+        "t_material": "T02307905001"
     }
 ]

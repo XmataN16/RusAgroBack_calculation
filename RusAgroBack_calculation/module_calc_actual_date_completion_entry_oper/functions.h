@@ -20,7 +20,7 @@ void calc_actual_input_date_completion_entry_oper(initial_data init_data[], uniq
                 field = uniq_pairs[culture][region].higher_tm[record_uniq].value();
                 for (int record_init = 0; record_init < init_data[culture].row_count; record_init++)
                 {
-                    if (uniq_pairs[culture][region].material_order[record_uniq].value() == init_data[culture].operation[record_init].value() and uniq_pairs[culture][region].nzp_zp[record_uniq].value() == init_data[culture].season[record_init].value())
+                    if (uniq_pairs[culture][region].t_material[record_uniq].value() == init_data[culture].t_material[record_init].value() and uniq_pairs[culture][region].nzp_zp[record_uniq].value() == init_data[culture].season[record_init].value())
                     {
 
                         if (!init_data[culture].input_operation[record_init].has_value())
@@ -38,10 +38,10 @@ void calc_actual_input_date_completion_entry_oper(initial_data init_data[], uniq
                             {
                                 if (input_number == init_data[culture].id[el])
                                 {
-                                    current_operation = init_data[culture].operation[el].value();
+                                    current_operation = init_data[culture].t_material[el].value();
                                     for (int i = 0; i < uniq_pairs[culture][region].row_count; i++)
                                     {
-                                        if (uniq_pairs[culture][region].material_order[i] == current_operation and field == uniq_pairs[culture][region].higher_tm[i])
+                                        if (uniq_pairs[culture][region].t_material[i] == current_operation and field == uniq_pairs[culture][region].higher_tm[i])
                                         {
                                             if (uniq_pairs[culture][region].actual_data[i].has_value())
                                             {
@@ -82,7 +82,7 @@ void calc_actual_alternative_date_completion_entry_oper(initial_data init_data[]
                 field = uniq_pairs[culture][region].higher_tm[record_uniq].value();
                 for (int record_init = 0; record_init < init_data[culture].row_count; record_init++)
                 {
-                    if (uniq_pairs[culture][region].material_order[record_uniq].value() == init_data[culture].operation[record_init].value() and uniq_pairs[culture][region].nzp_zp[record_uniq].value() == init_data[culture].season[record_init].value())
+                    if (uniq_pairs[culture][region].t_material[record_uniq].value() == init_data[culture].t_material[record_init].value() and uniq_pairs[culture][region].nzp_zp[record_uniq].value() == init_data[culture].season[record_init].value())
                     {
                         if (!init_data[culture].alternative_input[record_init].has_value())
                         {
@@ -96,10 +96,10 @@ void calc_actual_alternative_date_completion_entry_oper(initial_data init_data[]
                             {
                                 if (alternative_number == init_data[culture].id[el])
                                 {
-                                    current_operation = init_data[culture].operation[el].value();
+                                    current_operation = init_data[culture].t_material[el].value();
                                     for (int i = 0; i < uniq_pairs[culture][region].row_count; i++)
                                     {
-                                        if (uniq_pairs[culture][region].material_order[i] == current_operation and field == uniq_pairs[culture][region].higher_tm[i])
+                                        if (uniq_pairs[culture][region].t_material[i] == current_operation and field == uniq_pairs[culture][region].higher_tm[i])
                                         {
                                             if (uniq_pairs[culture][region].actual_data[i].has_value())
                                             {
@@ -140,7 +140,7 @@ void calc_ten_percent(data data_shbn[CULTURES_COUNT][REGIONS_COUNT], unique_pair
                 count = 0;
                 for (int item = 0; item < data_shbn[culture][region].row_count; item++)
                 {
-                    if (uniq_pairs[culture][region].higher_tm[el].value() == data_shbn[culture][region].higher_tm[item].value() and uniq_pairs[culture][region].material_order[el].value() == data_shbn[culture][region].material_order[item].value() and uniq_pairs[culture][region].nzp_zp[el].value() == data_shbn[culture][region].nzp_zp[item].value())
+                    if (uniq_pairs[culture][region].higher_tm[el].value() == data_shbn[culture][region].higher_tm[item].value() and uniq_pairs[culture][region].t_material[el].value() == data_shbn[culture][region].t_material[item].value() and uniq_pairs[culture][region].nzp_zp[el].value() == data_shbn[culture][region].nzp_zp[item].value())
                     {
                         planned_item_value = data_shbn[culture][region].planned_volume[item].value();
                         count += data_shbn[culture][region].actual_volume[item].value();
