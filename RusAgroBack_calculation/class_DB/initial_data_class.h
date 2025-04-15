@@ -56,6 +56,46 @@ public:
         this->row_count = this->id.size();
     }
 
+    initial_data(soci::rowset<soci::row> data, int year)
+    {
+        for (auto it = data.begin(); it != data.end(); ++it)
+        {
+            const soci::row& r = *it;
+            id.push_back(r.get<long long int>(0));
+            t_material.push_back(r.get_indicator(1) == soci::i_null ? std::optional<std::string>{} : r.get<std::string>(1));
+            season.push_back(r.get_indicator(2) == soci::i_null ? std::optional<std::string>{} : r.get<std::string>(2));
+            operation.push_back(r.get_indicator(3) == soci::i_null ? std::optional<std::string>{} : r.get<std::string>(3));
+            
+            // Работа с int и NULL
+            input_operation.push_back(r.get_indicator(4) == soci::i_null ? std::optional<int>{} : r.get<int>(4));
+            deadline_input.push_back(r.get_indicator(5) == soci::i_null ? std::optional<int>{} : r.get<int>(5));
+            noinput_deadline.push_back(r.get_indicator(13) == soci::i_null ? std::optional<int>{} : r.get<int>(13));
+            alternative_input.push_back(r.get_indicator(14) == soci::i_null ? std::optional<int>{} : r.get<int>(14));
+            alternative_complete.push_back(r.get_indicator(15) == soci::i_null ? std::optional<int>{} : r.get<int>(15));
+            order.push_back(r.get_indicator(16) == soci::i_null ? std::optional<int>{} : r.get<int>(16));
+
+            // Работа с std::tm и NULL
+            regions[0].push_back(r.get_indicator(6) == soci::i_null ? std::optional<std::tm>{} : r.get<std::tm>(6));
+            regions[1].push_back(r.get_indicator(7) == soci::i_null ? std::optional<std::tm>{} : r.get<std::tm>(7));
+            regions[2].push_back(r.get_indicator(8) == soci::i_null ? std::optional<std::tm>{} : r.get<std::tm>(8));
+            regions[3].push_back(r.get_indicator(9) == soci::i_null ? std::optional<std::tm>{} : r.get<std::tm>(9));
+            regions[4].push_back(r.get_indicator(10) == soci::i_null ? std::optional<std::tm>{} : r.get<std::tm>(10));
+            regions[5].push_back(r.get_indicator(11) == soci::i_null ? std::optional<std::tm>{} : r.get<std::tm>(11));
+            regions[6].push_back(r.get_indicator(12) == soci::i_null ? std::optional<std::tm>{} : r.get<std::tm>(12));
+        }
+        this->row_count = this->id.size();
+        for (int i = 0; i < row_count; i++)
+        {
+            if (regions[0][i].has_value()) regions[0][i].value().tm_year = year - 1900;
+            if (regions[1][i].has_value()) regions[1][i].value().tm_year = year - 1900;
+            if (regions[2][i].has_value()) regions[2][i].value().tm_year = year - 1900;
+            if (regions[3][i].has_value()) regions[3][i].value().tm_year = year - 1900;
+            if (regions[4][i].has_value()) regions[4][i].value().tm_year = year - 1900;
+            if (regions[5][i].has_value()) regions[5][i].value().tm_year = year - 1900;
+            if (regions[6][i].has_value()) regions[6][i].value().tm_year = year - 1900;
+        }
+    }
+
     initial_data()
     {
         this->row_count = 0;

@@ -16,6 +16,7 @@ public:
     std::vector<std::optional<float>> actual_volume;
     std::vector<std::optional<std::string>> pu;
     std::vector<std::optional<std::string>> t_material;
+    std::vector<std::optional<std::string>> year;
 
     data(soci::rowset<soci::row> data)
     {
@@ -33,6 +34,7 @@ public:
             actual_volume.push_back(r.get_indicator(8) == soci::i_null ? std::optional<double>{} : r.get<double>(8));
             pu.push_back(r.get_indicator(9) == soci::i_null ? std::optional<std::string>{} : r.get<std::string>(9));
             t_material.push_back(r.get_indicator(10) == soci::i_null ? std::optional<std::string>{} : r.get<std::string>(10));
+            year.push_back(r.get_indicator(11) == soci::i_null ? std::optional<std::string>{} : r.get<std::string>(11));
         }
         this->row_count = this->id.size();
     }
@@ -170,13 +172,13 @@ public:
 };
 
 // Cчитывание таблицы по каждой культуре в массив в PostgreSQL
-void read_table_data(soci::session& sql, data data_shbn[][REGIONS_COUNT])
+void read_table_data(soci::session& sql, data data_shbn[][REGIONS_COUNT], std::string year)
 {
     for (int i = 0; i < CULTURES_COUNT; i++)
     {
         for (int j = 0; j < REGIONS_COUNT; j++)
         {
-            soci::rowset<soci::row> rs = (sql.prepare << "SELECT * FROM platform_shbn_data WHERE culture = '" << CULTURES_RUS[i] << "' and business_dir = '" << REGIONS_RUS[j] << "'");
+            soci::rowset<soci::row> rs = (sql.prepare << "SELECT * FROM platform_shbn_data WHERE culture = '" << CULTURES_RUS[i] << "' and business_dir = '" << REGIONS_RUS[j] << "' and year = '" << year << "' ORDER BY calendar_day ASC");
             data_shbn[i][j] = data(rs);
         }
     }

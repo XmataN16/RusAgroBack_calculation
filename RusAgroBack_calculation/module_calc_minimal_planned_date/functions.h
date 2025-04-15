@@ -9,12 +9,14 @@ std::string tolowercase(const std::string& str)
 }
 
 // Cчитывание таблицы по каждой культуре в массив в PostgreSQL
-void read_table_initial_data(soci::session& sql, initial_data init_data[])
+void read_table_initial_data(soci::session& sql, initial_data init_data[], std::string year_str)
 {
+    int year = std::stoi(year_str);
     for (int i = 0; i < CULTURES_COUNT; i++)
     {
         soci::rowset<soci::row> rs = (sql.prepare << "SELECT * FROM platform_shbn_initial_data_" << CULTURES[i] << " ORDER BY id");
-        init_data[i] = initial_data(rs);
+
+        init_data[i] = initial_data(rs, year);
     }
 }
 
@@ -147,16 +149,17 @@ std::string set_is_actual(std::optional<std::string> status, std::optional<std::
 
 void calc_minimal_date(initial_data init_data[], unique_pairs uniq_pairs[CULTURES_COUNT][REGIONS_COUNT])
 {
+    std::cout << "calc_minimal_date is runned" << std::endl;
     // Генерация локали только один раз перед началом цикла
     boost::locale::generator gen;
     std::locale loc = gen.generate("ru_RU.UTF-8");
 
-    #pragma omp parallel for collapse(2)
+    //#pragma omp parallel for collapse(2)
     for (int culture = 0; culture < CULTURES_COUNT; culture++)
     {
         for (int region = 0; region < REGIONS_COUNT; region++)
         {
-            #pragma omp parallel for 
+            //#pragma omp parallel for 
             for (int i = 0; i < uniq_pairs[culture][region].row_count; i++)
             {
                 for (int j = 0; j < init_data[culture].row_count; j++)
@@ -245,6 +248,43 @@ void print_date(initial_data init_data[])
         for (int region = 0; region < REGIONS_COUNT; region++)
         {
             std::cout << REGIONS[region] << ":" << std::endl;
+            std::cout << "planned date: " << std::endl;
+            for (int row = 0; row < init_data[culture].minimal_date[region].size(); row++)
+            {
+                if (init_data[culture].planned_date[region][row].has_value())
+                {
+                    std::cout << tm_to_str(init_data[culture].planned_date[region][row].value()).value() << " " << init_data[culture].operation[row].value() << "\n";
+                }
+                else
+                {
+                    std::cout << "NULL\n";
+                }
+            }
+            std::cout << "input date: " << std::endl;
+            for (int row = 0; row < init_data[culture].input_date[region].size(); row++)
+            {
+                if (init_data[culture].input_date[region][row].has_value())
+                {
+                    std::cout << tm_to_str(init_data[culture].input_date[region][row].value()).value() << " " << init_data[culture].operation[row].value() << "\n";
+                }
+                else
+                {
+                    std::cout << "NULL\n";
+                }
+            }
+            std::cout << "alternative date: " << std::endl;
+            for (int row = 0; row < init_data[culture].alternative_date[region].size(); row++)
+            {
+                if (init_data[culture].alternative_date[region][row].has_value())
+                {
+                    std::cout << tm_to_str(init_data[culture].alternative_date[region][row].value()).value() << " " << init_data[culture].operation[row].value() << "\n";
+                }
+                else
+                {
+                    std::cout << "NULL\n";
+                }
+            }
+            std::cout << "minimal_date: " << std::endl;
             for (int row = 0; row < init_data[culture].minimal_date[region].size(); row++)
             {
                 if (init_data[culture].minimal_date[region][row].has_value())
@@ -263,6 +303,7 @@ void print_date(initial_data init_data[])
 //Вычисление кратчайших плановых дат
 void calc_minimal_planned_date(soci::session& sql, initial_data init_data[])
 {
+    std::cout << "calc_minimal_planned_date is runned" << std::endl;
     #pragma omp parallel for
     for (int culture = 0; culture < CULTURES_COUNT; culture++)
     {

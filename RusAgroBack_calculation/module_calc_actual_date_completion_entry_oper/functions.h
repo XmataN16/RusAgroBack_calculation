@@ -2,55 +2,69 @@
 #include "class_DB/initial_data_class.h"
 // Функции для вычисления фактических дат завершения операций и вычисления 10%
 
+
+
 //Вычисление фактических дат завершения операции от вводной
 void calc_actual_input_date_completion_entry_oper(initial_data init_data[], unique_pairs uniq_pairs[CULTURES_COUNT][REGIONS_COUNT])
 {
-    std::string field;
+    std::optional<std::string> field;
     int input_number;
     int days;
     std::string current_operation;
 
-    #pragma omp parallel for private(field, input_number, days, current_operation) shared(uniq_pairs, init_data)
+    int count = 0;
+
+    //#pragma omp parallel for private(field, input_number, days, current_operation) shared(uniq_pairs, init_data)
     for (int culture = 0; culture < CULTURES_COUNT; culture++)
     {
         for (int region = 0; region < REGIONS_COUNT; region++)
         {
             for (int record_uniq = 0; record_uniq < uniq_pairs[culture][region].row_count; record_uniq++)
             {
-                field = uniq_pairs[culture][region].higher_tm[record_uniq].value();
+                if (uniq_pairs[culture][region].higher_tm[record_uniq].has_value())
+                {
+                    field = uniq_pairs[culture][region].higher_tm[record_uniq].value();
+                }
+                else
+                {
+                    field = std::nullopt;
+                }
                 for (int record_init = 0; record_init < init_data[culture].row_count; record_init++)
                 {
-                    if (uniq_pairs[culture][region].t_material[record_uniq].value() == init_data[culture].t_material[record_init].value() and uniq_pairs[culture][region].nzp_zp[record_uniq].value() == init_data[culture].season[record_init].value())
+                    if (init_data[culture].t_material[record_init].has_value()) // если t_material в initial_data NULL то пока пропускаем итерацию
                     {
-
-                        if (!init_data[culture].input_operation[record_init].has_value())
+                        if (uniq_pairs[culture][region].t_material[record_uniq].value() == init_data[culture].t_material[record_init].value() and uniq_pairs[culture][region].nzp_zp[record_uniq].value() == init_data[culture].season[record_init].value())
                         {
-                            uniq_pairs[culture][region].actual_input_data[record_uniq] = std::nullopt;
-                        }
-                        else
-                        {
-                            input_number = init_data[culture].input_operation[record_init].value();
-                            if (init_data[culture].deadline_input[record_init].has_value())
+                            count++;
+                            if (!init_data[culture].input_operation[record_init].has_value())
                             {
-                                days = init_data[culture].deadline_input[record_init].value();
+                                uniq_pairs[culture][region].actual_input_data[record_uniq] = std::nullopt;
                             }
-                            for (int el = 0; el < init_data[culture].row_count; el++)
+                            else
                             {
-                                if (input_number == init_data[culture].id[el])
+                                input_number = init_data[culture].input_operation[record_init].value();
+                                if (init_data[culture].deadline_input[record_init].has_value())
                                 {
-                                    current_operation = init_data[culture].t_material[el].value();
-                                    for (int i = 0; i < uniq_pairs[culture][region].row_count; i++)
+                                    days = init_data[culture].deadline_input[record_init].value();
+                                }
+                                for (int el = 0; el < init_data[culture].row_count; el++)
+                                {
+                                    if (input_number == init_data[culture].id[el])
                                     {
-                                        if (uniq_pairs[culture][region].t_material[i] == current_operation and field == uniq_pairs[culture][region].higher_tm[i])
+                                        current_operation = init_data[culture].t_material[el].value();
+                                        for (int i = 0; i < uniq_pairs[culture][region].row_count; i++)
                                         {
-                                            if (uniq_pairs[culture][region].actual_data[i].has_value())
+                                            if (uniq_pairs[culture][region].t_material[i] == current_operation and field == uniq_pairs[culture][region].higher_tm[i])
                                             {
-                                                std::tm temp = uniq_pairs[culture][region].actual_data[i].value();
-                                                uniq_pairs[culture][region].actual_input_data[record_uniq] = add_days(temp, days);
-                                            }
-                                            else
-                                            {
-                                                uniq_pairs[culture][region].actual_input_data[record_uniq] = std::nullopt;
+                                                if (uniq_pairs[culture][region].actual_data[i].has_value())
+                                                {
+                                                    std::tm temp = uniq_pairs[culture][region].actual_data[i].value();
+                                                    uniq_pairs[culture][region].actual_input_data[record_uniq] = add_days(temp, days);
+                                                }
+                                                else
+                                                {
+                                                    uniq_pairs[culture][region].actual_input_data[record_uniq] = std::nullopt;
+                                                }
                                             }
                                         }
                                     }
@@ -58,9 +72,14 @@ void calc_actual_input_date_completion_entry_oper(initial_data init_data[], uniq
                             }
                         }
                     }
+                    else
+                    {
+                        continue;
+                    }
                 }
             }
         }
+        std::cout << count << std::endl;
     }
 }
 
@@ -82,40 +101,47 @@ void calc_actual_alternative_date_completion_entry_oper(initial_data init_data[]
                 field = uniq_pairs[culture][region].higher_tm[record_uniq].value();
                 for (int record_init = 0; record_init < init_data[culture].row_count; record_init++)
                 {
-                    if (uniq_pairs[culture][region].t_material[record_uniq].value() == init_data[culture].t_material[record_init].value() and uniq_pairs[culture][region].nzp_zp[record_uniq].value() == init_data[culture].season[record_init].value())
+                    if (init_data[culture].t_material[record_init].has_value()) // если t_material в initial_data NULL то пока пропускаем итерацию
                     {
-                        if (!init_data[culture].alternative_input[record_init].has_value())
+                        if (uniq_pairs[culture][region].t_material[record_uniq].value() == init_data[culture].t_material[record_init].value() and uniq_pairs[culture][region].nzp_zp[record_uniq].value() == init_data[culture].season[record_init].value())
                         {
-                            uniq_pairs[culture][region].actual_alternative_data[record_uniq] = std::nullopt;
-                        }
-                        else
-                        {
-                            alternative_number = init_data[culture].alternative_input[record_init].value();
-                            days = init_data[culture].alternative_complete[record_init].value();
-                            for (int el = 0; el < init_data[culture].row_count; el++)
+                            if (!init_data[culture].alternative_input[record_init].has_value())
                             {
-                                if (alternative_number == init_data[culture].id[el])
+                                uniq_pairs[culture][region].actual_alternative_data[record_uniq] = std::nullopt;
+                            }
+                            else
+                            {
+                                alternative_number = init_data[culture].alternative_input[record_init].value();
+                                days = init_data[culture].alternative_complete[record_init].value();
+                                for (int el = 0; el < init_data[culture].row_count; el++)
                                 {
-                                    current_operation = init_data[culture].t_material[el].value();
-                                    for (int i = 0; i < uniq_pairs[culture][region].row_count; i++)
+                                    if (alternative_number == init_data[culture].id[el])
                                     {
-                                        if (uniq_pairs[culture][region].t_material[i] == current_operation and field == uniq_pairs[culture][region].higher_tm[i])
+                                        current_operation = init_data[culture].t_material[el].value();
+                                        for (int i = 0; i < uniq_pairs[culture][region].row_count; i++)
                                         {
-                                            if (uniq_pairs[culture][region].actual_data[i].has_value())
+                                            if (uniq_pairs[culture][region].t_material[i] == current_operation and field == uniq_pairs[culture][region].higher_tm[i])
                                             {
-                                                std::tm temp = uniq_pairs[culture][region].actual_data[i].value();
-                                                uniq_pairs[culture][region].actual_alternative_data[record_uniq] = add_days(temp, days);
-                                            }
-                                            else
-                                            {
-                                                uniq_pairs[culture][region].actual_alternative_data[record_uniq] = std::nullopt;
-                                            }
+                                                if (uniq_pairs[culture][region].actual_data[i].has_value())
+                                                {
+                                                    std::tm temp = uniq_pairs[culture][region].actual_data[i].value();
+                                                    uniq_pairs[culture][region].actual_alternative_data[record_uniq] = add_days(temp, days);
+                                                }
+                                                else
+                                                {
+                                                    uniq_pairs[culture][region].actual_alternative_data[record_uniq] = std::nullopt;
+                                                }
 
+                                            }
                                         }
                                     }
                                 }
                             }
                         }
+                    }
+                    else
+                    {
+                        continue;
                     }
                 }
             }
@@ -126,31 +152,41 @@ void calc_actual_alternative_date_completion_entry_oper(initial_data init_data[]
 //Функция для расчета первой даты при которой было выполнено 10% от actual_volume
 void calc_ten_percent(data data_shbn[CULTURES_COUNT][REGIONS_COUNT], unique_pairs uniq_pairs[CULTURES_COUNT][REGIONS_COUNT])
 {
-    const double START_VALUE = 10;
+    const double START_VALUE = 10.0; // Процентное значение (10%)
     double planned_item_value;
     double count = 0;
 
-    #pragma omp parallel for private(count, planned_item_value)
+//#pragma omp parallel for private(count, planned_item_value)
     for (int culture = 0; culture < CULTURES_COUNT; culture++)
     {
         for (int region = 0; region < REGIONS_COUNT; region++)
         {
             for (int el = 0; el < uniq_pairs[culture][region].row_count; el++)
             {
-                count = 0;
-                for (int item = 0; item < data_shbn[culture][region].row_count; item++)
+                count = 0; // Сброс счетчика для новой уникальной пары
+                planned_item_value = 0;
+
+                // Проверяем, что ten_percent еще не установлено
+                if (!uniq_pairs[culture][region].ten_percent[el].has_value())
                 {
-                    if (uniq_pairs[culture][region].higher_tm[el].value() == data_shbn[culture][region].higher_tm[item].value() and uniq_pairs[culture][region].t_material[el].value() == data_shbn[culture][region].t_material[item].value() and uniq_pairs[culture][region].nzp_zp[el].value() == data_shbn[culture][region].nzp_zp[item].value())
+                    for (int item = 0; item < data_shbn[culture][region].row_count; item++)
                     {
-                        planned_item_value = data_shbn[culture][region].planned_volume[item].value();
-                        count += data_shbn[culture][region].actual_volume[item].value();
-                        if (count >= ((planned_item_value / 100.0) * START_VALUE))
+                        // Проверяем совпадение ключевых полей
+                        if (uniq_pairs[culture][region].t_material[el].value() == data_shbn[culture][region].t_material[item].value() &&
+                            uniq_pairs[culture][region].nzp_zp[el].value() == data_shbn[culture][region].nzp_zp[item].value() &&
+                            uniq_pairs[culture][region].pu[el].value() == data_shbn[culture][region].pu[item].value())
                         {
-                            uniq_pairs[culture][region].ten_percent[el] = data_shbn[culture][region].calendar_day[item].value();
-                        }
-                        else
-                        {
-                            uniq_pairs[culture][region].ten_percent[el] = std::nullopt;
+                            planned_item_value += data_shbn[culture][region].planned_volume[item].value();
+                            count += data_shbn[culture][region].actual_volume[item].value();
+
+                            // Проверяем, достигнуто ли 10% от planned_volume
+                            if (count >= ((planned_item_value / 100.0) * START_VALUE))
+                            {
+
+                                // Устанавливаем ten_percent только если оно еще не установлено
+                                uniq_pairs[culture][region].ten_percent[el] = data_shbn[culture][region].calendar_day[item].value();
+                                break; // Прерываем цикл, так как значение установлено
+                            }
                         }
                     }
                 }
@@ -163,6 +199,7 @@ void calc_ten_percent(data data_shbn[CULTURES_COUNT][REGIONS_COUNT], unique_pair
 void summarize(soci::session& sql, initial_data init_data[], data data_shbn[CULTURES_COUNT][REGIONS_COUNT], unique_pairs uniq_pairs[CULTURES_COUNT][REGIONS_COUNT])
 {
     get_unique_higher_tm_material_order(sql, data_shbn, uniq_pairs);
+    set_sawing_date(uniq_pairs);
     calc_actual_input_date_completion_entry_oper(init_data ,uniq_pairs);
     calc_actual_alternative_date_completion_entry_oper(init_data, uniq_pairs);
     calc_ten_percent(data_shbn, uniq_pairs);

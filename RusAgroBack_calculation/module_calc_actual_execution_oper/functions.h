@@ -1,5 +1,6 @@
 #pragma once
 #include "class_DB/data_class.h"
+#include "regex"
 
 //Промежуточный класс для работы с фактическими датами завершения и 10%
 class unique_pairs
@@ -21,11 +22,14 @@ public:
     std::vector<std::optional<std::tm>> actual_alternative_data;
     std::vector<std::optional<std::tm>> ten_percent;
     std::vector<std::optional<std::tm>> minimal_date;
+    std::vector<std::optional<std::tm>> sawing_date;
     std::vector<std::optional<std::string>> status;
     std::vector<std::optional<std::string>> is_actual;
+    std::vector<std::optional<std::string>> year;
 
     unique_pairs(soci::rowset<soci::row> data)
     {
+        this->row_count = 0;
         for (auto it = data.begin(); it != data.end(); ++it)
         {
             const soci::row& r = *it;
@@ -36,18 +40,20 @@ public:
             nzp_zp.push_back(r.get_indicator(4) == soci::i_null ? std::optional<std::string>{} : r.get<std::string>(4));
             pu.push_back(r.get_indicator(5) == soci::i_null ? std::optional<std::string>{} : r.get<std::string>(5));
             t_material.push_back(r.get_indicator(6) == soci::i_null ? std::optional<std::string>{} : r.get<std::string>(6));
+            year.push_back(r.get_indicator(7) == soci::i_null ? std::optional<std::string>{} : r.get<std::string>(7));
             order.push_back(std::nullopt);
             is_completed.push_back(std::nullopt);
             actual_data.push_back(std::nullopt);
             minimal_planned_date.push_back(std::nullopt);
             actual_input_data.push_back(std::nullopt);
             actual_alternative_data.push_back(std::nullopt);
+            sawing_date.push_back(std::nullopt);
             ten_percent.push_back(std::nullopt);
             minimal_date.push_back(std::nullopt);
             status.push_back(std::nullopt);
             is_actual.push_back(std::nullopt);
+            this->row_count++;
         }
-        this->row_count = higher_tm.size();
     }
 
     unique_pairs()
@@ -174,6 +180,16 @@ public:
                 else
                     std::cout << "minimal_date: NULL\n";
 
+                if (sawing_date[i].has_value())
+                {
+                    std::tm tm_date = sawing_date[i].value();
+                    char buffer[80];
+                    strftime(buffer, 80, "%Y-%m-%d", &tm_date);
+                    std::cout << "sawing_date: " << buffer << "\n";
+                }
+                else
+                    std::cout << "sawing_date: NULL\n";
+
                 if (status[i].has_value())
                     std::cout << "status: " << status[i].value() << "\n";
                 else
@@ -294,6 +310,16 @@ public:
         else
             std::cout << "ten_percent: NULL\n";
 
+        if (sawing_date[i].has_value())
+        {
+            std::tm tm_date = sawing_date[i].value();
+            char buffer[80];
+            strftime(buffer, 80, "%Y-%m-%d", &tm_date);
+            std::cout << "sawing_date: " << buffer << "\n";
+        }
+        else
+            std::cout << "sawing_date: NULL\n";
+
         if (minimal_date[i].has_value())
         {
             std::tm tm_date = minimal_date[i].value();
@@ -355,6 +381,14 @@ public:
             else
             {
                 row[u8"minimal_date"] = nullptr;
+            }
+            if (tm_to_str(sawing_date[i]).has_value())
+            {
+                row[u8"sawing_date"] = tm_to_str(sawing_date[i]).value();
+            }
+            else
+            {
+                row[u8"sawing_date"] = nullptr;
             }
             if (status[i].has_value())
             {
@@ -433,6 +467,14 @@ nlohmann::json to_json_all(unique_pairs uniq_pairs[CULTURES_COUNT][REGIONS_COUNT
                 {
                     row[u8"minimal_date"] = nullptr;
                 }
+                if (tm_to_str(uniq_pairs[culture][region].sawing_date[i]).has_value())
+                {
+                    row[u8"sawing_date"] = tm_to_str(uniq_pairs[culture][region].sawing_date[i]).value();
+                }
+                else
+                {
+                    row[u8"sawing_date"] = nullptr;
+                }
                 if (uniq_pairs[culture][region].status[i].has_value())
                 {
                     row[u8"status"] = uniq_pairs[culture][region].status[i].value();
@@ -448,6 +490,14 @@ nlohmann::json to_json_all(unique_pairs uniq_pairs[CULTURES_COUNT][REGIONS_COUNT
                 else
                 {
                     row[u8"is_actual"] = nullptr;
+                }
+                if (uniq_pairs[culture][region].year[i].has_value())
+                {
+                    row[u8"year"] = uniq_pairs[culture][region].year[i].value();
+                }
+                else
+                {
+                    row[u8"year"] = nullptr;
                 }
 
                 j.push_back(row);
@@ -471,19 +521,19 @@ void save_jsons_uniq_pairs(unique_pairs uniq_pairs[CULTURES_COUNT][REGIONS_COUNT
     {
         for (int region = 0; region < REGIONS_COUNT; region++)
         {
-            uniq_pairs[culture][region].to_json_file("json/" + CULTURES[culture] + "_" + REGIONS[region] + ".json");
+            uniq_pairs[culture][region].to_json_file("./json/" + CULTURES[culture] + "_" + REGIONS[region] + ".json");
         }
     }
 }
 
 // Cчитывание таблицы уникальных пар по каждой культуре в массив в PostgreSQL
-void read_table_unique_pairs(soci::session& sql, unique_pairs uniq_pairs[][REGIONS_COUNT])
+void read_table_unique_pairs(soci::session& sql, unique_pairs uniq_pairs[][REGIONS_COUNT], std::string year)
 {
     for (int culture = 0; culture < CULTURES_COUNT; culture++)
     {
         for (int region = 0; region < REGIONS_COUNT; region++)
         {
-            soci::rowset<soci::row> rs = (sql.prepare << "SELECT DISTINCT higher_tm, material_order, culture, business_dir, nzp_zp, pu, t_material FROM platform_shbn_data WHERE culture = '" << CULTURES_RUS[culture] << "' and business_dir = '" << REGIONS_RUS[region] << "'");
+            soci::rowset<soci::row> rs = (sql.prepare << "SELECT DISTINCT higher_tm, material_order, culture, business_dir, nzp_zp, pu, t_material, year FROM platform_shbn_data WHERE culture = '" << CULTURES_RUS[culture] << "' and business_dir = '" << REGIONS_RUS[region] << "' and year = '" << year << "'");
             uniq_pairs[culture][region] = unique_pairs(rs);
         }
     }
@@ -498,6 +548,7 @@ void get_unique_higher_tm_material_order(soci::session& sql, data data_shbn[CULT
         {
             std::vector<std::optional<bool>> temp_is_completed(uniq_pairs[culture][region].row_count);
             std::vector<std::optional<std::tm>> temp_actual_data(uniq_pairs[culture][region].row_count);
+            std::vector<std::optional<std::tm>> temp_sawing_date(uniq_pairs[culture][region].row_count);
 
             //#pragma omp parallel for
             for (int pair = 0; pair < uniq_pairs[culture][region].row_count; pair++)
@@ -538,5 +589,158 @@ void get_unique_higher_tm_material_order(soci::session& sql, data data_shbn[CULT
             uniq_pairs[culture][region].actual_data = std::move(temp_actual_data);
         }
     }
+    
+
+    
 }
 
+void set_sawing_date(unique_pairs uniq_pairs[CULTURES_COUNT][REGIONS_COUNT])
+{
+    #pragma omp parallel for collapse(2)
+    for (int culture = 0; culture < CULTURES_COUNT; culture++)
+    {
+        for (int region = 0; region < REGIONS_COUNT; region++)
+        {
+            auto& pairs = uniq_pairs[culture][region];
+            int row_count = pairs.row_count;
+
+            #pragma omp parallel for
+            for (int pair = 0; pair < row_count; pair++)
+            {
+                bool is_set = false;
+
+                for (int item = 0; item < row_count; item++)
+                {
+                    if (pairs.higher_tm[item] == pairs.higher_tm[pair] &&
+                        pairs.culture[item] == pairs.culture[pair] &&
+                        pairs.pu[item] == pairs.pu[pair])
+                    {
+                        if (pairs.material_order[item] == u8"Посев с внесением удобрений (ГА)" ||
+                            pairs.material_order[item] == u8"Посев без внесения удобрений (ГА)")
+                        {
+                            pairs.sawing_date[pair] = pairs.actual_data[item];
+                            is_set = true;
+                        }
+                        else
+                        {
+                            pairs.sawing_date[pair] = std::nullopt;
+                        }
+                    }
+                    if (is_set)
+                    {
+                        break;
+                    }
+                }
+            }
+        }
+    }
+}
+
+void export_to_platform_shbn(soci::session& sql, unique_pairs combined[CULTURES_COUNT][REGIONS_COUNT])
+{
+    for (int culture_idx = 0; culture_idx < CULTURES_COUNT; ++culture_idx)
+    {
+        for (int region_idx = 0; region_idx < REGIONS_COUNT; ++region_idx)
+        {
+            auto& up = combined[culture_idx][region_idx];
+            for (int row = 0; row < up.row_count; ++row)
+            {
+                // Макрос для автоматизации обработки полей
+#define HANDLE_FIELD(field, type) \
+                    soci::indicator field##_ind = up.field[row] ? soci::i_ok : soci::i_null; \
+                    type field##_val = up.field[row].value_or(type())
+
+                // Обработка всех полей
+                HANDLE_FIELD(higher_tm, std::string);
+                HANDLE_FIELD(material_order, std::string);
+                HANDLE_FIELD(t_material, std::string);
+                HANDLE_FIELD(culture, std::string);
+                HANDLE_FIELD(business_dir, std::string);
+                HANDLE_FIELD(nzp_zp, std::string);
+                HANDLE_FIELD(pu, std::string);
+                HANDLE_FIELD(order, int); // Для числового поля
+                HANDLE_FIELD(status, std::string);
+                HANDLE_FIELD(is_actual, std::string);
+                HANDLE_FIELD(year, std::string);
+
+                // Отдельная обработка дат (преобразование tm в строку)
+                soci::indicator actual_data_ind = up.actual_data[row] ? soci::i_ok : soci::i_null;
+                std::string actual_data_val = up.actual_data[row]
+                    ? tm_to_str(*up.actual_data[row]).value_or("")
+                    : "";
+
+                soci::indicator minimal_date_ind = up.minimal_date[row] ? soci::i_ok : soci::i_null;
+                std::string minimal_date_val = up.minimal_date[row]
+                    ? tm_to_str(*up.minimal_date[row]).value_or("")
+                    : "";
+
+                soci::indicator sawing_date_ind = up.sawing_date[row] ? soci::i_ok : soci::i_null;
+                std::string sawing_date_val = up.sawing_date[row]
+                    ? tm_to_str(*up.sawing_date[row]).value_or("")
+                    : "";
+
+                // Вставка данных через SOCI с параметризованным запросом
+                try {
+                    sql << R"(
+                        INSERT INTO platform_shbn_control_operations 
+                        (
+                            higher_tm, material_order, t_material, culture, business_dir, 
+                            nzp_zp, pu, "order", actual_data, minimal_date, 
+                            sawing_date, status, is_actual, year
+                        )
+                        VALUES (
+                            :higher_tm, :material_order, :t_material, :culture, :business_dir,
+                            :nzp_zp, :pu, :order, :actual_data, :minimal_date,
+                            :sawing_date, :status, :is_actual, :year
+                        )
+                    )",
+                        soci::use(higher_tm_val, higher_tm_ind),
+                        soci::use(material_order_val, material_order_ind),
+                        soci::use(t_material_val, t_material_ind),
+                        soci::use(culture_val, culture_ind),
+                        soci::use(business_dir_val, business_dir_ind),
+                        soci::use(nzp_zp_val, nzp_zp_ind),
+                        soci::use(pu_val, pu_ind),
+                        soci::use(order_val, order_ind),
+                        soci::use(actual_data_val, actual_data_ind),
+                        soci::use(minimal_date_val, minimal_date_ind),
+                        soci::use(sawing_date_val, sawing_date_ind),
+                        soci::use(status_val, status_ind),
+                        soci::use(is_actual_val, is_actual_ind),
+                        soci::use(year_val, year_ind);
+                }
+                catch (const std::exception& e) 
+                {
+                    // Логирование ошибки (добавьте свою реализацию)
+                    std::cerr << "Ошибка вставки данных: " << e.what() << std::endl;
+                }
+            }
+        }
+    }
+}
+
+void truncate_table(soci::session& sql, const std::string& table_name)
+{
+    try
+    {
+        // Проверка имени таблицы на безопасность (защита от SQL-инъекций)
+        if (!std::regex_match(table_name, std::regex("^[a-zA-Z0-9_]+$")))
+        {
+            throw std::runtime_error("Недопустимое имя таблицы: " + table_name);
+        }
+
+        // Формируем безопасные запросы
+        std::string delete_query = "DELETE FROM " + table_name + " WHERE id > 0";
+        std::string truncate_query = "TRUNCATE TABLE " + table_name + " RESTART IDENTITY";
+
+        // Выполняем запросы
+        sql << delete_query;
+        sql << truncate_query;
+    }
+    catch (const std::exception& e)
+    {
+        // Логирование ошибки
+        std::cerr << "Ошибка при очистке таблицы: " << e.what() << std::endl;
+        throw; // Пробрасываем исключение дальше
+    }
+}

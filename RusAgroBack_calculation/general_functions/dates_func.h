@@ -373,3 +373,17 @@ std::optional<std::tm> add_days(const std::optional<std::tm>& tm, int days)
     }
 
 }
+
+std::string getYearAsString(int offset = 0) 
+{
+    auto now = std::chrono::system_clock::now();
+    std::time_t currentTime = std::chrono::system_clock::to_time_t(now);
+    std::tm localTime = *std::localtime(&currentTime);
+
+    // ƒобавл€ем смещение к году (tm_year хранит годы с 1900)
+    localTime.tm_year += offset;
+
+    std::ostringstream oss;
+    oss << std::put_time(&localTime, "%Y");
+    return oss.str();
+}
